@@ -1,0 +1,106 @@
+<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mozu 瞑想とメモ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700&family=Noto+Sans+JP:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#f2f3f6;--surface:#ffffff;--ink:#23252c;--muted:#666a77;--line:#d9dbe2;--indigo:#4a60a0;--coral:#cf5e55;--ok:#2f7d5b;--chip:#e7e9f1;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#16171c;--surface:#1f2027;--ink:#e8e9ee;--muted:#a2a6b3;--line:#33353f;--indigo:#8ea2e0;--coral:#ef8c83;--ok:#6cc59b;--chip:#2a2c35;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#16171c;--surface:#1f2027;--ink:#e8e9ee;--muted:#a2a6b3;--line:#33353f;--indigo:#8ea2e0;--coral:#ef8c83;--ok:#6cc59b;--chip:#2a2c35;color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font:15px/1.75 "Noto Sans JP",system-ui,sans-serif;padding-inline:16px;padding-block:28px 56px}
+.wrap{max-width:1080px;margin:0 auto;display:grid;gap:40px}
+h1,h2{font-family:"Zen Maru Gothic","Noto Sans JP",sans-serif;text-wrap:balance;margin:0;line-height:1.3}
+h1{font-size:clamp(26px,4vw,36px)} h2{font-size:24px;display:flex;align-items:center;gap:12px}
+.lede{color:var(--muted);max-width:68ch;margin:8px 0 0}
+.ver{display:inline-block;font:500 12px/1 "IBM Plex Mono",monospace;padding:5px 9px;border-radius:99px;background:var(--chip);color:var(--muted);margin-left:4px;vertical-align:middle}
+.dot{width:14px;height:14px;border-radius:50%;flex:none}
+section{display:grid;gap:16px}
+.vid{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.vid video{display:block;width:100%;height:auto}
+.labels{display:grid;font:500 12px/1 "IBM Plex Mono",monospace;letter-spacing:.06em;color:var(--muted);padding:10px 0;text-align:center;border-top:1px solid var(--line)}
+.l4{grid-template-columns:repeat(4,1fr)} .l5{grid-template-columns:repeat(5,1fr)}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.fact b{display:block;font:500 20px/1.2 "IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+.fact span{font-size:12.5px;color:var(--muted)}
+p{margin:0;max-width:72ch} ul{margin:0;padding-left:1.2em;max-width:72ch} li+li{margin-top:4px}
+.pill{display:inline-block;font:500 12px/1 "IBM Plex Mono",monospace;padding:5px 9px;border-radius:99px;background:var(--chip);color:var(--ok)}
+.views{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.views figure{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.views figcaption{font:500 12px/1 "IBM Plex Mono",monospace;color:var(--muted);padding:8px 10px}
+.views video{display:block;width:100%;height:auto}
+.assets{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:12px}
+.asset{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px;display:grid;gap:6px;align-content:start}
+.asset h3{margin:0;font:700 16px/1.3 "Zen Maru Gothic",sans-serif}
+.sw{display:flex;gap:4px} .sw i{width:16px;height:16px;border-radius:4px;border:1px solid var(--line)}
+.small{font-size:13px;color:var(--muted)}
+.strip{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden} .strip img{display:block;width:100%;height:auto} .strip figcaption{font-size:12.5px;color:var(--muted);padding:8px 12px}
+code{font:13px "IBM Plex Mono",monospace;background:var(--chip);padding:1px 5px;border-radius:4px}
+@media (max-width:560px){.views{grid-template-columns:1fr} .labels{font-size:9px}}
+details summary{cursor:pointer;color:var(--muted);font-size:13px;padding:4px 0} details .vid{margin-top:8px}
+</style>
+<div class="wrap">
+<header>
+<h1>Mozu 瞑想とメモ <span class="ver">メモ v4 · 2026-09-29</span></h1>
+<p class="lede">AI で生成した参照動画（SSOT）を計測して、chibi Mozu の native 3D rig に当てはめた2つのループです。v3 では腕の rig を作り直しました。腕はどの向きから見てもデフォルトと同じ太さ・長さを保ち、二の腕は体の横に下がって、肘でやわらかく曲がります。瞑想の SSOT は、あなたが選んだ腕のポーズ（V4）から生成し、⑤と⑦を選んでいただきました。</p>
+</header>
+
+<section id="meditate">
+<h2><span class="dot" style="background:var(--indigo)"></span>瞑想</h2>
+<p>座布団に座って目を閉じ、二の腕を体の横に下ろして、手をおなかの左右に添えます。5 秒のあいだに2回、ゆっくり息を吸うたびに首がふっと上がります。しっぽは動かしません。比較動画は左から SSOT ⑤（正面）、SSOT ⑦（斜め）、native の正面・斜め・側面です。</p>
+<div class="vid"><video src="media/meditate-compare.mp4" autoplay muted loop playsinline></video>
+<div class="labels l5"><span>SSOT ⑤</span><span>SSOT ⑦</span><span>正面</span><span>斜め</span><span>側面</span></div></div>
+<div class="facts">
+<div class="fact"><b>0.98</b><span>正面の腕の形の一致度（SSOT ⑤ との重なり、中央値）</span></div>
+<div class="fact"><b>1.2 px</b><span>首の上下の動きの SSOT ⑤ とのずれ（相関 0.996）</span></div>
+<div class="fact"><b>894 / 894</b><span>3方向・全フレームで腕が1本につながって見える <span class="pill">pass</span></span></div>
+<div class="fact"><b>298 / 298</b><span>接地・座布団・横から見た腕の自然さ・ループの継ぎ目 <span class="pill">pass</span></span></div>
+</div>
+</section>
+
+<section id="note">
+<h2><span class="dot" style="background:var(--coral)"></span>メモを取る <span class="pill">v4 · 配置 B</span></h2>
+<p>配置 B にしました。メモ帳は顔の前に持ち上げてページを正面へ向け、ペンを持つ手はメモ帳と胸のあいだから裏側に書きます。書くあいだのペンは SSOT より約 40° 寝かせ、メモ帳の左端から頬の横へ出しています。SSOT と同じ角度だとペンの上端がマズルの中に入ってしまうためです。休む場面では SSOT と同じ角度に戻り、顔を上げてにっこりします。比較動画は左から SSOT、native の正面・斜め・側面です。</p>
+<div class="vid"><video src="media/note-compare.mp4" autoplay muted loop playsinline></video>
+<div class="labels l4"><span>SSOT</span><span>正面</span><span>斜め</span><span>側面</span></div></div>
+<p>動きはフレームごとの当てはめをやめ、パーツの意味から組み立てています。メモ帳は向きを固定して持ち、「書く」「休む」の2つの構えのあいだをなめらかに一方向で移ります。ペンは手に固定し、書く動きは手のゆったりしたストローク（約 1.6 Hz と 0.9 Hz）です。にっこりは SSOT と同じタイミングで一度ほほえんで戻ります。</p>
+<div class="facts">
+<div class="fact"><b>0 回</b><span>小刻みな往復（正面・斜め・側面の全 240 フレームをコマ送りで確認）</span></div>
+<div class="fact"><b>1 / 3〜4 回</b><span>1周での頭 / しっぽの向きの反転（前回 v3 は 11〜13 / 17〜21 回）</span></div>
+<div class="fact"><b>0.043 / 0.007</b><span>ペンと顔 / ペンとメモ帳の最小のすきま（全フレームで接触なし）</span></div>
+<div class="fact"><b>240 / 240</b><span>接地・小物が見える・ループの継ぎ目 0 <span class="pill">pass</span></span></div>
+</div>
+<details><summary>前回（v3）の比較動画</summary><div class="vid"><video src="media/note-v3-compare.mp4" muted loop playsinline controls></video></div></details>
+</section>
+
+<section id="views">
+<h2>単体ループ</h2>
+<div class="views">
+<figure><video src="media/meditate-side.mp4" autoplay muted loop playsinline></video><figcaption>瞑想 · 側面</figcaption></figure>
+<figure><video src="media/note-oblique.mp4" autoplay muted loop playsinline></video><figcaption>メモ · 斜め</figcaption></figure>
+<figure><video src="media/note-side.mp4" autoplay muted loop playsinline></video><figcaption>メモ · 側面</figcaption></figure>
+</div>
+</section>
+
+<section id="assets">
+<h2>新しい腕と小物</h2>
+<figure class="strip"><img src="media/assets.jpg" alt="メモの手元（正面・側面）と瞑想の腕（斜め・側面）"><figcaption>左から：メモの手元（正面・側面）、瞑想の腕（斜め・側面）</figcaption></figure>
+<div class="assets">
+<div class="asset"><h3>腕の rig（ARM216）</h3><p class="small">長さが一定の腕を、肩から手の目標位置まで「二の腕＋やわらかい肘＋前腕」の曲線でつなぎます。初期状態は従来の腕と完全に一致し、歩行など既存の動きは1バイトも変わりません。<code>paw T</code>（手の位置）、<code>swivel</code>（肘の向き）、<code>shoulder sigma</code>（肩の前出し）などで操作します。</p></div>
+<div class="asset"><h3>スパイラルメモ帳</h3><div class="sw"><i style="background:#fcf8ec"></i><i style="background:#c4c6ce"></i></div><p class="small">白い縦長のメモ帳（0.44 × 0.55）、上端に8個のリング。右手の手首の向きに付いて動きます。</p></div>
+<div class="asset"><h3>ノック式ペン</h3><div class="sw"><i style="background:#f4f4f6"></i><i style="background:#3b6fd8"></i><i style="background:#d94a4a"></i></div><p class="small">長さ 0.66。白い軸、青いグリップと長いクリップ、赤いノック。先端から 35% の位置を左手で持ちます。</p></div>
+</div>
+</section>
+
+<section id="notes">
+<h2>補足・ご判断いただきたい点</h2>
+<ul>
+<li>瞑想の呼吸は、SSOT から測れなかったため（⑦は腕でおなかが隠れ、側面の①は上半身ごと揺れて測定が振り切れた）、⑤の首の動きに合わせたタイミングと、前回と同じ控えめな大きさで付けています。⑤には横揺れがほぼなかったので、揺れはほぼ 0 です。</li>
+<li>瞑想で、手と膝が同じ色でつながって見えます（ポーズ自体は ⑤ と同じです）。手をはっきり見せたい場合は、手の位置を少し上げられます。</li>
+<li>メモ（配置 B）を斜め・側面から見ると、書いているあいだはペンがメモ帳の陰に隠れます。裏側から書く配置なので、構造上そうなります。</li>
+<li>メモの書く動きは SSOT より控えめです（横の動きは SSOT の約 15%）。これ以上大きくすると、ペンがメモ帳の縁に刺さります。もっと大きく書かせたい場合は、メモ帳の中心側へ横に動かす形にできます。</li>
+<li>メモ帳を前に出しているため、メモ帳を持つ腕は伸びの上限（1.4 倍）近くになり、側面から見ると長めです。メモ帳を少し体に寄せる（0.76 → 0.70）と自然になりますが、配置 B の見た目が少し変わります。</li>
+<li>メモのしっぽは、採用済みの後ろ向きしっぽ（TAIL111）の範囲で振っているため、正面からはほとんど見えません（SSOT は体の横に大きく振れます）。</li>
+<li>どちらも生成とは別のレビュアーの採点（5項目すべて 4/5、メモ v4 はコマ送りでの揺れ確認も含む）と、描画後の自動検査を通しています。自動検査は、失敗とわかっている描画で不合格になることを確かめてから使いました。</li>
+</ul>
+</section>
+</div>
