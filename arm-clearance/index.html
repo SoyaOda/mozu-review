@@ -1,0 +1,27 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 腕の開き</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C;--ok:#2E7D4F}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84;--ok:#6CC08F}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}b.ok{color:var(--ok)}</style>
+<h1>走り 220：腕を「ぎりぎり」だけ体から離す（PDCA 結果）</h1>
+<div class="card"><h2>結論</h2>
+<p><b class="ok">腕は一定の 11.3° だけ外に開く</b>（左右とも・走りの間ずっと同じ角度）。腕の振りや肘の曲がりは今のままです。</p>
+<ul><li>正面から見て、腕が胴に「重なる／沈む」行き来が消えます。</li>
+<li>場面ごとに角度を変える案（C）も作りましたが、正面から見ると腕と胴のすき間の幅が場面ごとに変わって見え、得るものがありませんでした。一定のほうが自然です。</li>
+<li>別のレビュアー（生成した本人とは別）の採点も PASS で、推奨は一定 11.3° です。14° では後ろに振ったとき少し「羽」っぽく見え始めます。</li>
+<li>真横からの見た目は変わりません。斜めでは手前の腕が少し体から離れるだけです。</li></ul></div>
+<div class="card"><h2>1. 回り込み比較（左：今、右：11.3° 開く）</h2>
+<p>走りをループさせながら、カメラを 正面 → 真横 → 正面 と回しています。</p>
+<video src="tt4.mp4" autoplay loop muted playsinline controls></video>
+<p>さらに遅く：</p><video src="tt4_slow.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. 候補の比較（行：今 / A 11.3° / A2 14° / C 可変、列：走りの7場面）</h2>
+<p>正面：</p><img src="pdca1_az0.png"><p>正面の拡大（3場面）：</p><img src="pdca1_zoom.png">
+<p>斜め 35°：</p><img src="pdca1_az35.png"><p>真横：</p><img src="pdca1_az90.png"></div>
+<div class="card"><h2>3. どうやって「ぎりぎり」を決めたか</h2>
+<p>実際のリグで走りの各場面の腕と胴の位置を測りました。そのうえで「正面から見て、腕が胴の輪郭に掛かる深さが、今の走りで一番きれいな場面を超えない」ことを基準にしています。これを満たす最小の角度を計算しました（許容は約 2 ピクセル）。</p>
+<p>灰色の点は「各場面で必要な最小角度」です。周期の大半で 6〜11° が必要で、必要がほぼ 0 なのは後ろへ振り切った一瞬だけです。場面ごとに変えても（赤線）一定（緑線）とほとんど差がないので、一定を選びました。</p>
+<img src="need.png">
+<p>参考：斜めから見た場面まで同じ基準を課すと、±5° で 17.6°、±10° で 24°、±15° で 31° が必要になります。斜めで手前の腕が体の前を横切るのは普通の立体の見え方なので、正面の基準に絞りました。</p></div>
+<div class="card"><h2>4. 調べた定番</h2>
+<ul><li>腕や脚は体から離して、シルエットで読めるようにする（アニメーションの「シルエットの原則」）。</li>
+<li>腕の横方向の動きは、振りの自然な弧と肩の動きで出す。場面ごとに横開きの角度を別に付けるのは定番ではない。小さな一定の開きが無難（調査のまとめ）。</li>
+<li>ちびキャラの走りは腕振りを大きめに誇張するのが定番（腕の振り幅は今のまま）。</li></ul></div>
