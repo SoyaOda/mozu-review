@@ -1,0 +1,111 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mozu 採用中の歩き</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700&family=Noto+Sans+JP:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#ECEEF1;--surface:#FFFFFF;--ink:#20242A;--muted:#5C6570;--line:#D5DAE0;
+  --nose:#C0414C;--cream:#F3E3C6;--cream-ink:#5A4526;--good:#2F7A57;--warn:#9A6414;--bad:#B23A3A;
+  --display:"Zen Maru Gothic","Hiragino Maru Gothic ProN","Noto Sans JP",system-ui,sans-serif;
+  --body:"Noto Sans JP","Hiragino Sans",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  color-scheme:dark;--bg:#15181B;--surface:#1E2226;--ink:#E6E9EC;--muted:#9AA3AD;--line:#323840;
+  --nose:#E36A73;--cream:#3A3226;--cream-ink:#F0DDB8;--good:#6CC49A;--warn:#E0A94F;--bad:#E07474;}}
+:root[data-theme="dark"]{
+  color-scheme:dark;--bg:#15181B;--surface:#1E2226;--ink:#E6E9EC;--muted:#9AA3AD;--line:#323840;
+  --nose:#E36A73;--cream:#3A3226;--cream-ink:#F0DDB8;--good:#6CC49A;--warn:#E0A94F;--bad:#E07474;}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.7 var(--body);padding-inline:16px;padding-block:28px 64px}
+.wrap{max-width:1180px;margin:0 auto;display:grid;gap:44px}
+h1,h2{font-family:var(--display);font-weight:700;text-wrap:balance;margin:0}
+h1{font-size:clamp(28px,4.4vw,44px);letter-spacing:.01em;line-height:1.25}
+h2{font-size:22px}
+p{margin:0;max-width:66ch;color:var(--muted)}
+.eyebrow{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+header{display:grid;gap:14px}
+.status{display:flex;flex-wrap:wrap;gap:8px}
+.pill{font:500 12.5px/1 var(--body);padding:7px 11px;border-radius:999px;border:1px solid var(--line);background:var(--surface)}
+.pill.ok{color:var(--good);border-color:color-mix(in srgb,var(--good) 45%,var(--line))}
+.pill.wait{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 45%,var(--line))}
+section{display:grid;gap:16px}
+.stage{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.stage video,.stage img{display:block;width:100%;height:auto;max-width:100%;background:#fff}
+.labels{display:grid;grid-template-columns:repeat(3,1fr);font:500 13px/1.3 var(--body);color:#2A2F35;background:#F6F7F8;border-top:1px solid #E3E6EA}
+.labels span{padding:9px 12px}
+.labels span b{color:var(--nose);font-weight:700}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface)}
+.seg button{font:500 14px/1 var(--body);color:var(--ink);background:none;border:0;padding:9px 14px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.seg button:focus-visible{outline:2px solid var(--nose);outline-offset:-2px}
+.ctl-label{font-size:13px;color:var(--muted);margin-right:2px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;display:grid;gap:4px}
+.fact dt{font-size:13px;color:var(--muted)}
+.fact dd{margin:0;font:500 22px/1.2 var(--mono);font-variant-numeric:tabular-nums}
+.fact dd small{font:400 13px/1.4 var(--body);color:var(--muted);display:block;margin-top:4px}
+.rounds{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.rounds li{display:grid;grid-template-columns:72px 1fr;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.rounds .n{font:500 13px/1.3 var(--mono);color:var(--muted)}
+.verdict{font:700 13px/1 var(--body);display:inline-block;padding:5px 9px;border-radius:6px;margin-bottom:6px}
+.v-fail{background:color-mix(in srgb,var(--bad) 16%,transparent);color:var(--bad)}
+.v-mid{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+.v-pass{background:color-mix(in srgb,var(--good) 16%,transparent);color:var(--good)}
+.rounds p{color:var(--ink);max-width:none}
+.tablebox{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:560px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:9px 14px;border-bottom:1px solid var(--line);font-size:14px}
+th{font-weight:500;color:var(--muted);font-size:13px}
+td.num{font-family:var(--mono)}
+tr:last-child td{border-bottom:0}
+tr.pick td{background:var(--cream);color:var(--cream-ink)}
+.tag{font:700 11px/1 var(--body);padding:3px 6px;border-radius:4px;background:var(--nose);color:#fff;margin-left:6px;vertical-align:1px}
+.tag.off{background:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+figure{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+figure video{display:block;width:100%;max-width:100%;aspect-ratio:1;background:#fff}
+figcaption{padding:9px 12px;font-size:13px;display:flex;justify-content:space-between;gap:8px}
+figcaption code{font:500 12.5px/1.4 var(--mono)}
+.note{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--nose);border-radius:10px;padding:14px 16px;display:grid;gap:6px}
+.note p{color:var(--ink);max-width:none}
+ul.plain{margin:0;padding-left:1.2em;color:var(--ink);display:grid;gap:4px}
+@media (max-width:640px){.labels{font-size:11.5px}.labels span{padding:7px 8px}.rounds li{grid-template-columns:1fr;gap:4px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+@media(max-width:860px){.cards{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:grid;grid-template-rows:auto 1fr}
+.card video{display:block;width:100%;aspect-ratio:1;background:#fff}
+.card.new{border-color:var(--nose);box-shadow:0 0 0 1px var(--nose)}
+.meta{padding:12px 14px 14px;display:grid;gap:6px}
+.meta h3{margin:0;font:700 18px/1.3 var(--display);display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.ver{font:500 12.5px/1 var(--mono);color:var(--muted)}
+.meta p{font-size:13.5px;max-width:none}
+.meta dl{margin:4px 0 0;display:grid;grid-template-columns:auto 1fr;gap:2px 12px;font-size:13px}
+.meta dt{color:var(--muted)}.meta dd{margin:0;font-family:var(--mono);font-variant-numeric:tabular-nums}
+.prev{display:grid;grid-template-columns:minmax(0,280px) 1fr;gap:16px;align-items:start}
+@media(max-width:640px){.prev{grid-template-columns:1fr}}
+.prev video{display:block;width:100%;aspect-ratio:1;background:#fff;border:1px solid var(--line);border-radius:12px}
+.seg button.act{font-weight:700}
+</style>
+<div class="wrap"><header><div class="eyebrow">Mozu · 採用中の移動モーション · 2026-09-27</div><h1>いま採用している歩き</h1>
+<p>そろり歩き・歩き・走りの 3 つを、同じカメラ・同じ描画で並べました。どれも 3D リグ（Blender）の描画です。視点を切り替えると 3 つ同時に変わります。</p>
+<div class="status"><span class="pill ok">walk 1.1.0（219）を確定</span><span class="pill ok">3 つとも検証 PASS</span></div></header>
+<section><div class="controls"><span class="ctl-label">視点</span><div class="seg" role="group" aria-label="視点"><button type="button" data-view="side" aria-pressed="true">真横</button><button type="button" data-view="oblique" aria-pressed="false">斜め</button><button type="button" data-view="front" aria-pressed="false">正面</button></div>
+<span class="ctl-label" style="margin-left:10px">速度</span><div class="seg" role="group" aria-label="再生速度"><button type="button" data-rate="1" aria-pressed="true">1×</button><button type="button" data-rate="0.5" aria-pressed="false">0.5×</button><button type="button" data-rate="0.25" aria-pressed="false">0.25×</button></div>
+<div class="seg"><button type="button" id="sync">頭からそろえて再生</button></div></div>
+<div class="cards"><article class="card "><video data-m="sneak" src="media/sneak-side.mp4" autoplay muted loop playsinline></video>
+<div class="meta"><h3>そろり歩き</h3><div class="ver">sneak 1.0.0</div><p>足音を立てずに近づく静かな歩き。</p><dl><dt>1周期</dt><dd>1.03 秒（62コマ）</dd><dt>リグ</dt><dd>Locomotion211 · Mode 0</dd><dt>採用日</dt><dd>2026-09-25</dd></dl></div></article><article class="card new"><video data-m="walk" src="media/walk-side.mp4" autoplay muted loop playsinline></video>
+<div class="meta"><h3>ぴょんぴょん歩き<span class="tag">今回採用</span></h3><div class="ver">walk 1.1.0</div><p>一歩ごとに軽く弾む歩き。選んでいただいた G の指示文で、真横から生成し直した動画にフィットしたもの。</p><dl><dt>1周期</dt><dd>0.97 秒（58コマ）</dd><dt>リグ</dt><dd>Locomotion219 · Mode 2</dd><dt>採用日</dt><dd>2026-09-27</dd></dl></div></article><article class="card "><video data-m="run" src="media/run-side.mp4" autoplay muted loop playsinline></video>
+<div class="meta"><h3>走り</h3><div class="ver">run 1.0.0</div><p>小さな歩幅で弾む、コンパクトな走り。</p><dl><dt>1周期</dt><dd>1.17 秒（70コマ）</dd><dt>リグ</dt><dd>Locomotion210 · Mode 2</dd><dt>採用日</dt><dd>2026-09-25</dd></dl></div></article></div>
+<p>それぞれ 1 周期ずつ繰り返しています。周期が違うので、しばらく再生すると足の運びのタイミングがずれていきます。</p></section>
+<section><h2>置き換えた歩き</h2><div class="prev"><video data-m="walk-prev" src="media/walk-prev-side.mp4" autoplay muted loop playsinline></video>
+<div class="note"><p><b>walk 1.0.0（211）</b>は、今回の 1.1.0 に置き換えました。腕の振りが大きく、足首がカクカクすると指摘のあった版です。ファイルは消さずに残してあり、必要ならいつでも戻せます。</p></div></div></section>
+<section><h2>使い方</h2><div class="note"><ul class="plain"><li>現在の版は <code>python3 scripts/mozu_asset.py resolve --motion walk</code>（sneak / run も同様）で取得できます。</li><li>Blender では <code>append_scene(motion="walk")</code> で読み込むと、Mode とフレーム範囲まで自動で設定されます。</li><li>ジャンプ（jump 2.0.0）は変更していません。</li><li>歩き・走りの切り替えはモードの選択式で、切り替え時のつなぎの動きはまだありません。</li></ul></div></section></div>
+<script>(function(){const vids=[...document.querySelectorAll('video[data-m]')];function pr(g,b){g.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
+let rate=1,view='side';
+document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{pr(b.parentElement,b);view=b.dataset.view;vids.forEach(v=>{v.src='media/'+v.dataset.m+'-'+view+'.mp4';v.addEventListener('loadeddata',()=>{v.playbackRate=rate;v.play().catch(()=>{});},{once:true});v.load();});}));
+document.querySelectorAll('[data-rate]').forEach(b=>b.addEventListener('click',()=>{pr(b.parentElement,b);rate=Number(b.dataset.rate);vids.forEach(v=>{v.playbackRate=rate;});}));
+document.getElementById('sync').addEventListener('click',()=>{vids.forEach(v=>{v.currentTime=0;v.play().catch(()=>{});});});})();</script>
