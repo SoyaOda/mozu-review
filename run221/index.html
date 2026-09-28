@@ -1,0 +1,31 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 走り 221</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C;--ok:#2E7D4F}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84;--ok:#6CC08F}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}b.ok{color:var(--ok)}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+<h1>走り 221：根本から作り直した走り（比較）</h1>
+<div class="card"><h2>結論</h2>
+<p><b class="ok">新しい走り 221c</b>を候補として出します。</p>
+<ul><li>作り方を根本から変えました。生成動画を1コマずつなぞるのをやめ、「着地 → 沈み → 足の回収 → 蹴り出し → 空中」という走りの節目をキャラクターに合わせて設計しています。動画は歩調・弾みの大きさ・滞空の割合の「目安」として使いました。</li>
+<li>空中では、両足をたたんだまま体と一緒に浮きます。空中で足が浮く高さと頭の上下の比は 1.25 で、元動画の 1.1 に近づきました（今の Run220 は 0.95）。頭の上下の大きさは、元動画とほぼ同じです。</li>
+<li>尻尾は体と一緒に、少し遅れて自然に揺れます。今までは、高さを保つ補正で水平に固定されていました。</li>
+<li>腕は、決めていただいた D のまま 11.3° 開いています。</li>
+<li>分離レビュアーの判定は PASS です。今の Run220 より確かに良くなっていますが、差は控えめで、主に空中の数コマに出ています。</li></ul></div>
+<div class="card"><h2>1. 動画（行：正面 / 斜め / 横、列：今 / 新 221c / 221c＋体の潰れ3%）</h2>
+<video src="own60.mp4" autoplay loop muted playsinline controls></video>
+<p>1/4 速度：</p><video src="own15.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. 空中の最高点（左：今、右：新）</h2><img src="apex_compare.png">
+<p>新しい走りは、両足を体の下にたたんで浮きます（小さく弾む走り）。今の走りは、脚を前後に大きく開いて浮きます（勢いは出るが、脚が伸びる）。</p></div>
+<div class="card"><h2>3. 新 221c の主要ポーズ（着地 / 沈み / 足の回収 / 蹴り出し / 空中）</h2><img src="poses_221c.png">
+<p>参考：選んでいただいた元動画 C の1周期</p><img src="C_reference.png"></div>
+<div class="card"><h2>4. 決めてほしいこと</h2><ol>
+<li><b>走りの印象：</b>新 221c（コンパクトに弾む）と今の Run220（脚を大きく開く）のどちらが好みですか。</li>
+<li><b>勢い：</b>元動画 C は、もう少し歩幅が大きく、腕の振りも大きいです。新 221c に、歩幅と腕振りを少し足しますか。</li>
+<li><b>体の潰れ：</b>着地で体を 3% 潰す版（右の列）も作りました。形としては見えず、頭の上下が大きくなるだけなので、入れないことをおすすめします。</li>
+<li>斜めから見ると、蹴り上げた足が尻尾の付け根に重なって見える瞬間があります。元動画 C も同じ見せ方で、立体としては接触していません（判定で 0 件）。このままでよいですか。</li></ol>
+<p>気に入った場合は「確定」とお伝えください。走り 1.1.0 として登録します。</p></div>
+<div class="card"><h2>5. どうやって作り直したか（要約）</h2>
+<table><tr><th>段階</th><th>内容</th></tr>
+<tr><td>レビュー</td><td>GPT-6 Astra（最大の思考量）に、元動画・作り方・設計を丸ごとレビューさせました。判定は「改善の余地が明確」。</td></tr>
+<tr><td>設計</td><td>Fable と GPT-6 Astra に、互いの答えを見せずに独立して設計させました。「動画をなぞるのをやめ、着地のタイミングに合わせて走りを設計する」で一致しています。</td></tr>
+<tr><td>検査</td><td>見た目が悪いのに合格してしまう検査を洗い出し、平均値ではなく一番悪いフレームで判定するようにしました。頭の位置、着地の順序、足のたたみ、足と尻尾のめり込みなども加えています。検査の修正は毎回、別のモデル（GPT）にレビューさせました。</td></tr>
+<tr><td>PDCA</td><td>1周目は、揺れが接地中の沈みに回ってしまい不合格。2周目は、足を床基準で描いていたため効果なし（検査で自動停止）。3周目で、空中の足を体からのたたみ量で設計し直して合格しました。</td></tr></table></div>
