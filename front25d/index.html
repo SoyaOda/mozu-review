@@ -1,0 +1,24 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 2.5D 正面</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}a{color:var(--acc)}h2{margin-top:0}</style>
+<h1>走り 220：正面付近の腕・お腹の見え方（2.5D 設計の試作）</h1>
+<div class="card"><h2>1. 回り込み比較（左：今の 3D、右：2.5D 押し出し）</h2>
+<p>走りをループさせながら（1/2 速度）、カメラを 正面 → 真横 → 正面 と回しています。</p>
+<video src="tt.mp4" autoplay loop muted playsinline controls></video>
+<p>さらに遅く（1/6 速度）：</p><video src="tt_slow.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. お腹と太ももの比較（上：今の 3D、下：押し出し）</h2>
+<p>角度は左から 0° / 0° / 5° / 17° / 25° / 35° / 43° です。今の 3D では太ももがお腹の楕円の下側を削っています。押し出し側では楕円が最後まで残り、腕の付け根は胴の後ろに回ります。</p>
+<img src="belly_compare.png"></div>
+<div class="card"><h2>3. やり方</h2>
+<p>パーツごとに「重なりの段」を決めます。頭と胴（お腹を含む）が 2、腕・太もも・足が 1、しっぽが 0 です。正面付近では、段の低いパーツを<b>カメラの視線に沿って奥へずらし</b>ます。視線方向にずらすだけなので、画面上の形とポーズは 1 ピクセルも変わりません。変わるのは前後の重なり順だけです。</p>
+<p>ずらす量は、見る角度に応じてなめらかに減らします（正面から 15° までは全量、50° 以上はゼロ）。真横や斜め 50° 以上から見た絵は、今の 3D とまったく同じです。途中の角度で急に切り替わる瞬間はありません。</p>
+<p>モデル・リグ・動きの合わせ込みは一切変えていません。ずらしはカメラに応じた変形として、描画の直前に掛けます。</p><p>検証：50° 以上の 79 フレームは今の 3D と画素単位で完全一致しました。隣り合うフレーム間の変化量の最大は 4.33% で、今の 3D（4.34%）と同じです。角度を回しても、切り替わりのポップは起きていません。</p></div>
+<div class="card"><h2>4. 比較：前後の順番を固定する合成（採用しない）</h2>
+<p>上段が今の 3D、下段が「胴を常に手前に描く」固定の合成です。正面ではうまく見えますが、30〜45° あたりで手前の腕まで胴の裏に消えてしまいます。角度に応じて連続に変わらないため、採用しません。</p>
+<img src="binary_sweep.png"></div>
+<div class="card"><h2>5. 決めてほしいこと</h2><ol>
+<li>正面での腕：今のように胴の後ろで振る（付け根が隠れる 2D 流）でよいか。別案は、正面付近でだけ腕の振りを少し外側に開く補正です。</li>
+<li>切り替わりの角度帯：15°〜50°（今の試作）か 30°〜70° か。前者では斜め 35° の見た目が少し 2D 寄りになります。</li>
+<li>背中側から見たとき：普通の 3D のまま（推奨）でよいか。</li>
+<li>角度帯の途中で「腕が胴に入っていく」見え方が気になる場合は、肩に小さな付け根キャップを付ける案があります。</li></ol></div>
