@@ -3,6 +3,16 @@
 body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
 video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}a{color:var(--acc)}h2{margin-top:0}</style>
 <h1>走り 220：正面付近の腕・お腹の見え方（2.5D 設計の試作）</h1>
+<div class="card" style="border:2px solid var(--acc)"><h2>追加：走るとき腕を体から離して振る案（2026-09-28）</h2>
+<p>左から「今の 3D」「腕を 25° 外に広げて振る」「広げる＋お腹の 2.5D 押し出し」です。カメラは 正面 → 真横 → 正面 と回しています。</p>
+<video src="tt3.mp4" autoplay loop muted playsinline controls></video>
+<p>さらに遅く：</p><video src="tt3_slow.mp4" loop muted playsinline controls></video>
+<p>広げる角度の比較です（行：0° / 15° / 25° / 35°、列：走りの4場面）。正面・斜め 35°・真横の順に並べています。</p>
+<img src="abduct_az0.png"><img src="abduct_az35.png"><img src="abduct_az90.png">
+<p>見えたこと：</p><ul>
+<li>25° 以上広げると、正面では腕が常に胴の外側に出ます。そのため「重なったり埋まったり」の行き来がなくなります。15° では、振った瞬間にまだ付け根が胴に掛かります。35° は少し「飛行機」っぽく見えます。</li>
+<li>これは普通の 3D の動きなので、どの角度から見ても自然に連続します。真横の見た目の変化は小さく、25° でキャラ画素の 3〜5% です。元動画 C は腕を胴の近くで振っているので、そこからは少し離れます。</li>
+<li>お腹の下側が太ももで欠ける問題は、腕では直りません。これは右の列の 2.5D 押し出し（お腹が太ももより手前）で直ります。</li></ul></div>
 <div class="card"><h2>1. 回り込み比較（左：今の 3D、右：2.5D 押し出し）</h2>
 <p>走りをループさせながら（1/2 速度）、カメラを 正面 → 真横 → 正面 と回しています。</p>
 <video src="tt.mp4" autoplay loop muted playsinline controls></video>
