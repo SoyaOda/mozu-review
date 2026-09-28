@@ -76,30 +76,30 @@ ul.plain{margin:0;padding-left:1.2em;color:var(--ink);display:grid;gap:4px}
 @media (max-width:640px){.labels{font-size:11.5px}.labels span{padding:7px 8px}.rounds li{grid-template-columns:1fr;gap:4px}}
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
 .two{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}@media(max-width:760px){.two{grid-template-columns:1fr}}.two video{aspect-ratio:1}.two{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}@media(max-width:760px){.two{grid-template-columns:1fr}}.two video{aspect-ratio:1}</style>
-<div class="wrap"><header><div class="eyebrow">Mozu · run220 · 2026-09-27</div><h1>可愛い走り — C を 3D に</h1>
-<p>選んでいただいた C（斜め・その場で走る）の走りを 3D リグに当てはめました。斜めの動画では足が重なって隠れるため、同じ指示文で真横から生成し直した動画（t2）で足・体・腕を測り、見え方は C と比べて確かめています。腕や足に後付けの倍率はかけていません。</p>
-<div class="status"><span class="pill ok">独立採点 3回目で合格</span><span class="pill ok">足の滑り・尻尾と足の位置 全コマ検査合格</span><span class="pill wait">確定は Owner 判断待ち</span></div></header>
+<div class="wrap"><header><div class="eyebrow">Mozu · run220 · 2026-09-28</div><h1>可愛い走り — 確定前の最終版</h1>
+<p>選んでいただいた C（斜め・その場で走る）の走りを 3D にしたものです。足と体は同じ指示文で真横から生成した動画（t2）から、見え方は C と比べて合わせています。「前屈みに見える」「腕の付け根が後ろ」というご指摘と、その後の比較レビューで見つかった違いを直した版です。</p>
+<div class="status"><span class="pill ok">自動検査 合格（頭の高さ 元動画と平均 1px）</span><span class="pill ok">腕は D（いまの腕のまま）でご決定</span><span class="pill wait">走り 1.1.0 として確定するか Owner 判断待ち</span></div></header>
 <section><h2>選んでいただいた C と 3D（斜め）</h2><div class="two">
 <figure><video src="media/C.mp4" autoplay muted loop playsinline controls></video><figcaption><span><b class="tag">C</b> 選んでいただいた動画</span></figcaption></figure>
 <figure><video class="rate" src="media/n220-oblique.mp4" autoplay muted loop playsinline controls></video><figcaption><span><b>3D · 斜め</b></span></figcaption></figure></div></section>
-<section><h2>フィットに使った真横の動画と 3D を並べて再生</h2>
+<section><h2>真横の元動画と 3D を並べて再生</h2>
 <div class="controls"><span class="ctl-label">速度</span><div class="seg" role="group" aria-label="再生速度"><button type="button" data-rate="1" aria-pressed="true">1×</button><button type="button" data-rate="0.5" aria-pressed="false">0.5×</button><button type="button" data-rate="0.25" aria-pressed="false">0.25×</button></div></div>
 <div class="stage"><video class="rate" src="media/source-vs-rig.mp4" autoplay muted loop playsinline controls></video>
 <div class="labels"><span><b>元動画 t2</b>（C と同じ指示・真横）</span><span>3D・真横（60fps）</span><span>3D・斜め（60fps）</span></div></div>
-<dl class="facts"><div class="fact"><dt>着地のしかた</dt><dd>片足ずつ<small>両足が同時に着く瞬間なし（スキップの特徴が消えた）</small></dd></div><div class="fact"><dt>両足が浮いている時間</dt><dd>48%<small>元動画 約 43%</small></dd></div><div class="fact"><dt>弾み（頭の上下 ÷ 身長）</dt><dd>6.2%<small>元動画 6.2%、前の走り 12%</small></dd></div><div class="fact"><dt>一歩の長さ</dt><dd>0.35 秒<small>前の走りは 0.58 秒</small></dd></div><div class="fact"><dt>腕の振り</dt><dd>130°<small>肘の曲げ 58〜129° が周期で変化</small></dd></div></dl></section>
+<dl class="facts"><div class="fact"><dt>着地のしかた</dt><dd>片足ずつ<small>スキップの特徴（両足同時の接地）なし</small></dd></div><div class="fact"><dt>頭の高さ・頷き</dt><dd>1px / 0.1°<small>元動画との平均差（前屈みの原因だった沈み込みを解消）</small></dd></div><div class="fact"><dt>後ろ足の蹴り上げ</dt><dd>80°<small>元動画はほぼ垂直。以前は 50°</small></dd></div><div class="fact"><dt>腕の振り</dt><dd>130°<small>肘の曲げ 58〜129° が周期で変化</small></dd></div></dl></section>
 <section><h2>前の走り（run 1.0.0）と比べる</h2>
 <div class="controls"><span class="ctl-label">視点</span><div class="seg" role="group" aria-label="視点"><button type="button" data-view="side" aria-pressed="true">真横</button><button type="button" data-view="oblique" aria-pressed="false">斜め</button><button type="button" data-view="front" aria-pressed="false">正面</button></div></div>
 <div class="stage"><video id="runs" class="rate" src="media/runs-side.mp4" autoplay muted loop playsinline controls></video>
 <div class="labels" style="grid-template-columns:repeat(2,1fr)"><span>前の走り · run 1.0.0（スキップ気味）</span><span><b>今回の走り · 220</b></span></div></div></section>
-<section><h2>採点と直したところ</h2><ol class="rounds">
-<li><span class="n">1回目</span><div><span class="verdict v-mid">条件付き合格</span><p>走りとして読める（片足ずつ着地）。ただ腕が肘のない棒で 146° も振れていた。→ 元動画の腕の形に重ねて、肩の角度と肘の曲げを一緒に当てはめる方式に変更。</p></div></li>
-<li><span class="n">2回目</span><div><span class="verdict v-mid">条件付き合格</span><p>腕は解決。体の上下動を元動画どおりにした分、尻尾が空中で足より下がった。→ 尻尾の形（採用済みデザイン）は変えず、付け根だけを最小限（+13°）上げ、元動画と同じだけ足より上に保つ。全コマの検査を追加。</p></div></li>
-<li><span class="n">3回目</span><div><span class="verdict v-pass">合格</span><p>全項目 4/5。足・体・腕は 2 回目から変化なし、尻尾だけ改善。</p></div></li></ol></section>
-<section><h2>確認していただきたいこと</h2><div class="note"><p>この走りでよければ、run 1.1.0 として確定します（run 1.0.0 は残します）。気になる点があれば教えてください。</p><ul class="plain">
-<li>空中での足の上がり方は C より控えめです（C の約 7 割）。後付けで強めることはできますが、歩き 217 で不自然になった方法なので、まず見ていただいてからにします。</li>
-<li>後ろ足の蹴り上げは C より弱めです（足首の角度が上限に達しています。上限を広げると足首の動きが速くなり、以前ご指摘の「カクカク」に近づきます）。</li>
-<li>斜めから見ると、奥の腕が前に水平に出るコマがあります（奥の腕は隠れていて測れないため、手前の腕の半周期ずらしで動かしています）。</li>
-<li>尻尾は採用済みの弧の形のままで、生成動画のまっすぐな尻尾より低めに見えます。</li></ul></div></section></div>
+<section><h2>直したところ</h2><ol class="rounds">
+<li><span class="n">腕</span><div><p>肘のない棒の腕（146° の大振り）→ 元動画の腕の形に重ねて、肩の角度と肘の曲げを一緒に当てはめ（130°）。斜めから胸の前へ寄せる案はご判断で見送り。</p></div></li>
+<li><span class="n">前屈み</span><div><p>体の高さを耳の先で合わせていたため全体が 17px 沈んでいた → 頭の中心で合わせ、元動画どおりの頭の頷きと 2〜3° の上体の前傾を追加。</p></div></li>
+<li><span class="n">後ろ足</span><div><p>足首の返りが 50° で止まっていた → 足の向き（長い軸の角度）で当てはめ、80° まで返るように。</p></div></li>
+<li><span class="n">尻尾</span><div><p>形は採用済みのまま、足より下がらないよう付け根を調整し、体の上下動への連動で揺れを抑えた。</p></div></li></ol></section>
+<section><h2>確認していただきたいこと</h2><div class="note"><p>この走りでよければ、走り 1.1.0 として確定します（run 1.0.0 は残します）。</p><ul class="plain">
+<li>奥の脚の蹴り上げは尻尾の陰に一部隠れます（3D では自然とご判断済み）。</li>
+<li>空中での足の上がり方は C より控えめです（C の約 7 割）。</li>
+<li>尻尾は採用済みの弧の形のままで、生成動画のまっすぐな尻尾より少し低めです。</li></ul></div></section></div>
 <script>(function(){function pr(g,b){g.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));}
 document.querySelectorAll('[data-rate]').forEach(b=>b.addEventListener('click',()=>{pr(b.parentElement,b);document.querySelectorAll('video.rate').forEach(v=>{v.playbackRate=Number(b.dataset.rate);});}));
 const g=document.getElementById('runs');document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{pr(b.parentElement,b);const r=g.playbackRate;g.src='media/runs-'+b.dataset.view+'.mp4';g.addEventListener('loadeddata',()=>{g.playbackRate=r;g.play().catch(()=>{});},{once:true});g.load();}));})();</script>
