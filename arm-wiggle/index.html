@@ -1,0 +1,23 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 腕のクネクネ</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+<h1>正面から見た腕の「クネクネ」：原因の分析</h1>
+<div class="card"><h2>結論</h2><ul>
+<li><b>原因：</b>腕は、正面から見て外側に 29° 傾いて垂れています。それを、体の左右方向の軸を中心に前後へ振っています。前に振った腕は縦方向だけが縮み、横への張り出しは残るので、正面からは腕が外へ倒れて見えます。実際の描画で測ると、腕の傾きは 25° → 84° → 25° と大きく振れ、前に来た瞬間には真横に突き出します。</li>
+<li><b>腕の曲がりは主因ではありません。</b>曲がりを固定しても揺れは減らず、かえって増えます（計算上 41° → 56°）。</li>
+<li><b>正解の形（正面から見た元動画）：</b>前に振った腕は肘で曲がり、手がお腹の前・体の中心寄りに来ます。後ろに振った腕は体の横に垂れたままです。今のリグは、これと逆の方向（外側）に腕が出ています。</li></ul></div>
+<div class="card"><h2>1. 今のリグ（新 221c）の正面、1周期</h2><img src="ours_front.png"></div>
+<div class="card"><h2>2. 生成した正面＋斜めの元動画（2本）</h2>
+<video src="p-run-c-t2.mp4" autoplay loop muted playsinline controls></video>
+<p>正面の1秒分（元動画 C と同じ指示）：</p><img src="gen_front_c.png">
+<video src="p-run-armsbent-t1.mp4" loop muted playsinline controls></video>
+<p>正面の1秒分（「肘を曲げて胸の高さで振る」と指示）：</p><img src="gen_front_bent.png">
+<p>注意：生成動画の足裏には、キャラクターの設定にないピンクの肉球が描かれています。形や色ではなく、動きの参考としてだけ見てください。</p></div>
+<div class="card"><h2>3. 要因を1つずつ外した計算（正面から見た腕）</h2>
+<table><tr><th>条件</th><th>傾きの振れ幅</th><th>見かけの長さの変化</th></tr>
+<tr><td>今のリグ（体の左右方向の軸で振る＋開き 11.3°）</td><td>41°</td><td>31%</td></tr>
+<tr><td>腕の曲がりを一定に固定</td><td>56°</td><td>37%</td></tr>
+<tr><td>まっすぐな腕、開きなし（振るだけ）</td><td>53°</td><td>54%</td></tr>
+<tr><td>腕が垂れている面に沿って振る</td><td>11°</td><td>60%（手前に向いて短く潰れる）</td></tr></table>
+<p>斜めに垂れた腕を前後に振る限り、正面からは「傾きの揺れ」か「短く潰れる」のどちらかが出ます。元動画は、肘を曲げて手を体の前・中心寄りに持ってくることで、これを避けています。</p></div>
