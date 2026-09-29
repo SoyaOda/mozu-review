@@ -1,0 +1,25 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 走り 戦略比較</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+<h1>走り：2つの作り方の比較（A 今の方法 ／ B 骨リグ）</h1>
+<div class="card"><h2>要点</h2><ul>
+<li><b>A（今の方法）</b>：自作の変形処理とドライバー 1,261 本で動かしています。候補は 221d42（腕に肘あり）です。</li>
+<li><b>B（骨リグの試作）</b>：骨 34 本・脚の IK・足の転がりを使い、キーフレームで作った走りのアニメーション 1 本です。数値は A と同じ設計値を使い、手でキーを打ちました。</li>
+<li>見た目はかなり近くなりました。B は Blender の標準機能だけで作ったので、手で直せます。glTF に書き出しても再生できました（iOS 向けには、一部の色を焼き込む作業が必要です）。</li>
+<li>設計の判定は、Fable と GPT-6 Astra の 2 人とも「動きの仕組みは骨リグに移すべき。形の仕組みと検査・レビューの流れは残す」でした。</li></ul></div>
+<div class="card"><h2>1. 動画（左：B 骨リグ、右：A 今の方法、行：正面 / 斜め / 横）</h2>
+<video src="ab60.mp4" autoplay loop muted playsinline controls></video><p>1/4 速度：</p><video src="ab15.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. コマ並べ（上：B、下：A）</h2><img src="sheet-front.png"><img src="sheet-oblique.png"><img src="sheet-side.png"></div>
+<div class="card"><h2>3. 違いと課題</h2>
+<table><tr><th></th><th>A 今の方法（221d42）</th><th>B 骨リグ</th></tr>
+<tr><td>作り方</td><td>自作の変形処理 37 個・ドライバー 1,261 本。キーフレームは 0</td><td>骨 34 本・IK・キーフレーム。Blender の標準機能だけ</td></tr>
+<tr><td>手で直せるか</td><td>設計値を変えて作り直す</td><td>タイムライン・グラフで直接直せる</td></tr>
+<tr><td>足の滑り</td><td>検査で合格</td><td>ほぼ 0（0.03px）</td></tr>
+<tr><td>空中の足の高さ</td><td>0.199</td><td>0.173（少し低い）</td></tr>
+<tr><td>書き出し（iOS）</td><td>不可（毎フレーム形を作り直すため）</td><td>glTF で再生を確認（一部の色は焼き込みが必要）</td></tr>
+<tr><td>残る課題</td><td>後ろに垂らした手が腰に少し沈む（221d42a で改善中）</td><td>前に振った腿がお腹の下側を隠す／腿の外側が少しはみ出す／尻尾がまっすぐに見える／検査はまだ未適用</td></tr></table>
+<img src="final-lowerbody-zoom.png"></div>
+<div class="card"><h2>4. 決めてほしいこと</h2><ol>
+<li>今後の動き（走り以外も含む）を B（骨リグ）で作っていく方向でよいですか。</li>
+<li>3D の動きの使い道を確認させてください。アプリ本体（billie）の決定では「リアルタイム表示は 2D のまま、3D は見本作り用」です。一方、この開発側の決定（9/25）は「動画とリアルタイムの両方」になっています。骨リグにする判断はどちらでも正しいですが、書き出し先が変わります。</li></ol></div>
