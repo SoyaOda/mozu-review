@@ -1,0 +1,37 @@
+<!doctype html>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>もぐもぐ口と閉じ目</title>
+<style>
+:root{--bg:#ECEEF1;--fg:#20242A;--muted:#5B6270;--card:#fff;--accent:#C0414C}
+body{font:16px/1.7 "Hiragino Sans",system-ui,sans-serif;max-width:1100px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+h1{font-size:1.5rem;margin:0 0 4px}h2{font-size:1.15rem;margin:28px 0 8px}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0;box-shadow:0 1px 3px #0001}
+img{width:100%;border-radius:8px;display:block}
+.muted{color:var(--muted);font-size:.9rem}
+li{margin:4px 0}
+a{color:var(--accent)}
+</style>
+<p><a href="../">← 一覧</a></p>
+<h1>おにぎりを食べる顔：もぐもぐ口と閉じ目のデザイン案</h1>
+<p class="muted">2026-09-30。デザイン：GPT-6 Astra（口も目もすべて数式の曲線で作図）。まだ画像だけで、リグ・モーションには入れていません。</p>
+
+<h2>通しのイメージ（おすすめ：口 案A ＋ 目「シャッター」）</h2>
+<div class="card"><p class="muted">構え（目は開いたまま）→ かじる瞬間（目が閉じかけ）→ 噛む（すぼむ／中／開く、目は閉じたまま）</p><img src="media/sheet-combined.jpg" alt="通し"></div>
+
+<h2>口のデザイン 4案</h2>
+<div class="card"><p class="muted">1段目が SSOT（元動画）。横線の端は括弧の曲線の上にぴったり乗せ、線の太さは一定、端は丸めてあります。</p><img src="media/sheet-mouth.jpg" alt="口4案"><ul>
+<li><b>案 A（おすすめ）</b>：SSOT に忠実な左右非対称の )~( 。すぼむ時は左の括弧が大きく、開くにつれて右が伸びます。</li>
+<li><b>案 B</b>：左右対称で落ち着いた印象。</li>
+<li><b>案 C</b>：括弧が丸く波が強めの、柔らかい表情。</li>
+<li><b>案 D</b>：小ぶりで鼻に近い、控えめな噛み方。</li></ul></div>
+<div class="card"><p class="muted">噛むあいだの途中の形（すぼむ⇔開く の補間。実機ではこの補間で動きます）</p><img src="media/sheet-mouth-blends.jpg" alt="途中の形"></div>
+
+<h2>目を閉じる仕組み 2方式</h2>
+<div class="card"><p class="muted">開き具合 0 → 1。上の段が「シャッター」（まぶたが上から先に下りる、おすすめ）、下の段が「ワープ」（目の形ごと押しつぶす）。どちらも最後は同じ弧の線になります。</p><img src="media/sheet-eyes.jpg" alt="目の閉じ方"></div>
+<div class="card"><p class="muted">4倍拡大（左右の目、途中の形がすべて角のない1つの形になっていることの確認）</p><img src="media/sheet-eye-detail.jpg" alt="目の拡大"></div>
+
+<h2>決めていただきたいこと</h2>
+<div class="card"><ol>
+<li>口は A / B / C / D のどれにしますか（おすすめ A）。</li>
+<li>目の閉じ方は「シャッター」と「ワープ」のどちらにしますか（おすすめ シャッター）。</li>
+<li>目を閉じる区間：かじる瞬間に閉じ始め、噛んでいるあいだは閉じたまま、飲み込んで次の構えで開く、でよいですか。</li>
+</ol></div>
