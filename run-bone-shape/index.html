@@ -1,0 +1,29 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 走り 戦略比較</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+<h1>骨リグ用に下半身を作り直した版（見た目は変えずに）</h1>
+<p>2026-09-30。いただいた「骨を入れるなら、見た目をあまり変えずにリグの形を作り直す必要があるのでは。GPT-6 にやらせるとよい」への回答です。<b>結論：可能です。</b>設計・実装は GPT-6 Astra、検証は Claude の検証役、最終判定は私の目で行いました。</p>
+<div class="card"><h2>要点</h2><ul>
+<li><b>見た目</b>：静止姿勢は元の見た目とほぼ完全に一致しました（輪郭の一致度 0.9999、下半身だけでも 0.9997 以上、お腹の模様の縁のずれ 1 画素）。</li>
+<li><b>作り方</b>
+ <ul><li>胴・腿・脚を 1 枚のつながった表面にし、股・膝・足首に曲げ用の面の区切りを入れました。</li>
+ <li>その内側に、股関節を丸い胴の中に隠した脚の骨（腿 0.31 ＋ すね 0.31）を仕込みました。</li>
+ <li>どの動きでも、体を下げずに足が届きます。</li></ul></li>
+<li><b>動き</b>：足の位置の軌道は A（今の方法）のもの、足首の回り方は K2 で直した運び方です。
+ <ul><li>接地中はかかと → 足裏 → つま先と床の上で転がり、滑りも浮きもしません。</li>
+ <li>接地中は 6 コマ平らに保ち、蹴りは 1 回だけです。</li></ul></li>
+<li><b>わかったこと</b>：Mozu は脚がほとんど見えない体型なので、足を体から大きく離すと、股に「膜」が出ます。そのため足は体の下で小さく動かす必要があります（ちびキャラの定石で、A もそうしていました）。</li></ul></div>
+<div class="card"><h2>1. 動画（左：A 今の方法、右：骨リグの新しい下半身、行：正面・斜め・横）</h2>
+<video src="ab60.mp4" autoplay loop muted playsinline controls></video><p>1/4 速度：</p><video src="ab15.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. 脚を開くコマの比較（列：A ／ 途中版 S2 ／ 今回 S3、行：16・21・24・26.5 コマ目）</h2>
+<img src="spread-oblique.png"><img src="spread-front.png"><img src="spread-side.png"></div>
+<div class="card"><h2>3. 全 42 コマ（下半身、今回の版）</h2><img src="all42-oblique.png"><img src="all42-front.png"><img src="all42-side.png"></div>
+<div class="card"><h2>4. 残っている点（検証役と私の目で確認済み）</h2><ul>
+<li><b>股まわりの小さな乱れ</b>：脚を開くコマの一部（斜め・横の 21 コマ目など）で、股のあたりに A より少し多く灰色が出たり、後ろ足の付け根に小さな切れ込みが出たりします。</li>
+<li><b>足のリグ操作</b>：足の転がりは計算で正しく作っていますが、リグの「かかと・つま先」の操作つまみとはまだ連動していません。アニメーターが手で足を編集できるようにするには、ここの作り直しが必要です。</li>
+<li><b>iOS 向けの書き出し</b>：股の縁をなめらかにする処理は、書き出し時に形として焼き込む必要があります（未対応）。</li>
+<li><b>尻尾の色</b>：走りの版（A も含む）で、尻尾が古い茶色のままです。正式の配色（腕と同じ濃い灰色）に直す必要があります。</li>
+<li><b>足の運び</b>：今回は A の足の軌道を使っています。K2 で作った「アニメーターのキーポーズ」は、この体型に合わせて足を体の下に収める形で組み直すのが次の段階です。</li></ul></div>
+<div class="card"><h2>5. 見ていただきたいこと</h2><ol>
+<li>この「骨リグ＋作り直した下半身」の見た目と動きで、今後の方向として問題ないでしょうか。</li>
+<li>気になるコマや見え方があれば教えてください。</li></ol></div>
