@@ -1,0 +1,47 @@
+<!doctype html>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>もぐもぐ口とまばたき比較</title>
+<style>
+:root{--bg:#ECEEF1;--fg:#20242A;--muted:#5B6270;--card:#fff;--accent:#C0414C}
+body{font:16px/1.7 "Hiragino Sans",system-ui,sans-serif;max-width:1100px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+h1{font-size:1.5rem;margin:0 0 4px}h2{font-size:1.15rem;margin:28px 0 8px}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0;box-shadow:0 1px 3px #0001}
+video,img{width:100%;border-radius:8px;display:block}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.muted{color:var(--muted);font-size:.9rem}
+.bar{position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
+button{font:inherit;padding:4px 12px;margin-right:6px;border-radius:8px;border:1px solid #bbb;background:#fff;cursor:pointer}
+a{color:var(--accent)} li{margin:4px 0}
+</style>
+<p><a href="../">← 一覧</a></p>
+<h1>おにぎりを食べる顔：口 D ×「まばたき」全パターン（実機・動き）</h1>
+<p class="muted">2026-09-30。実機（Blender）で食事1回分（近づく → かじる → 噛む）を撮影。30fps、正面と斜め。まばたきは約0.1秒と速いので、スロー再生で見てください。</p>
+<div class="bar"><button onclick="allv(1)">1x</button><button onclick="allv(0.5)">0.5x</button><button onclick="allv(0.25)">0.25x</button><button onclick="sync()">頭から同時再生</button></div>
+<div id="clips"></div>
+
+<h2>まばたきの形（開き具合 0 → 1、正面／斜め）</h2>
+<div class="card"><img src="media/lid-sheet.jpg" alt="lid sheet"><p class="muted">上から：元動画どおり（食事の元動画）／「2回まばたき」から／「味わって閉じる」から</p></div>
+
+<h2>それぞれの手本と、こちらの再現</h2>
+<div class="card"><p class="muted">食事の元動画（左）→ こちら（右）</p><img src="media/S-vs.jpg" alt="S"></div>
+<div class="card"><p class="muted">「2回まばたき」元動画 → こちら</p><img src="media/N1-vs.jpg" alt="N1"></div>
+<div class="card"><p class="muted">「味わって閉じる」元動画 → こちら</p><img src="media/N2-vs.jpg" alt="N2"></div>
+
+<h2>今回生成した「まばたき専用」の元動画（3本、正面｜斜め）</h2>
+<div class="card"><p class="muted">① 2回まばたき（実際は素早いまばたきが3回）</p><video src="media/ssot-blink-twice.mp4" controls loop playsinline muted></video></div>
+<div class="card"><p class="muted">② 味わって閉じる（ゆっくり閉じて約2.5秒閉じたまま。顔も少し動く）</p><video src="media/ssot-savor-close.mp4" controls loop playsinline muted></video></div>
+<div class="card"><p class="muted">③ まばたき→味わう</p><video src="media/ssot-blink-then-savor.mp4" controls loop playsinline muted></video></div>
+
+<h2>決めていただきたいこと</h2>
+<div class="card"><ol>
+<li>口：C1（D すぼむ↔開く）と C2（D 中↔開く）のどちらにしますか。</li>
+<li>まばたき：C1（食事の元動画どおり）／C3（シャッター）／C4（ワープ）／C5（2回まばたき由来）／C6（味わって閉じる由来）のどれにしますか。</li>
+<li>目を閉じるタイミング（かじる約0.23秒前に閉じ終わり、噛むあいだ閉じたまま、噛み終わりで開く）でよいですか。</li>
+</ol></div>
+<script>
+const C=[['C0','今の実機（目は閉じない）'],['C1','口 D すぼむ↔開く ＋ 元動画どおりのまばたき'],['C2','口 D 中↔開く ＋ 元動画どおりのまばたき'],['C3','口 D すぼむ↔開く ＋ シャッター'],['C4','口 D すぼむ↔開く ＋ ワープ'],['C5','口 D すぼむ↔開く ＋「2回まばたき」由来'],['C6','口 D すぼむ↔開く ＋「味わって閉じる」由来']];
+const root=document.getElementById('clips');
+for(const [id,label] of C){const d=document.createElement('div');d.className='card';d.innerHTML=`<p><b>${id}</b> ${label}</p><div class="grid"><video src="media/${id}-front.mp4" loop playsinline muted autoplay></video><video src="media/${id}-oblique.mp4" loop playsinline muted autoplay></video></div>`;root.appendChild(d);}
+function vids(){return [...document.querySelectorAll('#clips video')];}
+function allv(r){vids().forEach(v=>v.playbackRate=r);}
+function sync(){const vs=vids();vs.forEach(v=>{v.pause();v.currentTime=0;});Promise.all(vs.map(v=>v.play()));}
+</script>
