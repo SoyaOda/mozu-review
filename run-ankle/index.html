@@ -1,0 +1,26 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 走り 足首の修正</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+<h1>走り：足首のカタつきを直した版（221f、今の方法 A）</h1>
+<p>2026-10-01。「足首がカタカタして落ち着かない」へのご指摘に対して、今の方法（A）の走りの足首の動きだけを直しました。足の位置・体・腕・尻尾・頭は 221d42 とまったく同じです。処理はすべて Windows 機で行っています。</p>
+<div class="card"><h2>要点</h2>
+<table><tr><th></th><th>221d42（前の版）</th><th>221f（今回）</th></tr>
+<tr><td>接地中に足を平らに保つ時間</td><td>1.5 コマ</td><td>7 コマ</td></tr>
+<tr><td>着地してから足が落ち着くまで</td><td>3.25 コマ</td><td>1 コマ</td></tr>
+<tr><td>着地の足の角度</td><td>つま先を 12° 上げる</td><td>ほぼ平ら（1.5°）</td></tr>
+<tr><td>足首の回転の速さ（最大）</td><td>1 コマ 8.8°</td><td>1 コマ 8.4°（基準内）</td></tr>
+<tr><td>後ろへの振り上げ</td><td>78°</td><td>48°（控えめ）</td></tr>
+<tr><td>足の滑り・床へのめり込み</td><td>ほぼ 0</td><td>ほぼ 0（同じ）</td></tr></table>
+<p>接地中も回り続けていた足が、床にしっかり落ち着くようになりました。</p></div>
+<div class="card"><h2>1. 動画（左：221d42、右：221f、行：正面・斜め・横）</h2>
+<video src="ab60.mp4" autoplay loop muted playsinline controls></video><p>1/4 速度（足首の違いはこちらが見やすいです）：</p><video src="ab15.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. 全 42 コマ（下半身、各コマ 左：221d42 ／ 右：221f）</h2><img src="lower-side.png"><img src="lower-oblique.png"></div>
+<div class="card"><h2>3. 残っている点</h2><ul>
+<li><b>後ろ足と尻尾</b>：蹴り上げた後ろ足が、18〜21 コマ目・39〜41 コマ目で 3D 上は尻尾に少しめり込んでいます。横から見ると「足が尻尾の手前にある」見え方です（下の画像。各ペア 左：221d42 ／ 右：221f）。振り上げを 70° ほどまで時間をかけて上げれば当たらなくなることは確認済みです。直すかどうかは見た目で判断したいので、気になる場合は教えてください。</li>
+<li><b>腕</b>：手の見え方・腰への沈みの 2 項目は 221d42 から続く既知の項目です（画面上の見え方で判定する方式への切り替えをご相談中）。</li></ul>
+<img src="tail-frames.png"></div>
+<div class="card"><h2>4. 見ていただきたいこと</h2><ol>
+<li>足首のカタつきは収まって見えますか。</li>
+<li>後ろへの振り上げ（78° → 48°）は、控えめになった今の方が好みですか。前の高い方が好みですか。</li>
+<li>後ろ足と尻尾の重なりは気になりますか。</li></ol></div>
