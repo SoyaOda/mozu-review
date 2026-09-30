@@ -1,0 +1,41 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>おすわり＋おにぎり</title>
+<style>
+:root{--bg:#ECEEF1;--fg:#20242A;--muted:#5B6270;--card:#fff;--accent:#C0414C}
+body{font:16px/1.7 "Hiragino Sans",system-ui,sans-serif;max-width:980px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+h1{font-size:1.5rem;margin:0 0 4px}h2{font-size:1.15rem;margin:28px 0 8px}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0;box-shadow:0 1px 3px #0001}
+video,img{width:100%;border-radius:8px;display:block}
+.muted{color:var(--muted);font-size:.9rem}
+li{margin:4px 0}
+a{color:var(--accent)}
+</style>
+<p><a href="../">← 一覧</a></p>
+<h1>おすわり → おにぎりを食べる（3口）</h1>
+<p class="muted">SE212 / native d95f4bd1291f / 2026-09-30。左から：元動画（SSOT）｜実機 横｜斜め｜正面。</p>
+
+<div class="card"><video src="media/siteat.mp4" controls loop playsinline muted></video></div>
+
+<h2>今回直したこと</h2>
+<div class="card"><ul>
+<li><b>噛む間は頭が動かず、口元（マズル）だけでもぐもぐ</b>（元動画と同じ）。</li>
+<li><b>小刻みな揺れを根本から解消</b>：動きのキーを元動画の意味のある区切りにだけ置き、各パーツが理由のあるときだけ1本の弧で動くように作り直しました（揺れ検出ゲート 0件）。</li>
+<li><b>2・3口目も口に届く</b>：1口目は頂点、2口目は左の縁、3口目は右の縁をかじります。かじる前に手首でおにぎりを回し（片手を上げ、片手を下げる）、小さくなったおにぎりには少し深く身を乗り出します。おにぎりの向きは両手の位置から決まるので、手から離れません。</li>
+<li><b>かじり跡</b>はあごがパクッと閉じた瞬間につきます。</li>
+</ul></div>
+
+<h2>顔のアップ（左2列：元動画、右2列：実機）</h2>
+<div class="card"><video src="media/face.mp4" controls loop playsinline muted></video></div>
+
+<h2>各口の噛む瞬間</h2>
+<div class="card"><p class="muted">1口目（上：正面アップ／中：斜めアップ／下：斜め全身）</p><img src="media/03_bite1.jpg" alt="1口目"></div>
+<div class="card"><p class="muted">2口目（手首で回した左の縁をかじる）</p><img src="media/05_bite2.jpg" alt="2口目"></div>
+<div class="card"><p class="muted">3口目（右の縁をかじる）</p><img src="media/06_bite3.jpg" alt="3口目"></div>
+
+<h2>確認していただきたい点（未確定）</h2>
+<div class="card"><ol>
+<li><b>おにぎりの出方</b>：手が閉じた瞬間に2フレームで現れます（元動画に持ち上げる場面がないため）。気になるなら「手元から持ち上げる」動きを追加できます。<br><img src="media/02_pickup.jpg" alt="持ち替え"></li>
+<li><b>ほっぺのふくらみ</b>：今は持続 +5.8%（元動画の目安 7〜10%）。もう少し膨らませるかどうか。</li>
+<li><b>1口目の接近時</b>：おにぎりの頂点が開いた口の中へ 0.028 入ります（社内ゲート 0.02 を少し超過）。見た目は「かじる」動きとして読めるため、そのままにしています。</li>
+<li>前かがみ（元動画は食べる間ずっと前傾）とシッポの動きは、別の土台（chores214）との統合時に対応予定です。</li>
+</ol></div>
+<p class="muted">レビュー：自分の目で全場面を確認＋GPT-6 レビュアー ACCEPT（軽微な指摘1件＝上記1）。</p>
