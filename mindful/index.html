@@ -82,19 +82,24 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;padding:4px 0} 
 </section>
 
 <section id="note-2d">
-<h2><span class="dot" style="background:var(--coral)"></span>メモを取る <span class="pill">2D 版 · 新提案</span></h2>
-<p>3D リグを使わず、SSOT 動画をそのまま正面の 2D アニメーションにしました。背景を透明に抜き、色を正式な配色（耳・手足・しっぽ＝濃いグレー、お腹＝ベージュ）に置き換えています。顔・ペン・メモ帳の色と動きは SSOT のままです。4 秒・24fps のループで、最後から最初へのつなぎ目も自然です。左が暗い背景、右が明るい背景の上に置いた確認用です。</p>
+<h2><span class="dot" style="background:var(--coral)"></span>メモを取る <span class="pill">2D 版 · しっぽの先を追加</span></h2>
+<p>3D リグを使わず、SSOT 動画をそのまま正面の 2D アニメーションにしたものです。背景を透明に抜き、色を正式な配色（耳・手足・しっぽ＝濃いグレー、お腹＝ベージュ）に置き換えています。今回、<b>しっぽの先に正式デザインのクリーム色のギザギザ（3 つの山）</b>を描き足しました。形は Chibi の正式デザインと同じで、クリーム部分はしっぽの長さの約 4 割です。しっぽが揺れたり曲がったりしても、ギザギザはしっぽに沿ってついていきます。顔・ペン・メモ帳の色と動きは SSOT のままです。4 秒・24fps のループです。</p>
 <div class="views" style="grid-template-columns:repeat(2,1fr)">
-<figure><video src="media/note2d-dark.mp4" autoplay muted loop playsinline></video><figcaption>暗い背景</figcaption></figure>
-<figure><video src="media/note2d-light.mp4" autoplay muted loop playsinline></video><figcaption>明るい背景</figcaption></figure>
+<figure><video src="media/note2d-tip-dark.mp4" autoplay muted loop playsinline></video><figcaption>暗い背景</figcaption></figure>
+<figure><video src="media/note2d-tip-light.mp4" autoplay muted loop playsinline></video><figcaption>明るい背景</figcaption></figure>
 </div>
-<figure class="strip" style="background:repeating-conic-gradient(#ccc 0% 25%, #fff 0% 50%) 50% / 24px 24px"><video src="media/note2d.webm" autoplay muted loop playsinline style="display:block;width:100%;max-width:540px;margin:0 auto"></video><figcaption style="background:var(--surface)">背景透明の WebM（市松模様の上に表示。Safari では透明が表示されない場合があります）</figcaption></figure>
+<figure class="strip" style="background:repeating-conic-gradient(#ccc 0% 25%, #fff 0% 50%) 50% / 24px 24px"><video src="media/note2d-tip.webm" autoplay muted loop playsinline style="display:block;width:100%;max-width:540px;margin:0 auto"></video><figcaption style="background:var(--surface)">背景透明の WebM（市松模様の上に表示。Safari では透明が表示されない場合があります）</figcaption></figure>
 <div class="facts">
-<div class="fact"><b>97 / 97</b><span>画面の縁に背景が残らない・穴なし・背景色の取り残しなし <span class="pill">pass</span></span></div>
-<div class="fact"><b>0.0</b><span>輪郭のちらつき（コマ間の透明度の変化）</span></div>
-<div class="fact"><b>0.41</b><span>ループのつなぎ目の差（普段のコマ間 1.23 より小さい）</span></div>
-<div class="fact"><b>なし</b><span>しっぽの先のクリーム色（SSOT にないため描き足していません）</span></div>
+<div class="fact"><b>97 / 97</b><span>全コマでしっぽの先にギザギザ 3 つ・色は正式なクリーム（#FBE6C7）・形の比率はデザインどおり（±15% 以内） <span class="pill">pass</span></span></div>
+<div class="fact"><b>97 / 97</b><span>しっぽ周りを拡大して全コマを目で確認：ギザギザはしっぽに沿ってついていき、跳び・欠けは見つかっていません</span></div>
+<div class="fact"><b>±6%</b><span>クリーム部分の大きさの揺れ（山から谷 12%）。しっぽ自体の見かけの大きさも 8% 揺れており、その動きに沿ったもの</span></div>
+<div class="fact"><b>未確立</b><span>ちらつきの自動判定：実動画で 3.5 px（仮の基準 2.5 px）。しっぽが速く大きく振れる動きと区別しきれず、自動判定はまだ信頼できる形になっていません</span></div>
 </div>
+<p>気になる点：しっぽの輪郭にごく細い青緑のふちが残るコマがあります（背景を抜く段階由来。拡大しないと見えない程度）。</p>
+<details><summary>前回（しっぽの先なし）</summary><div class="views" style="grid-template-columns:repeat(2,1fr)">
+<figure><video src="media/note2d-dark.mp4" muted loop playsinline controls></video><figcaption>暗い背景</figcaption></figure>
+<figure><video src="media/note2d-light.mp4" muted loop playsinline controls></video><figcaption>明るい背景</figcaption></figure>
+</div></details>
 </section>
 
 <section id="note-v6">
