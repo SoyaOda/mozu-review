@@ -81,6 +81,22 @@ details summary{cursor:pointer;color:var(--muted);font-size:13px;padding:4px 0} 
 <details><summary>前回（v3）の比較動画</summary><div class="vid"><video src="media/note-v3-compare.mp4" muted loop playsinline controls></video></div></details>
 </section>
 
+<section id="note-2d">
+<h2><span class="dot" style="background:var(--coral)"></span>メモを取る <span class="pill">2D 版 · 新提案</span></h2>
+<p>3D リグを使わず、SSOT 動画をそのまま正面の 2D アニメーションにしました。背景を透明に抜き、色を正式な配色（耳・手足・しっぽ＝濃いグレー、お腹＝ベージュ）に置き換えています。顔・ペン・メモ帳の色と動きは SSOT のままです。4 秒・24fps のループで、最後から最初へのつなぎ目も自然です。左が暗い背景、右が明るい背景の上に置いた確認用です。</p>
+<div class="views" style="grid-template-columns:repeat(2,1fr)">
+<figure><video src="media/note2d-dark.mp4" autoplay muted loop playsinline></video><figcaption>暗い背景</figcaption></figure>
+<figure><video src="media/note2d-light.mp4" autoplay muted loop playsinline></video><figcaption>明るい背景</figcaption></figure>
+</div>
+<figure class="strip" style="background:repeating-conic-gradient(#ccc 0% 25%, #fff 0% 50%) 50% / 24px 24px"><video src="media/note2d.webm" autoplay muted loop playsinline style="display:block;width:100%;max-width:540px;margin:0 auto"></video><figcaption style="background:var(--surface)">背景透明の WebM（市松模様の上に表示。Safari では透明が表示されない場合があります）</figcaption></figure>
+<div class="facts">
+<div class="fact"><b>97 / 97</b><span>画面の縁に背景が残らない・穴なし・背景色の取り残しなし <span class="pill">pass</span></span></div>
+<div class="fact"><b>0.0</b><span>輪郭のちらつき（コマ間の透明度の変化）</span></div>
+<div class="fact"><b>0.41</b><span>ループのつなぎ目の差（普段のコマ間 1.23 より小さい）</span></div>
+<div class="fact"><b>なし</b><span>しっぽの先のクリーム色（SSOT にないため描き足していません）</span></div>
+</div>
+</section>
+
 <section id="note-v6">
 <h2><span class="dot" style="background:var(--coral)"></span>メモを取る <span class="pill">v6 · 試作（判断待ち）</span></h2>
 <p>ご指摘を受けて書き方を作り直した試作です。書くあいだはペンをほぼ垂直に立て、ペン先はページの中央付近（幅の 32〜64%）に当て、腕ごとペンを左右に平行に動かして書きます（約 1.2 Hz、右に行くとき手首のように少し傾く）。書くときにメモ帳を持ち上げ、にっこりするときに下ろします。口元とぶつからないよう、メモ帳は書く手の側へ 25° 向け、SSOT より低い位置に持っています。比較動画は左から SSOT、native の正面・斜め・側面です。</p>
