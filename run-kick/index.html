@@ -1,0 +1,32 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu 走り 戦略比較</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+<h1>走り：「地面を蹴って走る」版（221i、今の方法 A）</h1>
+<p>2026-10-01。「SSOT は地面を蹴って走っている印象だが、今の成果物は足を前に運んで踏みしめている印象」というご指摘への対応です。処理はすべて Windows 機で行っています。</p>
+<div class="card"><h2>要点</h2>
+<p>違いは足の<b>動く距離</b>ではなく、足の<b>向き</b>と<b>体の下に収まっているか</b>でした（設計担当の Fable と GPT-6 の 2 席が、別々に検討して同じ結論）。</p>
+<table><tr><th></th><th>221f（前の版）</th><th>221i（今回）</th></tr>
+<tr><td>蹴り出し</td><td>足を平らなまま持ち上げる（3°）</td><td>つま先を床につけたまま約 46° 返して押す</td></tr>
+<tr><td>蹴った後の足</td><td>斜め（48°）、尻尾に一部めり込む</td><td>体の後ろ端の下でほぼ垂直にたたむ（尻尾との 3D 重なり 0）</td></tr>
+<tr><td>前に出す足</td><td>平らなまま前へ運んでそのまま置く</td><td>かかと先・つま先上向きで体の下にぶら下がり、少し引き戻してから着地</td></tr>
+<tr><td>足の位置</td><td>体の下</td><td>体の輪郭の内側（新しいチェックで保証）</td></tr>
+<tr><td>1 周期</td><td>0.70 秒</td><td>0.667 秒（SSOT と同じ）</td></tr>
+<tr><td>腕・頭・尻尾</td><td colspan="2">同じ（腕振りは足が決まってから別に詰めます）</td></tr></table>
+<p>途中の 221g・221h では足を前後に大きく動かして近づけようとしましたが、脚が灰色のくさびのように伸びて「座っている」見た目になったため不採用にしました（お見せしていません）。</p></div>
+<div class="card"><h2>1. 動画・横（左：SSOT ／ 中：221f ／ 右：221i）</h2>
+<video src="side1x.mp4" autoplay loop muted playsinline controls></video><p>1/4 速度：</p><video src="side025.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>2. 動画・斜め（左：221f ／ 右：221i）</h2>
+<video src="obl1x.mp4" autoplay loop muted playsinline controls></video><p>1/4 速度：</p><video src="obl025.mp4" loop muted playsinline controls></video></div>
+<div class="card"><h2>3. 要所のポーズ（左：SSOT ／ 右：221i、同じタイミング）</h2>
+<p>蹴り出し：</p><img src="03-toe-off.png"><p>後ろ足をたたむ：</p><img src="04-fold.png"><p>前足を出す：</p><img src="07-reach.png"></div>
+<div class="card"><h2>4. 全 40 コマ（221i 下半身）</h2><img src="lower-side.png"><img src="lower-oblique.png"></div>
+<div class="card"><h2>5. 残っている点</h2><ul>
+<li><b>すれ違いの瞬間</b>（20〜26 コマ目あたり）：2 つの足が上下に重なって見えます。SSOT でも足が重なる場面ですが、気になるようなら直します。</li>
+<li><b>腕振り</b>：SSOT の約半分のままです。腕のチェック 2 項目（手の見え方・腰への沈み）は前の版から続く既知の項目で、ご相談中の判定方式の件に含まれます。脚が決まってから別に進めます。</li>
+<li><b>足の滑り</b>：計測上わずかにありますが（1 コマあたり画面で約 0.01 ピクセル）、目では分かりません。</li></ul></div>
+<div class="card"><h2>6. 見ていただきたいこと</h2><ol>
+<li>「地面を蹴って走っている」感じになりましたか。221f と比べてどうですか。</li>
+<li>すれ違いの瞬間の足の重なりは気になりますか。</li>
+<li>次は腕振り（SSOT の大きな振り）に進んでよいですか。</li></ol></div>
+</body></html>
