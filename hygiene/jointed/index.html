@@ -93,11 +93,24 @@ ul.plain{margin:0;padding-left:1.2em}
 </style>
 <body><div class="wrap">
 <header>
-<div class="eyebrow">Hygiene · jointed arm P1j · 2026-10-01</div>
+<div class="eyebrow">Hygiene · jointed arm · updated 2026-10-02</div>
 <h1>肘で曲がる腕（動作中だけ伸びる）— 洗顔キーポーズ</h1>
 <p>ゴムのように曲がっていた腕を、上腕・前腕・手の3パーツ＋丸い関節キャップの「肘アーム」に作り直しました。動作中だけ上腕と前腕を同じ比率で伸ばせます（1.0〜1.4、形は崩さない）。Blender 上では骨に直接キーを焼き込む方式にし、ドライバーを廃止しました。</p>
 <div class="status"><span class="pill ok">形状ゲート 1,296/1,296</span><span class="pill ok">Blender 一貫性 960/960</span><span class="pill ok">腕まわりドライバー 0</span><span class="pill wait">見た目：まだ元動画とずれあり</span></div>
 </header>
+<section>
+<h2>新案（2026-10-02）：元動画どおり「頬に手」「口元でブラシ」— Blender レンダ</h2>
+<p>オーナー決定 3「カメラ向けにごまかす」＋ Fable の判断（観測できない角度・向きのゲートを撤去、接触は手が頬にめり込む量で判定）で解き直した、最も近い案。各行：元動画 正面 ｜ リグ 正面 ｜ 元動画 斜め ｜ リグ 斜め ｜ リグ 横。</p>
+<h3>洗顔 V4（頬の高さ・肘を内へ）</h3>
+<div class="stage"><img src="media/V4-key0.jpg" alt="洗顔 当てる"><div class="labels"><span><b>当てる</b> f32</span><span>伸び率 1.4</span><span>数値ゲートは一部不合格（手のめり込みが深い）</span></div></div>
+<div class="stage"><img src="media/V4-key1.jpg" alt="洗顔 こすりA"><div class="labels"><span><b>こすり A</b> f50</span><span>伸び率 1.4</span><span></span></div></div>
+<div class="stage"><img src="media/V4-key2.jpg" alt="洗顔 こすりB"><div class="labels"><span><b>こすり B</b> f64</span><span>伸び率 1.4</span><span></span></div></div>
+<h3>歯磨き B3（柄の手前を握る・肘下げ）</h3>
+<div class="stage"><img src="media/B3-key0.jpg" alt="歯磨き 当てる"><div class="labels"><span><b>口元に当てる</b> f54</span><span>伸び率 1.12</span><span>ずれ 0.007</span></div></div>
+<div class="stage"><img src="media/B3-key1.jpg" alt="歯磨き こすりA"><div class="labels"><span><b>こすり A</b> f69</span><span>伸び率 1.05</span><span>全ゲート合格</span></div></div>
+<div class="stage"><img src="media/B3-key2.jpg" alt="歯磨き こすりB"><div class="labels"><span><b>こすり B</b> f75</span><span>伸び率 1.15</span><span>ずれ 0.005</span></div></div>
+<p><b>自己レビュー：</b>洗顔は正面・斜めとも「両手で頬を包む」読みになり、元動画にかなり近い（W6 の肘の張り出しは解消）。横から見ると腕がほぼ水平に前へ伸びる。数値上の不合格は手のめり込みの深さで、どの視点からも見えない。歯磨きはブラシが口元に入り読めるが、元動画は柄がほぼ水平なのに対しリグは斜め下に傾く。</p>
+</section>
 <section>
 <h2>洗顔 W6（顎寄りに当てる・肘を外へ）— Blender レンダ</h2>
 <p>各行：元動画 正面 ｜ リグ 正面 ｜ 元動画 斜め ｜ リグ 斜め ｜ リグ 横。伸び率は 当てる 1.14 / こすり A 1.30 / こすり B 1.22。</p>
