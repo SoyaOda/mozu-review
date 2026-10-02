@@ -93,6 +93,15 @@ ul.plain{margin:0;padding-left:1.2em}
 <div class="wrap"><header><div class="eyebrow">Mozu · 飲む・掃く · 腕の形の全パターン比較 · 2026-10-01</div><h1>腕の形 — 全パターンを骨リグで試作</h1>
 <p>ご指示どおり、腕の付け根が体の内側で重なるのは許容し（見える破綻だけ不合格）、掃除の腕の形 (a)〜(d) をすべて骨リグ（B）で作りました。静止ポーズの試作です（まだ動画ではありません）。各画像の上の文字が機械判定（PASS/FAIL）、下の表が私の目視判定です。目視で崩れて見えるものは、機械判定が PASS でも不採用としています。</p>
 <div class="status"><span class="pill ok">飲む: ほぼ成立（1 ポーズ未解決）</span><span class="pill wait">掃く: 自然に見えるのは一部のみ</span></div></header>
+<section><h2>更新 10/2 夕：動作全体を通した動き（最新）</h2>
+<p>肩の付け根の補正（腕を振るほど付け根を内側に引き込む。静止時の見た目は不変）を入れた骨リグ上で、動作全体を 60fps で通して作りました。手が物に触れている間は肘の向きが連続するように解き、離れている間はアニメーターのように弧を描いて動かしています。全フレームを 3 視点で検査済みです。</p>
+<div class="two"><figure><video src="img/step5-drink-1x.mp4" autoplay muted loop playsinline controls></video><figcaption>飲む（正面｜斜め｜横、等速）</figcaption></figure>
+<figure><video src="img/step5-sweep-1x.mp4" autoplay muted loop playsinline controls></video><figcaption>掃く（ストローク部分、正面｜斜め｜横、等速）</figcaption></figure></div>
+<details><summary style="cursor:pointer;color:var(--muted)">0.5 倍速</summary><div class="two" style="margin-top:8px"><figure><video src="img/step5-drink-05x.mp4" muted loop playsinline controls></video><figcaption>飲む 0.5x</figcaption></figure><figure><video src="img/step5-sweep-05x.mp4" muted loop playsinline controls></video><figcaption>掃く 0.5x</figcaption></figure></div></details>
+<table class="tbl"><tr><th>胴体の形</th><td>前回ご指摘の「胴体が歪む」は解消（胴体は剛体として回るだけで、輪郭は崩れません）。</td></tr>
+<tr><th>飲む</th><td>体の横で持つ→持ち上げ→両手持ち（左右対称）→頭を下げて飲む→下ろす→戻す、が通しで動きます。手の接触・小物の干渉・関節の急な動き・肘の反転はすべて合格。奥の腕がコップの陰に隠れて見える瞬間がありますが、通常の遮蔽です。</td></tr>
+<tr><th>掃く</th><td>上体を少しひねり上下に握った形で、中央・左・右のストロークが通しで動きます（全フレーム合格）。</td></tr>
+<tr><th>残っている点</th><td>掃く：箒を手に取る／置く場面が未作成、左右の掃き幅が小さめ（元動画の約 8 割）。飲む：口元で頭を下げる形（元動画は少し上を向く。腕が短いため下げる形で届かせています）。どちらも間合いはまだ初回の調整です。</td></tr></table></section>
 <section><h2>訂正と方針（10/2 夜）</h2><div class="note"><p><b>訂正：</b>掃除の中央ポーズ（S2）を「合格」と表示していましたが、斜め視点で首と肩の境目に約 5 px の小さな黒い欠片（腕の付け根の飛び出し）がありました。判定が 12 px 未満の破片を無視していたため見逃していました。</p>
 <p><b>方針：</b>キーポーズの組み替えで遷移を直す作業は打ち切りました（直すと別の遷移が崩れる状態が続いたため）。原因は (1) 肩の付け根（接合部）の形と、(2) ポーズ間の腕の動かし方の表現にあり、次は肩の接合部を立ち動作の可動域全体で直し（欠片の許容 0）、その後に動作全体を連続した動きとして作り直します。届くかどうか（到達性）は全キーで確認済みです。</p></div></section>
 <section><h2>更新 10/2：推奨案 (b) で進めた結果（ポーズ間の動き）</h2>
