@@ -93,6 +93,13 @@ ul.plain{margin:0;padding-left:1.2em}
 <div class="wrap"><header><div class="eyebrow">Mozu · 飲む・掃く（2 視点 SSOT）· 2026-09-30</div><h1>コップで飲む・箒で掃く — 3D フィット</h1>
 <p>選んでいただいた 2 視点の元動画（左半分が正面、右半分が斜め 35°）に 3D リグを合わせました。ご指摘の「コップの傾きが逆」「箒を腕で挟んで見える」を、フィットの仕組みから直しています。</p>
 <div class="status"><span class="pill ok">飲む: 完成・レビュー合格</span><span class="pill wait">掃く: 腕の重なりを作り直し・判断待ちあり</span><span class="pill wait">どちらもまだ確定前</span></div></header>
+<section><h2>更新 10/2：掃く r20（r19 の胴体の崩れだけを直した版）</h2>
+<p>骨リグで作り直した版（standing-patterns のページ）は腕が型から外れて変形しており失敗でした。<b>原因：</b>ご指摘は「胴体が崩れる」の 1 点だけで、その原因はソルバーが元動画に合わせるために胴体を 19° 近く傾け・ひねったこと（チビの胴体はほとんど曲がらない、という部位の意味を制約にしていなかった）でした。私はそこだけ直すべきところを土台ごと作り替え、良かった腕まで壊しました。<b>やり直し：</b>良いと言っていただいた r19（腕を重ねる形）をそのまま土台にし、胴体の前傾 10°・横傾き 5°・頭の横傾き 8° までの範囲に収めただけです（リグ・腕は変更なし）。飲むは r9 のままです。</p>
+<div class="controls"><span class="ctl-label">速度</span><div class="seg" role="group" aria-label="再生速度"><button type="button" data-rate="1" aria-pressed="true">1×</button><button type="button" data-rate="0.5" aria-pressed="false">0.5×</button><button type="button" data-rate="0.25" aria-pressed="false">0.25×</button></div></div>
+<div class="stage scroll"><video class="rate" src="media/sweep-r20-compare.mp4" autoplay muted loop playsinline controls style="min-width:900px"></video></div>
+<p>同じフレームでの比較（左から：元動画 正面｜r19 正面｜r20 正面｜元動画 斜め｜r19 斜め｜r20 斜め）。r19 で右へ傾いて左下が張り出していた胴体が、r20 ではほぼまっすぐになっています。</p>
+<div class="stage"><img src="media/sweep-r19-vs-r20.png" alt="r19 と r20 の比較"></div>
+<table class="tbl"><tr><th>残っている点</th><td>f74 付近で左下の脇腹にわずかな張り出しが残る。胴体を大きく傾けない分、元動画より頭・体の左右の揺れは控えめ。</td></tr></table></section>
 <section><h2>飲む（コップ）</h2>
 <p>コップの傾きは、元動画のコップの輪郭の向き（どちらに倒れているか）をそのまま測るように変えました。以前は外接四角形の縦横が入れ替わって向きが逆になっていました。口元では必ず飲み口が口の方を向くことを検査しています。左手は「両手でコップを持っている間」だけ解き、寄せる動きと離す動きは元動画のタイミングでなめらかに作っています（以前は離す瞬間に手が内側へ引っかかる動きがありました）。</p>
 <div class="controls"><span class="ctl-label">速度</span><div class="seg" role="group" aria-label="再生速度"><button type="button" data-rate="1" aria-pressed="true">1×</button><button type="button" data-rate="0.5" aria-pressed="false">0.5×</button><button type="button" data-rate="0.25" aria-pressed="false">0.25×</button></div></div>
