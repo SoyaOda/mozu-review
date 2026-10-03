@@ -1,0 +1,45 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep25 · REPORT</title><style>body{max-width:960px;margin:32px auto;padding:0 20px;color:#303438;background:#f4f3ee;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:inherit}</style><a href="./">Back to four-view review</a><pre># Sweep25 — four-view semantic reconstruction
+
+Status: delivered candidate; four-view source/native comparison and actual browser verification complete. Owner adoption remains separate.
+
+The owner requested front, side and true-top source evidence to understand the body axes and reproduce the action essentially. Mechanical video fitting remains prohibited. Sweep25 introduces a common3axis torso frame, transports both complete locally articulated arms with their original shoulders, and separates local neck attention from body heading. Original body/arm shape, fixed grip, broom dimensions and the actual visible planted paws are preserved. Read DESIGN.md for responsibilities and RIG_GUIDE.md for editing.
+
+## Source result
+
+Original liked oblique SHA256`21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4` governs three-stroke timing. New front-r03 and side-r02 clarify modest body yaw/pitch and forward/inward hand travel. Top-r03 provides a stable vertical viewing direction and original gray identity, with natural head occlusion. Its one broad tool arc supports direction and orientation only; it does not supply three-stroke timing. All180frames in each selected original were inspected. Independent views are not calibrated or synchronized. Source originals, conditioning-image hashes, exact prompts, provider receipts and decode hashes are retained. See SOURCE_REVIEW.md and source `selection.json`.
+
+Eight new six-second generations were attempted at estimatedUSD0.60 each (USD4.80 total). Wrong-view front/side attempts and identity/camera-failed top-r02 were rejected; top-r01 is supplemental high overhead only. Agent selection is scoped reference selection, not owner adoption. No coordinate extraction, optimizer or video-position fit is used.
+
+## Key-pose review
+
+Pilot01: six keys × four views inspected. Shoulder attachment, body/paw joins, grip and inward/forward reach remain coherent. The true-top tool was cropped at the working extreme. Pilot02 changes only top camera centerY from.22 to0 and orthographic scale from3.5 to4. All six corrected top images were inspected. All18 other image pixel payloads exactly match Pilot01, although PNG container metadata changes their file hashes. Geometry checks are identical at all six keys. The complete tool is visible in corrected top keys.
+
+## Native verification
+
+Editable `motion01/sweep25-semantic.blend`:220956275bytes; SHA256`1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6`.
+102 actual-native times cover curve extrema, neighboring subframes and the full six-second interval. Twelve additional scene checks verify rigid body/tail/head ownership and zero movement of actual displayed paws. Save/reopen error0; endpoint error0. Amplitude1→0.6 visibly changes geometry by0.160506 and restores exactly. Body coupling1→0.5 changes geometry by0.140905 and restores exactly; edited blade-floor error5.96e-8. The original basis remains byte-identical.
+
+121 additional analytic samples are diagnostics only. Maximum working-forearm body depth0.045124 and neutral free-arm depth0.122517 reflect original embedding, with no excess over neutral in the sampled analytic domain. Working-paw body depth0; free-paw embedding0.103014 is retained. These are limited shape proxies, not a global collision certificate.
+
+Pilot FIFO20261003-115904-17fec4b7 and camera correction20261003-120832-43feb325 DONErc0. Native+diagnostics20261003-121539-234207f2 DONErc0. Local syntax/lint,8 pure frame/timeline/contact invariants and scoped diff-whitespace checks pass. Unrelated run221 report whitespace exists in the shared checkout; it is not modified by this task.
+
+## Capture diagnosis
+
+Initial capture20261003-122408-a10d2e29 was deliberately cancelledrc130 after96complete times because the agent visually misread a displayed top image as clipped. Two bounded diagnostic jobs completedrc0 (123019-c4d01abe and123343-e01b3755). The actual original frame070 and independent probe are pixel-identical, with30pixel top margin. Same-geometry parented/direct-transform images also agree; there is no native or capture defect. The mistaken observation is retracted, and no rig or capture code was changed. `capture-visual-diagnosis.json` records this explicitly. Pilot01&#x27;s separate bottom crop was real (worktip atrow639/640) and was already fixed by Pilot02 camera framing (bottom580/640).
+
+OldSweep23native220722819bytes was copied toMac and matched its exactSHA256 before removing only the Windows duplicate. Sources, receipts and both latest natives remain. The newSweep25native is present on bothMac andWindows with matchingSHA256.
+
+## Continuous output and delivery
+
+FIFO20261003-123603-7dc1ee16 completedrc0 after hash-checking and resuming the original96 times. The saved native produced360 times at60fps in front, oblique, side and true-top views. Thirteen complete-visible-scene parity checks have maximum error2.925993747e-7; maximum blade-floor/lift error across all360 times is1.490116119e-7. All four six-second movies decode360frames, and minimum raster margins are46/46/42/30pixels respectively. All28 transferred media files match their recordedSHA256.
+
+All24 chronological60-frame sheets were inspected, covering every one of the1440 view-frames. All24 pilot key views and full-size first-work frames were also inspected. Three forward/inward work strokes, unloaded returns, shoulder attachment and fixed grip remain continuous; actual displayed paws stay planted. No new crop, blank frame or sudden shape change was found. These are main-agent observations, not an independent rubric score. See `review/visual-review.json`.
+
+Local comparison: https://soyaoda.github.io/mozu-review/sweep25/ . The actual browser verifies all four native/source switches, event-pose pairing,60fps next/previous stepping,1x/0.5x/0.25x rates, simultaneous start, independent native seeking, six pose buttons, pause, natural ending and restart. The optional projected body axes update with view and pose; the page explicitly distinguishes authored angles from source observations. Twenty-two operation observations and zero console warnings/errors are recorded in `review/browser-checks.json`; `browser-review.jpg` and `browser-top.jpg` show the result. The native download and editing-guide links are present. `review/delivery-manifest.json` binds the completed package to its exact files.
+
+The editable native is byte-identical onMac andWindows. No owned heavy, generation or transfer job remains. Last recorded Windows free space after capture was5,318,307,840bytes. RangeHTTPserver64459 remains active; restart with `python3 scripts/research/chores214_20260925/grip23/serve.py`. No public deployment or release registry change was performed.
+
+## Scope
+
+This is a candidate, not an adopted release. Full15-issue motion qualification, independent quality review and skeletal runtime export are not claimed. The action begins and ends holding the broom. Pickup/release, individual fingers, physical bristles and foot stepping remain outside this performance. Drinkr9, Sweep24 and all adopted releases remain unchanged.
+</pre></html>

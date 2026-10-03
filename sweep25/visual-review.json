@@ -1,0 +1,198 @@
+{
+  "status": "REVIEWED",
+  "reviewer": "Main agent; no independent score or owner adoption",
+  "viewFrames": 1440,
+  "framesPerView": 360,
+  "views": [
+    "front",
+    "oblique",
+    "side",
+    "top"
+  ],
+  "method": "All24 chronological60-frame sheets inspected; all24 key views inspected; firstwork full-resolution frame122 inspected in four views",
+  "nativeSHA256": "1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6",
+  "mediaSHA256": "d74994db2efaa65303cbf4ca4485eeb2e0479017850a8ffae4d9c0f5911b8c5c",
+  "findings": [
+    "Three forward/inward strokes and unloaded returns remain continuous in all four views",
+    "Original body/head silhouettes move rigidly; displayed paws stay planted",
+    "Shoulder attachments and fixed tool grip remain visually connected",
+    "No new abrupt shape/camera change or raster blank across the complete sequence",
+    "True top shows natural head occlusion; tail/tool remain fully framed",
+    "Quiet start/end poses match; all four output border minima are at least30pixels"
+  ],
+  "limits": [
+    "Original free-arm root/body embedding retained",
+    "Top generated source has one broad arc and is used only for qualitative direction",
+    "No measured source angles, calibrated synchronization, physical grip simulation or full release certification"
+  ],
+  "sheets": [
+    {
+      "view": "front",
+      "firstFrame": 0,
+      "lastFrame": 59,
+      "file": "media\\sheet-front-0.jpg",
+      "sha256": "d8578dd1755badea7c98e053be54ab57be6ce43d491df693f153337ac09de11e"
+    },
+    {
+      "view": "front",
+      "firstFrame": 60,
+      "lastFrame": 119,
+      "file": "media\\sheet-front-1.jpg",
+      "sha256": "3356cd0a3f24fc93eb9cb1d383910175fff7721dbbea2b3f1841ad1c95580cc2"
+    },
+    {
+      "view": "front",
+      "firstFrame": 120,
+      "lastFrame": 179,
+      "file": "media\\sheet-front-2.jpg",
+      "sha256": "604cb8137b6fbe855f75b4149fce2aaaf8b3c762d9fdea67be40d7fb0f6e0d62"
+    },
+    {
+      "view": "front",
+      "firstFrame": 180,
+      "lastFrame": 239,
+      "file": "media\\sheet-front-3.jpg",
+      "sha256": "8573abe4f649f98210a949cea32896105a55b5b732b850e2d1c5223bca8e18de"
+    },
+    {
+      "view": "front",
+      "firstFrame": 240,
+      "lastFrame": 299,
+      "file": "media\\sheet-front-4.jpg",
+      "sha256": "40b2bdfbcb15e39289f74a40f8daeb0ea604603cb28fbda3b2fb93d2bba19374"
+    },
+    {
+      "view": "front",
+      "firstFrame": 300,
+      "lastFrame": 359,
+      "file": "media\\sheet-front-5.jpg",
+      "sha256": "a423dbdd3e8cb05aa00ed88f6ed40c26894a8cdafb1c5880b7a9944b46fae683"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 0,
+      "lastFrame": 59,
+      "file": "media\\sheet-oblique-0.jpg",
+      "sha256": "fddb9a5edbc4ce0e3a5f53f1168a3c663074e0dedf775e90392230baf82eb889"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 60,
+      "lastFrame": 119,
+      "file": "media\\sheet-oblique-1.jpg",
+      "sha256": "4fb1f943f4181e46ef96a1b57697e8b74e84032a1381fac3fdb458824d1a0e48"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 120,
+      "lastFrame": 179,
+      "file": "media\\sheet-oblique-2.jpg",
+      "sha256": "0d44aff9fa7642a4cec63e95da8b2bd8ddb406c93ae65fc680a280a34bc56a4d"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 180,
+      "lastFrame": 239,
+      "file": "media\\sheet-oblique-3.jpg",
+      "sha256": "1052b47e8e413bc8ee0a28abaaf4d9153f72fcdbc29d33ffc78f831314c8db94"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 240,
+      "lastFrame": 299,
+      "file": "media\\sheet-oblique-4.jpg",
+      "sha256": "f06661359b541d6ad677a5c863098d676abb3777c42008bbc9e99f946abfc208"
+    },
+    {
+      "view": "oblique",
+      "firstFrame": 300,
+      "lastFrame": 359,
+      "file": "media\\sheet-oblique-5.jpg",
+      "sha256": "c80224e1cf6ae91406adce6e7477f9c5bc4b1a30569235195f17741cce737259"
+    },
+    {
+      "view": "side",
+      "firstFrame": 0,
+      "lastFrame": 59,
+      "file": "media\\sheet-side-0.jpg",
+      "sha256": "b759123c1e9b36ebc22ac17f95198bf9c1c7718eb3c2b10206adff52b0df923e"
+    },
+    {
+      "view": "side",
+      "firstFrame": 60,
+      "lastFrame": 119,
+      "file": "media\\sheet-side-1.jpg",
+      "sha256": "ab80eb37f468bba6b05951c62c361b18feb0b6c2f317b6bfed12d2f15529b169"
+    },
+    {
+      "view": "side",
+      "firstFrame": 120,
+      "lastFrame": 179,
+      "file": "media\\sheet-side-2.jpg",
+      "sha256": "2b8ad3a3961d372031cf7a1c5f7c7002dfbdf17f3e57bf25f02dcabf555aea89"
+    },
+    {
+      "view": "side",
+      "firstFrame": 180,
+      "lastFrame": 239,
+      "file": "media\\sheet-side-3.jpg",
+      "sha256": "c3ece5213075388db23ccbf96f3dbeb54d9b4190eb7abc3213cd32361dcd46a2"
+    },
+    {
+      "view": "side",
+      "firstFrame": 240,
+      "lastFrame": 299,
+      "file": "media\\sheet-side-4.jpg",
+      "sha256": "c54dd7e8d911faff78cfe1b52d2a31f081358d198d419740e64412a0a37a469f"
+    },
+    {
+      "view": "side",
+      "firstFrame": 300,
+      "lastFrame": 359,
+      "file": "media\\sheet-side-5.jpg",
+      "sha256": "4bb43d9fa0f48139b129b0af517dcdbe6f41834371e72a484b6930d35764c194"
+    },
+    {
+      "view": "top",
+      "firstFrame": 0,
+      "lastFrame": 59,
+      "file": "media\\sheet-top-0.jpg",
+      "sha256": "0dde500deee6bf3c26f333df7b0b60d993417e890c3f0182b6efc4f8a900a68a"
+    },
+    {
+      "view": "top",
+      "firstFrame": 60,
+      "lastFrame": 119,
+      "file": "media\\sheet-top-1.jpg",
+      "sha256": "974796ba3eb528a81936d4d62b78af95781094b571fa1c6271535e22a281eb8e"
+    },
+    {
+      "view": "top",
+      "firstFrame": 120,
+      "lastFrame": 179,
+      "file": "media\\sheet-top-2.jpg",
+      "sha256": "fe219b9d5056704655bd78aca3d27e7d0b0903953822732c8d8120d801974a19"
+    },
+    {
+      "view": "top",
+      "firstFrame": 180,
+      "lastFrame": 239,
+      "file": "media\\sheet-top-3.jpg",
+      "sha256": "c4759e355e23fcd71a30239c6c6349f0600ce41c43a694293a3dee853a699ceb"
+    },
+    {
+      "view": "top",
+      "firstFrame": 240,
+      "lastFrame": 299,
+      "file": "media\\sheet-top-4.jpg",
+      "sha256": "cc7a12af14c2c221fb9f17fc9e2fa96dff82b066c2b530e49a8a1bd9e5b0677f"
+    },
+    {
+      "view": "top",
+      "firstFrame": 300,
+      "lastFrame": 359,
+      "file": "media\\sheet-top-5.jpg",
+      "sha256": "a7e5a9b45e3ec32ca991a1b5b5f83e42605cafc4a469643418c4f6fc3b8ac71c"
+    }
+  ]
+}

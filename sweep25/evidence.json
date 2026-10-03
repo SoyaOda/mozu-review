@@ -1,0 +1,12 @@
+{
+  "samples": 102,
+  "nativeSHA256": "1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6",
+  "nativeBytes": 220956275,
+  "fk": 1.2815522044684613e-06,
+  "floor": 1.1422701390317869e-07,
+  "rigid": 2.9110025545620033e-07,
+  "reopen": 0.0,
+  "amplitudeRestore": 0.0,
+  "bodyRestore": 0.0,
+  "capture": 2.9259937472936315e-07
+}

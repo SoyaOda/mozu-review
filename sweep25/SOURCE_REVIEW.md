@@ -1,0 +1,36 @@
+# Sweep25 source review — complete
+
+The liked oblique Sweep23 video remains the primary performance authority. Independently generated views are additional action observations, not calibrated multi-camera measurements. Body/head/arm proportions remain governed by the adopted native, even if a source drifts. Mechanical fitting is prohibited.
+
+## Camera strategy results
+
+- Front-r01 and side-r01: all180 frames reviewed in five chronological sheets each. Both keep the old oblique camera. Rejected for requested view coverage; never label them front/side observations.
+- Front-r02: exact front still plus original video in video-reference mode, with front camera priority at the beginning of the prompt. All180 frames still show oblique. Rejected for camera coverage. Input hashes prove the correct front image was sent; camera failure is in the generated result.
+- Top-r01: all180 frames reviewed. High overhead; face and ear interiors remain exposed more than in the exact native90-degree anchor. Retained only as supplemental action evidence, not true-top coverage. The head/ear orientation turns modestly with the inward-forward stroke and returns. The hidden torso prevents a separate yaw measurement. Complete raw original and decoded-frame hashes retained.
+- Completed image-anchored strategy: exact view image as both endpoint constraints, with the liked three-stroke action described semantically. Front-r03, side-r02 and top-r02, each6s720p, estimatedUSD0.60 each, additionalUSD1.80 disclosed before submission. These carry no direct reference-video conditioning; do not claim synchronized or identical motion.
+
+## Questions that the new evidence must resolve
+
+The original oblique view appears to include a preparatory forward inclination and a small orientation change during return, beyond shoulder/elbow motion. Projection alone cannot decide whether that is torso yaw, head yaw, generated shape drift or a combination. Compare the belly axis, shoulder line, head facing, tail direction, fixed feet and hand/brush path in each view by action event. Do not mechanically match pixel tracks.
+
+If torso rotation is supported, apply one coherent rigid body frame to the existing body, original shoulder roots, both complete articulated arms and the neck carrier. Keep shoulder and elbow articulation local to that transported frame. Verify the actual joined display paws, not only hidden source paw meshes. Ground-contact tool orientation is resolved after world hand placement, and does not change arm length or body shape. Final conservative authored amplitudes are documented in DESIGN.md.
+
+## Environment record
+
+One top decode stopped at the shared5GB disk floor. This is an environment stop, not a motion-quality failure. Rejected source-image duplicates were removed from Windows only after all corresponding Mac copies matchedSHA256. Raw originals and receipts remain. Partial top PNGs are reused only after exact re-encode hash matching; complete index creation requires every declared source frame and strictly increasing timestamps.
+
+## Front/side image-anchored review
+
+Front-r03 and side-r02 each have180/180frames reviewed. Both provide the requested fixed camera direction with coherent three-stroke action. Selected for qualitative motion interpretation only. Their timestamps differ: front work extrema are around2.7/3.5/4.3s, side around2.13/3.17/4.10s, original oblique around2.03/3.03/4.03s. Use the liked original event timing for the native action, not independent-generated frame indices.
+
+Front shows belly/shoulder/head directions turning modestly toward image-left as the hand passes inward ahead of the feet. Side shows small torso inclination and greater head attention during the forward hand pass. These jointly support a small body yaw coupled to forward work; only front weakly suggests side inclination. Do not copy the front tail recoloring/new shape, minor foot shifts or side eye blinking. Adopted native shape/pigment/facial design and planted feet take precedence.
+
+Top-r02 fails identity and camera: gray becomes tan byframe8, camera tilts away from vertical and a different face is invented during the work. All180frames reviewed; reject it as action/axis authority. Top-r03 keeps the same exact endpoint image with a shorter prompt focused on gray top-visible surfaces, fixed vertical camera and natural head occlusion. EstimatedUSD0.60 was disclosed before generation. The completed result is reviewed below. Cumulative generation estimate nowUSD4.80.
+
+The common rigid body-frame utility was prepared during source review. The final angle score and native pilot were authored after the top review.
+
+## Complete source selection
+
+Top-r03 all180frames reviewed: preserved gray identity, vertical viewing direction and natural occlusion; no invented face. The visible tool travels from the hand-side edge forward/inward and back. Head direction rotates farther than the rear tail axis, so a head-only or uniformly rigid whole-character turn is not supported. Select for qualitative orientation/occlusion only. It shows one broad arc rather than three distinctly separated strokes; reject its timing as a rhythm authority. Front/side/oblique provide the repeated action. `selection.json` binds the scoped roles and exact original hashes. All paid jobs are complete; no more generation is currently needed.
+
+The reconstruction uses a small common torso heading and forward inclination, a smaller side inclination, and separate local neck attention/yaw. The common frame transports both shoulders and complete locally articulated arms. The torso/tail retain rigid shape and the actual displayed paws stay planted. Body angle values are authored for the original native proportions; no angle extraction or mechanical video fit is claimed. The authored degrees passed the four-view native pose pilot. Full media verification is recorded separately in REPORT.md.

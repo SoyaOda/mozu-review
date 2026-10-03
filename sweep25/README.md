@@ -1,0 +1,44 @@
+# Sweep25 semantic multi-view rig
+
+This is an unadopted candidate, preserving Sweep24, Drink r9 and all adopted versions.
+
+## Native and controls
+
+Editable native on the Windows verification host:
+`C:\mozu\cd214\repo\output\rig_candidates\chores214_20260925\v2\sweep25\motion01\sweep25-semantic.blend`.
+A byte-identical Mac copy is available at `output/rig_candidates/chores214_20260925/v2/sweep25/motion01/sweep25-semantic.blend` and linked from the review page.
+Its immutable byte hash is recorded in `motion01/native.json`. Save variants under new names.
+
+Select `Sweep25 | Semantic performance`. Frames1–360 at60fps carry the six-second action; frame361 verifies the quiet endpoint. Playback uses ordinary animation curves, built-in driver expressions and editable Geometry Nodes. No external cache, source video, frame handler or custom Python driver namespace is needed. Named controls are floating-point properties.
+
+| Control | Responsibility |
+| --- | --- |
+| Work posture | Preparation and sustained common torso orientation |
+| Stroke | Shoulder/elbow reach and the additional common working rotation |
+| Attention | Local neck pitch/yaw with a short preparation delay |
+| Head response | Small delayed local response to each stroke |
+| Unloaded lift | Blade lift during preparation and return |
+| Bristle drag | Small tip trail; the original shaft remains rigid |
+| Amplitude | Local working-arm action; default1, tested0.6 |
+| Body coupling | Common3axis body frame; default1, tested0.5 independently of local articulation |
+
+## Frame ownership
+
+The body frame is `Rz(heading) Ry(side inclination) Rx(forward pitch)` about `(0,.03,-.03)`.
+The work envelope gives pitch3–5degrees, side inclination-1 to-1.8degrees and heading-6 to-9degrees. These are authored choices, not measured generated-source angles. The whole body/thigh branch retains its rigid shape. The independently joined visible paws are tagged out of that transformation and remain planted.
+
+Shoulder roots retain their original coordinates in the body frame. The existing arm model first evaluates shoulder swing/direction and broad elbow curvature. A final identical rigid transform transports both complete arms; it is not an extra scalar Swing offset. Neck carrier, original shoulders and tail share that common frame. Head-local attention adds6–7.5degrees of pitch and-2 to-3degrees of heading. All visible head components follow their rigid carrier. The free arm is neutral relative to the body; the tail has no independent wave in this revision.
+
+The actual evaluated working paw determines one fixed grip at original shaftZ0.48. Original broom dimensions remain. A closed-form floor inclination is computed from the world grip, followed by the body's floor heading. The lower blade contacts the floor on work passes and lifts on returns. The geometry is not stretched or clamped to video coordinates.
+
+## Four-view evidence and display
+
+`selection.json` identifies every original source and its scoped role. The liked original oblique supplies three strokes at approximately2.03/3.03/4.03seconds. New front/side videos clarify yaw/pitch and inward/forward reach. The true-top original supports head/tail orientation and tool-arc direction only: it contains one broad arc, and the head hides the torso and shoulders. These are independently generated observations, not calibrated synchronized cameras. No mechanical fitting or video-landmark optimization is performed.
+
+The review page has four native views and four raw source originals, independent source playback, native60fps stepping and speed controls. A pose-comparison button chooses source oblique61/30s, front81/30s, side64/30s or top96/30s alongside native122/60s; these are qualitative event examples, not synchronized sample correspondence. Top is explicitly labeled arc direction only. The optional axes overlay projects the actual authored body-frame basis, including behind the head. It is an explanatory x-ray overlay, not a source tracking result. Native top framing uses vertical orthographic camera `(0,0,8)`, rotationzero, scale4. The generation anchor used a tighter scale3.5 and centerY.22; source originals are not reframed.
+
+## Verification and limits
+
+Receipts: `pilot02/pilot.json`, `motion01/native.json`, `motion01/capture.json`, `motion01/media.json` and `review/visual-review.json`. Only existing complete receipts establish results. The native verifies complete arm/prop geometry, rigid body/head ownership, planted visible paws, quiet endpoints, reopen and independent amplitude/body-coupling edit/reset. Capture uses the live arm/prop nodes and exact evaluated rigid snapshots, with13 complete-visible-scene parity samples against the full native.
+
+Pickup/release, individual finger contacts, foot stepping and physical bristle simulation are not authored. The original neutral arm/body root overlap remains; contact diagnostics do not prove zero intersection everywhere. Source shape, tail color and camera errors are excluded from reproduction. No skeletal runtime export, independent quality score or full15-issue native-motion release certification is claimed. Owner visual adoption is separate.

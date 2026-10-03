@@ -1,0 +1,28 @@
+{
+  "status": "AGENT_SELECTED_SCOPED_REFERENCES",
+  "noMechanicalFitting": true,
+  "notSynchronized": true,
+  "estimatedUSD": 4.8,
+  "views": {
+    "front": {
+      "case": "front-r03",
+      "videoSHA256": "6542abf3f1e26e0a2dff86ff39aa8fd8f021fd72b5f2560b168831125d92d138",
+      "scope": "Qualitative body yaw and inward shoulder/elbow action"
+    },
+    "side": {
+      "case": "side-r02",
+      "videoSHA256": "41e4150a717764d45814e68febc8f9fbdf3764ef4decaaed6d4f186a57434740",
+      "scope": "Small body pitch, greater neck attention and forward reach"
+    },
+    "top": {
+      "case": "top-r03",
+      "videoSHA256": "80c03ecda2aeda250ca7dc70720e867e60be9e6413e44fdd384ce6df5f27edb9",
+      "scope": "Plan-view head/tail orientation and tool arc; not stroke timing"
+    },
+    "oblique": {
+      "case": "../../sweep23_fixedshoulder_20261003/r01",
+      "videoSHA256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4",
+      "scope": "Owner-liked primary three-stroke performance and event timing"
+    }
+  }
+}
