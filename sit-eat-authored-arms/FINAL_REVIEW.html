@@ -1,0 +1,143 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SE212 · FINAL_REVIEW</title><style>body{max-width:960px;margin:32px auto;padding:0 20px;background:#f1f0e9;color:#27312b;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:inherit}</style><a href="./">Back to three-view review</a><pre># SE212 authored arm F — review record
+
+## Status
+
+The editable native, scoped temporal/preflight checks, every-frame visual review,
+full-range delivery native and browser playback checks are complete. This is a comparison
+candidate, not an adopted motion or a full motion-system qualification.
+
+## Owner direction and implementation
+
+The seated relaxed arms retain the standing appearance. The reference videos
+are interpreted by each part&#x27;s role: forward balance during descent, release
+after sitting, then quiet food support. Independent generated views are not
+synchronized cameras of one measured action. No image-coordinate fitting,
+numerical pose search or source-curve reconstruction is used in this revision.
+
+The native extension retains the original2018-vertex arm material scaffold,
+radius profile and rounded hand. A body-surface shoulder attachment, broad elbow,
+independent wrist and axial hand roll separate the controls by anatomical role.
+Fourteen semantic keys use monotone C1 Bezier interpolation. Release opens the
+shoulder before lowering past the thigh. Relaxed rest matches the standing arm
+after translation with the shoulder. The final approach joins the existing longer
+food-hold task; the original evaluated arm takes over exactly from frame178.
+
+Read `RIG_GUIDE.md` for control names, action ownership, reconstruction and reuse.
+The original r12, prior E7, original references and adopted releases are preserved.
+
+## Bound native and sources
+
+Delivery native on Windows:
+`C:/mozu/se212/repo/output/rig_candidates/siteat212_20260925/authored_rig_20261003/mozu-siteat212-authored-arms-f-full.blend`.
+Size221551322 bytes; SHA256
+`6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8`.
+It opens at139 and plays the existing879-frame action at60fps. Its only change
+from the reviewed working native is the scene end frame. All eight full-geometry
+hashes match after save/reopen, including439 and879; shoulder edits/reset pass
+on both sides. See `native-delivery.json`.
+
+Working native on Windows:
+`C:/mozu/se212/repo/output/rig_candidates/siteat212_20260925/authored_rig_20261003/mozu-siteat212-authored-arms-f.blend`.
+Size221548635 bytes; SHA256
+`c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598`.
+
+Parent r12 SHA256:
+`12866bd87ad5da6f4effe89206da0e13d5cc7e79f19fea74a6c59222c8f6115c`.
+The old Mac root native is r8m and is not the construction parent.
+
+`sources.json` binds five original videos and their review boards: side/front
+sit and side/oblique/front eating. Sit originals are150 frames at30fps; eating
+originals are158 frames at24fps, with the existing198-frame review decodes clearly
+labelled. The eating side clip turns toward the front; it is not a fixed side camera.
+Oblique sit generation attempts were refusals and are not counted as source video.
+
+`build-provenance.json` binds the native,13 executed source files and the direct
+parent-control mapping. Its archived capture source preserves the initial executed
+version; the separate continuation version only adds guarded checkpoint reuse.
+
+## Completed checks
+
+- Native save/reopen has zero vertex error. Shoulder, elbow, wrist and hand-roll
+  edits change both arms; reset error is zero. Geometry Nodes remains unapplied.
+- Disabled-original parity is exact. Standing frame1 differs by at most1.2e-7;
+  frames178 and211 equal the original arm vertices exactly.
+- Body, thighs, paws, tail and head hashes match the original at all17 preflight
+  poses. No replacement of their existing actions is involved.
+- All17 key-pose boards were inspected:67 color and12 shaded views. Frames43,
+  139,161 and171 include front, oblique, side, mirror, rear, rear-quarter and high
+  views. No detached shoulder, narrow wrist, sharp elbow hinge or folding surface
+  appeared in that sampled set. The hand remains rounded.
+- Five seated rest times91/101/121/139/141 preserve standing shape within1.2e-7
+  after root translation. This checks shape, not whether every hand pixel is visible.
+- 192 scalar C1 joins pass with maximum slope mismatch1.54e-6 per frame. All221
+  temporal samples are finite, closed and have positive fold margins. The smallest
+  margin is0.70765. Half-frame windows38–66 and73–94, plus quarter-frame149–179,
+  measure the release and approach. Step magnitudes are diagnostics, not perceptual
+  smoothness thresholds. Four poses prove the arm-only evaluation mask exact.
+- Modes0–2 bypass the extension exactly at nine sampled mode/frame combinations.
+- Twelve food-boundary samples compare original and candidate. At174 the worst
+  grip gap improves from0.0731975 to0.0725763. Other samples are no worse beyond
+  5.6e-9 floating-point noise; both values at174 still exceed the existing0.07 limit.
+- Source and working-native hashes remain unchanged throughout the temporal audit.
+- All211 native frames are inspected in front, oblique and side:633 view-frames
+  across18 full-resolution boards. All three60fps videos decode completely;
+  all21 movie/board transfers match their Windows SHA256 hashes. The17 preflight
+  poses were reused only with the same native and exact stored image hashes.
+  Full motion capture produced661 images including28 extra-angle preflight images.
+
+Reports: `native-save-report.json`, `preflight-report.json`,
+`preflight-visual-review.json`, `temporal-audit.json`, `motion-report.json`,
+`full-visual-review.json` and `review/motion-media.json`.
+
+## Remaining limits
+
+1. Raw contact is not qualified. The original standing-shaped arm overlaps the
+   body core (about−0.10094 distal clearance). Frame25 reaches−0.10988; seated rest
+   also overlaps the thigh (about−0.06559). These zero-clearance failures remain
+   failures. Shape parity does not prove collision freedom. The revised active
+   release keys53/61/75 have positive body/thigh clearance.
+2. Front seated feet hide part of the hand. The older80% visibility criterion
+   is not claimed as passed. Standing appearance is the current rest-shape rule.
+3. The inherited174 grip gap remains over its limit. Original food/head contacts
+   at203/205/207 remain unchanged, with maximum depth0.0281096. This is not a fully
+   qualified pickup or repaired eating-contact performance.
+4. The layer is authored for `SE212 | Sit then eat` in mode3. Disable Enabled
+   before choosing a different mode3 action. Arbitrary control combinations and
+   skeletal-only runtime export remain unverified.
+5. Main-agent inspection is not independent reviewer sign-off. The15 inherited
+   architecture issues and11 full-release groups remain open in
+   `qualification-scope.json`. No adopted registry is updated by this candidate.
+
+## Local playback
+
+Review: https://soyaoda.github.io/mozu-review/sit-eat-authored-arms/.
+All three views load at560px and play through at1x,0.5x and0.25x. Phase buttons,
+frame stepping and timeline seeking keep all three views at the same native time.
+All65 local references resolve; the browser reports no errors/warnings.
+`browser-check.json` binds the page and screenshots. The page is left at rest139.
+
+## Resource and delivery state
+
+All Blender evaluation, rendering, encoding and sheet generation run in the
+shared Windows FIFO. Mac work is limited to source edits, light checks and small
+media/report pulls. The5GB Windows free-space floor remains in force.
+
+Native/preflight FIFO20261003-095321-4f017ae2 and full audit/capture/encoding
+FIFO20261003-100925-b520bc05 completed successfully. All captures were finished
+within the original job; checkpoint continuation was not needed.
+
+Owner-authorized cleanup removed1916 derived files after media/hash/visual review:
+retired E7 PNGs, regenerable body-context arrays, F non-key captures and pilot PNGs.
+The receipt `derived-cache-cleanup.json` records every removed hash and220 protected
+files. All originals, natives, completed movies, review boards, arm anchors and
+the17 F preflight pose images remain. Observed free space increased244011008bytes;
+hard links mean the331446482 logical bytes were not all independently allocated.
+The raw per-frame reports describe the original capture; the cleanup receipt
+explicitly identifies which cached PNGs are no longer retained.
+
+The separate full-range native passed eight-pose save/reopen equivalence and
+edit/reset in FIFO20261003-113640-c383ccda, exit0. All owned heavy jobs are complete.
+Windows free space after delivery was5128400896bytes; the5GB floor held.
+The reviewed opening is211 frames at60fps; no full879-frame visual re-review is
+claimed. No public deployment, automatic commit or push is part of this delivery.
+</pre></html>

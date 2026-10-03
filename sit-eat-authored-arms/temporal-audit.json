@@ -1,0 +1,705 @@
+{
+  "native": {
+    "file": "mozu-siteat212-authored-arms-f.blend",
+    "sha256": "c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598",
+    "bytes": 221548635
+  },
+  "sourceSha256": "12866bd87ad5da6f4effe89206da0e13d5cc7e79f19fea74a6c59222c8f6115c",
+  "C1": {
+    "joins": 192,
+    "maximumSlopeMismatchPerFrame": 1.537691913355843e-06
+  },
+  "armOnlyEvaluationParity": [
+    {
+      "frame": 43,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "frame": 139,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "frame": 171,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "frame": 178,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    }
+  ],
+  "rest": [
+    {
+      "frame": 91,
+      "errors": {
+        "L": 1.1920928955078125e-07,
+        "R": 1.1920928955078125e-07
+      }
+    },
+    {
+      "frame": 101,
+      "errors": {
+        "L": 1.1920928955078125e-07,
+        "R": 1.1920928955078125e-07
+      }
+    },
+    {
+      "frame": 121,
+      "errors": {
+        "L": 1.1920928955078125e-07,
+        "R": 1.1920928955078125e-07
+      }
+    },
+    {
+      "frame": 139,
+      "errors": {
+        "L": 1.1920928955078125e-07,
+        "R": 1.1920928955078125e-07
+      }
+    },
+    {
+      "frame": 141,
+      "errors": {
+        "L": 1.1920928955078125e-07,
+        "R": 1.1920928955078125e-07
+      }
+    }
+  ],
+  "temporalWindows": [
+    {
+      "start": 38,
+      "end": 66,
+      "step": 0.5,
+      "samples": 57,
+      "maximumVertexStep": 0.02780616469681263,
+      "maximumStepToFrame": 49.5,
+      "foldMinimum": 0.7076514832057792,
+      "radiusErrorMaximum": 5.746796997996295e-07,
+      "note": "Step is a measured diagnostic, not a perceptual pass threshold"
+    },
+    {
+      "start": 73,
+      "end": 94,
+      "step": 0.5,
+      "samples": 43,
+      "maximumVertexStep": 0.01117380615323782,
+      "maximumStepToFrame": 82.0,
+      "foldMinimum": 0.9087640289042735,
+      "radiusErrorMaximum": 4.3908297578387767e-07,
+      "note": "Step is a measured diagnostic, not a perceptual pass threshold"
+    },
+    {
+      "start": 149,
+      "end": 179,
+      "step": 0.25,
+      "samples": 121,
+      "maximumVertexStep": 0.02225617878139019,
+      "maximumStepToFrame": 166.5,
+      "foldMinimum": 0.7147543303808234,
+      "radiusErrorMaximum": 4.6957544933279305e-06,
+      "note": "Step is a measured diagnostic, not a perceptual pass threshold"
+    }
+  ],
+  "grip": [
+    {
+      "frame": 173,
+      "baseline": {
+        "show": 0.07490048557519913,
+        "visible": false
+      },
+      "candidate": {
+        "show": 0.07490048557519913,
+        "visible": false
+      }
+    },
+    {
+      "frame": 173.5,
+      "baseline": {
+        "show": 0.23000465333461761,
+        "visible": false
+      },
+      "candidate": {
+        "show": 0.23000465333461761,
+        "visible": false
+      }
+    },
+    {
+      "frame": 174,
+      "baseline": {
+        "show": 0.5280640125274658,
+        "visible": true,
+        "gaps": {
+          "L": 0.07319743931293488,
+          "R": 0.07319745421409607
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.13095694780349731,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.369648277759552,
+          "mouthReach": -0.2734452486038208,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 0.5280640125274658,
+        "visible": true,
+        "gaps": {
+          "L": 0.07257626205682755,
+          "R": 0.07257627695798874
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.12815400958061218,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.36573106050491333,
+          "mouthReach": -0.26952803134918213,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 174.5,
+      "baseline": {
+        "show": 0.8218140602111816,
+        "visible": true,
+        "gaps": {
+          "L": 0.035489730536937714,
+          "R": 0.0354897603392601
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.05141228809952736,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.2786247730255127,
+          "mouthReach": -0.1824215054512024,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 0.8218140602111816,
+        "visible": true,
+        "gaps": {
+          "L": 0.035160887986421585,
+          "R": 0.03516091778874397
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.050175879150629044,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.276827335357666,
+          "mouthReach": -0.1806240677833557,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 175,
+      "baseline": {
+        "show": 0.9639908075332642,
+        "visible": true,
+        "gaps": {
+          "L": 0.019185423851013184,
+          "R": 0.01918545551598072
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.013422798365354538,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.23435735702514648,
+          "mouthReach": -0.13815408945083618,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 0.9639908075332642,
+        "visible": true,
+        "gaps": {
+          "L": 0.019079318270087242,
+          "R": 0.01907934807240963
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.012897170148789883,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.233575701713562,
+          "mouthReach": -0.1373724341392517,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 176,
+      "baseline": {
+        "show": 0.9906472563743591,
+        "visible": true,
+        "gaps": {
+          "L": 0.015693217515945435,
+          "R": 0.01569327898323536
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0056485747918486595,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.2249922752380371,
+          "mouthReach": -0.1287887692451477,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 0.9906472563743591,
+        "visible": true,
+        "gaps": {
+          "L": 0.01569102331995964,
+          "R": 0.015691084787249565
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.005573797505348921,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22488033771514893,
+          "mouthReach": -0.12867683172225952,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 177,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.01474322471767664,
+          "R": 0.014743272215127945
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028856974095106125,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22164344787597656,
+          "mouthReach": -0.12543994188308716,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.01474322471767664,
+          "R": 0.014743272215127945
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028856974095106125,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22164344787597656,
+          "mouthReach": -0.12543994188308716,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 177.5,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.014740021899342537,
+          "R": 0.014740069396793842
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028427322395145893,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22156822681427002,
+          "mouthReach": -0.12536215782165527,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.014740027487277985,
+          "R": 0.01474007498472929
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028436745051294565,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22157013416290283,
+          "mouthReach": -0.12536406517028809,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 178,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.01474322471767664,
+          "R": 0.014743272215127945
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028856974095106125,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22164344787597656,
+          "mouthReach": -0.12543994188308716,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.01474322471767664,
+          "R": 0.014743272215127945
+        },
+        "face": {
+          "maxDepth": 0.0,
+          "clearance": 0.0028856974095106125,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 0
+          },
+          "noseClear": 0.22164344787597656,
+          "mouthReach": -0.12543994188308716,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 203,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.02373436652123928,
+          "R": 0.023734338581562042
+        },
+        "face": {
+          "maxDepth": 0.02439005859196186,
+          "clearance": -0.02439005859196186,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 295
+          },
+          "noseClear": 0.15794789791107178,
+          "mouthReach": -0.02746504545211792,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.02373436652123928,
+          "R": 0.023734338581562042
+        },
+        "face": {
+          "maxDepth": 0.02439005859196186,
+          "clearance": -0.02439005859196186,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 295
+          },
+          "noseClear": 0.15794789791107178,
+          "mouthReach": -0.02746504545211792,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 205,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.026363635435700417,
+          "R": 0.026363743469119072
+        },
+        "face": {
+          "maxDepth": 0.028109585866332054,
+          "clearance": -0.028109585866332054,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 328
+          },
+          "noseClear": 0.13246679306030273,
+          "mouthReach": -0.009937644004821777,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.026363635435700417,
+          "R": 0.026363743469119072
+        },
+        "face": {
+          "maxDepth": 0.028109585866332054,
+          "clearance": -0.028109585866332054,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 328
+          },
+          "noseClear": 0.13246679306030273,
+          "mouthReach": -0.009937644004821777,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    },
+    {
+      "frame": 207,
+      "baseline": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.026880327612161636,
+          "R": 0.02688039280474186
+        },
+        "face": {
+          "maxDepth": 0.02497410960495472,
+          "clearance": -0.02497410960495472,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 288
+          },
+          "noseClear": 0.11769062280654907,
+          "mouthReach": -0.004174292087554932,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      },
+      "candidate": {
+        "show": 1.0,
+        "visible": true,
+        "gaps": {
+          "L": 0.026880327612161636,
+          "R": 0.02688039280474186
+        },
+        "face": {
+          "maxDepth": 0.02497410960495472,
+          "clearance": -0.02497410960495472,
+          "insideCounts": {
+            "NOSE535 | Separate closed solid.001": 0,
+            "HEAD535 | Continuous cranial and nasal cage.001": 288
+          },
+          "noseClear": 0.11769062280654907,
+          "mouthReach": -0.004174292087554932,
+          "noseOcclusion": {
+            "oblique": 0.0,
+            "front": 0.0
+          },
+          "topologyValid": true
+        }
+      }
+    }
+  ],
+  "walkingBypass": [
+    {
+      "mode": 0,
+      "frame": 1,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 0,
+      "frame": 25,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 0,
+      "frame": 139,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 1,
+      "frame": 1,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 1,
+      "frame": 25,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 1,
+      "frame": 139,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 2,
+      "frame": 1,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 2,
+      "frame": 25,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    },
+    {
+      "mode": 2,
+      "frame": 139,
+      "errors": {
+        "L": 0.0,
+        "R": 0.0
+      }
+    }
+  ],
+  "sourceUnchanged": true,
+  "nativeUnchanged": true,
+  "complete": true
+}

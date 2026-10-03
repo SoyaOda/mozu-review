@@ -1,0 +1,134 @@
+{
+  "native": {
+    "file": "mozu-siteat212-authored-arms-f.blend",
+    "sha256": "c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598",
+    "bytes": 221548635
+  },
+  "videos": [
+    {
+      "file": "motion-front.mp4",
+      "frames": 211,
+      "fps": 60,
+      "completeDecodePassed": true
+    },
+    {
+      "file": "motion-oblique.mp4",
+      "frames": 211,
+      "fps": 60,
+      "completeDecodePassed": true
+    },
+    {
+      "file": "motion-side.mp4",
+      "frames": 211,
+      "fps": 60,
+      "completeDecodePassed": true
+    }
+  ],
+  "files": [
+    {
+      "file": "motion-front.mp4",
+      "bytes": 240391,
+      "sha256": "b2dae8d74898de128550a2200b5a8ac65f2b8f0d436ae234b39b6476563257fa"
+    },
+    {
+      "file": "motion-front-sheet-01.jpg",
+      "bytes": 396131,
+      "sha256": "2d82848b25ec36b194d8786cd123b61a976ea6e5757ce695532536c74c9a6242"
+    },
+    {
+      "file": "motion-front-sheet-02.jpg",
+      "bytes": 393123,
+      "sha256": "615e0ba6562fcc1e790ccffe7ec16500c834b3de26c9968be1d4fb8d9bab1d5e"
+    },
+    {
+      "file": "motion-front-sheet-03.jpg",
+      "bytes": 386446,
+      "sha256": "7d0716b1b10ed568871913dba70be6db24d39be45ba82c7cbea2f4c7bc0f7a3f"
+    },
+    {
+      "file": "motion-front-sheet-04.jpg",
+      "bytes": 384194,
+      "sha256": "1e05982cffc135fd1ec2cdd5df8aae4746157c6a873978d88637215256469bfa"
+    },
+    {
+      "file": "motion-front-sheet-05.jpg",
+      "bytes": 393925,
+      "sha256": "78445b20c24cb31834ff37649d349bd109046b23505eb0d8977baa391d2d5d98"
+    },
+    {
+      "file": "motion-front-sheet-06.jpg",
+      "bytes": 352859,
+      "sha256": "08c4d68d5f67608705a5d0ec1d842f1dfb5f96913c20a1a11b703e27dc29c032"
+    },
+    {
+      "file": "motion-oblique.mp4",
+      "bytes": 226101,
+      "sha256": "8acdc4f0ce8bc98c200c0167eafaa95a5a86267b288f7dd9fec979aa9f096094"
+    },
+    {
+      "file": "motion-oblique-sheet-01.jpg",
+      "bytes": 346605,
+      "sha256": "1cfdd4e51b8f0593e45e6af7b88f1e0a380814438c0ccb391abb6a5491d8e420"
+    },
+    {
+      "file": "motion-oblique-sheet-02.jpg",
+      "bytes": 364876,
+      "sha256": "5b3818b7171ffe57bd00704049975675b1b4692ee71e0ab9dd50abcd16f0cf89"
+    },
+    {
+      "file": "motion-oblique-sheet-03.jpg",
+      "bytes": 361997,
+      "sha256": "d5e46275401ad9fc04b9e1b6a0491feb030e661788cdaba1044eceeb88b8339a"
+    },
+    {
+      "file": "motion-oblique-sheet-04.jpg",
+      "bytes": 361679,
+      "sha256": "897aab2ccedb1c506825eb161f1e59b56ff32886512aee5c37d2f3329384e7f0"
+    },
+    {
+      "file": "motion-oblique-sheet-05.jpg",
+      "bytes": 372677,
+      "sha256": "a5367203fcfc8bf3c3d2a687ed1da510e2a4a221925df2c098854ccc17abc192"
+    },
+    {
+      "file": "motion-oblique-sheet-06.jpg",
+      "bytes": 331522,
+      "sha256": "d3e6fd131772cafabd62f45c9ef47654b0b97d15e0f4e7d283936542d7eb13d2"
+    },
+    {
+      "file": "motion-side.mp4",
+      "bytes": 154333,
+      "sha256": "3475b596707cf7e84059a0d7fbf38548f5005761060573b680f4f831e689a130"
+    },
+    {
+      "file": "motion-side-sheet-01.jpg",
+      "bytes": 286792,
+      "sha256": "65c6376eaaca3c3176df0d7cead0d4fc7ac3dced1b7c3694711ddf2beb9bf6fa"
+    },
+    {
+      "file": "motion-side-sheet-02.jpg",
+      "bytes": 286495,
+      "sha256": "0a4394af064ee40d39b5bf9c43feb19a24505cd4eb4cab7064b41b19f61a8c9c"
+    },
+    {
+      "file": "motion-side-sheet-03.jpg",
+      "bytes": 288643,
+      "sha256": "12c195044e923fdb667a293d7d24f4d6bd2974f1c74ead073f06ce6d11b1fb00"
+    },
+    {
+      "file": "motion-side-sheet-04.jpg",
+      "bytes": 288668,
+      "sha256": "7e7fc6bf6599739f32c54aa715c96ef5269b6846c8c79d14f88cfde718406784"
+    },
+    {
+      "file": "motion-side-sheet-05.jpg",
+      "bytes": 289426,
+      "sha256": "b6e974ce5568be8232c8548152996a2d606072a27101fd102554d8e5efacb4c6"
+    },
+    {
+      "file": "motion-side-sheet-06.jpg",
+      "bytes": 259122,
+      "sha256": "8d3483f5706e69ea3453af502ad657c0cce78378a858690ad2f9b0090fe8567d"
+    }
+  ]
+}

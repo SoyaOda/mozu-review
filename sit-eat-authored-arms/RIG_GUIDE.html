@@ -1,0 +1,133 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SE212 · RIG_GUIDE</title><style>body{max-width:960px;margin:32px auto;padding:0 20px;background:#f1f0e9;color:#27312b;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:inherit}</style><a href="./">Back to three-view review</a><pre># SE212 authored arm rig F
+
+Status: delivered authored review candidate. The changed211-frame interval is
+reviewed; full-system qualification and owner adoption remain open.
+The original r12, the E7 candidate and all adopted releases remain preserved.
+
+## Native file
+
+Delivery file on Windows:
+`C:/mozu/se212/repo/output/rig_candidates/siteat212_20260925/authored_rig_20261003/mozu-siteat212-authored-arms-f-full.blend`.
+SHA256: `6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8`.
+The complete221551322-byte native stays on Windows under the owner&#x27;s resource rule.
+It opens at frame139, with Sit then eat selected, action mode3, and the complete
+frames1–879 at60fps. Normal playback requires no new Python frame handler.
+
+The reviewed opening is frames1–211. The separate working native
+`mozu-siteat212-authored-arms-f.blend` remains preserved, SHA256
+`c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598`. Delivery changes only the
+scene playback end from211 to879. Eight complete geometry hashes match before
+and after reopening, including frames439 and879; both shoulder controls change
+geometry and reset exactly. See `native-delivery.json`. The original action
+already contained879 frames; it has not been expanded by interpolation.
+
+## Design
+
+The five original reference clips are read by task: balance during descent,
+release after sitting, and quiet support while the head approaches the food.
+Independent front/side generated videos are not synchronized measurements.
+The sitting rest rule is the owner&#x27;s standing-arm appearance, not a compromise
+between incompatible generated endpoints. No numerical pose search or mechanical
+source fitting is used in this revision.
+
+The original2018-vertex arm material scaffold and radius profile are retained.
+A length-preserving material-frame sweep reuses the proven broad elbow model.
+The original standing length is0.8390248 units. The shoulder is bound to the real
+body surface at standing rest, with the original offset; it is not keyed through
+arbitrary world positions. A fixed radius profile carries the original hand volume.
+
+## Live controls
+
+Select either original arm and its `SE212F | Standing-preserving articulation`
+Geometry Nodes modifier. The modifier remains unapplied.
+
+| Control | Meaning |
+| --- | --- |
+| Swing | Shoulder forward/back rotation, degrees |
+| dRaise | Shoulder opening relative to standing, degrees |
+| dForward | Shoulder plane offset relative to standing, degrees |
+| Elbow | Broad elbow bend, degrees |
+| Elbow softness | Width of the bend along the arm; default0.55 |
+| Elbow center / plane | Bend location and orientation |
+| Wrist / Wrist side | Hand bend relative to the forearm, degrees |
+| Paw roll | Axial hand roll, degrees |
+| dBend | Existing whole-arm curvature offset used at the eating boundary |
+| Original blend | Frames171–178 transition to the existing eating geometry |
+
+`SE212F | Sit arm performance` exposes Enabled. Set it to0 to recover the complete
+original arm. Modes0–2 bypass the extension. This candidate is authored for
+`SE212 | Sit then eat` in mode3; disable the extension before choosing another
+mode3 action such as standalone Eat. The layer does not identify arbitrary action
+names automatically.
+
+The reviewed defaults are animated. Use the relevant arm action/keyframes when
+editing motion; playback restores keyed values. Wrist and roll are independently
+editable. The reopened file passed actual shoulder, elbow, wrist and roll changes
+and exact reset on both sides. Do not infer a general all-combinations safety
+limit from these individual control tests.
+
+## Timing and eating boundary
+
+There are14 authored keys with monotone C1 Bezier scalar interpolation:
+anticipation, forward balance, shoulder opening for release, lowering beside the
+body, rest, then an authored food-support approach. No source-coordinate objective
+or optimization is involved in building the keys.
+
+Rest frames91–141 preserve the standing shape, translated with the shoulder.
+The later food-support task intentionally meets the original longer eating arm;
+fixed standing length is not claimed across that transition. From frame178 the
+original evaluated arm is selected exactly. The existing eating performance and
+its later food/head contact limitations therefore remain separate from this change.
+
+## Source and reuse
+
+The source is `seated_authored_native.py`, supported by `seated_authored_rig.py`,
+`seated_authored_sweep.py` and `seated_authored_timing.py` in this lane&#x27;s research
+folder. The body-triangle binding and stored `c12_material` / `c12_ring` attributes
+are tied to the original topology and vertex order. Source topology changes require
+regenerating or explicitly transferring them. The small hidden ring objects are
+live integration scaffolds and must remain in the file.
+
+The supplied controls are native Blender authoring controls. No skeletal-only
+export or another runtime has been verified. Start edits from a new copy; do not
+overwrite a candidate or an adopted release.
+
+## Rebuild sequence
+
+Use a separate candidate checkout/output version. The native builder refuses to
+overwrite an existing F file. Keep the hash-bound r12 parent and
+`round2/pilot-report.json`: its `parentHoldMapping` contains the direct conversion
+of the existing food-hold controls, not fitted source coordinates. Native build
+inputs and source versions are recorded in `build-provenance.json`.
+
+Submit Blender/media commands through the shared Windows FIFO as owner `se212`,
+one owned job at a time. From the repository root, run these stages in order:
+
+1. Blender: `seated_authored_native.py` creates the editable native and verifies
+   save/reopen, original bypass and individual control edit/reset.
+2. Blender: `seated_authored_capture.py` creates the17-pose multi-view preflight;
+   Windows Python: `seated_authored_media.py` creates its JPEG boards.
+3. Blender: `seated_authored_audit.py` measures temporal joins, rest parity,
+   topology, grip and the bypass for other locomotion modes.
+4. Blender: `seated_authored_capture.py -- --full` captures the changed interval;
+   Windows Python: `seated_authored_media.py --full` creates the60fps videos and
+   every-frame boards. Do not replace visual review with geometry checks alone.
+5. Blender: `seated_authored_delivery.py` saves a separate full-range file and
+   verifies geometry plus an editable shoulder after reopening it.
+6. Pull only the small media/reports to Mac. Run `seated_authored_page.py` after
+   writing the review and guide; it requires the complete media and delivery proof.
+
+All named scripts are under `scripts/research/siteat212_20260925/`. The exact
+Blender command pattern is `blender.exe -b --python-exit-code 1 --python &lt;script&gt;`;
+pass script flags after `--`. Retain the5GB free-space floor and all source files.
+The14 authored poses and interpolation are in `seated_authored_native.py`; a new
+performance edit changes those semantic controls, followed by a new native version.
+
+## Review limits
+
+The standing arm already intersects the hidden body core. The seated rest retains
+that visual design. Raw zero-clearance measurements remain failed and are recorded;
+standing shape parity is not proof of collision freedom. Hand visibility can also
+change when seated feet occlude the arm in the front view. Read FINAL_REVIEW.md and
+the native reports for the measured scope and unresolved issues.
+</pre></html>

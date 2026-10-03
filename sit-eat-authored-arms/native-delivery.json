@@ -1,0 +1,49 @@
+{
+  "complete": true,
+  "change": "Scene playback end only,211 to879; all action curves and geometry retain their existing owners",
+  "reviewedWorkingNative": {
+    "file": "mozu-siteat212-authored-arms-f.blend",
+    "sha256": "c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598",
+    "bytes": 221548635
+  },
+  "native": {
+    "file": "mozu-siteat212-authored-arms-f-full.blend",
+    "bytes": 221551322,
+    "sha256": "6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8"
+  },
+  "priorEndFrame": 211,
+  "endFrame": 879,
+  "fps": 60,
+  "geometryHashBefore": {
+    "1": "d7ab5a2ddd524cc09d4728e8555d461973f4f8496b1dc0d3378fb8b0c30aa3aa",
+    "43": "6212ab99dba1e726a76bb87de7fbb7aa639e55429785eefa43fe44a133395f48",
+    "139": "ad85e025bc4a83ab7b66f4ee7c8852e75920b2a13d3de9ce84f348417cb5a777",
+    "171": "920e5eff989e2c7ab3addf801ab99bd46f82aecfb4a020b64a78791f53f929aa",
+    "178": "97560c272ca2e082ad8b315ae7f08c743abea46e105f1396bb41cb3eb4b4f468",
+    "205": "ebd6ee74a824099bf2f958eaf48a943e54b8aaf07a450f39bfbcfefe61e6c167",
+    "439": "208c1095ad02c9a43222931bf7f8bcd411ca8de8916e1458128fe861681ba36e",
+    "879": "99a923e930805d1a7b5cd6b56bdb47f731fdf80ab5b65ba95d4e8693684c7fa1"
+  },
+  "geometryHashAfterReopen": {
+    "1": "d7ab5a2ddd524cc09d4728e8555d461973f4f8496b1dc0d3378fb8b0c30aa3aa",
+    "43": "6212ab99dba1e726a76bb87de7fbb7aa639e55429785eefa43fe44a133395f48",
+    "139": "ad85e025bc4a83ab7b66f4ee7c8852e75920b2a13d3de9ce84f348417cb5a777",
+    "171": "920e5eff989e2c7ab3addf801ab99bd46f82aecfb4a020b64a78791f53f929aa",
+    "178": "97560c272ca2e082ad8b315ae7f08c743abea46e105f1396bb41cb3eb4b4f468",
+    "205": "ebd6ee74a824099bf2f958eaf48a943e54b8aaf07a450f39bfbcfefe61e6c167",
+    "439": "208c1095ad02c9a43222931bf7f8bcd411ca8de8916e1458128fe861681ba36e",
+    "879": "99a923e930805d1a7b5cd6b56bdb47f731fdf80ab5b65ba95d4e8693684c7fa1"
+  },
+  "reopenedControlEdit": {
+    "L": {
+      "shoulderEditDelta": 0.13069239258766174,
+      "resetError": 0.0
+    },
+    "R": {
+      "shoulderEditDelta": 0.13069239258766174,
+      "resetError": 0.0
+    }
+  },
+  "workingNativeUnchanged": true,
+  "freeBytes": 5128400896
+}

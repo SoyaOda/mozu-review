@@ -1,0 +1,396 @@
+{
+  "sourceSha256": "12866bd87ad5da6f4effe89206da0e13d5cc7e79f19fea74a6c59222c8f6115c",
+  "design": {
+    "binding": {
+      "metadata": {
+        "length": 0.7832830548286438,
+        "controls": {
+          "Raise": 39.48500442504883,
+          "Bend": -27.47989845275879,
+          "Stretch": 1.0711642503738403,
+          "Thickness": 1.106230616569519,
+          "Forward": 0.0
+        }
+      },
+      "binds": {
+        "L": {
+          "rootAtBind": [
+            -0.3621334731578827,
+            0.034651853144168854,
+            0.9810000061988831
+          ],
+          "bodyTriangle": [
+            22365,
+            22558,
+            22557
+          ],
+          "barycentric": [
+            0.253205269575119,
+            0.27742913365364075,
+            0.4693656265735626
+          ],
+          "offset": [
+            0.03493678569793701,
+            -0.004428409039974213,
+            -0.018733322620391846
+          ],
+          "distance": 0.03988893702626228,
+          "normal": [
+            -0.8758510947227478,
+            0.11101846396923065,
+            0.46963798999786377
+          ],
+          "method": "Standing-rest triangle binding; no pose fitting",
+          "materialVertices": 2018
+        },
+        "R": {
+          "rootAtBind": [
+            0.3621334731578827,
+            0.034651853144168854,
+            0.9810000061988831
+          ],
+          "bodyTriangle": [
+            22276,
+            22469,
+            22468
+          ],
+          "barycentric": [
+            0.2502894103527069,
+            0.7240513563156128,
+            0.025659244507551193
+          ],
+          "offset": [
+            -0.03492236137390137,
+            -0.004426583647727966,
+            -0.018767118453979492
+          ],
+          "distance": 0.039891988039016724,
+          "normal": [
+            0.8754229545593262,
+            0.11096419394016266,
+            0.47044819593429565
+          ],
+          "method": "Standing-rest triangle binding; no pose fitting",
+          "materialVertices": 2018
+        }
+      }
+    },
+    "keys": {
+      "L": [
+        {
+          "frame": 1,
+          "meaning": "standing",
+          "values": {}
+        },
+        {
+          "frame": 14,
+          "meaning": "anticipation begins",
+          "values": {}
+        },
+        {
+          "frame": 25,
+          "meaning": "prepare balance",
+          "values": {
+            "Swing": -10,
+            "Elbow": 12,
+            "dRaise": -2,
+            "dForward": 2
+          }
+        },
+        {
+          "frame": 37,
+          "meaning": "reach during descent",
+          "values": {
+            "Swing": -30,
+            "Elbow": 30,
+            "dRaise": -6,
+            "dForward": 8
+          }
+        },
+        {
+          "frame": 43,
+          "meaning": "balance",
+          "values": {
+            "Swing": -38,
+            "Elbow": 36,
+            "dRaise": -8,
+            "dForward": 10
+          }
+        },
+        {
+          "frame": 53,
+          "meaning": "open for release",
+          "values": {
+            "Swing": -30,
+            "Elbow": 28,
+            "dRaise": 16
+          }
+        },
+        {
+          "frame": 61,
+          "meaning": "release beside thigh",
+          "values": {
+            "Swing": -12,
+            "Elbow": 15,
+            "dRaise": 26
+          }
+        },
+        {
+          "frame": 75,
+          "meaning": "lower beside body",
+          "values": {
+            "dRaise": 18
+          }
+        },
+        {
+          "frame": 91,
+          "meaning": "standing arm at seated root",
+          "values": {}
+        },
+        {
+          "frame": 141,
+          "meaning": "rest hold",
+          "values": {}
+        },
+        {
+          "frame": 151,
+          "meaning": "prepare food support",
+          "values": {
+            "Swing": -22,
+            "Elbow": 25,
+            "dRaise": 18,
+            "dForward": 5
+          }
+        },
+        {
+          "frame": 161,
+          "meaning": "hands approach support",
+          "values": {
+            "Swing": -48,
+            "Elbow": 35,
+            "dRaise": 6,
+            "dForward": 10
+          }
+        },
+        {
+          "frame": 171,
+          "meaning": "original food-support boundary",
+          "values": {
+            "dBend": 2.161893844604492,
+            "dRaise": -38.35192883014679,
+            "dForward": -0.837220311164856,
+            "kStretch": 1.1412771823111638,
+            "Swing": -72.93556213378906,
+            "Surface follow": 0
+          }
+        },
+        {
+          "frame": 178,
+          "meaning": "original eating takes over",
+          "values": {
+            "dBend": 2.161893844604492,
+            "dRaise": -38.35192883014679,
+            "dForward": -0.837220311164856,
+            "kStretch": 1.1412771823111638,
+            "Swing": -72.93556213378906,
+            "Surface follow": 0
+          }
+        }
+      ],
+      "R": [
+        {
+          "frame": 1,
+          "meaning": "standing",
+          "values": {}
+        },
+        {
+          "frame": 14,
+          "meaning": "anticipation begins",
+          "values": {}
+        },
+        {
+          "frame": 25,
+          "meaning": "prepare balance",
+          "values": {
+            "Swing": -10,
+            "Elbow": 12,
+            "dRaise": -2,
+            "dForward": 2
+          }
+        },
+        {
+          "frame": 37,
+          "meaning": "reach during descent",
+          "values": {
+            "Swing": -30,
+            "Elbow": 30,
+            "dRaise": -6,
+            "dForward": 8
+          }
+        },
+        {
+          "frame": 43,
+          "meaning": "balance",
+          "values": {
+            "Swing": -38,
+            "Elbow": 36,
+            "dRaise": -8,
+            "dForward": 10
+          }
+        },
+        {
+          "frame": 53,
+          "meaning": "open for release",
+          "values": {
+            "Swing": -30,
+            "Elbow": 28,
+            "dRaise": 16
+          }
+        },
+        {
+          "frame": 61,
+          "meaning": "release beside thigh",
+          "values": {
+            "Swing": -12,
+            "Elbow": 15,
+            "dRaise": 26
+          }
+        },
+        {
+          "frame": 75,
+          "meaning": "lower beside body",
+          "values": {
+            "dRaise": 18
+          }
+        },
+        {
+          "frame": 91,
+          "meaning": "standing arm at seated root",
+          "values": {}
+        },
+        {
+          "frame": 141,
+          "meaning": "rest hold",
+          "values": {}
+        },
+        {
+          "frame": 151,
+          "meaning": "prepare food support",
+          "values": {
+            "Swing": -22,
+            "Elbow": 25,
+            "dRaise": 18,
+            "dForward": 5
+          }
+        },
+        {
+          "frame": 161,
+          "meaning": "hands approach support",
+          "values": {
+            "Swing": -48,
+            "Elbow": 35,
+            "dRaise": 6,
+            "dForward": 10
+          }
+        },
+        {
+          "frame": 171,
+          "meaning": "original food-support boundary",
+          "values": {
+            "dBend": 2.161893844604492,
+            "dRaise": -38.35192883014679,
+            "dForward": -0.837220311164856,
+            "kStretch": 1.1412771823111638,
+            "Swing": -72.93556213378906,
+            "Surface follow": 0
+          }
+        },
+        {
+          "frame": 178,
+          "meaning": "original eating takes over",
+          "values": {
+            "dBend": 2.161893844604492,
+            "dRaise": -38.35192883014679,
+            "dForward": -0.837220311164856,
+            "kStretch": 1.1412771823111638,
+            "Swing": -72.93556213378906,
+            "Surface follow": 0
+          }
+        }
+      ]
+    }
+  },
+  "blender": "5.2.0 LTS",
+  "checks": {
+    "L": {
+      "saveReopenError": 0.0,
+      "unappliedNodes": true,
+      "edits": {
+        "Swing": {
+          "delta": 0.13069239258766174,
+          "resetError": 0.0
+        },
+        "Elbow": {
+          "delta": 0.14462897181510925,
+          "resetError": 0.0
+        },
+        "Wrist": {
+          "delta": 0.056969549506902695,
+          "resetError": 0.0
+        },
+        "Paw roll": {
+          "delta": 0.054978154599666595,
+          "resetError": 0.0
+        }
+      }
+    },
+    "R": {
+      "saveReopenError": 0.0,
+      "unappliedNodes": true,
+      "edits": {
+        "Swing": {
+          "delta": 0.13069239258766174,
+          "resetError": 0.0
+        },
+        "Elbow": {
+          "delta": 0.14462897181510925,
+          "resetError": 0.0
+        },
+        "Wrist": {
+          "delta": 0.056969549506902695,
+          "resetError": 0.0
+        },
+        "Paw roll": {
+          "delta": 0.054978158324956894,
+          "resetError": 0.0
+        }
+      }
+    }
+  },
+  "disabledParity": {
+    "L": 0.0,
+    "R": 0.0
+  },
+  "boundaryParity": {
+    "1": {
+      "L": 1.1920928955078125e-07,
+      "R": 1.1920928955078125e-07
+    },
+    "178": {
+      "L": 0.0,
+      "R": 0.0
+    },
+    "211": {
+      "L": 0.0,
+      "R": 0.0
+    }
+  },
+  "sourceUnchanged": true,
+  "native": {
+    "file": "mozu-siteat212-authored-arms-f.blend",
+    "sha256": "c1ccaac26eb9987e690a41ab3fc9aa0d805b8d0640c9d714159f93eee7d32598",
+    "bytes": 221548635
+  },
+  "freeBytes": 5235752960,
+  "complete": true
+}

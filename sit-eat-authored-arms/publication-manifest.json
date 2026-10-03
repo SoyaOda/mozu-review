@@ -1,0 +1,244 @@
+{
+  "url": "https://soyaoda.github.io/mozu-review/sit-eat-authored-arms/",
+  "native": {
+    "file": "mozu-siteat212-authored-arms-f-full.blend",
+    "bytes": 221551322,
+    "sha256": "6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8"
+  },
+  "files": [
+    {
+      "file": "FINAL_REVIEW.html",
+      "bytes": 8994,
+      "sha256": "e67b4188b47f44066c23dfa21ec968a26a4148825233a5e9174c1c85fbf36579"
+    },
+    {
+      "file": "RIG_GUIDE.html",
+      "bytes": 7853,
+      "sha256": "ae38465426e6154f2dc8d92e26a97bb627ff438365f943dae4bf68c5f0121c8c"
+    },
+    {
+      "file": "eat-front.jpg",
+      "bytes": 206328,
+      "sha256": "5529a85be3105f431a504879063ce978b619a179480409f7705efd55946f8143"
+    },
+    {
+      "file": "eat-oblique.jpg",
+      "bytes": 182215,
+      "sha256": "38d8c641fa62cab5fc5757f864e5f2a28395908f359f561182d84727fcaf4ef3"
+    },
+    {
+      "file": "eat-side.jpg",
+      "bytes": 185025,
+      "sha256": "4b817899dc9d41ff84dfab1e09ffee8b19fba6388e80afb2c81efbf72d6f1590"
+    },
+    {
+      "file": "index.html",
+      "bytes": 11533,
+      "sha256": "6214a1faa7fc30da55c3f423970131bedd3fe74e4320fca5fe5db487afc09c42"
+    },
+    {
+      "file": "motion-front-sheet-01.jpg",
+      "bytes": 396131,
+      "sha256": "2d82848b25ec36b194d8786cd123b61a976ea6e5757ce695532536c74c9a6242"
+    },
+    {
+      "file": "motion-front-sheet-02.jpg",
+      "bytes": 393123,
+      "sha256": "615e0ba6562fcc1e790ccffe7ec16500c834b3de26c9968be1d4fb8d9bab1d5e"
+    },
+    {
+      "file": "motion-front-sheet-03.jpg",
+      "bytes": 386446,
+      "sha256": "7d0716b1b10ed568871913dba70be6db24d39be45ba82c7cbea2f4c7bc0f7a3f"
+    },
+    {
+      "file": "motion-front-sheet-04.jpg",
+      "bytes": 384194,
+      "sha256": "1e05982cffc135fd1ec2cdd5df8aae4746157c6a873978d88637215256469bfa"
+    },
+    {
+      "file": "motion-front-sheet-05.jpg",
+      "bytes": 393925,
+      "sha256": "78445b20c24cb31834ff37649d349bd109046b23505eb0d8977baa391d2d5d98"
+    },
+    {
+      "file": "motion-front-sheet-06.jpg",
+      "bytes": 352859,
+      "sha256": "08c4d68d5f67608705a5d0ec1d842f1dfb5f96913c20a1a11b703e27dc29c032"
+    },
+    {
+      "file": "motion-front.mp4",
+      "bytes": 240391,
+      "sha256": "b2dae8d74898de128550a2200b5a8ac65f2b8f0d436ae234b39b6476563257fa"
+    },
+    {
+      "file": "motion-media.json",
+      "bytes": 4091,
+      "sha256": "9dcfe153c0c91e52a0984a5a3b73cd55bfb6417e06e81d0d844077e9a811db51"
+    },
+    {
+      "file": "motion-oblique-sheet-01.jpg",
+      "bytes": 346605,
+      "sha256": "1cfdd4e51b8f0593e45e6af7b88f1e0a380814438c0ccb391abb6a5491d8e420"
+    },
+    {
+      "file": "motion-oblique-sheet-02.jpg",
+      "bytes": 364876,
+      "sha256": "5b3818b7171ffe57bd00704049975675b1b4692ee71e0ab9dd50abcd16f0cf89"
+    },
+    {
+      "file": "motion-oblique-sheet-03.jpg",
+      "bytes": 361997,
+      "sha256": "d5e46275401ad9fc04b9e1b6a0491feb030e661788cdaba1044eceeb88b8339a"
+    },
+    {
+      "file": "motion-oblique-sheet-04.jpg",
+      "bytes": 361679,
+      "sha256": "897aab2ccedb1c506825eb161f1e59b56ff32886512aee5c37d2f3329384e7f0"
+    },
+    {
+      "file": "motion-oblique-sheet-05.jpg",
+      "bytes": 372677,
+      "sha256": "a5367203fcfc8bf3c3d2a687ed1da510e2a4a221925df2c098854ccc17abc192"
+    },
+    {
+      "file": "motion-oblique-sheet-06.jpg",
+      "bytes": 331522,
+      "sha256": "d3e6fd131772cafabd62f45c9ef47654b0b97d15e0f4e7d283936542d7eb13d2"
+    },
+    {
+      "file": "motion-oblique.mp4",
+      "bytes": 226101,
+      "sha256": "8acdc4f0ce8bc98c200c0167eafaa95a5a86267b288f7dd9fec979aa9f096094"
+    },
+    {
+      "file": "motion-side-sheet-01.jpg",
+      "bytes": 286792,
+      "sha256": "65c6376eaaca3c3176df0d7cead0d4fc7ac3dced1b7c3694711ddf2beb9bf6fa"
+    },
+    {
+      "file": "motion-side-sheet-02.jpg",
+      "bytes": 286495,
+      "sha256": "0a4394af064ee40d39b5bf9c43feb19a24505cd4eb4cab7064b41b19f61a8c9c"
+    },
+    {
+      "file": "motion-side-sheet-03.jpg",
+      "bytes": 288643,
+      "sha256": "12c195044e923fdb667a293d7d24f4d6bd2974f1c74ead073f06ce6d11b1fb00"
+    },
+    {
+      "file": "motion-side-sheet-04.jpg",
+      "bytes": 288668,
+      "sha256": "7e7fc6bf6599739f32c54aa715c96ef5269b6846c8c79d14f88cfde718406784"
+    },
+    {
+      "file": "motion-side-sheet-05.jpg",
+      "bytes": 289426,
+      "sha256": "b6e974ce5568be8232c8548152996a2d606072a27101fd102554d8e5efacb4c6"
+    },
+    {
+      "file": "motion-side-sheet-06.jpg",
+      "bytes": 259122,
+      "sha256": "8d3483f5706e69ea3453af502ad657c0cce78378a858690ad2f9b0090fe8567d"
+    },
+    {
+      "file": "motion-side.mp4",
+      "bytes": 154333,
+      "sha256": "3475b596707cf7e84059a0d7fbf38548f5005761060573b680f4f831e689a130"
+    },
+    {
+      "file": "native-delivery.json",
+      "bytes": 2205,
+      "sha256": "38f46aebe017ca0e7781a2d80a5b0fe7d5e91f904f0fb09730b29647bc4d10a9"
+    },
+    {
+      "file": "native-save-report.json",
+      "bytes": 9761,
+      "sha256": "b6b0171660a827054b4b5583eed670eb6df74f247b03d6ab6fd4d42de14f4861"
+    },
+    {
+      "file": "pose-001.jpg",
+      "bytes": 45096,
+      "sha256": "d060a16eae5870ff1b9c697093278276a16675b71a7d94df9f81e5b3c4b4f9c2"
+    },
+    {
+      "file": "pose-043.jpg",
+      "bytes": 145158,
+      "sha256": "37dd0a9b74945582ee2fe6abe7540f476553e418cb15110180a230c83165f5b5"
+    },
+    {
+      "file": "pose-091.jpg",
+      "bytes": 45630,
+      "sha256": "3d61f2aed032e6b31172580d33df3552a1e45d7bfb3076354a34e8019104137f"
+    },
+    {
+      "file": "pose-139.jpg",
+      "bytes": 146031,
+      "sha256": "ac9ef57093c5f000aab999b465f573ddbdd392a5d69e92bf1de2bd577abd5551"
+    },
+    {
+      "file": "pose-161.jpg",
+      "bytes": 150323,
+      "sha256": "6e32b8531a2edfcfae19a03c518b5fbf5a2d644dc5131d3284afb5f20f6bad85"
+    },
+    {
+      "file": "pose-171.jpg",
+      "bytes": 148457,
+      "sha256": "1457f25ac1213b1a58671c52cd17c86070d1fdba6fed21af56191453b00c9bbb"
+    },
+    {
+      "file": "sit-front.jpg",
+      "bytes": 209120,
+      "sha256": "44b75069bed4add7cdff2d593ae6d29b00f28d5c008cb9c71d9346e9082f7595"
+    },
+    {
+      "file": "sit-side.jpg",
+      "bytes": 162416,
+      "sha256": "5b699fade74436d97ff8b50b9f742f08d17933e9086bdae69825d37b0aac64b2"
+    },
+    {
+      "file": "temporal-audit.json",
+      "bytes": 18364,
+      "sha256": "2be31760c75368959dfbbdbcc5283a7ac5e0aeea2b4be9ad7b5628f13870ec13"
+    }
+  ],
+  "exactSourceCopies": [
+    "eat-front.jpg",
+    "eat-oblique.jpg",
+    "eat-side.jpg",
+    "native-delivery.json",
+    "native-save-report.json",
+    "sit-front.jpg",
+    "sit-side.jpg",
+    "temporal-audit.json",
+    "motion-front-sheet-01.jpg",
+    "motion-front-sheet-02.jpg",
+    "motion-front-sheet-03.jpg",
+    "motion-front-sheet-04.jpg",
+    "motion-front-sheet-05.jpg",
+    "motion-front-sheet-06.jpg",
+    "motion-front.mp4",
+    "motion-media.json",
+    "motion-oblique-sheet-01.jpg",
+    "motion-oblique-sheet-02.jpg",
+    "motion-oblique-sheet-03.jpg",
+    "motion-oblique-sheet-04.jpg",
+    "motion-oblique-sheet-05.jpg",
+    "motion-oblique-sheet-06.jpg",
+    "motion-oblique.mp4",
+    "motion-side-sheet-01.jpg",
+    "motion-side-sheet-02.jpg",
+    "motion-side-sheet-03.jpg",
+    "motion-side-sheet-04.jpg",
+    "motion-side-sheet-05.jpg",
+    "motion-side-sheet-06.jpg",
+    "motion-side.mp4",
+    "pose-001.jpg",
+    "pose-043.jpg",
+    "pose-091.jpg",
+    "pose-139.jpg",
+    "pose-161.jpg",
+    "pose-171.jpg"
+  ],
+  "scope": "Reviewed opening211 frames; full editable native remains on Windows"
+}

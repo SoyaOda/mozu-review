@@ -1,2 +1,3 @@
 # Preserve the exact Windows-generated evidence bytes.
 sweep25/motion01/*.json -text whitespace=cr-at-eol
+sit-eat-authored-arms/*.json -text whitespace=cr-at-eol
