@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>座ったときの腕：判断ページ</title>
+<style>
+:root{--bg:#ECEEF1;--fg:#20242A;--muted:#5B6270;--card:#fff;--accent:#C0414C;--ok:#2E7D4F}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1100px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+h1{font-size:1.5rem;margin:0 0 4px}h2{font-size:1.2rem;margin:32px 0 8px}
+.card{background:var(--card);border-radius:12px;padding:14px 16px;margin:12px 0;box-shadow:0 1px 3px #0001}
+img{width:100%;border-radius:8px;display:block}
+.muted{color:var(--muted);font-size:.9rem}
+table{border-collapse:collapse;width:100%;font-size:.95rem}td,th{border-bottom:1px solid #e3e5ea;padding:6px 8px;text-align:left}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.tabs button{font:inherit;padding:6px 14px;margin:0 6px 8px 0;border-radius:8px;border:1px solid #bbb;background:#fff;cursor:pointer}
+.tabs button.on{background:var(--fg);color:#fff;border-color:var(--fg)}
+.opt{border-left:5px solid #ccc}.opt.rec{border-left-color:var(--ok)}
+.tag{display:inline-block;font-size:.8rem;padding:1px 8px;border-radius:99px;background:var(--ok);color:#fff;margin-left:6px}
+a{color:var(--accent)}
+</style>
+<p><a href="../">← 一覧</a></p>
+<h1>座ったときの腕：どう直すかの判断ページ</h1>
+<p class="muted">2026-10-03。おすわり＋おにぎり（SE212）の r12。座ると腕が太ももの後ろに隠れて見切れる件。</p>
+
+<h2>1. いまの問題</h2>
+<div class="card"><img src="media/r12-arm-visibility.jpg" alt="r12 腕の見え方">
+<p class="muted">腕を赤・青に塗り分けて撮影（左：通常、右：腕だけ）。正面では腕が腰・太ももの後ろに入っています。</p>
+<table><tr><th>見る方向</th><th>腕が見えている割合</th><th>先端（手）が見えている割合</th></tr>
+<tr><td>正面</td><td>約 31%</td><td><b>約 6%</b></td></tr>
+<tr><td>斜め（手前の腕）</td><td>86%</td><td>97%</td></tr>
+<tr><td>横（手前の腕）</td><td>94%</td><td>100%</td></tr></table></div>
+<div class="card"><p class="muted">元動画（座り終わり）：腕は体の前側に沿って下がり、手は足の少し上でお腹の下に乗っていて全部見えています。</p>
+<div class="grid2"><img src="media/ssot-f-front-sit-soft.jpg" alt="SSOT 正面"><img src="media/ssot-a-side-sit-soft.jpg" alt="SSOT 横"></div></div>
+
+<h2>2. 原因</h2>
+<div class="card"><ul>
+<li>座る動きは<b>横からの元動画だけ</b>で合わせていて、腕を前に出す量・開き・上げ具合は合わせていませんでした（前回の足と同じ原因）。</li>
+<li>さらに根本には、腕の<b>肩の付け根が体の中ほどの深さに固定</b>されていることがあります。座ると太ももが前と上に膨らむので、手の先はすでに太ももと体に少しめり込んでいます（体 -0.08、太もも -0.06）。</li>
+<li>今ある腕の動き（前後・上げ・曲げ・長さ）だけで元動画の手の位置に合わせると、手はお腹の中へ入ってしまいます（下の中段・不採用）。約 3万6千通り試しても、めり込まない組み合わせはありませんでした。</li>
+</ul><img src="media/r13-pilot.jpg" alt="r13 試作"><p class="muted">上段 r12／中段 今の動きだけで手の位置を合わせた試作（腕が体に埋まって見えない＝不採用）／下段 元動画</p></div>
+
+<h2>3. 提案：座るときだけ肩の付け根を前へ移す（見た目のイメージ）</h2>
+<div class="card"><p class="muted">腕を前に平行移動しただけの<b>イメージ</b>です（実際の作り直しでは、肩を体の表面に沿って移し、手が太ももの上に乗るよう腕の角度も合わせます）。</p>
+<div class="tabs" id="tabs"></div><div class="grid3" id="mock"></div>
+<table id="clr"><tr><th>前への移動量</th><th>手先と体のすき間</th><th>手先と太もものすき間</th></tr>
+<tr><td>0（r12）</td><td>-0.083（めり込み）</td><td>-0.055（めり込み）</td></tr>
+<tr><td>0.15</td><td>-0.063</td><td>-0.108</td></tr>
+<tr><td>0.25</td><td>-0.032</td><td>-0.133</td></tr>
+<tr><td>0.35</td><td>+0.010（離れる）</td><td>-0.156</td></tr></table>
+<p class="muted">平行移動だけだと、体からは離れても今度は前に盛り上がった太ももに手が入ります。本番では手を太ももの<b>上</b>に乗せる角度も同時に解き、めり込みゼロと「手が8割以上見える」をチェックで確かめます。</p></div>
+
+<h2>4. 選択肢</h2>
+<div class="card opt rec"><b>A. 座るときだけ肩の付け根を前へ移す動きをリグに追加</b><span class="tag">おすすめ</span><ul>
+<li>手がお腹の前・太ももの上に来て、元動画のように正面・斜め・横で見える。</li>
+<li>横から見ると手が少し前に出る（元動画の横も手は体の中心より前なので近づく）。</li>
+<li>座っていない間（立ち・歩き・走り）は今のまま。食事の動きもそのまま。</li></ul></div>
+<div class="card opt"><b>B. 今のまま（r12）</b><ul><li>正面で手が隠れ、手先が太ももに少しめり込んだまま。</li></ul></div>
+<div class="card opt"><b>C. 肘のある新しい腕のリグ（別セッションで開発中）を待って、それで座りを作り直す</b><ul>
+<li>肘で曲げて手を太ももに置けるので、根本的にはこちらが本命になり得る。</li>
+<li>ただし完成時期は未定で、他の動き（食事など）も作り直しになる。</li></ul></div>
+
+<h2>5. 決めていただきたいこと</h2>
+<div class="card"><p>A / B / C のどれにするか、チャットで返信してください。A の場合、前への移動量の目安（イメージ上は 0.25〜0.35 あたり）にご希望があれば添えてください。</p></div>
+<script>
+const offs=['0.00','0.15','0.25','0.35'],labels=['0（r12）','0.15','0.25','0.35'];
+const tabs=document.getElementById('tabs'),mock=document.getElementById('mock');
+function show(i){[...tabs.children].forEach((b,j)=>b.className=j==i?'on':'');mock.innerHTML=['front','oblique','side'].map(v=>`<img src="media/mock${offs[i]}-${v}.jpg" alt="${v}">`).join('');}
+offs.forEach((o,i)=>{const b=document.createElement('button');b.textContent='前へ '+labels[i];b.onclick=()=>show(i);tabs.appendChild(b);});show(3);
+</script>
