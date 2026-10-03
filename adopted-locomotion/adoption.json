@@ -1,0 +1,36 @@
+{
+  "walk": {
+    "version": "1.1.0",
+    "rig_revision": "Locomotion219",
+    "adopted_on": "2026-09-27",
+    "nativeSHA256": "bdd583979432369752ac8da247d17c7add9f32388fe3d51c55ddabda42a834c7",
+    "motion": {
+      "frames": [
+        1,
+        58
+      ],
+      "fps": 60,
+      "periodSeconds": 0.9666666666666667,
+      "loop": true,
+      "performance": "walk219 bouncy walk (G prompt, side-view source)"
+    },
+    "status": "owner-accepted-provisional"
+  },
+  "run": {
+    "version": "1.1.0",
+    "rig_revision": "Locomotion221k-A3",
+    "adopted_on": "2026-10-03",
+    "nativeSHA256": "7e23485d963f1d7a16c8ad909e9549cbf19808b66d39daae6f8bad1cdf5cdc82",
+    "motion": {
+      "frames": [
+        1,
+        40
+      ],
+      "fps": 60,
+      "periodSeconds": 0.6666666666666666,
+      "loop": true,
+      "performance": "Run221k A3 relaxed run"
+    },
+    "status": "owner-accepted-provisional"
+  }
+}
