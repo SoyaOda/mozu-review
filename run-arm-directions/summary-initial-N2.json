@@ -1,0 +1,632 @@
+{
+  "221k": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 130.0,
+          "max": 3819.0,
+          "minOverRest": 0.0718232044198895,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5466.0,
+          "max": 11147.0,
+          "minOverRest": 0.6330785267546908,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13536.0,
+          "max": 17163.0,
+          "minOverRest": 0.8892976808356875,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 132.0,
+          "max": 3820.0,
+          "minOverRest": 0.07300884955752213,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5466.0,
+          "max": 11148.0,
+          "minOverRest": 0.632565675269066,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13531.0,
+          "max": 17147.0,
+          "minOverRest": 0.8881522809320643,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 0.34834008341551087,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 0.3483400785191819,
+        "forwardFrame": 13
+      }
+    },
+    "nativeSHA256": "1095c43b1eb33ad00578b2ab8a034a6d6ef34cb7f2df36716d4c3d19ba8c0bd4",
+    "direction": null,
+    "capture": {
+      "frames": 40,
+      "sourceFps": 60,
+      "periodSeconds": 0.6666666666666666,
+      "interpolated": false,
+      "sameNativeVerified": true
+    },
+    "viewGates": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": true,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": true,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": true,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": true,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": true,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": true,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "failedHardViewChecks": []
+  },
+  "A2": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 106.0,
+          "max": 4450.0,
+          "minOverRest": 0.05856353591160221,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5613.0,
+          "max": 11824.0,
+          "minOverRest": 0.6501042390548992,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13695.0,
+          "max": 18324.0,
+          "minOverRest": 0.8997437750476316,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 108.0,
+          "max": 4447.0,
+          "minOverRest": 0.059734513274336286,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5623.0,
+          "max": 11819.0,
+          "minOverRest": 0.6507348686494618,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13697.0,
+          "max": 18330.0,
+          "minOverRest": 0.8990482441745979,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 0.3415460940062804,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 0.3415460891099514,
+        "forwardFrame": 13
+      }
+    },
+    "nativeSHA256": "daf84d692218433a9e73e268ac3c0789ad7bed9b51e51977aa8d3539d674d63d",
+    "direction": {
+      "label": "A2: relaxed near-straight arms",
+      "direction": "A: nearly straight",
+      "flexMin": 12.0,
+      "flexMax": 20.0,
+      "curlMax": 0.0,
+      "plane": 65.0,
+      "abduction": 6.0,
+      "intent": "Add a small soft bend to A while retaining its quiet, almost-straight silhouette."
+    },
+    "capture": {
+      "frames": 40,
+      "sourceFps": 60,
+      "periodSeconds": 0.6666666666666666,
+      "interpolated": false,
+      "sameNativeVerified": true
+    },
+    "viewGates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "failedHardViewChecks": [
+      "V1"
+    ]
+  },
+  "D2": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 210.0,
+          "max": 4341.0,
+          "minOverRest": 0.11602209944751381,
+          "pop20": 8,
+          "pop10": 18,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 6134.0,
+          "max": 11579.0,
+          "minOverRest": 0.7104470697243456,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 14906.0,
+          "max": 18594.0,
+          "minOverRest": 0.9793049076933185,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 209.0,
+          "max": 4335.0,
+          "minOverRest": 0.11559734513274336,
+          "pop20": 8,
+          "pop10": 18,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 6127.0,
+          "max": 11576.0,
+          "minOverRest": 0.7090614512209235,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 14893.0,
+          "max": 18580.0,
+          "minOverRest": 0.9775516901870692,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 0.3172554157323409,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 0.3172554108360119,
+        "forwardFrame": 13
+      }
+    },
+    "nativeSHA256": "06e695bb2126217735152f539999525457c0a47bbd28866979157f0f8b435b78",
+    "direction": {
+      "label": "D2: narrower steady bent arms",
+      "direction": "D: steady bent elbow",
+      "flexMin": 45.0,
+      "flexMax": 45.0,
+      "curlMax": 0.0,
+      "plane": 65.0,
+      "abduction": 12.0,
+      "intent": "Reduce the outward placement from D 16 to 12 degrees; retain the steady bend and forward/backward rhythm."
+    },
+    "capture": {
+      "frames": 40,
+      "sourceFps": 60,
+      "periodSeconds": 0.6666666666666666,
+      "interpolated": false,
+      "sameNativeVerified": true
+    },
+    "viewGates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": false,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": false,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "failedHardViewChecks": [
+      "V1"
+    ]
+  },
+  "N2": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 98.0,
+          "max": 4152.0,
+          "minOverRest": 0.05414364640883978,
+          "pop20": 10,
+          "pop10": 11,
+          "pop30": 6,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 4989.0,
+          "max": 11311.0,
+          "minOverRest": 0.5778318276580959,
+          "pop20": 0,
+          "pop10": 5,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13042.0,
+          "max": 17601.0,
+          "minOverRest": 0.856842520202352,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 101.0,
+          "max": 4147.0,
+          "minOverRest": 0.055862831858407076,
+          "pop20": 10,
+          "pop10": 11,
+          "pop30": 6,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 4993.0,
+          "max": 11309.0,
+          "minOverRest": 0.5778266404351349,
+          "pop20": 0,
+          "pop10": 5,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13040.0,
+          "max": 17600.0,
+          "minOverRest": 0.8559238595339679,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 0.33973090734173667,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 0.3397309024454077,
+        "forwardFrame": 13
+      }
+    },
+    "nativeSHA256": "8fb54a024e14c7ed73eb0d851b698a3fa2a24f3f2f54020730be627e1143aa71",
+    "direction": {
+      "label": "N2: compact soft elbow pump",
+      "direction": "N: retain 221k narrow width",
+      "flexMin": 35.0,
+      "flexMax": 50.0,
+      "curlMax": 5.0,
+      "plane": 65.0,
+      "abduction": 6.0,
+      "intent": "Keep the 221k shoulder abduction; reduce elbow pump from 50 to 15 degrees and curl from 25 to 5 degrees."
+    },
+    "capture": {
+      "frames": 40,
+      "sourceFps": 60,
+      "periodSeconds": 0.6666666666666666,
+      "interpolated": false,
+      "sameNativeVerified": true
+    },
+    "viewGates": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": false,
+      "V5": false,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": true,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": true,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": false,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": true,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": false,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": true,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "failedHardViewChecks": [
+      "V4",
+      "V5"
+    ]
+  }
+}
