@@ -1,0 +1,73 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu · Front arm comparison</title>
+<style>:root{--bg:#ECEEF1;--fg:#20242A;--card:#fff;--acc:#C0414C}@media (prefers-color-scheme:dark){:root{--bg:#1B1E22;--fg:#E6E8EB;--card:#2A2E34;--acc:#F07A84}}
+body{font:16px/1.75 "Hiragino Sans",system-ui,sans-serif;max-width:1000px;margin:32px auto;padding:0 16px;color:var(--fg);background:var(--bg)}
+video,img{width:100%;border-radius:10px;background:#fff}.card{background:var(--card);border-radius:12px;padding:16px 20px;margin:18px 0}h2{margin-top:0}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border-bottom:1px solid #8883;padding:4px 6px;text-align:left}</style>
+
+<style>
+*{box-sizing:border-box}body{max-width:1120px;margin:28px auto}a{color:var(--acc)}
+.eyebrow{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--acc)}
+h1{font-size:clamp(27px,4vw,40px);line-height:1.2;margin:12px 0}h2{font-size:22px}
+.intro{max-width:800px}.controls{display:flex;gap:12px;flex-wrap:wrap;align-items:end}
+label{display:grid;gap:4px;font-size:14px}select,button{font:inherit;padding:8px 12px;border:1px solid #8886;border-radius:7px;background:var(--card);color:var(--fg)}
+button{cursor:pointer}button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--acc);outline-offset:3px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}.panel{min-width:0}
+.caption{min-height:2em;font-size:14px}.crop{aspect-ratio:1;max-width:350px;margin:auto;position:relative;overflow:hidden;background:#fafafa;border-radius:10px}
+.crop video{position:absolute;top:0;left:0;width:600%;height:100%;max-width:none;border-radius:0;pointer-events:none}
+.timeline{display:flex;align-items:center;gap:12px;margin-top:14px}.timeline input{flex:1;min-width:60px}
+.note{font-size:14px;opacity:.85}.table-scroll{overflow:auto}th,td{min-width:75px;vertical-align:top}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:13px}.swatch{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px}
+.warning{border-left:4px solid var(--acc);padding-left:14px}details{margin:20px 0}summary{cursor:pointer;font-weight:600}
+.evidence img{margin:10px 0}.keyposes{overflow:auto}.keyposes img{min-width:900px;display:block}
+@media(max-width:560px){body{padding:0 10px}.card{padding:14px}.pair{gap:8px}.caption{font-size:12px;min-height:4.5em}.timeline{gap:6px}.timeline button{padding:6px 9px}}
+</style></head><body>
+<p class="eyebrow">Mozu motion study · 3 October 2026</p>
+<h1>A steadier front-view arm</h1>
+<p class="intro">Compare the current 221k run with five arm-only studies. The legs, body, head and tail retain the same motion. Start from the front, then check the side and oblique views.</p>
+<p><a href="../run-arms/">View the shaded 221k baseline</a> · <a href="../">All reviews</a></p>
+<section class="card" aria-labelledby="comparison-title">
+<h2 id="comparison-title">Current run / arm study</h2>
+<div class="controls">
+<label>Study<select id="variant">
+<option value="1">A · almost straight</option><option value="2">B · steady 45° elbow</option><option value="3">C · inward path + elbow plane</option><option value="4" selected>D · wider outward placement</option><option value="5">E · mild inward path</option></select></label>
+<label>View<select id="view"><option value="front">Front</option><option value="oblique">Oblique</option><option value="side">Side</option></select></label>
+<label>Speed<select id="speed"><option value="1">1×</option><option value="0.5">½×</option><option value="0.25">¼×</option></select></label>
+<button id="play" type="button">Play</button>
+</div>
+<div class="pair"><div class="panel"><p class="caption">221k · current elbow pump</p><div class="crop"><video id="baseline" preload="auto" muted playsinline loop aria-label="Current 221k diagnostic animation"></video></div></div>
+<div class="panel"><p id="candidate-label" class="caption"></p><div class="crop"><video id="candidate" preload="auto" muted playsinline loop aria-label="Selected arm-study diagnostic animation"></video></div></div></div>
+<div class="timeline"><button id="previous" type="button" aria-label="Previous frame">←</button><input id="frame" type="range" min="0" max="39" value="0" aria-label="Frame within the 40-frame cycle"><button id="next" type="button" aria-label="Next frame">→</button><output id="frame-label">0 / 39</output></div>
+<p class="note">Actual 3D visibility masks: 40 frames at 60 fps per cycle. Colors distinguish limb regions; they are diagnostic colors. No frame interpolation is used. Shaded key poses appear below.</p>
+<div class="legend"><span><i class="swatch" style="background:#50a4c8"></i>Blue / cyan: one arm</span><span><i class="swatch" style="background:#dd8b28"></i>Brown / orange: the other arm</span></div>
+<p id="choice-note" class="warning"></p>
+<p id="media-status" class="note" role="status">Loading the comparison…</p>
+</section>
+<section class="card"><h2>Shaded poses · selected study</h2><p>Eight native poses in each view: front, oblique, side. These stills show the actual materials; they do not certify full-speed shaded playback.</p><div class="keyposes"><img id="beauty" alt="Eight shaded poses in front, oblique and side views"></div><p><a id="beauty-link">Open the pose sheet</a></p></section>
+<section class="card"><h2>All 40 front frames</h2><p>Check the passing poses and the small hand shapes, as well as the extremes.</p><img id="front-sheet" alt="All 40 front-view arm frames for the selected study"><p><a id="front-link">Open the frame sheet</a></p></section>
+<section class="card"><h2>What was measured</h2><div class="table-scroll"><table><thead><tr><th>Study</th><th>Change</th><th>Min fist / rest</th><th>Min forearm + fist / rest</th><th>Fist area jumps</th><th>Failed hard view checks</th></tr></thead><tbody><tr><th scope="row">221k</th><td>Current: elbow 20–70°, with curl</td><td>7.2%</td><td>63.3%</td><td>16</td><td>None</td></tr>
+<tr><th scope="row">A</th><td>Almost straight: elbow 5°</td><td>3.8%</td><td>65.2%</td><td>13</td><td>V1</td></tr>
+<tr><th scope="row">B</th><td>Steady elbow: 45°</td><td>2.5%</td><td>53.2%</td><td>20</td><td>V4, V5</td></tr>
+<tr><th scope="row">C</th><td>45° + inward path + rotated elbow plane</td><td>0.0%</td><td>23.9%</td><td>12</td><td>V1, V4, V5, V9</td></tr>
+<tr><th scope="row">D</th><td>45° + wider outward arm placement</td><td>18.8%</td><td>78.9%</td><td>12</td><td>V1, V7</td></tr>
+<tr><th scope="row">E</th><td>35° + mild inward path</td><td>10.7%</td><td>56.0%</td><td>16</td><td>V1, V9</td></tr></tbody></table></div>
+<p class="note">Minimum areas span both arms and all 40 frames. A jump means an adjacent-frame area change above 20% of the same region's rest area, including the loop boundary; counts sum both arms. These are diagnostic measurements, not perceptual pass/fail standards.</p>
+<p class="note">Hard view checks cover the forward fist (V1), rear arm position (V4), contour connectivity (V5), head junction (V7), belly shape (V8) and swing envelope (V9). Raw failed checks remain failed. Constant elbows and phase-varying inward paths also expose limits in the inherited timing/constant-adduction tests.</p>
+<details class="evidence"><summary>Visibility and hand-path plots</summary><img src="front-fist-visibility.png" loading="lazy" alt="Fist visibility across phase"><img src="front-fist-occluders.png" loading="lazy" alt="Occlusion by own arm, body and head"><img src="side-hand-paths.png" loading="lazy" alt="Side hand paths relative to shoulder"></details>
+<p><a href="summary.json">Measurement data</a></p></section>
+<section class="card"><h2>Decision for the next pass</h2><p>A and D offer the clearest distinct directions: A removes the folding-elbow cue but changes the side run to a straight-arm style. D retains the most visible forearm area, with wider arms and about 12% less side hand travel. A steady 45° elbow alone (B) did not improve visibility; C and E introduce inward-path regressions.</p><p>Compare A and D, then choose the direction to refine. Neither is ready for adoption. V1 includes a forward-hand-over-belly pose requirement; its failure for A/D is a design conflict, not proof of a body collision. D also exceeds the front head-junction baseline by 2 pixels. The inherited paw–tail overlap and wider motion acceptance remain open.</p></section>
+<script>
+const names=['221k','A','B','C','D','E'];
+const descriptions={"221k": "Current: elbow 20\u201370\u00b0, with curl", "A": "Almost straight: elbow 5\u00b0", "B": "Steady elbow: 45\u00b0", "C": "45\u00b0 + inward path + rotated elbow plane", "D": "45\u00b0 + wider outward arm placement", "E": "35\u00b0 + mild inward path"};
+const get=id=>document.getElementById(id);
+const baseline=get('baseline'), candidate=get('candidate'), videos=[baseline,candidate];
+let playing=false, selectedFrame=0;
+function setFrame(frame){selectedFrame=(frame+40)%40;for(const video of videos)if(video.readyState>=1)video.currentTime=(selectedFrame+.1)/60;get('frame').value=selectedFrame;get('frame-label').textContent=selectedFrame+' / 39';}
+function pause(){playing=false;videos.forEach(video=>video.pause());get('play').textContent='Play';}
+async function play(){try{candidate.currentTime=baseline.currentTime;await Promise.all(videos.map(video=>video.play()));playing=true;get('play').textContent='Pause';}catch(error){pause();get('media-status').textContent='Playback needs another click, or the media could not load.';}}
+function selectStudy(){const index=Number(get('variant').value),name=names[index];candidate.style.left=(-index*100)+'%';get('candidate-label').textContent=name+' · '+descriptions[name];get('beauty').src=name+'-beauty-keyframes.png';get('beauty-link').href=get('beauty').src;get('front-sheet').src=name+'-front-40-frames.png';get('front-link').href=get('front-sheet').src;get('choice-note').textContent=['C','E'].includes(name)?'C / E explicitly revisit the earlier choice against inward arm motion. This is a comparison, not adoption.':'A / B / D preserve the earlier choice against an inward arm path.';}
+function selectView(){pause();const src=get('view').value+'-variants-1x.mp4';videos.forEach(video=>{video.src=src;video.playbackRate=Number(get('speed').value);});selectedFrame=0;get('media-status').textContent='Loading the comparison…';}
+videos.forEach(video=>{video.addEventListener('loadeddata',()=>setFrame(selectedFrame));video.addEventListener('canplay',()=>{if(videos.every(v=>v.readyState>=2))get('media-status').textContent='Ready · synchronized 60 fps source, one cycle = 0.667 s.';});video.addEventListener('error',()=>{pause();get('media-status').textContent='Media failed to load. Please reload this page.';});});
+get('play').addEventListener('click',()=>playing?pause():play());get('variant').addEventListener('change',selectStudy);get('view').addEventListener('change',selectView);get('speed').addEventListener('change',()=>videos.forEach(video=>video.playbackRate=Number(get('speed').value)));
+get('frame').addEventListener('input',event=>{pause();setFrame(Number(event.target.value));});get('previous').addEventListener('click',()=>{pause();setFrame(selectedFrame-1);});get('next').addEventListener('click',()=>{pause();setFrame(selectedFrame+1);});
+function tick(){if(playing){selectedFrame=Math.floor(baseline.currentTime*60)%40;get('frame').value=selectedFrame;get('frame-label').textContent=selectedFrame+' / 39';if(Math.abs(baseline.currentTime-candidate.currentTime)>.025)candidate.currentTime=baseline.currentTime;}requestAnimationFrame(tick);}
+selectStudy();selectView();tick();
+</script></body></html>

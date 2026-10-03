@@ -1,0 +1,1748 @@
+{
+  "221k": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 130.0,
+          "max": 3819.0,
+          "minOverRest": 0.0718232044198895,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.02884402041269137,
+          "maxOcclusion": {
+            "self": 0.9644996671843798,
+            "body": 0.8279816513761468,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            66.8645621231728,
+            107.8421873710961
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5466.0,
+          "max": 11147.0,
+          "minOverRest": 0.6330785267546908,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.4649145190099515,
+          "maxOcclusion": {
+            "self": 0.48856000680445694,
+            "body": 0.37807717897538257,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            66.8645621231728,
+            107.8421873710961
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13536.0,
+          "max": 17163.0,
+          "minOverRest": 0.8892976808356875,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5853062913907284,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.36812913907284767,
+            "head": 0.12256692655798485
+          },
+          "projectedForearmLengthPx": [
+            66.8645621231728,
+            107.8421873710961
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 132.0,
+          "max": 3820.0,
+          "minOverRest": 0.07300884955752213,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 4,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.0293007769145394,
+          "maxOcclusion": {
+            "self": 0.9647058823529412,
+            "body": 0.8275993883792049,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            66.86456446172144,
+            107.84218619752964
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5466.0,
+          "max": 11148.0,
+          "minOverRest": 0.632565675269066,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.4648354451909176,
+          "maxOcclusion": {
+            "self": 0.48847691130198145,
+            "body": 0.3786593479707252,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            66.86456446172144,
+            107.84218619752964
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13531.0,
+          "max": 17147.0,
+          "minOverRest": 0.8881522809320643,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5845510618040319,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.3689613776545101,
+            "head": 0.122676985121805
+          },
+          "projectedForearmLengthPx": [
+            66.86456446172144,
+            107.84218619752964
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 13536.0,
+          "max": 17163.0,
+          "minOverRest": 0.8892976808356875,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 6196.0,
+          "max": 10034.0,
+          "minOverRest": 0.7531299380089947,
+          "pop20": 0,
+          "pop10": 2,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            1
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 1105.0,
+          "max": 2364.0,
+          "minOverRest": 0.5611985779583545,
+          "pop20": 0,
+          "pop10": 9,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            4
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 13531.0,
+          "max": 17147.0,
+          "minOverRest": 0.8881522809320643,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 6188.0,
+          "max": 10034.0,
+          "minOverRest": 0.7517920058316122,
+          "pop20": 0,
+          "pop10": 2,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            1
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 1100.0,
+          "max": 2350.0,
+          "minOverRest": 0.5609382967873534,
+          "pop20": 0,
+          "pop10": 9,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            5
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.18260426215443917,
+        "forward": 0.16573582126107167,
+        "range": 0.3483400834155108,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.0736195370554924,
+        "forwardFistXOverShoulderHalfWidth": 1.258269750360932,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.1826042597062747,
+        "forward": 0.1657358188129072,
+        "range": 0.3483400785191819,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.07361952215433121,
+        "forwardFistXOverShoulderHalfWidth": 1.258269750360932,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "armGates": {
+      "ARM_G6_timing": true,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": true,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": true,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": true,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": true,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": true,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  },
+  "A": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 72.0,
+          "max": 4282.0,
+          "minOverRest": 0.039779005524861875,
+          "pop20": 7,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.014857614527445316,
+          "maxOcclusion": {
+            "self": 0.9851423854725547,
+            "body": 0.020925434718538166,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            72.11274975111853,
+            107.88690637357274
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5631.0,
+          "max": 12125.0,
+          "minOverRest": 0.6521890201528839,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.4912326616069092,
+          "maxOcclusion": {
+            "self": 0.5054523248713252,
+            "body": 0.14118904695337556,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            72.11274975111853,
+            107.88690637357274
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13716.0,
+          "max": 18591.0,
+          "minOverRest": 0.901123447868077,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.6974114099019855,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.25708024972092447,
+            "head": 0.12466740576496674
+          },
+          "projectedForearmLengthPx": [
+            72.11274975111853,
+            107.88690637357274
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 69.0,
+          "max": 4286.0,
+          "minOverRest": 0.03816371681415929,
+          "pop20": 6,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.014232673267326733,
+          "maxOcclusion": {
+            "self": 0.9857673267326733,
+            "body": 0.02094395280235988,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            72.11275093366,
+            107.8869098283417
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5631.0,
+          "max": 12120.0,
+          "minOverRest": 0.6516606874204375,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.4911898115840893,
+          "maxOcclusion": {
+            "self": 0.505582693649686,
+            "body": 0.14095394736842104,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            72.11275093366,
+            107.8869098283417
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13710.0,
+          "max": 18589.0,
+          "minOverRest": 0.8999015425008204,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.6972311816696687,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.25701881331403764,
+            "head": 0.12476443853231349
+          },
+          "projectedForearmLengthPx": [
+            72.11275093366,
+            107.8869098283417
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 13716.0,
+          "max": 18591.0,
+          "minOverRest": 0.901123447868077,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 6477.0,
+          "max": 9441.0,
+          "minOverRest": 0.7872857663789959,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 1108.0,
+          "max": 1902.0,
+          "minOverRest": 0.5627221940071102,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 13710.0,
+          "max": 18589.0,
+          "minOverRest": 0.8999015425008204,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 6483.0,
+          "max": 9450.0,
+          "minOverRest": 0.7876321224638562,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 1115.0,
+          "max": 1888.0,
+          "minOverRest": 0.5685874553799082,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.18538825605615467,
+        "forward": 0.14752367101324088,
+        "range": 0.33291192706939554,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 2.0712324059311755,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.1853882536079902,
+        "forward": 0.1475236881503923,
+        "range": 0.33291194175838246,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 2.0712324059311755,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "armGates": {
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": true,
+      "ARM_native_G3_clearanceBody_L": true,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  },
+  "B": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 46.0,
+          "max": 4156.0,
+          "minOverRest": 0.02541436464088398,
+          "pop20": 10,
+          "pop10": 13,
+          "pop30": 6,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.012595837897042717,
+          "maxOcclusion": {
+            "self": 0.856754552867627,
+            "body": 0.727972297037322,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            63.19207964196217,
+            107.10198494920262
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 4597.0,
+          "max": 11369.0,
+          "minOverRest": 0.5324299281908733,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.36524709995232796,
+          "maxOcclusion": {
+            "self": 0.4526457969172096,
+            "body": 0.3397834050007963,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            63.19207964196217,
+            107.10198494920262
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 12638.0,
+          "max": 17668.0,
+          "minOverRest": 0.8303002430852112,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5986451802920015,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.35452769812575324,
+            "head": 0.11728201919065498
+          },
+          "projectedForearmLengthPx": [
+            63.19207964196217,
+            107.10198494920262
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 47.0,
+          "max": 4165.0,
+          "minOverRest": 0.025995575221238937,
+          "pop20": 10,
+          "pop10": 13,
+          "pop30": 6,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.012855579868708972,
+          "maxOcclusion": {
+            "self": 0.8571817192600653,
+            "body": 0.727972297037322,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            63.19208123577263,
+            107.1019850584246
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 4593.0,
+          "max": 11376.0,
+          "minOverRest": 0.5315357018863558,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.36492928650881934,
+          "maxOcclusion": {
+            "self": 0.45272525027808674,
+            "body": 0.33948897556316165,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            63.19208123577263,
+            107.1019850584246
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 12631.0,
+          "max": 17675.0,
+          "minOverRest": 0.8290777814243518,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5988555560230572,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.35468185029716137,
+            "head": 0.11735571659454669
+          },
+          "projectedForearmLengthPx": [
+            63.19208123577263,
+            107.1019850584246
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 12638.0,
+          "max": 17668.0,
+          "minOverRest": 0.8303002430852112,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 5485.0,
+          "max": 9462.0,
+          "minOverRest": 0.6667071836635469,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 935.0,
+          "max": 1682.0,
+          "minOverRest": 0.4748603351955307,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 12631.0,
+          "max": 17675.0,
+          "minOverRest": 0.8290777814243518,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 5478.0,
+          "max": 9471.0,
+          "minOverRest": 0.6655327420726521,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 938.0,
+          "max": 1692.0,
+          "minOverRest": 0.47832738398776137,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.16861110232027832,
+        "forward": 0.16043657337000178,
+        "range": 0.3290476756902801,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 1.5466617530161466,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.16861109987211384,
+        "forward": 0.1604365709218373,
+        "range": 0.32904767079395114,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 1.5466617530161466,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": true,
+      "V2": true,
+      "V3": false,
+      "V4": false,
+      "V5": false,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "armGates": {
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": true,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": false,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": true,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": false,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  },
+  "C": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 0.0,
+          "max": 2598.0,
+          "minOverRest": 0.0,
+          "pop20": 6,
+          "pop10": 9,
+          "pop30": 4,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.0,
+          "maxOcclusion": {
+            "self": 0.9198184568835098,
+            "body": 1.0,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.90282754595631,
+            106.31311331721598
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 2067.0,
+          "max": 11646.0,
+          "minOverRest": 0.23940236275191104,
+          "pop20": 6,
+          "pop10": 9,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.1737704918032787,
+          "maxOcclusion": {
+            "self": 0.5068268233667473,
+            "body": 0.8210172341319882,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.90282754595631,
+            106.31311331721598
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 7202.0,
+          "max": 16438.0,
+          "minOverRest": 0.47316207870704946,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.2946446835494825,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.6849813852636747,
+            "head": 0.124151255865305
+          },
+          "projectedForearmLengthPx": [
+            73.90282754595631,
+            106.31311331721598
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 0.0,
+          "max": 2594.0,
+          "minOverRest": 0.0,
+          "pop20": 6,
+          "pop10": 9,
+          "pop30": 4,
+          "appear": 1,
+          "disappear": 1,
+          "minVisibleFraction": 0.0,
+          "maxOcclusion": {
+            "self": 0.9186602870813397,
+            "body": 1.0,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.90282821020159,
+            106.31311278464023
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 2069.0,
+          "max": 11642.0,
+          "minOverRest": 0.23943987964355978,
+          "pop20": 6,
+          "pop10": 10,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.17392400806993946,
+          "maxOcclusion": {
+            "self": 0.506993610775341,
+            "body": 0.8208641560188299,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.90282821020159,
+            106.31311278464023
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 7200.0,
+          "max": 16436.0,
+          "minOverRest": 0.47259599606170005,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.29450261780104714,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.6850458115183246,
+            "head": 0.12417255075022066
+          },
+          "projectedForearmLengthPx": [
+            73.90282821020159,
+            106.31311278464023
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 7202.0,
+          "max": 16438.0,
+          "minOverRest": 0.47316207870704946,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            3
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 3163.0,
+          "max": 9158.0,
+          "minOverRest": 0.3844657833961347,
+          "pop20": 1,
+          "pop10": 7,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            4
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 279.0,
+          "max": 1403.0,
+          "minOverRest": 0.14169629253428137,
+          "pop20": 0,
+          "pop10": 4,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            1,
+            2
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 7200.0,
+          "max": 16436.0,
+          "minOverRest": 0.47259599606170005,
+          "pop20": 0,
+          "pop10": 6,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            3
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 3161.0,
+          "max": 9167.0,
+          "minOverRest": 0.384035961608553,
+          "pop20": 1,
+          "pop10": 7,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            4
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 277.0,
+          "max": 1395.0,
+          "minOverRest": 0.141254462009179,
+          "pop20": 0,
+          "pop10": 5,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            1,
+            2
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.18090723370082537,
+        "forward": 0.14868592241572914,
+        "range": 0.3295931561165545,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.10305880755186081,
+        "forwardFistXOverShoulderHalfWidth": 0.640874308287514,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.1809072312526609,
+        "forward": 0.14868591996756467,
+        "range": 0.3295931512202256,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.10305880755186081,
+        "forwardFistXOverShoulderHalfWidth": 0.640874308287514,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": false,
+      "V5": false,
+      "V6": false,
+      "V7": true,
+      "V8": true,
+      "V9": false
+    },
+    "armGates": {
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": false,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": true,
+      "ARM_native_G2_windmill": false,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": false,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": false,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  },
+  "D": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 341.0,
+          "max": 4429.0,
+          "minOverRest": 0.18839779005524862,
+          "pop20": 6,
+          "pop10": 20,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.08635097493036212,
+          "maxOcclusion": {
+            "self": 0.9032666497847557,
+            "body": 0.1921529175050302,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            59.43725658381692,
+            107.12347669697235
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 6826.0,
+          "max": 11701.0,
+          "minOverRest": 0.7905953208246468,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5466485144550333,
+          "maxOcclusion": {
+            "self": 0.44870665492111794,
+            "body": 0.06624969138342524,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            59.43725658381692,
+            107.12347669697235
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 15944.0,
+          "max": 19294.0,
+          "minOverRest": 1.0475001642467643,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.7783069659570944,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.15940528451917502,
+            "head": 0.12552576901636853
+          },
+          "projectedForearmLengthPx": [
+            59.43725658381692,
+            107.12347669697235
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 344.0,
+          "max": 4441.0,
+          "minOverRest": 0.1902654867256637,
+          "pop20": 6,
+          "pop10": 20,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.08645388288514702,
+          "maxOcclusion": {
+            "self": 0.9034933400351847,
+            "body": 0.19479218828242365,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            59.43725792967573,
+            107.12347826833206
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 6819.0,
+          "max": 11694.0,
+          "minOverRest": 0.7891447749103113,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.5458256623709277,
+          "maxOcclusion": {
+            "self": 0.4490514688225406,
+            "body": 0.06680928089517854,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            59.43725792967573,
+            107.12347826833206
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 15936.0,
+          "max": 19287.0,
+          "minOverRest": 1.0460124712832295,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.7779157868587753,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.15964890489794228,
+            "head": 0.12562075605553866
+          },
+          "projectedForearmLengthPx": [
+            59.43725792967573,
+            107.12347826833206
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 15944.0,
+          "max": 19294.0,
+          "minOverRest": 1.0475001642467643,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 7212.0,
+          "max": 9491.0,
+          "minOverRest": 0.8766257444998177,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 1074.0,
+          "max": 1676.0,
+          "minOverRest": 0.5454545454545454,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 15936.0,
+          "max": 19287.0,
+          "minOverRest": 1.0460124712832295,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 7200.0,
+          "max": 9487.0,
+          "minOverRest": 0.874741829668327,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 1073.0,
+          "max": 1671.0,
+          "minOverRest": 0.5471698113207547,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.1564543204624838,
+        "forward": 0.15103098980241902,
+        "range": 0.30748531026490283,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 1.8590604717252632,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.15645431801431933,
+        "forward": 0.15103098735425455,
+        "range": 0.3074853053685739,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.0,
+        "forwardFistXOverShoulderHalfWidth": 1.8590604717252632,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": false,
+      "V8": true,
+      "V9": true
+    },
+    "armGates": {
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": false,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  },
+  "E": {
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 194.0,
+          "max": 3756.0,
+          "minOverRest": 0.10718232044198896,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 7,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.04687122493355883,
+          "maxOcclusion": {
+            "self": 0.9287267455907224,
+            "body": 0.8798403193612775,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.44051450579153,
+            107.60939187115532
+          ]
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 4850.0,
+          "max": 11002.0,
+          "minOverRest": 0.5617326847347696,
+          "pop20": 0,
+          "pop10": 7,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.39795165915608355,
+          "maxOcclusion": {
+            "self": 0.46484982404452085,
+            "body": 0.5624464622237451,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.44051450579153,
+            107.60939187115532
+          ]
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 10903.0,
+          "max": 16139.0,
+          "minOverRest": 0.716312988634124,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.44944144441238304,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.5229384316802246,
+            "head": 0.1221814368117462
+          },
+          "projectedForearmLengthPx": [
+            73.44051450579153,
+            107.60939187115532
+          ]
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 199.0,
+          "max": 3752.0,
+          "minOverRest": 0.11006637168141593,
+          "pop20": 8,
+          "pop10": 12,
+          "pop30": 7,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.048056025114706594,
+          "maxOcclusion": {
+            "self": 0.9273122434194639,
+            "body": 0.8791866028708134,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.44051494506718,
+            107.60938077658759
+          ]
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 4843.0,
+          "max": 10998.0,
+          "minOverRest": 0.5604675384793427,
+          "pop20": 0,
+          "pop10": 7,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.3978512261133437,
+          "maxOcclusion": {
+            "self": 0.4645282710089191,
+            "body": 0.5623233102030326,
+            "head": 0.0
+          },
+          "projectedForearmLengthPx": [
+            73.44051494506718,
+            107.60938077658759
+          ]
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 10909.0,
+          "max": 16121.0,
+          "minOverRest": 0.7160485723662618,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "minVisibleFraction": 0.4498556701030928,
+          "maxOcclusion": {
+            "self": 0.0,
+            "body": 0.5230699326696683,
+            "head": 0.1222734899328859
+          },
+          "projectedForearmLengthPx": [
+            73.44051494506718,
+            107.60938077658759
+          ]
+        }
+      }
+    },
+    "same2DProxy": {
+      "L": {
+        "whole": {
+          "rest": 15221,
+          "min": 10903.0,
+          "max": 16139.0,
+          "minOverRest": 0.716312988634124,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8227,
+          "min": 5187.0,
+          "max": 9263.0,
+          "minOverRest": 0.6304849884526559,
+          "pop20": 0,
+          "pop10": 4,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            4,
+            2
+          ]
+        },
+        "fist": {
+          "rest": 1969,
+          "min": 1021.0,
+          "max": 1846.0,
+          "minOverRest": 0.5185373285931946,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            2
+          ]
+        }
+      },
+      "R": {
+        "whole": {
+          "rest": 15235,
+          "min": 10909.0,
+          "max": 16121.0,
+          "minOverRest": 0.7160485723662618,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            0,
+            0
+          ]
+        },
+        "fore": {
+          "rest": 8231,
+          "min": 5187.0,
+          "max": 9280.0,
+          "minOverRest": 0.6301785931235573,
+          "pop20": 0,
+          "pop10": 4,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            4,
+            2
+          ]
+        },
+        "fist": {
+          "rest": 1961,
+          "min": 1017.0,
+          "max": 1825.0,
+          "minOverRest": 0.5186129525752168,
+          "pop20": 0,
+          "pop10": 3,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0,
+          "pop20At30fpsOffsets": [
+            2,
+            2
+          ]
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "rear": -0.17047117852890478,
+        "forward": 0.1697709838995406,
+        "range": 0.3402421624284454,
+        "forwardFrame": 33,
+        "lateralTravelH": 0.10162363946437836,
+        "forwardFistXOverShoulderHalfWidth": 0.9523625806639567,
+        "crossesBodyMidline": false
+      },
+      "R": {
+        "rear": -0.17047117608074028,
+        "forward": 0.16977098145137612,
+        "range": 0.3402421575321164,
+        "forwardFrame": 13,
+        "lateralTravelH": 0.10162363946437836,
+        "forwardFistXOverShoulderHalfWidth": 0.9523625806639567,
+        "crossesBodyMidline": false
+      }
+    },
+    "gates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": false,
+      "V7": true,
+      "V8": true,
+      "V9": false
+    },
+    "armGates": {
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": false,
+      "ARM_offline_G5_backExtreme": false,
+      "ARM_offline_G6_sideRead": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": true,
+      "ARM_native_G2_windmill": false,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": false,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    }
+  }
+}
