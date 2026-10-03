@@ -1,0 +1,5168 @@
+[
+  {
+    "frame": -1,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 1985,
+    "visibleArea": 1810,
+    "visibleFraction": 0.9118387909319899,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.08816120906801007,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08816120906801007,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": -1,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11696,
+    "visibleArea": 8634,
+    "visibleFraction": 0.7382010943912448,
+    "independentOcclusion": {
+      "self": 0.0140218878248974,
+      "body": 0.2517954856361149,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.010174418604651164,
+      "body": 0.25162448700410395,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": -1,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24372,
+    "visibleArea": 15221,
+    "visibleFraction": 0.6245281470539964,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.34740686033152796,
+      "head": 0.0494009519120302
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.32763006729033317,
+      "head": 0.04784178565567044,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": -1,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 1984,
+    "visibleArea": 1808,
+    "visibleFraction": 0.9112903225806451,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.08820564516129033,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.07308467741935484,
+      "head": 0.0,
+      "other": 0.015625
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": -1,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11700,
+    "visibleArea": 8641,
+    "visibleFraction": 0.7385470085470085,
+    "independentOcclusion": {
+      "self": 0.013504273504273504,
+      "body": 0.2517094017094017,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.009829059829059829,
+      "body": 0.24897435897435896,
+      "head": 0.0,
+      "other": 0.00264957264957265
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": -1,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24384,
+    "visibleArea": 15235,
+    "visibleFraction": 0.6247949475065617,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.34711286089238846,
+      "head": 0.04941765091863517
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.3260744750656168,
+      "head": 0.047859251968503935,
+      "other": 0.0012713254593175853
+    },
+    "projectedForearmLengthPx": 107.73029134301476,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3085,
+    "visibleArea": 3022,
+    "visibleFraction": 0.9795786061588331,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.020421393841166938,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.020421393841166938,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.7197459221985,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12051,
+    "visibleArea": 11225,
+    "visibleFraction": 0.9314579702929218,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.06854202970707825,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.06854202970707825,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.7197459221985,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23606,
+    "visibleArea": 18136,
+    "visibleFraction": 0.7682792510378718,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.19206981275946794,
+      "head": 0.06040837075319834
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.17266796577141405,
+      "head": 0.05905278319071423,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.7197459221985,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3312,
+    "visibleArea": 727,
+    "visibleFraction": 0.2195048309178744,
+    "independentOcclusion": {
+      "self": 0.7614734299516909,
+      "body": 0.10024154589371981,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.6802536231884058,
+      "body": 0.10024154589371981,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030936201426,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12632,
+    "visibleArea": 7735,
+    "visibleFraction": 0.612333755541482,
+    "independentOcclusion": {
+      "self": 0.2809531348955035,
+      "body": 0.1470075997466751,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.24065864471184295,
+      "body": 0.1470075997466751,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030936201426,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 0,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 22437,
+    "visibleArea": 15817,
+    "visibleFraction": 0.7049516423764318,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.24972144226055176,
+      "head": 0.07175647368186477
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.22480723804430183,
+      "head": 0.07024111957926639,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030936201426,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2696,
+    "visibleArea": 2530,
+    "visibleFraction": 0.9384272997032641,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.06157270029673591,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.06157270029673591,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37817801261939,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11943,
+    "visibleArea": 10558,
+    "visibleFraction": 0.8840324876496692,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11596751235033073,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11596751235033073,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37817801261939,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24077,
+    "visibleArea": 17650,
+    "visibleFraction": 0.7330647505918512,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22756157328570836,
+      "head": 0.060181916351704945
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20766706815633176,
+      "head": 0.059268181251817084,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37817801261939,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2921,
+    "visibleArea": 985,
+    "visibleFraction": 0.33721328312221843,
+    "independentOcclusion": {
+      "self": 0.6309483053748716,
+      "body": 0.1047586442998973,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.5580280725778843,
+      "body": 0.1047586442998973,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054597606812,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12631,
+    "visibleArea": 8254,
+    "visibleFraction": 0.6534716174491331,
+    "independentOcclusion": {
+      "self": 0.22104346449212256,
+      "body": 0.16150740242261102,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.18502098012825588,
+      "body": 0.16150740242261102,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054597606812,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 1,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23266,
+    "visibleArea": 16160,
+    "visibleFraction": 0.6945757758101951,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2619272758531763,
+      "head": 0.06799621765666639
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.23845955471503483,
+      "head": 0.06696466947477005,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054597606812,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2300,
+    "visibleArea": 2036,
+    "visibleFraction": 0.8852173913043478,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11478260869565217,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11478260869565217,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.5967415117349,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11760,
+    "visibleArea": 9777,
+    "visibleFraction": 0.8313775510204081,
+    "independentOcclusion": {
+      "self": 0.0066326530612244895,
+      "body": 0.16267006802721087,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.006037414965986395,
+      "body": 0.16258503401360544,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.5967415117349,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24352,
+    "visibleArea": 17039,
+    "visibleFraction": 0.699696123521682,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2595680026281209,
+      "head": 0.06213042049934297
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.23874835742444153,
+      "head": 0.061555519053876476,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.5967415117349,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2508,
+    "visibleArea": 1286,
+    "visibleFraction": 0.5127591706539075,
+    "independentOcclusion": {
+      "self": 0.43740031897926634,
+      "body": 0.10167464114832536,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.38556618819776717,
+      "body": 0.10167464114832536,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.0100129551646,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12490,
+    "visibleArea": 8727,
+    "visibleFraction": 0.6987189751801441,
+    "independentOcclusion": {
+      "self": 0.15692554043234588,
+      "body": 0.1720576461168935,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.12922337870296238,
+      "body": 0.1720576461168935,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.0100129551646,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 2,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23878,
+    "visibleArea": 16383,
+    "visibleFraction": 0.686112739760449,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2707513192059636,
+      "head": 0.06642097328084429
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.24805260072032834,
+      "head": 0.06583465951922271,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.0100129551646,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 1979,
+    "visibleArea": 1655,
+    "visibleFraction": 0.8362809499747347,
+    "independentOcclusion": {
+      "self": 0.0404244567963618,
+      "body": 0.1303688731682668,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.03335017685699848,
+      "body": 0.1303688731682668,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.02891737328913,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12130,
+    "visibleArea": 9161,
+    "visibleFraction": 0.755234954657873,
+    "independentOcclusion": {
+      "self": 0.07147568013190438,
+      "body": 0.18582028029678482,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.059686727122835945,
+      "body": 0.18507831821929102,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.02891737328913,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24298,
+    "visibleArea": 16542,
+    "visibleFraction": 0.6807967733969874,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2760309490493045,
+      "head": 0.06589019672401021
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.2536834307350399,
+      "head": 0.06551979586797267,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.02891737328913,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2091,
+    "visibleArea": 1616,
+    "visibleFraction": 0.7728359636537542,
+    "independentOcclusion": {
+      "self": 0.14777618364418937,
+      "body": 0.09708273553323768,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.13008130081300814,
+      "body": 0.09708273553323768,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029523044578,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12201,
+    "visibleArea": 9176,
+    "visibleFraction": 0.7520695024997951,
+    "independentOcclusion": {
+      "self": 0.08794361117941152,
+      "body": 0.17596918285386443,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.07237111712154741,
+      "body": 0.17555938037865748,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029523044578,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 3,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24231,
+    "visibleArea": 16587,
+    "visibleFraction": 0.6845363377491643,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.27213074161198464,
+      "head": 0.06598984771573604
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.24984523956914695,
+      "head": 0.06561842268168874,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029523044578,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2387,
+    "visibleArea": 1332,
+    "visibleFraction": 0.5580226225387516,
+    "independentOcclusion": {
+      "self": 0.362379555927943,
+      "body": 0.13322161709258484,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3087557603686636,
+      "body": 0.13322161709258484,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152623697396,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12474,
+    "visibleArea": 8718,
+    "visibleFraction": 0.6988936988936989,
+    "independentOcclusion": {
+      "self": 0.141333974667308,
+      "body": 0.18446368446368447,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.11664261664261664,
+      "body": 0.18446368446368447,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152623697396,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23999,
+    "visibleArea": 16253,
+    "visibleFraction": 0.6772365515229801,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.27601150047918666,
+      "head": 0.07116963206800284
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.25188549522896786,
+      "head": 0.070877953248052,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152623697396,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2172,
+    "visibleArea": 1986,
+    "visibleFraction": 0.914364640883978,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0856353591160221,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0856353591160221,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23963907980203,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11767,
+    "visibleArea": 9768,
+    "visibleFraction": 0.8301181269652418,
+    "independentOcclusion": {
+      "self": 0.01555196736636356,
+      "body": 0.15636950794595053,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.013937282229965157,
+      "body": 0.15594459080479306,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23963907980203,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 4,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24369,
+    "visibleArea": 16999,
+    "visibleFraction": 0.6975665804916082,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2573761746481185,
+      "head": 0.06775001025893554
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.23501169518650744,
+      "head": 0.06742172432188435,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23963907980203,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2786,
+    "visibleArea": 1028,
+    "visibleFraction": 0.36898779612347454,
+    "independentOcclusion": {
+      "self": 0.5789662598707824,
+      "body": 0.13675520459440058,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4942569992821249,
+      "body": 0.13675520459440058,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18726860246946,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12644,
+    "visibleArea": 8253,
+    "visibleFraction": 0.6527206580196141,
+    "independentOcclusion": {
+      "self": 0.20689655172413793,
+      "body": 0.17407465991774754,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.1732046820626384,
+      "body": 0.17407465991774754,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18726860246946,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23433,
+    "visibleArea": 15936,
+    "visibleFraction": 0.6800665727819741,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2682114966073486,
+      "head": 0.07805231937865403
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.24205180728033115,
+      "head": 0.07783894507745487,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18726860246946,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2584,
+    "visibleArea": 2470,
+    "visibleFraction": 0.9558823529411765,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.04411764705882353,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.04411764705882353,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55827393444993,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11900,
+    "visibleArea": 10578,
+    "visibleFraction": 0.8889075630252101,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11109243697478992,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11109243697478992,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55827393444993,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 5,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24179,
+    "visibleArea": 17587,
+    "visibleFraction": 0.7273667231895447,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22482319368046652,
+      "head": 0.07076388601679143
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.2021175400140618,
+      "head": 0.07051573679639356,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55827393444993,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3197,
+    "visibleArea": 770,
+    "visibleFraction": 0.24085079762277134,
+    "independentOcclusion": {
+      "self": 0.7256803253049734,
+      "body": 0.13356271504535502,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.6255864873318736,
+      "body": 0.13356271504535502,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12675,
+    "visibleArea": 7763,
+    "visibleFraction": 0.6124654832347141,
+    "independentOcclusion": {
+      "self": 0.2665877712031558,
+      "body": 0.1593688362919132,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.22816568047337277,
+      "body": 0.1593688362919132,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 22641,
+    "visibleArea": 15593,
+    "visibleFraction": 0.6887063292257409,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.256216598206793,
+      "head": 0.08396272249458946
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.22750761892142574,
+      "head": 0.08374188419239433,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2978,
+    "visibleArea": 2945,
+    "visibleFraction": 0.9889187374076561,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.011081262592343854,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.011081262592343854,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12052,
+    "visibleArea": 11299,
+    "visibleFraction": 0.9375207434450713,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.06247925655492864,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.06247925655492864,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 6,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23742,
+    "visibleArea": 18120,
+    "visibleFraction": 0.7632044478140005,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.18722095863869936,
+      "head": 0.07295088872041108
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.16405526071940021,
+      "head": 0.07274029146659927,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3562,
+    "visibleArea": 563,
+    "visibleFraction": 0.15805727119595733,
+    "independentOcclusion": {
+      "self": 0.8220101066816395,
+      "body": 0.11875350926445817,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.7231892195395845,
+      "body": 0.11875350926445817,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533348793091,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12584,
+    "visibleArea": 7286,
+    "visibleFraction": 0.5789891926255563,
+    "independentOcclusion": {
+      "self": 0.321439923712651,
+      "body": 0.1387476160203433,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.28226319135410044,
+      "body": 0.1387476160203433,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533348793091,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 21777,
+    "visibleArea": 15243,
+    "visibleFraction": 0.6999586719933876,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.24025347844055656,
+      "head": 0.09092161454745833
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20944115351058457,
+      "head": 0.09060017449602792,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533348793091,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3337,
+    "visibleArea": 3337,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059269484033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12069,
+    "visibleArea": 11739,
+    "visibleFraction": 0.9726572209793686,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.02734277902063137,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.02734277902063137,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059269484033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 7,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23155,
+    "visibleArea": 18346,
+    "visibleFraction": 0.7923126754480674,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.15560354135175988,
+      "head": 0.07553444180522566
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1324551932627942,
+      "head": 0.07523213128913842,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059269484033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3897,
+    "visibleArea": 401,
+    "visibleFraction": 0.10289966641005902,
+    "independentOcclusion": {
+      "self": 0.8855529894790864,
+      "body": 0.0972542981780857,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.7998460354118553,
+      "body": 0.0972542981780857,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.78779899140872,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12403,
+    "visibleArea": 6834,
+    "visibleFraction": 0.5509957268402805,
+    "independentOcclusion": {
+      "self": 0.3706361364186084,
+      "body": 0.11440780456341208,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3345964685963074,
+      "body": 0.11440780456341208,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.78779899140872,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20861,
+    "visibleArea": 14898,
+    "visibleFraction": 0.7141556013613921,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22276017448827956,
+      "head": 0.0966396625281626
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.18982790853746226,
+      "head": 0.09601649010114569,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.78779899140872,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3668,
+    "visibleArea": 3668,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032114083212,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12004,
+    "visibleArea": 11880,
+    "visibleFraction": 0.9896701099633456,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.010329890036654448,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.010329890036654448,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032114083212,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 8,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 22462,
+    "visibleArea": 18235,
+    "visibleFraction": 0.8118155106401923,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.13440477250467456,
+      "head": 0.07737512242899118
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11129908289555694,
+      "head": 0.07688540646425074,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032114083212,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4173,
+    "visibleArea": 276,
+    "visibleFraction": 0.06613946800862688,
+    "independentOcclusion": {
+      "self": 0.9288281811646297,
+      "body": 0.07165109034267912,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.862209441648694,
+      "body": 0.07165109034267912,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963057652358,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12183,
+    "visibleArea": 6444,
+    "visibleFraction": 0.5289337601575966,
+    "independentOcclusion": {
+      "self": 0.41336288270540916,
+      "body": 0.08889436099482886,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3821718788475745,
+      "body": 0.08889436099482886,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963057652358,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 19974,
+    "visibleArea": 14581,
+    "visibleFraction": 0.7299989986983078,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2042154801241614,
+      "head": 0.10173225192750576
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.16916992089716631,
+      "head": 0.10083108040452589,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963057652358,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3934,
+    "visibleArea": 3934,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.20466546070428,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11847,
+    "visibleArea": 11802,
+    "visibleFraction": 0.996201570017726,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0037984299822739933,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0037984299822739933,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.20466546070428,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 9,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 21716,
+    "visibleArea": 17921,
+    "visibleFraction": 0.825244059679499,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.12000368391969055,
+      "head": 0.07846748940873088
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.09707128384601216,
+      "head": 0.07768465647448886,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.20466546070428,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4396,
+    "visibleArea": 201,
+    "visibleFraction": 0.04572338489535942,
+    "independentOcclusion": {
+      "self": 0.9524567788898999,
+      "body": 0.046633303002729755,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9076433121019108,
+      "body": 0.046633303002729755,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561159055383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11959,
+    "visibleArea": 6108,
+    "visibleFraction": 0.5107450455723723,
+    "independentOcclusion": {
+      "self": 0.4486161050255038,
+      "body": 0.06630989213144912,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4229450622961786,
+      "body": 0.06630989213144912,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561159055383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 19261,
+    "visibleArea": 14282,
+    "visibleFraction": 0.7414983645708946,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.18841181662426665,
+      "head": 0.10856134157105031
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.15170551892425108,
+      "head": 0.10679611650485436,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561159055383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4156,
+    "visibleArea": 4156,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92774529214513,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11696,
+    "visibleArea": 11683,
+    "visibleFraction": 0.9988885088919288,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0011114911080711354,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0011114911080711354,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92774529214513,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 10,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 21084,
+    "visibleArea": 17557,
+    "visibleFraction": 0.8327167520394612,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11046291026370708,
+      "head": 0.08086700815784481
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08779169038133182,
+      "head": 0.07949155757920698,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92774529214513,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4568,
+    "visibleArea": 148,
+    "visibleFraction": 0.03239929947460595,
+    "independentOcclusion": {
+      "self": 0.9669439579684763,
+      "body": 0.0297723292469352,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9378283712784589,
+      "body": 0.0297723292469352,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476038597639,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11768,
+    "visibleArea": 5857,
+    "visibleFraction": 0.4977056424201224,
+    "independentOcclusion": {
+      "self": 0.4749320190346703,
+      "body": 0.04843643779741672,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.45385791978246093,
+      "body": 0.04843643779741672,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476038597639,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 18675,
+    "visibleArea": 13996,
+    "visibleFraction": 0.7494511378848728,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.17585006693440428,
+      "head": 0.11518072289156626
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.13825970548862115,
+      "head": 0.11228915662650603,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476038597639,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4316,
+    "visibleArea": 4316,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71113564039474,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11545,
+    "visibleArea": 11543,
+    "visibleFraction": 0.9998267648332612,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.00017323516673884798,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.00017323516673884798,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71113564039474,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 11,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20560,
+    "visibleArea": 17208,
+    "visibleFraction": 0.8369649805447471,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10432879377431907,
+      "head": 0.08292801556420233
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0821011673151751,
+      "head": 0.08093385214007782,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71113564039474,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4676,
+    "visibleArea": 120,
+    "visibleFraction": 0.02566295979469632,
+    "independentOcclusion": {
+      "self": 0.9743370402053037,
+      "body": 0.01817792985457656,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9561591103507271,
+      "body": 0.01817792985457656,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.0533983761419,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11635,
+    "visibleArea": 5704,
+    "visibleFraction": 0.4902449505801461,
+    "independentOcclusion": {
+      "self": 0.49110442629995704,
+      "body": 0.0365277180919639,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.47322733132788997,
+      "body": 0.0365277180919639,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.0533983761419,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 18299,
+    "visibleArea": 13795,
+    "visibleFraction": 0.7538663314935242,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.16733154817203125,
+      "head": 0.12131810481447074
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.12924203508388438,
+      "head": 0.1168916334225914,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.0533983761419,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4419,
+    "visibleArea": 4419,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.91267814387672,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11447,
+    "visibleArea": 11446,
+    "visibleFraction": 0.9999126408666026,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 8.73591333973967e-05,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 8.73591333973967e-05,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.91267814387672,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 12,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20229,
+    "visibleArea": 16967,
+    "visibleFraction": 0.8387463542439073,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10114192495921696,
+      "head": 0.08448267338968807
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.07929210539324731,
+      "head": 0.08196154036284542,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.91267814387672,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4710,
+    "visibleArea": 113,
+    "visibleFraction": 0.02399150743099788,
+    "independentOcclusion": {
+      "self": 0.9760084925690021,
+      "body": 0.012738853503184714,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9632696390658174,
+      "body": 0.012738853503184714,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914078879174,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11575,
+    "visibleArea": 5643,
+    "visibleFraction": 0.4875161987041037,
+    "independentOcclusion": {
+      "self": 0.4972786177105831,
+      "body": 0.031792656587473,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.48069114470842333,
+      "body": 0.031792656587473,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914078879174,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 18151,
+    "visibleArea": 13715,
+    "visibleFraction": 0.755605751749215,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1637926285053165,
+      "head": 0.12390501900721723
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.12621894110517326,
+      "head": 0.11817530714561181,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914078879174,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4454,
+    "visibleArea": 4454,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068451517503,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11394,
+    "visibleArea": 11394,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068451517503,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 13,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20090,
+    "visibleArea": 16855,
+    "visibleFraction": 0.8389746142359383,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10084619213539074,
+      "head": 0.08442010950721753
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.07964161274265803,
+      "head": 0.08138377302140368,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068451517503,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4687,
+    "visibleArea": 112,
+    "visibleFraction": 0.023895882227437593,
+    "independentOcclusion": {
+      "self": 0.9761041177725625,
+      "body": 0.014721570300832088,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9613825474717304,
+      "body": 0.014721570300832088,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65750030586511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11598,
+    "visibleArea": 5674,
+    "visibleFraction": 0.48922227970339716,
+    "independentOcclusion": {
+      "self": 0.494136920158648,
+      "body": 0.03414381789963787,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.476633902396965,
+      "body": 0.03414381789963787,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65750030586511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 18236,
+    "visibleArea": 13755,
+    "visibleFraction": 0.7542772537837245,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1661000219346348,
+      "head": 0.12266944505373986
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.12941434525115156,
+      "head": 0.11630840096512393,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65750030586511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4421,
+    "visibleArea": 4421,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770582821601,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11408,
+    "visibleArea": 11407,
+    "visibleFraction": 0.9999123422159888,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 8.76577840112202e-05,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 8.76577840112202e-05,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770582821601,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 14,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20157,
+    "visibleArea": 16905,
+    "visibleFraction": 0.8386664682244381,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10289229548047825,
+      "head": 0.08255196705859007
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08195664037307139,
+      "head": 0.07937689140249045,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770582821601,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4610,
+    "visibleArea": 132,
+    "visibleFraction": 0.02863340563991323,
+    "independentOcclusion": {
+      "self": 0.9713665943600868,
+      "body": 0.02212581344902386,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9492407809110629,
+      "body": 0.02212581344902386,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.799164251059,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11708,
+    "visibleArea": 5833,
+    "visibleFraction": 0.4982063546293133,
+    "independentOcclusion": {
+      "self": 0.4792449607106252,
+      "body": 0.04304748889648104,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4587461564742057,
+      "body": 0.04304748889648104,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.799164251059,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 18565,
+    "visibleArea": 13953,
+    "visibleFraction": 0.7515755453810935,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.17263668192835982,
+      "head": 0.11699434419606787
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.13757069754915163,
+      "head": 0.11085375706975492,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.799164251059,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4356,
+    "visibleArea": 4356,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.62871868967889,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11501,
+    "visibleArea": 11498,
+    "visibleFraction": 0.9997391531171202,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0002608468828797496,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0002608468828797496,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.62871868967889,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 15,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20456,
+    "visibleArea": 17123,
+    "visibleFraction": 0.8370649198279233,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10686351192804067,
+      "head": 0.07963433711380524
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08657606570199453,
+      "head": 0.07635901447008213,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.62871868967889,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4461,
+    "visibleArea": 184,
+    "visibleFraction": 0.04124635731898677,
+    "independentOcclusion": {
+      "self": 0.9580811477247254,
+      "body": 0.0345214077561085,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9242322349249047,
+      "body": 0.0345214077561085,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32070092375038,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11888,
+    "visibleArea": 6076,
+    "visibleFraction": 0.5111036339165546,
+    "independentOcclusion": {
+      "self": 0.4554172274562584,
+      "body": 0.05888290713324361,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4300134589502019,
+      "body": 0.05888290713324361,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32070092375038,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 19095,
+    "visibleArea": 14247,
+    "visibleFraction": 0.7461115475255302,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.18423671118093743,
+      "head": 0.10814349306101073
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.15150562974600681,
+      "head": 0.10233045299816707,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32070092375038,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4204,
+    "visibleArea": 4204,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113355491256,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11633,
+    "visibleArea": 11613,
+    "visibleFraction": 0.9982807530301728,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0017192469698272157,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0017192469698272157,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113355491256,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 16,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20923,
+    "visibleArea": 17425,
+    "visibleFraction": 0.8328155618219185,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11437174401376475,
+      "head": 0.07575395497777565
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0945371122687951,
+      "head": 0.07259953161592506,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113355491256,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4251,
+    "visibleArea": 257,
+    "visibleFraction": 0.060456363208656785,
+    "independentOcclusion": {
+      "self": 0.9371912491178547,
+      "body": 0.050341096212655846,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.8892025405786874,
+      "body": 0.050341096212655846,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94049385940122,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12105,
+    "visibleArea": 6403,
+    "visibleFraction": 0.5289549772821148,
+    "independentOcclusion": {
+      "self": 0.4228831061544816,
+      "body": 0.07905824039653037,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3919867823213548,
+      "body": 0.07905824039653037,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94049385940122,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 19791,
+    "visibleArea": 14618,
+    "visibleFraction": 0.7386185639937345,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.19877722196958214,
+      "head": 0.0978727704512152
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.168005659137992,
+      "head": 0.09337577686827346,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94049385940122,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4000,
+    "visibleArea": 4000,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40853000931054,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11783,
+    "visibleArea": 11725,
+    "visibleFraction": 0.9950776542476449,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.004922345752355088,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.004922345752355088,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40853000931054,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 17,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 21546,
+    "visibleArea": 17809,
+    "visibleFraction": 0.8265571335746774,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.12461709830130882,
+      "head": 0.07142857142857142
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.10493827160493827,
+      "head": 0.06850459482038429,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40853000931054,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3990,
+    "visibleArea": 364,
+    "visibleFraction": 0.0912280701754386,
+    "independentOcclusion": {
+      "self": 0.9035087719298246,
+      "body": 0.07067669172932331,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.8380952380952381,
+      "body": 0.07067669172932331,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.2597559813896,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12326,
+    "visibleArea": 6801,
+    "visibleFraction": 0.5517605062469576,
+    "independentOcclusion": {
+      "self": 0.3816323219211423,
+      "body": 0.10295310725296122,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.34528638650008114,
+      "body": 0.10295310725296122,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.2597559813896,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20642,
+    "visibleArea": 15026,
+    "visibleFraction": 0.7279333397926557,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.21659722895068306,
+      "head": 0.0873946323030714
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.18811161709136712,
+      "head": 0.08395504311597714,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.2597559813896,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3742,
+    "visibleArea": 3742,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15251170438651,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11937,
+    "visibleArea": 11790,
+    "visibleFraction": 0.9876853480774064,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.012314651922593617,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.012314651922593617,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15251170438651,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 18,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 22261,
+    "visibleArea": 18165,
+    "visibleFraction": 0.8160010781186829,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.13903238848209873,
+      "head": 0.06684335833969723
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.119671173801716,
+      "head": 0.0643277480796011,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15251170438651,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3674,
+    "visibleArea": 519,
+    "visibleFraction": 0.14126292868807838,
+    "independentOcclusion": {
+      "self": 0.8470332063146434,
+      "body": 0.08954817637452368,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.769188894937398,
+      "body": 0.08954817637452368,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77964273642252,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12514,
+    "visibleArea": 7256,
+    "visibleFraction": 0.5798305897394918,
+    "independentOcclusion": {
+      "self": 0.333626338500879,
+      "body": 0.12649832187949497,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.29367108838101325,
+      "body": 0.12649832187949497,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77964273642252,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 21554,
+    "visibleArea": 15443,
+    "visibleFraction": 0.7164795397606013,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2339704927159692,
+      "head": 0.07836132504407535
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20752528532986916,
+      "head": 0.07599517490952955,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77964273642252,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3428,
+    "visibleArea": 3426,
+    "visibleFraction": 0.9994165694282381,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.00029171528588098014,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.00029171528588098014,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11852961213962,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12027,
+    "visibleArea": 11653,
+    "visibleFraction": 0.9689033009062942,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.031013552839444583,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.031013552839444583,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11852961213962,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 19,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 22974,
+    "visibleArea": 18326,
+    "visibleFraction": 0.797684338817794,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.16070340384782797,
+      "head": 0.06281013319404544
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.14142073648472187,
+      "head": 0.06085139723165317,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11852961213962,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3313,
+    "visibleArea": 727,
+    "visibleFraction": 0.21943857530938726,
+    "independentOcclusion": {
+      "self": 0.7603380621792937,
+      "body": 0.100814971325083,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.6797464533655297,
+      "body": 0.100814971325083,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030224094,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12633,
+    "visibleArea": 7739,
+    "visibleFraction": 0.6126019156178263,
+    "independentOcclusion": {
+      "self": 0.28077257975144465,
+      "body": 0.14683764743133065,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.24056043695084303,
+      "body": 0.14683764743133065,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030224094,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 22441,
+    "visibleArea": 15819,
+    "visibleFraction": 0.7049151107348157,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.24958780802994518,
+      "head": 0.07187736731874694
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.22472260594447663,
+      "head": 0.07036228332070764,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 99.94030224094,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3078,
+    "visibleArea": 3017,
+    "visibleFraction": 0.9801819363222872,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0198180636777128,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0198180636777128,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.71973497762284,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12044,
+    "visibleArea": 11224,
+    "visibleFraction": 0.9319163068747924,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.06808369312520757,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.06808369312520757,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.71973497762284,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 20,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23606,
+    "visibleArea": 18140,
+    "visibleFraction": 0.7684486994831823,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.19177327798017454,
+      "head": 0.06057781919850885
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.17232906888079302,
+      "head": 0.05922223163602474,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 98.71973497762284,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2922,
+    "visibleArea": 988,
+    "visibleFraction": 0.3381245722108145,
+    "independentOcclusion": {
+      "self": 0.6303901437371663,
+      "body": 0.10438056125941136,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.5574948665297741,
+      "body": 0.10438056125941136,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054272794514,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12637,
+    "visibleArea": 8253,
+    "visibleFraction": 0.6530822188810635,
+    "independentOcclusion": {
+      "self": 0.22133417741552583,
+      "body": 0.16158898472738784,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.18532879639154862,
+      "body": 0.16158898472738784,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054272794514,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23266,
+    "visibleArea": 16154,
+    "visibleFraction": 0.694317888764721,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.26201323820166766,
+      "head": 0.06803919883091206
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.23863147941201754,
+      "head": 0.06705063182326142,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.18054272794514,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2699,
+    "visibleArea": 2533,
+    "visibleFraction": 0.9384957391626528,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.06150426083734717,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.06150426083734717,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37816926871443,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11942,
+    "visibleArea": 10556,
+    "visibleFraction": 0.8839390386869871,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1160609613130129,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1160609613130129,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37816926871443,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 21,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24081,
+    "visibleArea": 17649,
+    "visibleFraction": 0.7329014575806653,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22768987998837256,
+      "head": 0.06033802582949213
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.2076740999127943,
+      "head": 0.05942444250654043,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 103.37816926871443,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2500,
+    "visibleArea": 1281,
+    "visibleFraction": 0.5124,
+    "independentOcclusion": {
+      "self": 0.4384,
+      "body": 0.1008,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3868,
+      "body": 0.1008,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.01000888197436,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12491,
+    "visibleArea": 8728,
+    "visibleFraction": 0.6987430950284205,
+    "independentOcclusion": {
+      "self": 0.15699303498518932,
+      "body": 0.17180369866303738,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.12945320630854215,
+      "body": 0.17180369866303738,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.01000888197436,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23876,
+    "visibleArea": 16390,
+    "visibleFraction": 0.6864633942033842,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2704808175573798,
+      "head": 0.06625900485843525
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.24786396381303402,
+      "head": 0.06567264198358184,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.01000888197436,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2304,
+    "visibleArea": 2056,
+    "visibleFraction": 0.8923611111111112,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1076388888888889,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1076388888888889,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.59673789687959,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11759,
+    "visibleArea": 9798,
+    "visibleFraction": 0.8332341185474955,
+    "independentOcclusion": {
+      "self": 0.006122969640275534,
+      "body": 0.16132324177225954,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.005527680925248746,
+      "body": 0.1612382005272557,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.59673789687959,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 22,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24358,
+    "visibleArea": 17057,
+    "visibleFraction": 0.7002627473519993,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2589703588143526,
+      "head": 0.0622793332785943
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.237991624928155,
+      "head": 0.06174562771984564,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 106.59673789687959,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2091,
+    "visibleArea": 1619,
+    "visibleFraction": 0.7742706838833094,
+    "independentOcclusion": {
+      "self": 0.14681970349115256,
+      "body": 0.09708273553323768,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.12864658058345288,
+      "body": 0.09708273553323768,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029227468185,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12209,
+    "visibleArea": 9174,
+    "visibleFraction": 0.7514128921287575,
+    "independentOcclusion": {
+      "self": 0.08788598574821853,
+      "body": 0.17683675976738472,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0723236956343681,
+      "body": 0.17626341223687444,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029227468185,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24245,
+    "visibleArea": 16586,
+    "visibleFraction": 0.6840998143947206,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2724685502165395,
+      "head": 0.06624046195091772
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.25003093421323985,
+      "head": 0.0658692513920396,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.08029227468185,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 1977,
+    "visibleArea": 1648,
+    "visibleFraction": 0.8335862417804755,
+    "independentOcclusion": {
+      "self": 0.0409711684370258,
+      "body": 0.13201820940819423,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0343955488113303,
+      "body": 0.13201820940819423,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.0289217453383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12123,
+    "visibleArea": 9150,
+    "visibleFraction": 0.7547636723583272,
+    "independentOcclusion": {
+      "self": 0.07151695124969067,
+      "body": 0.1861750391817207,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.059556215458219916,
+      "body": 0.18568011218345293,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.0289217453383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 23,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 24294,
+    "visibleArea": 16539,
+    "visibleFraction": 0.680785379105952,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2760352350374578,
+      "head": 0.06569523339096073
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.2538898493455174,
+      "head": 0.0653247715485305,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 108.0289217453383,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2176,
+    "visibleArea": 1982,
+    "visibleFraction": 0.9108455882352942,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.08915441176470588,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08915441176470588,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23964699605642,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11764,
+    "visibleArea": 9759,
+    "visibleFraction": 0.8295647738864332,
+    "independentOcclusion": {
+      "self": 0.015640938456307377,
+      "body": 0.1569194151649099,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.01394083645018701,
+      "body": 0.1564943896633798,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23964699605642,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24367,
+    "visibleArea": 16991,
+    "visibleFraction": 0.6972955226330693,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.25764353428817666,
+      "head": 0.06775557105921944
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.2351541018590717,
+      "head": 0.0675093363975869,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.23964699605642,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2387,
+    "visibleArea": 1332,
+    "visibleFraction": 0.5580226225387516,
+    "independentOcclusion": {
+      "self": 0.3611227482195224,
+      "body": 0.1336405529953917,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.30833682446585675,
+      "body": 0.1336405529953917,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152233390341,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12474,
+    "visibleArea": 8717,
+    "visibleFraction": 0.6988135321468655,
+    "independentOcclusion": {
+      "self": 0.1414141414141414,
+      "body": 0.18430335097001763,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.11688311688311688,
+      "body": 0.18430335097001763,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152233390341,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 24,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23993,
+    "visibleArea": 16246,
+    "visibleFraction": 0.6771141582961697,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.27616388113199686,
+      "head": 0.07114575084399617
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.25207352144375444,
+      "head": 0.07081232026007586,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 107.53152233390341,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2583,
+    "visibleArea": 2466,
+    "visibleFraction": 0.9547038327526133,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.04529616724738676,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.04529616724738676,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55829032504319,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11897,
+    "visibleArea": 10563,
+    "visibleFraction": 0.8878708918214676,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1121291081785324,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1121291081785324,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55829032504319,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 24177,
+    "visibleArea": 17575,
+    "visibleFraction": 0.7269305538321545,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22529676965711212,
+      "head": 0.07060429333664227
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20263059932994168,
+      "head": 0.07039748521321917,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 104.55829032504319,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 2781,
+    "visibleArea": 1025,
+    "visibleFraction": 0.3685724559510967,
+    "independentOcclusion": {
+      "self": 0.5789284430061129,
+      "body": 0.13700107874865156,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4944264653002517,
+      "body": 0.13700107874865156,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18727304299954,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12645,
+    "visibleArea": 8258,
+    "visibleFraction": 0.6530644523527086,
+    "independentOcclusion": {
+      "self": 0.2066429418742586,
+      "body": 0.17398181099248716,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.17295373665480426,
+      "body": 0.17398181099248716,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18727304299954,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 25,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 23437,
+    "visibleArea": 15939,
+    "visibleFraction": 0.6800785083415113,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.26825105602252847,
+      "head": 0.07812433331911081
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.24205316380082775,
+      "head": 0.07786832785766096,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 105.18727304299954,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 2982,
+    "visibleArea": 2948,
+    "visibleFraction": 0.98859825620389,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.011401743796109993,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.011401743796109993,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12051,
+    "visibleArea": 11298,
+    "visibleFraction": 0.9375155588747822,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.062484441125217824,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.062484441125217824,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23730,
+    "visibleArea": 18120,
+    "visibleFraction": 0.7635903919089759,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1867678044669195,
+      "head": 0.07256637168141593
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.16405394016013486,
+      "head": 0.07235566793088917,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 100.31827024523798,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3192,
+    "visibleArea": 772,
+    "visibleFraction": 0.24185463659147868,
+    "independentOcclusion": {
+      "self": 0.725250626566416,
+      "body": 0.13314536340852132,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.625,
+      "body": 0.13314536340852132,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12678,
+    "visibleArea": 7771,
+    "visibleFraction": 0.6129515696482095,
+    "independentOcclusion": {
+      "self": 0.2663669348477678,
+      "body": 0.1590944943997476,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.2279539359520429,
+      "body": 0.1590944943997476,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 26,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 22640,
+    "visibleArea": 15596,
+    "visibleFraction": 0.68886925795053,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.25596289752650175,
+      "head": 0.08392226148409894
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.22742932862190812,
+      "head": 0.08370141342756184,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 101.29144229566263,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3342,
+    "visibleArea": 3342,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059751156978,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12075,
+    "visibleArea": 11743,
+    "visibleFraction": 0.9725051759834369,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.027494824016563148,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.027494824016563148,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059751156978,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 23157,
+    "visibleArea": 18348,
+    "visibleFraction": 0.7923306127736753,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1555901023448633,
+      "head": 0.07548473463747463
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.132486936995293,
+      "head": 0.07518245023103165,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.97059751156978,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3566,
+    "visibleArea": 561,
+    "visibleFraction": 0.15731912507010656,
+    "independentOcclusion": {
+      "self": 0.8208076275939428,
+      "body": 0.11918115535614134,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.7234997195737521,
+      "body": 0.11918115535614134,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533643110735,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12589,
+    "visibleArea": 7289,
+    "visibleFraction": 0.5789975375327667,
+    "independentOcclusion": {
+      "self": 0.3213122567320677,
+      "body": 0.13877194376042576,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.28223051870680754,
+      "body": 0.13877194376042576,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533643110735,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 27,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 21783,
+    "visibleArea": 15242,
+    "visibleFraction": 0.6997199651104072,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2407381903319102,
+      "head": 0.09089657072028647
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20975072304090345,
+      "head": 0.09052931184868934,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 96.30533643110735,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3668,
+    "visibleArea": 3668,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032181417033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11993,
+    "visibleArea": 11873,
+    "visibleFraction": 0.9899941632619028,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.009922454765279747,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.009922454765279747,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032181417033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 22449,
+    "visibleArea": 18229,
+    "visibleFraction": 0.8120183527105884,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.13421533253151588,
+      "head": 0.07728629337609694
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11114080805381087,
+      "head": 0.07679629382155106,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.07032181417033,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3897,
+    "visibleArea": 399,
+    "visibleFraction": 0.10238645111624327,
+    "independentOcclusion": {
+      "self": 0.8868360277136259,
+      "body": 0.09699769053117784,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.8006158583525789,
+      "body": 0.09699769053117784,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.7877969061357,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12409,
+    "visibleArea": 6842,
+    "visibleFraction": 0.5513740027399469,
+    "independentOcclusion": {
+      "self": 0.3704569264243694,
+      "body": 0.11411072608590539,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3345152711741478,
+      "body": 0.11411072608590539,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.7877969061357,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 28,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20858,
+    "visibleArea": 14898,
+    "visibleFraction": 0.7142583181513088,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.22264838431297343,
+      "head": 0.09655767571195704
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.18975932495924824,
+      "head": 0.0959823568894429,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 90.7877969061357,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3937,
+    "visibleArea": 3937,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.2046809214393,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11848,
+    "visibleArea": 11805,
+    "visibleFraction": 0.9963706954760297,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.00362930452397029,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.00362930452397029,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.2046809214393,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 21716,
+    "visibleArea": 17922,
+    "visibleFraction": 0.8252901086756309,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11995763492355867,
+      "head": 0.07846748940873088
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.09697918585374839,
+      "head": 0.07773070547062073,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.2046809214393,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4165,
+    "visibleArea": 276,
+    "visibleFraction": 0.06626650660264105,
+    "independentOcclusion": {
+      "self": 0.9294117647058824,
+      "body": 0.07130852340936375,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.8624249699879952,
+      "body": 0.07130852340936375,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963893275659,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12181,
+    "visibleArea": 6437,
+    "visibleFraction": 0.5284459403989821,
+    "independentOcclusion": {
+      "self": 0.4133486577456695,
+      "body": 0.08915524176996963,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.38239881783104834,
+      "body": 0.08915524176996963,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963893275659,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 29,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 19978,
+    "visibleArea": 14572,
+    "visibleFraction": 0.7294023425768346,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.20457503253578938,
+      "head": 0.10176193813194515
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.16973671038141955,
+      "head": 0.10086094704174592,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 85.31963893275659,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4156,
+    "visibleArea": 4156,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92775404598146,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11689,
+    "visibleArea": 11676,
+    "visibleFraction": 0.9988878432714517,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0011121567285482077,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0011121567285482077,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92775404598146,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 21072,
+    "visibleArea": 17547,
+    "visibleFraction": 0.8327164009111617,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11057327258921792,
+      "head": 0.08086560364464693
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08788914198936978,
+      "head": 0.07939445709946849,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 77.92775404598146,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4400,
+    "visibleArea": 202,
+    "visibleFraction": 0.045909090909090906,
+    "independentOcclusion": {
+      "self": 0.9522727272727273,
+      "body": 0.0475,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9065909090909091,
+      "body": 0.0475,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561020750649,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11957,
+    "visibleArea": 6113,
+    "visibleFraction": 0.5112486409634523,
+    "independentOcclusion": {
+      "self": 0.44810571213515094,
+      "body": 0.06623735050597976,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.42251400853056786,
+      "body": 0.06623735050597976,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561020750649,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 30,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 19258,
+    "visibleArea": 14275,
+    "visibleFraction": 0.7412503894485408,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1886488731955551,
+      "head": 0.10852632672136255
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.15193685740990756,
+      "head": 0.10681275314155156,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 80.43561020750649,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4324,
+    "visibleArea": 4324,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71114329155748,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11549,
+    "visibleArea": 11547,
+    "visibleFraction": 0.9998268248333189,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.00017317516668109793,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.00017317516668109793,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71114329155748,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20571,
+    "visibleArea": 17219,
+    "visibleFraction": 0.8370521608089058,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1042243935637548,
+      "head": 0.08317534393077633
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08181420446259297,
+      "head": 0.08113363472850128,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.71114329155748,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4561,
+    "visibleArea": 144,
+    "visibleFraction": 0.031572023679017756,
+    "independentOcclusion": {
+      "self": 0.9679894759921069,
+      "body": 0.029160271870203903,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9392677044507783,
+      "body": 0.029160271870203903,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476548163032,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11756,
+    "visibleArea": 5853,
+    "visibleFraction": 0.49787342633548826,
+    "independentOcclusion": {
+      "self": 0.4751616195985029,
+      "body": 0.04789043892480436,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.45423613473970736,
+      "body": 0.04789043892480436,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476548163032,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 31,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 18663,
+    "visibleArea": 13987,
+    "visibleFraction": 0.7494507849756202,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.17553447998714033,
+      "head": 0.1155762739109468
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.13791994856132456,
+      "head": 0.11262926646305524,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.57476548163032,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4412,
+    "visibleArea": 4412,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.9126785329511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11441,
+    "visibleArea": 11440,
+    "visibleFraction": 0.99991259505288,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 8.7404947120007e-05,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 8.7404947120007e-05,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.9126785329511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20230,
+    "visibleArea": 16961,
+    "visibleFraction": 0.8384083044982699,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10148294611962431,
+      "head": 0.08452792881858626
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.07958477508650519,
+      "head": 0.08200692041522491,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.9126785329511,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4674,
+    "visibleArea": 119,
+    "visibleFraction": 0.025459991442019683,
+    "independentOcclusion": {
+      "self": 0.9745400085579803,
+      "body": 0.018613607188703467,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9559264013692769,
+      "body": 0.018613607188703467,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.05339706352535,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11636,
+    "visibleArea": 5701,
+    "visibleFraction": 0.4899449982811963,
+    "independentOcclusion": {
+      "self": 0.4909762805087659,
+      "body": 0.03695427982124441,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4731007218975593,
+      "body": 0.03695427982124441,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.05339706352535,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 32,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 18300,
+    "visibleArea": 13793,
+    "visibleFraction": 0.7537158469945355,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1677049180327869,
+      "head": 0.1210928961748634
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1294535519125683,
+      "head": 0.11683060109289617,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 74.05339706352535,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4449,
+    "visibleArea": 4449,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068284830792,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11391,
+    "visibleArea": 11390,
+    "visibleFraction": 0.9999122113949609,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 8.778860503906593e-05,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 8.778860503906593e-05,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068284830792,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20085,
+    "visibleArea": 16851,
+    "visibleFraction": 0.8389843166542196,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10087129698780184,
+      "head": 0.08444112521782425
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.07961165048543689,
+      "head": 0.08140403286034353,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 69.76068284830792,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4706,
+    "visibleArea": 106,
+    "visibleFraction": 0.02252443688907777,
+    "independentOcclusion": {
+      "self": 0.9774755631109222,
+      "body": 0.013387165320866978,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9640883977900553,
+      "body": 0.013387165320866978,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914209004453,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11576,
+    "visibleArea": 5638,
+    "visibleFraction": 0.4870421561852108,
+    "independentOcclusion": {
+      "self": 0.4974948168624741,
+      "body": 0.032049067035245335,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.48090877677954386,
+      "body": 0.032049067035245335,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914209004453,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 33,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 18155,
+    "visibleArea": 13707,
+    "visibleFraction": 0.7549986229688791,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1644175158358579,
+      "head": 0.12398788212613605
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.12674194436794273,
+      "head": 0.11825943266317819,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.05914209004453,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4424,
+    "visibleArea": 4424,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770585531378,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11405,
+    "visibleArea": 11404,
+    "visibleFraction": 0.999912319158264,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 8.768084173608067e-05,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 8.768084173608067e-05,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770585531378,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20157,
+    "visibleArea": 16905,
+    "visibleFraction": 0.8386664682244381,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10279307436622513,
+      "head": 0.08260157761571663
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08190702981594483,
+      "head": 0.07942650195961701,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 70.34770585531378,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4681,
+    "visibleArea": 109,
+    "visibleFraction": 0.02328562273018586,
+    "independentOcclusion": {
+      "self": 0.9767143772698141,
+      "body": 0.014313180944242684,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9624011963255714,
+      "body": 0.014313180944242684,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65749943340334,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11605,
+    "visibleArea": 5684,
+    "visibleFraction": 0.4897888841016803,
+    "independentOcclusion": {
+      "self": 0.4935803532959931,
+      "body": 0.034037052994398964,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4761740629039207,
+      "body": 0.034037052994398964,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65749943340334,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 34,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 18243,
+    "visibleArea": 13759,
+    "visibleFraction": 0.7542070931316122,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.16603628789124597,
+      "head": 0.12251274461437264
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.12958395000822234,
+      "head": 0.11620895686016554,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 73.65749943340334,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4351,
+    "visibleArea": 4351,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.6287095238865,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11499,
+    "visibleArea": 11493,
+    "visibleFraction": 0.9994782154969998,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0005217845030002609,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0005217845030002609,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.6287095238865,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20455,
+    "visibleArea": 17114,
+    "visibleFraction": 0.8366658518699585,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.10716206306526521,
+      "head": 0.07978489366902958
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.08687362503055487,
+      "head": 0.07646052309948667,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 72.6287095238865,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4601,
+    "visibleArea": 132,
+    "visibleFraction": 0.028689415344490328,
+    "independentOcclusion": {
+      "self": 0.9713105846555097,
+      "body": 0.02108237339708759,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.950228211258422,
+      "body": 0.02108237339708759,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.79915600877693,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11715,
+    "visibleArea": 5831,
+    "visibleFraction": 0.49773794280836536,
+    "independentOcclusion": {
+      "self": 0.47947076397780625,
+      "body": 0.0431924882629108,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.45906956892872386,
+      "body": 0.0431924882629108,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.79915600877693,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 35,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 18566,
+    "visibleArea": 13953,
+    "visibleFraction": 0.7515350640956587,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.17295055477755036,
+      "head": 0.11671873316815684
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.13788645911881936,
+      "head": 0.11057847678552192,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 75.79915600877693,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 4202,
+    "visibleArea": 4202,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113409296965,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11629,
+    "visibleArea": 11608,
+    "visibleFraction": 0.9981941697480436,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.001805830251956316,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.001805830251956316,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113409296965,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 20929,
+    "visibleArea": 17434,
+    "visibleFraction": 0.8330068326245879,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.11429117492474557,
+      "head": 0.07578001815662477
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.09436666825935305,
+      "head": 0.07262649911605906,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 76.42113409296965,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4452,
+    "visibleArea": 184,
+    "visibleFraction": 0.04132973944294699,
+    "independentOcclusion": {
+      "self": 0.9582210242587601,
+      "body": 0.033468104222821204,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.9252021563342318,
+      "body": 0.033468104222821204,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32069218413915,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 11887,
+    "visibleArea": 6078,
+    "visibleFraction": 0.511314881803651,
+    "independentOcclusion": {
+      "self": 0.4552031631193741,
+      "body": 0.058719609657609154,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.4299655085387398,
+      "body": 0.058719609657609154,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32069218413915,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 36,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 19095,
+    "visibleArea": 14254,
+    "visibleFraction": 0.7464781356376015,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1838701230688662,
+      "head": 0.10824823252160251
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.1510866719036397,
+      "head": 0.10243519245875883,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 79.32069218413915,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3995,
+    "visibleArea": 3995,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40851502789259,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11781,
+    "visibleArea": 11724,
+    "visibleFraction": 0.995161701044054,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.004838298955946015,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.004838298955946015,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40851502789259,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 21546,
+    "visibleArea": 17806,
+    "visibleFraction": 0.8264178965933352,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.12461709830130882,
+      "head": 0.0714749837556855
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.10493827160493827,
+      "head": 0.06859741947461245,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 81.40851502789259,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 4252,
+    "visibleArea": 256,
+    "visibleFraction": 0.060206961429915336,
+    "independentOcclusion": {
+      "self": 0.9376763875823142,
+      "body": 0.05103480714957667,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.888758231420508,
+      "body": 0.05103480714957667,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94047553534449,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12111,
+    "visibleArea": 6401,
+    "visibleFraction": 0.5285277846585749,
+    "independentOcclusion": {
+      "self": 0.42292131120468995,
+      "body": 0.07934935182891587,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3921228635125093,
+      "body": 0.07934935182891587,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94047553534449,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 37,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 19798,
+    "visibleArea": 14616,
+    "visibleFraction": 0.7382563895342964,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.19926255177290636,
+      "head": 0.09788867562380038
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.16840084857056267,
+      "head": 0.09334276189514093,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 83.94047553534449,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3740,
+    "visibleArea": 3740,
+    "visibleFraction": 1.0,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15248783621266,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 11933,
+    "visibleArea": 11788,
+    "visibleFraction": 0.9878488225928098,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.012151177407190145,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.012151177407190145,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15248783621266,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 22254,
+    "visibleArea": 18162,
+    "visibleFraction": 0.8161229441898086,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.13898624966298193,
+      "head": 0.0666846409634223
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.11966388065066955,
+      "head": 0.06421317515952188,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 87.15248783621266,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3991,
+    "visibleArea": 370,
+    "visibleFraction": 0.09270859433725884,
+    "independentOcclusion": {
+      "self": 0.9027812578301178,
+      "body": 0.0704084189426209,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.8368829867201203,
+      "body": 0.0704084189426209,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.25973199218801,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12326,
+    "visibleArea": 6809,
+    "visibleFraction": 0.552409540808048,
+    "independentOcclusion": {
+      "self": 0.38122667532046084,
+      "body": 0.10238520201200714,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.3452052571799448,
+      "body": 0.10238520201200714,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.25973199218801,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 38,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 20642,
+    "visibleArea": 15036,
+    "visibleFraction": 0.7284177889739366,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.21616122468753027,
+      "head": 0.08710396279430288
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.18786939250072668,
+      "head": 0.0837128185253367,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 89.25973199218801,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "L",
+    "region": "fist",
+    "isolatedArea": 3433,
+    "visibleArea": 3431,
+    "visibleFraction": 0.9994174191669094,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.0005825808330905913,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.0005825808330905913,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11851968143611,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "L",
+    "region": "forearmFist",
+    "isolatedArea": 12033,
+    "visibleArea": 11667,
+    "visibleFraction": 0.9695836449763151,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.030416355023684866,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.030416355023684866,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11851968143611,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "L",
+    "region": "wholeArm",
+    "isolatedArea": 22979,
+    "visibleArea": 18341,
+    "visibleFraction": 0.798163540624048,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.1602767744462335,
+      "head": 0.0627094303494495
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.14108533878758867,
+      "head": 0.06075112058836329,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 93.11851968143611,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "R",
+    "region": "fist",
+    "isolatedArea": 3680,
+    "visibleArea": 517,
+    "visibleFraction": 0.14048913043478262,
+    "independentOcclusion": {
+      "self": 0.8478260869565217,
+      "body": 0.08994565217391304,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.7695652173913043,
+      "body": 0.08994565217391304,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77963392540416,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "R",
+    "region": "forearmFist",
+    "isolatedArea": 12521,
+    "visibleArea": 7256,
+    "visibleFraction": 0.5795064291989458,
+    "independentOcclusion": {
+      "self": 0.3337592844022043,
+      "body": 0.12666719910550275,
+      "head": 0.0
+    },
+    "exclusiveOcclusion": {
+      "self": 0.2938263716955515,
+      "body": 0.12666719910550275,
+      "head": 0.0,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77963392540416,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  },
+  {
+    "frame": 39,
+    "arm": "R",
+    "region": "wholeArm",
+    "isolatedArea": 21554,
+    "visibleArea": 15436,
+    "visibleFraction": 0.7161547740558597,
+    "independentOcclusion": {
+      "self": 0.0,
+      "body": 0.2345272339240976,
+      "head": 0.07808295444001113
+    },
+    "exclusiveOcclusion": {
+      "self": 0.0,
+      "body": 0.20812842163867495,
+      "head": 0.07571680430546535,
+      "other": 0.0
+    },
+    "projectedForearmLengthPx": 94.77963392540416,
+    "projectedLengthMethod": "fixed tip centroid to fixed material upper/fore boundary ring; projected proxy, not anatomical joint"
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "A2": {
+    "nativeSHA256": "daf84d692218433a9e73e268ac3c0789ad7bed9b51e51977aa8d3539d674d63d",
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 106.0,
+          "max": 4450.0,
+          "minOverRest": 0.05856353591160221,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5613.0,
+          "max": 11824.0,
+          "minOverRest": 0.6501042390548992,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13695.0,
+          "max": 18324.0,
+          "minOverRest": 0.8997437750476316,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 108.0,
+          "max": 4447.0,
+          "minOverRest": 0.059734513274336286,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5623.0,
+          "max": 11819.0,
+          "minOverRest": 0.6507348686494618,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13697.0,
+          "max": 18330.0,
+          "minOverRest": 0.8990482441745979,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 1.0394386127591133,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 1.0394385978579521,
+        "forwardFrame": 13
+      }
+    },
+    "frames": 40,
+    "fps": 60,
+    "interpolated": false,
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": false,
+      "ARM_native_G3_clearanceBody_L": false,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "viewGates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "bodyExcess": {
+      "L": 0.0009353952668607231,
+      "R": 0.0009358842112123962
+    }
+  },
+  "A3": {
+    "nativeSHA256": "7e23485d963f1d7a16c8ad909e9549cbf19808b66d39daae6f8bad1cdf5cdc82",
+    "regions": {
+      "L": {
+        "fist": {
+          "rest": 1810,
+          "min": 112.0,
+          "max": 4449.0,
+          "minOverRest": 0.061878453038674036,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8634,
+          "min": 5643.0,
+          "max": 11873.0,
+          "minOverRest": 0.653578874218207,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15221,
+          "min": 13715.0,
+          "max": 18348.0,
+          "minOverRest": 0.9010577491623415,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      },
+      "R": {
+        "fist": {
+          "rest": 1808,
+          "min": 106.0,
+          "max": 4454.0,
+          "minOverRest": 0.0586283185840708,
+          "pop20": 8,
+          "pop10": 22,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "forearmFist": {
+          "rest": 8641,
+          "min": 5638.0,
+          "max": 11880.0,
+          "minOverRest": 0.6524707788450411,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        },
+        "wholeArm": {
+          "rest": 15235,
+          "min": 13707.0,
+          "max": 18346.0,
+          "minOverRest": 0.8997046275024614,
+          "pop20": 0,
+          "pop10": 0,
+          "pop30": 0,
+          "appear": 0,
+          "disappear": 0
+        }
+      }
+    },
+    "side": {
+      "L": {
+        "range": 1.0394430235028267,
+        "forwardFrame": 33
+      },
+      "R": {
+        "range": 1.0394430086016655,
+        "forwardFrame": 13
+      }
+    },
+    "frames": 40,
+    "fps": 60,
+    "interpolated": false,
+    "authorGates": {
+      "E1_eventOrder": true,
+      "E2_support": true,
+      "E3_passing": true,
+      "E4_load": true,
+      "E7_smoothness": true,
+      "E7_ankleRate": true,
+      "ARM_G6_timing": false,
+      "ARM_G7_channels": true,
+      "ARM_offline_G1_stub": false,
+      "ARM_offline_G2_windmill": true,
+      "ARM_offline_G3_head": true,
+      "ARM_offline_G4_knee": true,
+      "ARM_offline_G5a_handFrontOfBelly": false,
+      "ARM_offline_G5b_headOcclusion": true,
+      "ARM_offline_G5c_handVisible": true,
+      "ARM_offline_G5_backExtreme": true,
+      "ARM_offline_G6_sideRead": true,
+      "E2_support_native": true,
+      "E3_passing_native": true,
+      "E4_load_native": true,
+      "E4_headRigid_native": true,
+      "E6_headPitchTotal_native": true,
+      "E8_flightRead_native": true,
+      "E9_pawTailNoOverlap_native": false,
+      "E5_tailNoBodyHeight_native": true,
+      "ARM_native_G0_vertexOrder": true,
+      "ARM_native_G1_stub": false,
+      "ARM_native_G2_windmill": true,
+      "ARM_native_G3_head": true,
+      "ARM_native_G4_knee": true,
+      "ARM_native_G5a_handFrontOfBelly": false,
+      "ARM_native_G5b_headOcclusion": true,
+      "ARM_native_G5c_handVisible": false,
+      "ARM_native_G5_backExtreme": true,
+      "ARM_native_G6_sideRead": true,
+      "ARM_native_G6_nativeChannels": true,
+      "ARM_native_G6_timingNative": false,
+      "ARM_native_G3_clearanceBody": true,
+      "ARM_native_G3_clearanceBody_L": true,
+      "ARM_native_G5c_handVisible_L": false,
+      "ARM_native_G5b_headOcclusion_L": true,
+      "ARM_native_G8_parity": true
+    },
+    "viewGates": {
+      "V1": false,
+      "V2": true,
+      "V3": false,
+      "V4": true,
+      "V5": true,
+      "V6": null,
+      "V7": true,
+      "V8": true,
+      "V9": true
+    },
+    "bodyExcess": {
+      "L": -0.0025744051486253743,
+      "R": -0.0025740121304988865
+    }
+  }
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "file": "A2-front-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A2-front-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "A2-oblique-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A2-oblique-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "A2-side-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A2-side-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "A3-front-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A3-front-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "A3-oblique-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A3-oblique-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "A3-side-40.png",
+    "decoded": true,
+    "size": [
+      1920,
+      1300
+    ]
+  },
+  {
+    "file": "A3-side-arms-40.png",
+    "decoded": true,
+    "size": [
+      2400,
+      1150
+    ]
+  },
+  {
+    "file": "elbow-curves.png",
+    "decoded": true,
+    "size": [
+      1200,
+      630
+    ]
+  },
+  {
+    "file": "front-clay-arms.png",
+    "decoded": true,
+    "size": [
+      2400,
+      460
+    ]
+  },
+  {
+    "file": "front-clay.png",
+    "decoded": true,
+    "size": [
+      1920,
+      520
+    ]
+  },
+  {
+    "file": "oblique-clay-arms.png",
+    "decoded": true,
+    "size": [
+      2400,
+      460
+    ]
+  },
+  {
+    "file": "oblique-clay.png",
+    "decoded": true,
+    "size": [
+      1920,
+      520
+    ]
+  },
+  {
+    "file": "side-clay-arms.png",
+    "decoded": true,
+    "size": [
+      2400,
+      460
+    ]
+  },
+  {
+    "file": "side-clay.png",
+    "decoded": true,
+    "size": [
+      1920,
+      520
+    ]
+  },
+  {
+    "file": "front-comparison.mp4",
+    "decoded": true,
+    "width": 960,
+    "height": 480,
+    "r_frame_rate": "60/1",
+    "nb_frames": "240"
+  },
+  {
+    "file": "oblique-comparison.mp4",
+    "decoded": true,
+    "width": 960,
+    "height": 480,
+    "r_frame_rate": "60/1",
+    "nb_frames": "240"
+  },
+  {
+    "file": "side-comparison.mp4",
+    "decoded": true,
+    "width": 960,
+    "height": 480,
+    "r_frame_rate": "60/1",
+    "nb_frames": "240"
+  }
+]
