@@ -65,8 +65,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10972,
-      "sha256": "b1962823c47ccb9713386088f52197bb550d8300f762fa08c694219b46f6a4f3"
+      "bytes": 11284,
+      "sha256": "01bc9025b23abdb74e2a7b54687c4511decd208c1f392c201135105f32a74f73"
     },
     {
       "path": "motion01/capture.json",
@@ -360,8 +360,8 @@
     },
     {
       "path": "review.js",
-      "bytes": 7060,
-      "sha256": "0925cb35e4a81a00c3bdf96462155719122b3186601f37cc6846a5fc60899e8d"
+      "bytes": 8262,
+      "sha256": "eeebc720e4e68632a4df16ad2ea802ad0178b4ba3e52eac511e0c16a264fe8a2"
     },
     {
       "path": "selection.json",
