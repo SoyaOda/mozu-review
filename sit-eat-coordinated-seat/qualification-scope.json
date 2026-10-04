@@ -1,0 +1,154 @@
+{
+  "scope": "Coordinated seated-entry candidate; six-mouthful meal preserved. Not a fully qualified native-motion release.",
+  "qualifiedRelease": false,
+  "registryChanged": false,
+  "issues": [
+    {
+      "id": "I01",
+      "registryStatus": "open",
+      "scopeDisposition": "Shared whole-head transport is preserved; no new source head-motion fit.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I02",
+      "registryStatus": "open",
+      "scopeDisposition": "Inspect native thigh/paw topology, cap containment and shaded shared-descent poses. Whole arbitrary-motion shape domain remains unqualified.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I03",
+      "registryStatus": "open",
+      "scopeDisposition": "Body/pelvis descent with independent floor-supported paw targets is the primary repair.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I04",
+      "registryStatus": "open",
+      "scopeDisposition": "Paws stop at frame67; only a small body settling follows. This is seated entry, not jump landing.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I05",
+      "registryStatus": "open",
+      "scopeDisposition": "Paw rigid shape is retained; orientation and timing change during seating.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I06",
+      "registryStatus": "open",
+      "scopeDisposition": "Check paw rotation and floor extrema throughout the entry; no airborne motion claim.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I07",
+      "registryStatus": "open",
+      "scopeDisposition": "Existing arm proportions and authored articulation retained; attachments follow shared torso transport.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I08",
+      "registryStatus": "open",
+      "scopeDisposition": "Shared body map owns legacy shoulders and material hips; existing arm triangle binding remains valid.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I09",
+      "registryStatus": "open",
+      "scopeDisposition": "Tail root receives the same fore/aft transport; existing tail shape/performance retained.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I10",
+      "registryStatus": "open",
+      "scopeDisposition": "Review flat and clay imagery; inherited tail visibility between the standing paws is recorded.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I11",
+      "registryStatus": "open",
+      "scopeDisposition": "One coordinated support/descent/unfold/settle schedule replaces late foot movement.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I12",
+      "registryStatus": "open",
+      "scopeDisposition": "No generated anatomy or source-coordinate fit. Two authored retreat choices; chosen by main-agent comparison.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I13",
+      "registryStatus": "open",
+      "scopeDisposition": "Save/reopen, meaningful edit/reset, geometry/material/pixel preservation and browser playback required; runtime export remains unqualified.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I14",
+      "registryStatus": "open",
+      "scopeDisposition": "Explicit numerical, shaded, flat and complete-playback evidence; no independent review or release certification claim.",
+      "closureStatus": "open-for-general-qualification"
+    },
+    {
+      "id": "I15",
+      "registryStatus": "open",
+      "scopeDisposition": "One seated-entry task domain only. General gait, asymmetry and alternating support remain deferred.",
+      "closureStatus": "open-for-general-qualification"
+    }
+  ],
+  "gateGroups": [
+    {
+      "id": "authority",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "identity",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "geometry",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "attachment",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "contact",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "performance",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "temporal",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "readability",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "native_delivery",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "governance",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    },
+    {
+      "id": "domain",
+      "releaseStatus": "open",
+      "taskEvidence": "Bind to candidate REPORT.md and audit/capture receipts when complete."
+    }
+  ]
+}

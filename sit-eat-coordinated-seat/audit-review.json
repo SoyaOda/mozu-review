@@ -1,0 +1,24 @@
+{
+  "reviewPassed": true,
+  "reviewer": "main-agent",
+  "independentReview": false,
+  "native": {
+    "path": "mozu-siteat212-coordinated-sit-r01.blend",
+    "bytes": 222020218,
+    "sha256": "12ba0727975df9c968928bb85784ccbd0a6c580df18d9f9345a52157c129873e"
+  },
+  "auditReportSha256": "671970cfc69909a00415b402f58cac094e503bfe7d3544d3c986f6a1713297f0",
+  "sheetsReviewed": 6,
+  "clayImagesReviewed": 12,
+  "controlImagesReviewed": 9,
+  "findings": [
+    "All four shaded sit poses across front/oblique/side retain joined body/thigh/paw silhouettes with no new visible opening or detached cap.",
+    "The inherited soft thigh profile remains deformable; paw rigidity is evaluated separately in final dense capture.",
+    "The retreat edit changes actual placement and both color/geometry return exactly after reset. Head shape and original projected eye masks remain present.",
+    "All eight measured native poses have finite closed positive-volume paw/thigh surfaces; every sampled ankle-cap point lies inside the paw. Minimum measured inward cap margin is0.0209324677 native units."
+  ],
+  "limits": [
+    "Main-agent task review only; broader native qualification remains open.",
+    "Dense entry capture and continuous playback are still required before publishing."
+  ]
+}

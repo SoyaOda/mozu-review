@@ -1,0 +1,99 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mozu · coordinated sit notes</title><style>body{max-width:960px;margin:32px auto;padding:0 20px;background:#f3f2ec;color:#30372f;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:inherit}</style><a href="./">Back to comparison</a><pre># SE212 coordinated sit — reviewed candidate
+
+The corrected entry gives the body an actual backward movement while it lowers.
+The paws unfold during descent and stop at frame 67. The body finishes its small
+settle at 91. This removes the previous late paw travel after the body had already
+stopped. The six-mouthful meal, final consumption and empty-hand rest follow on
+the same 22.15-second / 1,329-frame / 60 fps timeline.
+
+## Root cause and implementation
+
+The previous bodyY control moved only the tail; the body, shoulders, thighs,
+paws and arms did not follow it. A root-object Y translation also had no effect
+on those visible parts. The source fit had represented the missing body retreat
+as excess foot movement. Retiming that compensation alone would preserve the
+underlying ownership defect.
+
+A copied C164 body map now carries one shared Y translation for the body,
+shoulder carrier and material hip points. The rigid neck carrier and tail root
+receive the same offset. The existing thigh profile bridges the transported hip
+and independently controlled paw. Arms retain their existing shoulder binding;
+the food follows the hands. This introduces no new image-coordinate optimizer,
+script handler or driver namespace. The original group remains in the file.
+
+The authored retreat distance is 0.52 native units, selected from two reviewed
+pilots. Standing begins forward of the preserved seated endpoint. Paw support
+holds through frame 25; unfolding, pitch and spread finish together at 67. The
+new adapter is inactive from 177. Its zero-offset geometry bypass is exact.
+
+## Verified evidence
+
+- 6 full-visible-mesh comparisons with the parent meal are exact.
+  Inherited action keys are unchanged, including after reopening the saved file.
+- 7 save/reopen poses preserve geometry, material fields and placement.
+  Three meaningful native controls change their intended owners and reset.
+  A rendered retreat edit changes the image and resets with zero pixel error.
+- Sixteen direct-versus-copied geometry/material checks and twelve parent-meal
+  raster comparisons are exact. Three additional fresh-render comparisons pass
+  with persistent rendering data disabled for final capture.
+- Final entry rendering caches only the initial food-cut state in memory.
+  Six direct-current-native food geometry/material comparisons and eighteen
+  additional rendered comparisons with direct pilot/parent images are exact.
+  All character motion and the hand-owned food transform remain live. The
+  editable native is never saved with this rendering cache. The first capture
+  preflight rejected reuse of a prior candidate&#x27;s cache receipt before rendering
+  any entry frames; current-candidate output equality is required instead.
+- All 176 new entry frames have finite, rigid paws. Maximum rigid-fit error is
+  1.24463133e-07; maximum floor error is
+  2.98023224e-07 native units. Maximum initial
+  support drift is 0; maximum
+  seated paw drift is 0.
+- Eight task poses have measured closed paw/thigh surfaces. Maximum reported
+  concealed ankle-cap distance outside a paw is -0.0209324677.
+  The signed nearest-surface statistic and shaded review are scoped diagnostics,
+  not a whole-motion collision certificate. See audit-review.json for findings.
+- All 3,987 decoded view-frames were inspected in 111 chronological sheets.
+  All three movies decode completely with uniform 60 fps timestamps. The first 176
+  frames are newly rendered; frames 177–1329 reuse parent pixels only after the
+  native/action/material/raster equality checks. Every input and output is hashed.
+
+## Native editing
+
+Windows: C:/mozu/se212/repo/output/rig_candidates/siteat212_20260925/sit_transport_20261004/mozu-siteat212-coordinated-sit-r01.blend
+SHA256: 12ba0727975df9c968928bb85784ccbd0a6c580df18d9f9345a52157c129873e
+Size: 222,020,218 bytes. Blender: 5.2.0 LTS.
+Parent SHA256: 7c5495f9702efe7c7f92d6aeeae3459f4b687919c59173353f73fb371adfb439 (preserved).
+
+Open at frame 43 with SE212S | Seated support and pelvis selected. Its native
+action owns Sit progress, Foot unfold, Settle Z and Entry active. Retreat distance
+changes the standing position while preserving the final seated meal position.
+Sit progress moves the body without moving the paws; Foot unfold changes the
+paws without moving the body. These properties are natively editable in Blender.
+For a temporary keyed-property probe, detach the action, edit/reset, then restore
+the same action and slot. Disable Enabled when inspecting inherited alternative
+Mode3 actions. The controller is dedicated to this seated-entry performance.
+
+The existing C179 gray thigh profile remains deformable; the rigidity statement
+above applies to paws, not to all thigh material lengths. Source scaffold edits
+still require the original rest-coordinate/weight fields to be regenerated or
+transferred. A Geometry Nodes modifier does not make those attributes self-updating.
+
+Rebuild into a new native version: inspect_native.py, pilot.py/pilot_media.py,
+make_native.py, audit_native.py/audit_media.py, capture_entry.py and media.py.
+Use the Windows FIFO and preserve existing outputs. Native and raw PNG files stay
+on Windows; local review packages contain movies, JPEG sheets and JSON evidence.
+
+## Review scope and limits
+
+Main-agent visual review; owner adoption and independent sign-off remain open.
+The broader 15 architecture issues and 11 native-release gate groups remain open
+in qualification-scope.json. No adopted asset or current registry is replaced.
+This is authored motion, not a newly registered source-video fit. Physics,
+independent fingers, a simulated mouth cavity and real-time runtime export are
+outside this correction. The meal retains its earlier small-food readability
+limits at mouthfuls 4–5 and the narrow final seaweed remainder.
+
+Evidence: build-r01.json, audit-r01/report.json, audit-review.json,
+entry-r02/capture.json, review/media.json and visual-review.json.
+Source: scripts/research/siteat212_20260925/sit_transport_20261004/.
+</pre></html>
