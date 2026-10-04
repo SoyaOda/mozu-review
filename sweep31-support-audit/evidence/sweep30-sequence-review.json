@@ -1,0 +1,188 @@
+{
+  "status": "PASS_WITH_LIMITATIONS",
+  "reviewer": "main-agent",
+  "independentReview": false,
+  "nativeSHA256": "81f0a7904bc861989eb894c2be5aeca347b9aeec3ca5447870a24cd30eb7d793",
+  "reviewedAt": "2026-10-04T07:06:18.446795+00:00",
+  "coverage": {
+    "series": 5,
+    "timesPerSeries": 240,
+    "viewFrames": 1200,
+    "chronologicalSheets": 20
+  },
+  "reviewedSheets": [
+    {
+      "case": "A-common",
+      "view": "front",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-A-common-front-0.jpg",
+      "sha256": "35846afa6b3c158ebfda5ba7b92c9b9cace8ec0f91f4fbd39c4a8c0ddc16afd1"
+    },
+    {
+      "case": "A-common",
+      "view": "front",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-A-common-front-1.jpg",
+      "sha256": "9f831c5d59755241f5d38b3110eb2212ad5d64ec4ebf53262794373b2ee9ce57"
+    },
+    {
+      "case": "A-common",
+      "view": "front",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-A-common-front-2.jpg",
+      "sha256": "900a2cb92c4ff0b2b91259201e304787765b2481b4a61f2c5e41ddc4e486fb81"
+    },
+    {
+      "case": "A-common",
+      "view": "front",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-A-common-front-3.jpg",
+      "sha256": "6f222dc93e4345a07cf7dbefd80daec5de4a105bf496accd552a5abad07d1383"
+    },
+    {
+      "case": "B-articulated",
+      "view": "front",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-B-articulated-front-0.jpg",
+      "sha256": "516471399b9ec2451a33d83ab2173756463dc65c2d5cf084e23c67a7856d618d"
+    },
+    {
+      "case": "B-articulated",
+      "view": "front",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-B-articulated-front-1.jpg",
+      "sha256": "27fe68d066d1de8579d19551992602c7652187ea7e1627f938aeb6fc56df7d8a"
+    },
+    {
+      "case": "B-articulated",
+      "view": "front",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-B-articulated-front-2.jpg",
+      "sha256": "1ab284bcbd1d2bc13156507816214d4fd823e2a8a7bf2319a4f3d89581621a07"
+    },
+    {
+      "case": "B-articulated",
+      "view": "front",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-B-articulated-front-3.jpg",
+      "sha256": "aac3132282b0752a55194db23065892f8966afe0d9c21cfa3a1235461997418e"
+    },
+    {
+      "case": "B-articulated",
+      "view": "oblique",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-B-articulated-oblique-0.jpg",
+      "sha256": "eeafa705de332bf7df6802eab50c49e6d843cbd554d955996c5b8e0e2fe85dc1"
+    },
+    {
+      "case": "B-articulated",
+      "view": "oblique",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-B-articulated-oblique-1.jpg",
+      "sha256": "dedcaf6ea697380136f71f1becb2500af1c400500094f400391d34b1b604dbae"
+    },
+    {
+      "case": "B-articulated",
+      "view": "oblique",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-B-articulated-oblique-2.jpg",
+      "sha256": "6bfa7dd5c7da14affcd89d307c5fe9f6cfc8733546ec8f3d60ba35356eb54121"
+    },
+    {
+      "case": "B-articulated",
+      "view": "oblique",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-B-articulated-oblique-3.jpg",
+      "sha256": "3dfb3b25432b9badc5ba5c5252eaed8527fd77d72904716cd346379c4ee65553"
+    },
+    {
+      "case": "B-articulated",
+      "view": "side",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-B-articulated-side-0.jpg",
+      "sha256": "12ed2459378f06d4bb9bd08608b6935483f93ed2bb55683f6892ca2c2d3babbc"
+    },
+    {
+      "case": "B-articulated",
+      "view": "side",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-B-articulated-side-1.jpg",
+      "sha256": "37e60dd4f00754e99a175fffcb778db5639f267f2e7052bfcb7ac1e17f5369a0"
+    },
+    {
+      "case": "B-articulated",
+      "view": "side",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-B-articulated-side-2.jpg",
+      "sha256": "d2f52a8a6e9e11b5a84c62920fb33068bd272e89c36cfe92542624c58b573f00"
+    },
+    {
+      "case": "B-articulated",
+      "view": "side",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-B-articulated-side-3.jpg",
+      "sha256": "8d7772aad363c27c37dad4313f0002157c0ceb6265d234107cb5256d0cda2c36"
+    },
+    {
+      "case": "B-articulated",
+      "view": "top",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-B-articulated-top-0.jpg",
+      "sha256": "fb25b82a3d242e765072fff22ff817228d0c0c507eb5661a7003d41633652ff7"
+    },
+    {
+      "case": "B-articulated",
+      "view": "top",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-B-articulated-top-1.jpg",
+      "sha256": "41a19da253e0b6dc04dc94bd80be42b05bbb36182576609fa2793a1243d2d886"
+    },
+    {
+      "case": "B-articulated",
+      "view": "top",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-B-articulated-top-2.jpg",
+      "sha256": "84a40629f9830931f67fab6046481ef612570a935144431d2e7f63ddd46f004d"
+    },
+    {
+      "case": "B-articulated",
+      "view": "top",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-B-articulated-top-3.jpg",
+      "sha256": "5c1ef6f3c0073d7d3b364c552c588de7533c2ecc590eb87b890fdaef8a596056"
+    }
+  ],
+  "observations": [
+    "All 20 chronological sheets inspected, covering every captured view frame including the resume boundary at index139.",
+    "B front maintains a quieter lower gray silhouette over planted paws than A, with equal upper tasks.",
+    "Oblique and side show continuous broad trunk turn and leg accommodation; no observed new fold, crack, attachment gap, contour jump or extra tool.",
+    "Head and single-hand broom remain connected through the authored single sweep and return.",
+    "Top view resolves heading but the large head occludes most torso."
+  ],
+  "limitations": [
+    "Review sheets are overviews, complemented by the prior seven-key color/clay pilot; not a complete surface collision or strain certificate.",
+    "The prior arm trajectory is preserved to isolate torso behavior; broom excursion remains smaller than the generated reference.",
+    "Initial and final holds are retained; 30fps reference and60fps authored native share event roles, not measured joints or exact frame correspondence.",
+    "Main-agent review only, no owner adoption or full release qualification."
+  ]
+}

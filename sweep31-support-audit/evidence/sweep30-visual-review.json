@@ -1,0 +1,393 @@
+{
+  "decision": "PASS_PILOT_WITH_LIMITATIONS",
+  "reviewer": "main agent; not independent",
+  "nativeSHA256": "81f0a7904bc861989eb894c2be5aeca347b9aeec3ca5447870a24cd30eb7d793",
+  "pilotSHA256": "0e89f486d81d32d40628f9ae1638638060d68e2b4939e325e00f7107cf7e2886",
+  "reviewedColorImages": 64,
+  "reviewedClayImages": 16,
+  "reviewedKeys": [
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-hold-front.png",
+          "sha256": "dc5b0018f031b27c51ddcc2cc8d0b51c5c33287e8a3304ebde0780c0b4c85211"
+        },
+        "oblique": {
+          "file": "A-common-hold-oblique.png",
+          "sha256": "228906ed31b76ca6d49eb9ea9ec06cd38f8094b17135c0a2eb224fb564697411"
+        },
+        "side": {
+          "file": "A-common-hold-side.png",
+          "sha256": "779e2fccf78f4d873750019675d927e4937d80bb46d957324503891a0ab7cf40"
+        },
+        "top": {
+          "file": "A-common-hold-top.png",
+          "sha256": "743c00662f025164e0075d33593e13e452734e137292639fc599913bae4fa9ba"
+        }
+      }
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-hold-front.png",
+          "sha256": "79f79d934273135ab9b653d2e847b0ce80af39d5c32c50fcec2e533bd122520a"
+        },
+        "oblique": {
+          "file": "B-articulated-hold-oblique.png",
+          "sha256": "b306357014c3c9ec547396942cff36c58dfeef38c61943e1ddfcb109c4943274"
+        },
+        "side": {
+          "file": "B-articulated-hold-side.png",
+          "sha256": "c7891d2fcf56826c3f78d364bece4a67924b6fab017278e2808d151fde07f926"
+        },
+        "top": {
+          "file": "B-articulated-hold-top.png",
+          "sha256": "a2b14da8c4f0cdc0af63545bc07052d1ec02f24cbbe6c6d4b36a2a3252fbb39f"
+        }
+      }
+    },
+    {
+      "pose": "prepare",
+      "seconds": 1.46,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-prepare-front.png",
+          "sha256": "7728fc35bc1867347b9ef02009319be1d5f608b011abe54233a4093fd0875912"
+        },
+        "oblique": {
+          "file": "A-common-prepare-oblique.png",
+          "sha256": "a5a684303286f183654576a9f70d578db44db0a47f85ed30b0f0149e095af3ee"
+        },
+        "side": {
+          "file": "A-common-prepare-side.png",
+          "sha256": "b311169eb972849ab62f793ef87c43eb52e918c3222b30f032caeb2f92ddcd7d"
+        },
+        "top": {
+          "file": "A-common-prepare-top.png",
+          "sha256": "956cb7ecf2422c15bf090ddf11fbede7d8d022c88201a22750818ae9b3c6c131"
+        }
+      }
+    },
+    {
+      "pose": "prepare",
+      "seconds": 1.46,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-prepare-front.png",
+          "sha256": "550cd184eea290c727719fe876b8de12384451ac3482b5d41390c90c7a62efd1"
+        },
+        "oblique": {
+          "file": "B-articulated-prepare-oblique.png",
+          "sha256": "8853502eb592d15a74925880e8bcacb5e2f5e23d227e06f5a6fbad05b46528ef"
+        },
+        "side": {
+          "file": "B-articulated-prepare-side.png",
+          "sha256": "2b7d8b1c1910a87b44fc5237489c58bd22260bdbca9c6b94e1372a9f04dcc2d2"
+        },
+        "top": {
+          "file": "B-articulated-prepare-top.png",
+          "sha256": "501a915ee10dfb9d606a3e344de37df49c97d7f8cab0a437956bd31289116596"
+        }
+      }
+    },
+    {
+      "pose": "mid-sweep",
+      "seconds": 1.78,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-mid-sweep-front.png",
+          "sha256": "1f80432c3e0424461f051c53aeaafafa286d479923444d3263909e7708c355eb"
+        },
+        "oblique": {
+          "file": "A-common-mid-sweep-oblique.png",
+          "sha256": "c97e156f2cfa73a2ec6838d9ba19eae60ed9b146ea313f97d64226246f9b4a03"
+        },
+        "side": {
+          "file": "A-common-mid-sweep-side.png",
+          "sha256": "d5ac16b191c81dfa72069bf5960bd9d3c20d638f454669f0005547d002c0b643"
+        },
+        "top": {
+          "file": "A-common-mid-sweep-top.png",
+          "sha256": "4ac0204f2c91881cd5a82fe463dd1ed27d4a5e2f1338fd83cb118c239848d54b"
+        }
+      }
+    },
+    {
+      "pose": "mid-sweep",
+      "seconds": 1.78,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-mid-sweep-front.png",
+          "sha256": "4206fc268aed0462fddf973d74254ed423acf6f5c44cc4054ee1924cc0bf6382"
+        },
+        "oblique": {
+          "file": "B-articulated-mid-sweep-oblique.png",
+          "sha256": "ef916d645c8ead65b112ee9d7f45e0a9b94dfe2c7259286a185c9ad94e11a0c1"
+        },
+        "side": {
+          "file": "B-articulated-mid-sweep-side.png",
+          "sha256": "e4dfab22bf58ddd10873c4461b2359225055f273845f5300d2d2d54ff52ee506"
+        },
+        "top": {
+          "file": "B-articulated-mid-sweep-top.png",
+          "sha256": "27edb78eb674d1e5daf0516ecb3ce74c4e4a4bbff4f846dfa863cdeb5673fac9"
+        }
+      }
+    },
+    {
+      "pose": "work-end",
+      "seconds": 2.08,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-work-end-front.png",
+          "sha256": "312508ff165d8d8dd969c18d9c4557a8175c20a55a864633516f239bc621667e"
+        },
+        "oblique": {
+          "file": "A-common-work-end-oblique.png",
+          "sha256": "aaa34cd071018001c6d46191ade3f3a7fbe9ee1cdf9ec5f2425178b6fd446bf8"
+        },
+        "side": {
+          "file": "A-common-work-end-side.png",
+          "sha256": "7322b9b4c99f75cdcc22052bf5ac708fc715fbdb1a9571730526f6bf23947ff4"
+        },
+        "top": {
+          "file": "A-common-work-end-top.png",
+          "sha256": "ffacde7bf0b399adc274ef37b7d9fa4eaa5826ec1b7663fb374d95363e908cc8"
+        }
+      }
+    },
+    {
+      "pose": "work-end",
+      "seconds": 2.08,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-work-end-front.png",
+          "sha256": "1e6073fa969a130cbd9a47e311b764df11579a5a5ca195e13f7af51b99bbf0b3"
+        },
+        "oblique": {
+          "file": "B-articulated-work-end-oblique.png",
+          "sha256": "8ae7c1c9b0cabf809be5821932467c460d3c4e220564c0a17d85e228808a632d"
+        },
+        "side": {
+          "file": "B-articulated-work-end-side.png",
+          "sha256": "76231bb2fa1370fca379756ab4c0c5a6346cfcf60887a40e167cbe955e767112"
+        },
+        "top": {
+          "file": "B-articulated-work-end-top.png",
+          "sha256": "6ab8cb7de7abf3b29d350ab8ef825ea684185e579412e49d3a229d0c542874b6"
+        }
+      }
+    },
+    {
+      "pose": "early-return",
+      "seconds": 2.38,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-early-return-front.png",
+          "sha256": "3ca6d4189d0cc83e00335b33e7d90427fb805c17fd4e6ff92bdcbc0f70775a17"
+        },
+        "oblique": {
+          "file": "A-common-early-return-oblique.png",
+          "sha256": "491db7343116924d7d2d7b6439863680d1b1d3364d031f6b2e6e52d19a1a90b8"
+        },
+        "side": {
+          "file": "A-common-early-return-side.png",
+          "sha256": "b86cd454997888a5fd8c085ecbad82bdfa98e617796be5dddc98a0e4fd4b2244"
+        },
+        "top": {
+          "file": "A-common-early-return-top.png",
+          "sha256": "6f7a899b33a7861e1b49ce4a2b736eab8071935e5e8a37d8a93c3856bbab37ba"
+        }
+      }
+    },
+    {
+      "pose": "early-return",
+      "seconds": 2.38,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-early-return-front.png",
+          "sha256": "96427619aed21a76bbd81d3cc45a33ea33522bd539d434297dfe523e06413880"
+        },
+        "oblique": {
+          "file": "B-articulated-early-return-oblique.png",
+          "sha256": "f178e32804c5c12a1d1fec6bc2872acc965b83d09da3815cf75447c2a1b81a1a"
+        },
+        "side": {
+          "file": "B-articulated-early-return-side.png",
+          "sha256": "7af3105c5b66e06f7e84e6cf66684907b708c8596fc2dac82f74798d78087d42"
+        },
+        "top": {
+          "file": "B-articulated-early-return-top.png",
+          "sha256": "b2525a8d2f3b56b009d1742da4fccc9b52e61eb12cedcf74fe6199c055f6d355"
+        }
+      }
+    },
+    {
+      "pose": "late-return",
+      "seconds": 2.7,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-late-return-front.png",
+          "sha256": "1339bd546868e2942569b7970003b161f5734f35a41d9513dc57e76ed1298031"
+        },
+        "oblique": {
+          "file": "A-common-late-return-oblique.png",
+          "sha256": "41440f0f713209e411134c35b769e39c8cd7a8da3d0905f2c3895dfde958f5d7"
+        },
+        "side": {
+          "file": "A-common-late-return-side.png",
+          "sha256": "73def30c3e1d738043966c3925fc5f2aef9a44d2caaad0ca56bb83fe3e43adb3"
+        },
+        "top": {
+          "file": "A-common-late-return-top.png",
+          "sha256": "774f1d1d94c0572ddb97078e5fcabb891dbe958d1fa28e2b351a798ce6144fcc"
+        }
+      }
+    },
+    {
+      "pose": "late-return",
+      "seconds": 2.7,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-late-return-front.png",
+          "sha256": "f333079cfa0208b1f7dbf973f2118b3a7361756ae9786b5ae99488a1537091bd"
+        },
+        "oblique": {
+          "file": "B-articulated-late-return-oblique.png",
+          "sha256": "d520eb556ba85f22ccb7b193c662cfad9ea573103f4bb75597654c17ba752713"
+        },
+        "side": {
+          "file": "B-articulated-late-return-side.png",
+          "sha256": "2a0a2c9aab64bedd169517da8fd0a820a47f68da5286c5434931278547bbd444"
+        },
+        "top": {
+          "file": "B-articulated-late-return-top.png",
+          "sha256": "7d24041a37c1448ce8d7ba4ae752f1427d924ff20c4ea98d24de937374f202cf"
+        }
+      }
+    },
+    {
+      "pose": "settled",
+      "seconds": 3.2,
+      "case": "A-common",
+      "files": {
+        "front": {
+          "file": "A-common-settled-front.png",
+          "sha256": "6c9e9990488948ef72fe44067aed35dbfd782fdb01cf4801d77e9b77ed62cd66"
+        },
+        "oblique": {
+          "file": "A-common-settled-oblique.png",
+          "sha256": "084b43d1a7ded6b50a475337f715695dccc346c7001340e8b68cf359f46e3552"
+        },
+        "side": {
+          "file": "A-common-settled-side.png",
+          "sha256": "305b178b4460382a6910f2b5ebb40b66b6436110134a203ee51c35e808136330"
+        },
+        "top": {
+          "file": "A-common-settled-top.png",
+          "sha256": "4bfbec6ce9bcee426eb0306043e0833fbb85d7dbbd3c94a3a49071a4a51f389c"
+        }
+      }
+    },
+    {
+      "pose": "settled",
+      "seconds": 3.2,
+      "case": "B-articulated",
+      "files": {
+        "front": {
+          "file": "B-articulated-settled-front.png",
+          "sha256": "0e3d8a3da21b3f9530f83ef01741aa54239219a721f97bac5596a69f72eced65"
+        },
+        "oblique": {
+          "file": "B-articulated-settled-oblique.png",
+          "sha256": "9212753eff987645ac3c034bd506305622f5d0dddcb6a19312e81d8505eea0be"
+        },
+        "side": {
+          "file": "B-articulated-settled-side.png",
+          "sha256": "c547c49b12ef9d853b58ceebe0064967759c75f931d7abacd755617a9016c02f"
+        },
+        "top": {
+          "file": "B-articulated-settled-top.png",
+          "sha256": "12083933f797b0ec3feeb1318067e8d2739f0a8e865c136eff2a6f2067a9ec08"
+        }
+      }
+    },
+    {
+      "pose": "work-end",
+      "seconds": 2.08,
+      "case": "C-no-relative-turn",
+      "files": {
+        "front": {
+          "file": "C-no-relative-turn-work-end-front.png",
+          "sha256": "64e4d309635a67881250a8457592c9d5a18f5a0c98f12210c9e479157ff74a59"
+        },
+        "oblique": {
+          "file": "C-no-relative-turn-work-end-oblique.png",
+          "sha256": "541fbd8506cbd9b966f76da9bd9c888a98ff7233be38f67fda75039c28e942ea"
+        },
+        "side": {
+          "file": "C-no-relative-turn-work-end-side.png",
+          "sha256": "371485d6d01dd46c1078c7dced3a1558e30743364c2d35a72564feeda4a0d74e"
+        },
+        "top": {
+          "file": "C-no-relative-turn-work-end-top.png",
+          "sha256": "89eab0e5a365d890894a2f0393d80969f92eb502399dcb909907d3f267f35b1a"
+        }
+      }
+    },
+    {
+      "pose": "work-end",
+      "seconds": 2.08,
+      "case": "D-no-leg-anchor",
+      "files": {
+        "front": {
+          "file": "D-no-leg-anchor-work-end-front.png",
+          "sha256": "bd70920b86ff63ac74549a75ed7e6d433a6227da18df463c26eb10759beac579"
+        },
+        "oblique": {
+          "file": "D-no-leg-anchor-work-end-oblique.png",
+          "sha256": "969b874f0b2ece97f71d85d667f443fe7264766671733ac287a6329b2d277ae1"
+        },
+        "side": {
+          "file": "D-no-leg-anchor-work-end-side.png",
+          "sha256": "edfc9ac74be21a300a6b5eb6874aba41ab91545ba7ed89a5bb76ce3794922105"
+        },
+        "top": {
+          "file": "D-no-leg-anchor-work-end-top.png",
+          "sha256": "5dfe177a5250750b9b4a2546528c1c64d00c365682818cf5d586c127887cdfa2"
+        }
+      }
+    }
+  ],
+  "findings": [
+    "All seven A/B keys reviewed in front, oblique, side and top. Head, arm, grip and broom tasks agree between A/B; existing geometry and facial identity remain recognizable.",
+    "B reduces common lower-body turning relative to A; the belly pigment rotates progressively toward the chest and visible gray lower attachments remain near the planted paws.",
+    "Four shaded whole-body/hip/ankle views for A, B, no-relative-turn and no-leg-anchor were inspected. B has a broad continuous twist without observed abrupt waist pinching, folds, cracks or new exposed gaps at these samples.",
+    "The chest and lower-frame distinction is clearest in belly presentation and tail direction; the large head hides much of the upper torso in top view.",
+    "The fixed club-arm roots remain concealed as in the original. B preserves the prior elbow/reach design; this is a controlled rig experiment, not a match of the complete generated broom excursion.",
+    "No stepping, new face distortion, grip switching, second broom or abrupt bristle detachment is present in the pilot."
+  ],
+  "limitations": [
+    "Generated front, oblique, side and top performances are independent; exact joints and force distribution are not measured.",
+    "The test shares upper-chest/hand tasks between A/B deliberately. It cannot establish an improved final performance from lower-body differences alone.",
+    "Existing simplified gray leg/paw overlap and arm-root embedding remain. Pilot appearance is not an all-state collision or surface certificate.",
+    "Clay highlights are bright; oblique/side shading and silhouettes were inspected at native640px, but broader lighting and range qualification remain separate.",
+    "No owner adoption, independent quality score or real-time skeletal export is claimed."
+  ]
+}

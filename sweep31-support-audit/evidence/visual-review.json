@@ -1,0 +1,38 @@
+{
+  "scope": "Main-agent observable-image and code review; analysis only",
+  "sourceOriginalSHA256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+  "nativeSHA256": "81f0a7904bc861989eb894c2be5aeca347b9aeec3ca5447870a24cd30eb7d793",
+  "reviewed": {
+    "sourceFullFrames": 120,
+    "sourceFootTrunkFrames": 120,
+    "sourceFullResolutionOverlays": [
+      0,
+      44,
+      52,
+      60,
+      68,
+      78,
+      96
+    ],
+    "featureKeySheets": [
+      "source",
+      "A-common",
+      "B-articulated"
+    ],
+    "keysPerSheet": 14,
+    "sourceComparisonSeconds": 2.0,
+    "nativeContinuousReview": "sweep30_torso/sequence-review.json; unchanged candidate and media"
+  },
+  "findings": [
+    "Both sampled visible soles remain planted; exclusive weight bearing is unobserved.",
+    "Body/cream presentation participates in the source below the chest; pronounced internal wringing is not established.",
+    "Current broom fails to reach the opposite foot region.",
+    "A/B shares pivot and upper tasks and additionally bundles two lower-field changes.",
+    "Head envelope is a projection cue, not measured root translation.",
+    "Holding inner edge at cutoff110 is unstable; exact motion bound rejected."
+  ],
+  "classification": "Owner support-axis reading is a preferred next hypothesis, not uniquely reconstructed physics.",
+  "noNewNative": true,
+  "noExternalReview": true,
+  "noAdoption": true
+}
