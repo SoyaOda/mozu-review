@@ -1,0 +1,3762 @@
+{
+  "scope": "Authored relative torso capability and controlled task-equivalent A/B pilot",
+  "sourceSHA256": "1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6",
+  "referenceSHA256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+  "blender": "5.2.0 LTS",
+  "scripts": {
+    "native.py": "e151a01c0d8c6791425274b451da1b178bffbe9c92ca275638b02fe0d87ae3c7",
+    "torso_math.py": "345fd990de2af74442afab204814bd435c594fb3c768d535d95eab6fa0f8f821"
+  },
+  "red": {
+    "status": "EXPECTED_CAPABILITY_FAILURE",
+    "absentControls": [
+      "Chest yaw",
+      "Pelvis yaw",
+      "Torso articulation",
+      "Leg anchoring"
+    ],
+    "sourceSHA256": "1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6",
+    "reason": "Only one common body frame exists in the unchanged native"
+  },
+  "baselineSurface": {
+    "vertices": 168230,
+    "polygons": 168480,
+    "topologySHA256": "35e809704f4ae3ecc5f4fc7379eabd5865074aa2d8df8784cd17ee69bc4b2ca7",
+    "materials": [
+      "A189 | Paw charcoal",
+      null,
+      "J118 | Surface-bound original belly"
+    ],
+    "attributes": {
+      ".corner_vert": {
+        "domain": "CORNER",
+        "type": "INT",
+        "sha256": "8475fe8a3f8c8303d0e46a7c3515a48a5d895b23e74596f928eafda6c04c137e"
+      },
+      ".corner_edge": {
+        "domain": "CORNER",
+        "type": "INT",
+        "sha256": "a967bab0ae10a3a746584c98a721e09f07015b0504f5d57f7bdd68c9989a0255"
+      },
+      "p186_rest": {
+        "domain": "POINT",
+        "type": "FLOAT_VECTOR",
+        "sha256": "9615e3c35839d261ee674809c0254d4c6dc87130a0bdb6bf7d79d88136c07d7b"
+      },
+      "j118_rest_position": {
+        "domain": "POINT",
+        "type": "FLOAT_VECTOR",
+        "sha256": "9615e3c35839d261ee674809c0254d4c6dc87130a0bdb6bf7d79d88136c07d7b"
+      },
+      "s25_posture_body": {
+        "domain": "POINT",
+        "type": "FLOAT",
+        "sha256": "903a3cf657df04f7e94d14d5c7ca2abecbff5589a2b0ebea3dd1936fce32097b"
+      },
+      "sharp_face": {
+        "domain": "FACE",
+        "type": "BOOLEAN",
+        "sha256": "7f97dc67a96cbcec5799c32dbc9e7ceb1b89cbf37384554f7591b087f0c185a1"
+      },
+      "material_index": {
+        "domain": "FACE",
+        "type": "INT",
+        "sha256": "90b038389f19797107c3f0e0dbdb2b89e7d1644d058170c6cf31db0705afd281"
+      }
+    }
+  },
+  "rows": [
+    {
+      "seconds": 0.0,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0,
+        "Stroke": 0,
+        "Unloaded lift": 0,
+        "Bristle drag": 0,
+        "Chest yaw": 0,
+        "Pelvis yaw": 0,
+        "Attention": 0,
+        "Head response": 0
+      },
+      "bodyDegrees": {
+        "pitch": 0,
+        "roll": 0.0,
+        "chest": 0,
+        "pelvis": 0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.1,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.2,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.3,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.4,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.5,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.6,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.7,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.8,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 0.9,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 1.0,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 1.1,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 1.2,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 1.3,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 1.33,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.020781341107871772,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0018720000000000052,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.062344023323615314,
+        "roll": -0.020781341107871772,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.2597445581418185e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 6.788751816602656e-08,
+      "shoulderFrameError": 1.2698911455721884e-07,
+      "tailFrameError": 1.216844123241856e-07,
+      "headRigidError": 6.842793620620569e-08,
+      "arms": {
+        "R": {
+          "error": 3.760209914549506e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.661864945656788e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 1.838444962931618e-07,
+      "floorLiftError": 3.078460688189094e-09,
+      "hand": [
+        0.8084501970573892,
+        -0.11949805945269425,
+        0.4149892146472658
+      ]
+    },
+    {
+      "seconds": 1.4,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.1982507288629734,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.01333333333333332,
+        "Bristle drag": 0.0,
+        "Chest yaw": -0.5485446773865237,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.02078134110787147,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.5947521865889203,
+        "roll": -0.1982507288629734,
+        "chest": -0.5485446773865237,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.4398021158944516e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 3.301002993172375e-07,
+      "shoulderFrameError": 6.213903969154444e-08,
+      "tailFrameError": 1.303669778796035e-07,
+      "headRigidError": 2.7653909651093045e-07,
+      "arms": {
+        "R": {
+          "error": 8.283594978841791e-07,
+          "jacobian": 0.9085606664166218
+        },
+        "L": {
+          "error": 2.716696811955188e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.6557516197864857e-07,
+      "floorLiftError": -1.2715657539061342e-08,
+      "hand": [
+        0.813383395092075,
+        -0.14584658614884194,
+        0.42679921079364025
+      ]
+    },
+    {
+      "seconds": 1.42,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.27204664723032046,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.016127999999999997,
+        "Bristle drag": 0.0,
+        "Chest yaw": -0.8655607571748404,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.055393586005830574,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.8161399416909614,
+        "roll": -0.27204664723032046,
+        "chest": -0.8655607571748404,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.272469525887999e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.0600236562963161e-06,
+      "shoulderFrameError": 4.8311271427792235e-08,
+      "tailFrameError": 1.2043403629924399e-07,
+      "headRigidError": 8.123772016199737e-08,
+      "arms": {
+        "R": {
+          "error": 1.0661199905115382e-06,
+          "jacobian": 0.905919443599405
+        },
+        "L": {
+          "error": 2.236298395352776e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.674856467490329e-07,
+      "floorLiftError": 6.320190430036954e-08,
+      "hand": [
+        0.81446140717778,
+        -0.15834820881650646,
+        0.4316050552887786
+      ]
+    },
+    {
+      "seconds": 1.45,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.3935860058309037,
+        "Stroke": 0.00601051840721263,
+        "Unloaded lift": 0.018,
+        "Bristle drag": 0.0,
+        "Chest yaw": -1.4288622023203732,
+        "Pelvis yaw": -0.03055672436557801,
+        "Attention": 0.1328513119533524,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 1.1927790543071364,
+        "roll": -0.3983944205566738,
+        "chest": -1.4288622023203732,
+        "pelvis": -0.03055672436557801
+      },
+      "bodyFieldError": 2.186320828823085e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.2665051235826184e-07,
+      "shoulderFrameError": 1.0080347423446767e-07,
+      "tailFrameError": 2.7414758085875235e-07,
+      "headRigidError": 1.6333611707608497e-07,
+      "arms": {
+        "R": {
+          "error": 8.085564293658365e-07,
+          "jacobian": 0.9004980947989278
+        },
+        "L": {
+          "error": 1.998568313066329e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.261386705144531e-07,
+      "floorLiftError": 3.6478042603899086e-08,
+      "hand": [
+        0.8147674352511938,
+        -0.18204005664003764,
+        0.4398277269770792
+      ]
+    },
+    {
+      "seconds": 1.46,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.43587172011661796,
+        "Stroke": 0.010574060160837036,
+        "Unloaded lift": 0.0178695,
+        "Bristle drag": 0.0020411138649948997,
+        "Chest yaw": -1.6339303887645011,
+        "Pelvis yaw": -0.053394466127885606,
+        "Attention": 0.16436151603498508,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 1.328763280671528,
+        "roll": -0.44433096824528756,
+        "chest": -1.6339303887645011,
+        "pelvis": -0.053394466127885606
+      },
+      "bodyFieldError": 3.024010812868738e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 5.400935416677299e-07,
+      "shoulderFrameError": 7.764547738098315e-08,
+      "tailFrameError": 3.021060954733201e-07,
+      "headRigidError": 1.1168655644766545e-07,
+      "arms": {
+        "R": {
+          "error": 8.012194459006139e-07,
+          "jacobian": 0.8979668887773457
+        },
+        "L": {
+          "error": 2.814179305143938e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.1901954400392896e-07,
+      "floorLiftError": -5.729866027828767e-08,
+      "hand": [
+        0.8143361427073981,
+        -0.19140590180404318,
+        0.44280796033973346
+      ]
+    },
+    {
+      "seconds": 1.5,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.6064139941690964,
+        "Stroke": 0.04051534630047032,
+        "Unloaded lift": 0.015187499999999993,
+        "Bristle drag": 0.047383000437381584,
+        "Chest yaw": -2.5,
+        "Pelvis yaw": -0.19872027393682642,
+        "Attention": 0.31139358600583067,
+        "Head response": 0.0006817486156329141
+      },
+      "bodyDegrees": {
+        "pitch": 1.90027267510823,
+        "roll": -0.6388262712094727,
+        "chest": -2.5,
+        "pelvis": -0.19872027393682642
+      },
+      "bodyFieldError": 2.3868499621215733e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.1139178285611848e-07,
+      "shoulderFrameError": 5.838418881687346e-08,
+      "tailFrameError": 2.464756816422664e-07,
+      "headRigidError": 1.2535613436170934e-07,
+      "arms": {
+        "R": {
+          "error": 7.994699225966073e-07,
+          "jacobian": 0.8873950426904588
+        },
+        "L": {
+          "error": 2.2106735908522523e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.1189245725270496e-07,
+      "floorLiftError": 9.131431580322591e-08,
+      "hand": [
+        0.809175232994541,
+        -0.23433391516362118,
+        0.455108909868915
+      ]
+    },
+    {
+      "seconds": 1.6,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.9446064139941694,
+        "Stroke": 0.18256949661908364,
+        "Unloaded lift": 0.0028124999999999817,
+        "Bristle drag": 0.3444379647178893,
+        "Chest yaw": -4.4514553226134765,
+        "Pelvis yaw": -0.8179800060939344,
+        "Attention": 0.7279533527696797,
+        "Head response": 0.07407407407407415
+      },
+      "bodyDegrees": {
+        "pitch": 3.1989582352206756,
+        "roll": -1.0906620112894363,
+        "chest": -4.4514553226134765,
+        "pelvis": -0.8179800060939344
+      },
+      "bodyFieldError": 2.8504171512011567e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 7.473328125229273e-07,
+      "shoulderFrameError": 1.178251896050142e-08,
+      "tailFrameError": 2.637936307170463e-07,
+      "headRigidError": 1.378802569895754e-07,
+      "arms": {
+        "R": {
+          "error": 8.301997024284802e-07,
+          "jacobian": 0.863377099120749
+        },
+        "L": {
+          "error": 1.944719436597353e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.2315589160170077e-07,
+      "floorLiftError": -2.5033950787345383e-08,
+      "hand": [
+        0.7717767949222123,
+        -0.3522903675259477,
+        0.4806852770874807
+      ]
+    },
+    {
+      "seconds": 1.65,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.27968389125413906,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.539437235748651,
+        "Chest yaw": -4.95013230205577,
+        "Pelvis yaw": -1.1820199939060656,
+        "Attention": 0.8959999999999998,
+        "Head response": 0.1478142304588584
+      },
+      "bodyDegrees": {
+        "pitch": 3.559367782508278,
+        "roll": -1.2237471130033113,
+        "chest": -4.95013230205577,
+        "pelvis": -1.1820199939060656
+      },
+      "bodyFieldError": 2.4987108693252935e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.4686584492995536e-07,
+      "shoulderFrameError": 1.822554558383871e-07,
+      "tailFrameError": 2.2939902533103407e-07,
+      "headRigidError": 1.2756745526587565e-07,
+      "arms": {
+        "R": {
+          "error": 9.064349573151276e-07,
+          "jacobian": 0.8614477988220566
+        },
+        "L": {
+          "error": 1.8213151653512227e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.4458534858838874e-07,
+      "floorLiftError": -2.9802322387695312e-08,
+      "hand": [
+        0.747893831354744,
+        -0.39854589329429346,
+        0.4882659260256238
+      ]
+    },
+    {
+      "seconds": 1.67,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.32174360686757375,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.6174369441609562,
+        "Chest yaw": -5.0,
+        "Pelvis yaw": -1.3239796288504224,
+        "Attention": 0.944606413994169,
+        "Head response": 0.18256949661908325
+      },
+      "bodyDegrees": {
+        "pitch": 3.6434872137351473,
+        "roll": -1.257394885494059,
+        "chest": -5.0,
+        "pelvis": -1.3239796288504224
+      },
+      "bodyFieldError": 2.4218000138631623e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 4.895224194889636e-07,
+      "shoulderFrameError": 7.259840040241272e-08,
+      "tailFrameError": 2.479737817306926e-07,
+      "headRigidError": 3.306849247763921e-07,
+      "arms": {
+        "R": {
+          "error": 8.332823099310716e-07,
+          "jacobian": 0.8626226952249059
+        },
+        "L": {
+          "error": 2.52029943137444e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.249018752984114e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.739216352082663,
+        -0.4131605888490404,
+        0.4906819870475055
+      ]
+    },
+    {
+      "seconds": 1.7,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.3872332136794946,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.7289692374981773,
+        "Chest yaw": -5.15278362182789,
+        "Pelvis yaw": -1.524295933024767,
+        "Attention": 0.9905772594752187,
+        "Head response": 0.23929376408715236
+      },
+      "bodyDegrees": {
+        "pitch": 3.7744664273589894,
+        "roll": -1.3097865709435956,
+        "chest": -5.15278362182789,
+        "pelvis": -1.524295933024767
+      },
+      "bodyFieldError": 2.2288713985574304e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 7.25706289728123e-07,
+      "shoulderFrameError": 5.38081710299565e-08,
+      "tailFrameError": 2.2481411510177907e-07,
+      "headRigidError": 2.1580901510276362e-07,
+      "arms": {
+        "R": {
+          "error": 7.690352216149776e-07,
+          "jacobian": 0.8644520823794584
+        },
+        "L": {
+          "error": 1.9769294357097067e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 2.6885033310719564e-07,
+      "floorLiftError": 2.9802322387695312e-08,
+      "hand": [
+        0.7244828034129347,
+        -0.43639585185888063,
+        0.49455091678894697
+      ]
+    },
+    {
+      "seconds": 1.78,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.5679939894815929,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.9526169995626184,
+        "Chest yaw": -6.773189593882853,
+        "Pelvis yaw": -1.9180220832547408,
+        "Attention": 1.0,
+        "Head response": 0.4095361326766284
+      },
+      "bodyDegrees": {
+        "pitch": 4.135987978963186,
+        "roll": -1.4543951915852742,
+        "chest": -6.773189593882853,
+        "pelvis": -1.9180220832547408
+      },
+      "bodyFieldError": 2.2469767668731322e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.8581435146103331e-06,
+      "shoulderFrameError": 7.530360335294972e-08,
+      "tailFrameError": 2.2416318157247872e-07,
+      "headRigidError": 1.1611160299906942e-07,
+      "arms": {
+        "R": {
+          "error": 8.28267942121208e-07,
+          "jacobian": 0.8695014552096997
+        },
+        "L": {
+          "error": 2.384217210327222e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 2.1264082616934132e-07,
+      "floorLiftError": 0.0,
+      "hand": [
+        0.6686711872895146,
+        -0.5112087546383915,
+        0.5058066514750605
+      ]
+    },
+    {
+      "seconds": 1.8,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.6127667863205054,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.9822860475287942,
+        "Chest yaw": -7.378520334876164,
+        "Pelvis yaw": -1.969443275634422,
+        "Attention": 1.0,
+        "Head response": 0.4546011074936694
+      },
+      "bodyDegrees": {
+        "pitch": 4.225533572641011,
+        "roll": -1.4902134290564044,
+        "chest": -7.378520334876164,
+        "pelvis": -1.969443275634422
+      },
+      "bodyFieldError": 2.32299334212982e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 6.30700007775431e-07,
+      "shoulderFrameError": 1.199756678449404e-07,
+      "tailFrameError": 2.1689001727942525e-07,
+      "headRigidError": 9.585598093053704e-08,
+      "arms": {
+        "R": {
+          "error": 9.073283353533412e-07,
+          "jacobian": 0.8707521388432985
+        },
+        "L": {
+          "error": 2.1665084704025617e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.5907223078511805e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.6515925696751851,
+        -0.5308779630378877,
+        0.5087013085734859
+      ]
+    },
+    {
+      "seconds": 1.83,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.6782563931324264,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 1.0,
+        "Chest yaw": -8.380101855747888,
+        "Pelvis yaw": -2.0,
+        "Attention": 1.0,
+        "Head response": 0.5227203161087459
+      },
+      "bodyDegrees": {
+        "pitch": 4.356512786264853,
+        "roll": -1.5426051145059412,
+        "chest": -8.380101855747888,
+        "pelvis": -2.0
+      },
+      "bodyFieldError": 2.2547406741679765e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.209193517899166e-06,
+      "shoulderFrameError": 1.0754466384099715e-07,
+      "tailFrameError": 2.429242964563372e-07,
+      "headRigidError": 1.1635487384697996e-07,
+      "arms": {
+        "R": {
+          "error": 8.459863765075681e-07,
+          "jacobian": 0.8725815259978511
+        },
+        "L": {
+          "error": 2.214608538775309e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.143667838267916e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.6243498465252171,
+        -0.5597937732973707,
+        0.5129937014902212
+      ]
+    },
+    {
+      "seconds": 1.9,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.8174305033809163,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.8373984000000007,
+        "Chest yaw": -10.910099969530327,
+        "Pelvis yaw": -2.1226196289062496,
+        "Attention": 1.0,
+        "Head response": 0.6782563931324259
+      },
+      "bodyDegrees": {
+        "pitch": 4.634861006761833,
+        "roll": -1.6539444027047332,
+        "chest": -10.910099969530327,
+        "pelvis": -2.1226196289062496
+      },
+      "bodyFieldError": 2.295858085865632e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.482620232724386e-07,
+      "shoulderFrameError": 4.177326634602352e-08,
+      "tailFrameError": 2.078167939956188e-07,
+      "headRigidError": 2.0898552710590934e-07,
+      "arms": {
+        "R": {
+          "error": 1.0986834698689663e-06,
+          "jacobian": 0.8764692166090658
+        },
+        "L": {
+          "error": 2.3688563599577606e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.032174054062864e-07,
+      "floorLiftError": 0.0,
+      "hand": [
+        0.5576706875905258,
+        -0.6201035576461971,
+        0.5222836586759366
+      ]
+    },
+    {
+      "seconds": 2.0,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.9594846536995297,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.35541440000000035,
+        "Chest yaw": -14.00639863031587,
+        "Pelvis yaw": -2.54681396484375,
+        "Attention": 1.0,
+        "Head response": 0.8685199098422238
+      },
+      "bodyDegrees": {
+        "pitch": 4.91896930739906,
+        "roll": -1.767587722959624,
+        "chest": -14.00639863031587,
+        "pelvis": -2.54681396484375
+      },
+      "bodyFieldError": 2.363748210498784e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.3830014164994964e-06,
+      "shoulderFrameError": 8.675017326709167e-08,
+      "tailFrameError": 2.2886867756533036e-07,
+      "headRigidError": 9.223302865901672e-08,
+      "arms": {
+        "R": {
+          "error": 1.0446270792829893e-06,
+          "jacobian": 0.8804373582806148
+        },
+        "L": {
+          "error": 2.2273819344498236e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 7.570258999667345e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.4773376375553047,
+        -0.6773682853257857,
+        0.5318755104033318
+      ]
+    },
+    {
+      "seconds": 2.08,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 1.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.15000000000000002,
+        "Chest yaw": -15.0,
+        "Pelvis yaw": -2.8773803710937504,
+        "Attention": 1.0,
+        "Head response": 0.9686395636808862
+      },
+      "bodyDegrees": {
+        "pitch": 5.0,
+        "roll": -1.8,
+        "chest": -15.0,
+        "pelvis": -2.8773803710937504
+      },
+      "bodyFieldError": 2.2396981069761068e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.384185786574733e-07,
+      "shoulderFrameError": 7.544215763211071e-08,
+      "tailFrameError": 2.3182088071393991e-07,
+      "headRigidError": 2.1144344364287804e-07,
+      "arms": {
+        "R": {
+          "error": 1.2868360098616805e-06,
+          "jacobian": 0.8815691142598068
+        },
+        "L": {
+          "error": 2.4882098614842363e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.6811405418623053e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.45192870559710985,
+        -0.6926275726955176,
+        0.5346096271191214
+      ]
+    },
+    {
+      "seconds": 2.1,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.9978481037648314,
+        "Unloaded lift": 0.00026953125000000073,
+        "Bristle drag": 0.14696777343749998,
+        "Chest yaw": -14.904711140268153,
+        "Pelvis yaw": -2.9343872070312504,
+        "Attention": 1.0,
+        "Head response": 0.9836519464618638
+      },
+      "bodyDegrees": {
+        "pitch": 4.9956962075296625,
+        "roll": -1.798278483011865,
+        "chest": -14.904711140268153,
+        "pelvis": -2.9343872070312504
+      },
+      "bodyFieldError": 2.6681113918236576e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 5.830594833611258e-07,
+      "shoulderFrameError": 1.1075519745773477e-07,
+      "tailFrameError": 2.376856154118201e-07,
+      "headRigidError": 1.1920385167840664e-07,
+      "arms": {
+        "R": {
+          "error": 1.2831739881757898e-06,
+          "jacobian": 0.8815090031746715
+        },
+        "L": {
+          "error": 2.348541210395183e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.181852946734011e-07,
+      "floorLiftError": 6.055831909106959e-08,
+      "hand": [
+        0.4538262181846311,
+        -0.6915052607558638,
+        0.5344645568158753
+      ]
+    },
+    {
+      "seconds": 2.15,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.97484847886601,
+        "Unloaded lift": 0.002942871093749991,
+        "Bristle drag": 0.11689270019531259,
+        "Chest yaw": -13.973348640780685,
+        "Pelvis yaw": -3.0,
+        "Attention": 1.0,
+        "Head response": 1.0
+      },
+      "bodyDegrees": {
+        "pitch": 4.94969695773202,
+        "roll": -1.779878783092808,
+        "chest": -13.973348640780685,
+        "pelvis": -3.0
+      },
+      "bodyFieldError": 2.575830537754342e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.884121658690674e-06,
+      "shoulderFrameError": 3.7191340229725256e-08,
+      "tailFrameError": 2.4017767774608956e-07,
+      "headRigidError": 1.1862768500847665e-07,
+      "arms": {
+        "R": {
+          "error": 1.34655301242681e-06,
+          "jacobian": 0.8808665314849228
+        },
+        "L": {
+          "error": 2.1768500335639374e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.828027352881236e-07,
+      "floorLiftError": -1.0967254629630496e-08,
+      "hand": [
+        0.4728513769272555,
+        -0.6799060455069276,
+        0.5329129664113524
+      ]
+    },
+    {
+      "seconds": 2.2,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.929638915760172,
+        "Unloaded lift": 0.007593750000000016,
+        "Bristle drag": 0.06457031249999978,
+        "Chest yaw": -12.396203206363522,
+        "Pelvis yaw": -2.912222674536942,
+        "Attention": 1.0,
+        "Head response": 0.9869208141669791
+      },
+      "bodyDegrees": {
+        "pitch": 4.859277831520344,
+        "roll": -1.7437111326081376,
+        "chest": -12.396203206363522,
+        "pelvis": -2.912222674536942
+      },
+      "bodyFieldError": 2.4871059167708154e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 7.883874548753056e-07,
+      "shoulderFrameError": 5.0088706182727094e-08,
+      "tailFrameError": 2.612074552210686e-07,
+      "headRigidError": 5.1815010226885505e-08,
+      "arms": {
+        "R": {
+          "error": 1.286931722077611e-06,
+          "jacobian": 0.8796036472192366
+        },
+        "L": {
+          "error": 2.1830043506199104e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.286915806199886e-07,
+      "floorLiftError": -5.865097047526996e-08,
+      "hand": [
+        0.5063262365186788,
+        -0.6578245778000091,
+        0.5298588810335986
+      ]
+    },
+    {
+      "seconds": 2.22,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 1.0,
+        "Stroke": 0.9061654788462675,
+        "Unloaded lift": 0.009761718750000021,
+        "Bristle drag": 0.040180664062499746,
+        "Chest yaw": -11.68096272909918,
+        "Pelvis yaw": -2.8354365967840414,
+        "Attention": 1.0,
+        "Head response": 0.9748484788660097
+      },
+      "bodyDegrees": {
+        "pitch": 4.812330957692535,
+        "roll": -1.724932383077014,
+        "chest": -11.68096272909918,
+        "pelvis": -2.8354365967840414
+      },
+      "bodyFieldError": 2.1971254859920464e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.7408104877603137e-06,
+      "shoulderFrameError": 5.04492820851965e-08,
+      "tailFrameError": 2.701541790273154e-07,
+      "headRigidError": 1.196553167659431e-07,
+      "arms": {
+        "R": {
+          "error": 9.479511150489728e-07,
+          "jacobian": 0.8789479400612014
+        },
+        "L": {
+          "error": 1.921744660071667e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.350982192313779e-07,
+      "floorLiftError": -2.7656555197028143e-08,
+      "hand": [
+        0.5220777696223811,
+        -0.6466414694745767,
+        0.5282720690508348
+      ]
+    },
+    {
+      "seconds": 2.3,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.9557203245789795,
+        "Stroke": 0.7873966003987921,
+        "Unloaded lift": 0.018433593749999987,
+        "Bristle drag": -0.05737792968749986,
+        "Chest yaw": -9.026651359219327,
+        "Pelvis yaw": -2.3817423163036855,
+        "Attention": 0.9992521405975677,
+        "Head response": 0.8933922966063215
+      },
+      "bodyDegrees": {
+        "pitch": 4.441954174534523,
+        "roll": -1.5856376048980132,
+        "chest": -9.026651359219327,
+        "pelvis": -2.3817423163036855
+      },
+      "bodyFieldError": 2.373863869920001e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.8841216711251718e-06,
+      "shoulderFrameError": 5.569450722830993e-08,
+      "tailFrameError": 2.1273949912803403e-07,
+      "headRigidError": 1.4556196115123043e-07,
+      "arms": {
+        "R": {
+          "error": 1.2007002275771228e-06,
+          "jacobian": 0.8793409756729498
+        },
+        "L": {
+          "error": 2.652353068288704e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.97479025365999e-07,
+      "floorLiftError": -2.2888183581065702e-08,
+      "hand": [
+        0.5922484998585189,
+        -0.5903621529494213,
+        0.5199986339313001
+      ]
+    },
+    {
+      "seconds": 2.37,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.8569268977432244,
+        "Stroke": 0.6596351647483859,
+        "Unloaded lift": 0.023406738281250006,
+        "Bristle drag": -0.11332580566406261,
+        "Chest yaw": -8.0,
+        "Pelvis yaw": -1.9286586606961122,
+        "Attention": 0.955720324578979,
+        "Head response": 0.7873966003987913
+      },
+      "bodyDegrees": {
+        "pitch": 3.8900510227264453,
+        "roll": -1.3846350295419332,
+        "chest": -8.0,
+        "pelvis": -1.9286586606961122
+      },
+      "bodyFieldError": 2.4629563233347085e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.0026092195646328e-07,
+      "shoulderFrameError": 6.494215243346702e-08,
+      "tailFrameError": 2.45928739150969e-07,
+      "headRigidError": 1.0488005175446347e-07,
+      "arms": {
+        "R": {
+          "error": 8.3510606108117e-07,
+          "jacobian": 0.8840511757155688
+        },
+        "L": {
+          "error": 2.7366616006663236e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 2.121692679324383e-07,
+      "floorLiftError": 5.72204589266434e-09,
+      "hand": [
+        0.64693791286533,
+        -0.5366900357452884,
+        0.5097010387168284
+      ]
+    },
+    {
+      "seconds": 2.38,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.8392622187028844,
+        "Stroke": 0.640199001046335,
+        "Unloaded lift": 0.02373046875,
+        "Bristle drag": -0.1169677734375,
+        "Chest yaw": -7.9897280092592595,
+        "Pelvis yaw": -1.8694280480358245,
+        "Attention": 0.9446064139941692,
+        "Head response": 0.7702406570193274
+      },
+      "bodyDegrees": {
+        "pitch": 3.7981846582013232,
+        "roll": -1.3514214195399523,
+        "chest": -7.9897280092592595,
+        "pelvis": -1.8694280480358245
+      },
+      "bodyFieldError": 2.4934418463296026e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 9.631130339915472e-07,
+      "shoulderFrameError": 9.764499520059644e-08,
+      "tailFrameError": 2.3345329025481476e-07,
+      "headRigidError": 7.389966188986463e-08,
+      "arms": {
+        "R": {
+          "error": 9.806734319051102e-07,
+          "jacobian": 0.8849885815965212
+        },
+        "L": {
+          "error": 1.891833703027146e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.3117702275274894e-07,
+      "floorLiftError": 4.768371581961861e-08,
+      "hand": [
+        0.6534945998917321,
+        -0.5294115758066215,
+        0.5079576194441365
+      ]
+    },
+    {
+      "seconds": 2.4,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.8017492711370268,
+        "Stroke": 0.6007344086233788,
+        "Unloaded lift": 0.024,
+        "Bristle drag": -0.12000000000000002,
+        "Chest yaw": -7.910156250000001,
+        "Pelvis yaw": -1.7596682271524537,
+        "Attention": 0.9191871928077523,
+        "Head response": 0.7347146269717488
+      },
+      "bodyDegrees": {
+        "pitch": 3.606716630657838,
+        "roll": -1.2823367980357299,
+        "chest": -7.910156250000001,
+        "pelvis": -1.7596682271524537
+      },
+      "bodyFieldError": 2.6645203354824787e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 5.921884644877196e-07,
+      "shoulderFrameError": 1.283436030785623e-07,
+      "tailFrameError": 2.57135477799153e-07,
+      "headRigidError": 1.2028364115845847e-07,
+      "arms": {
+        "R": {
+          "error": 8.045682932111831e-07,
+          "jacobian": 0.8868290847612068
+        },
+        "L": {
+          "error": 2.152060127880162e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.98424744144188e-07,
+      "floorLiftError": 4.863739013621915e-08,
+      "hand": [
+        0.6670904919524496,
+        -0.5134813229036269,
+        0.5042561839476364
+      ]
+    },
+    {
+      "seconds": 2.49,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.606413994169096,
+        "Stroke": 0.41923479359564053,
+        "Unloaded lift": 0.02150399999999999,
+        "Bristle drag": -0.10751999999999992,
+        "Chest yaw": -6.749999999999998,
+        "Pelvis yaw": -1.5,
+        "Attention": 0.7616448107755738,
+        "Head response": 0.5606775511815679
+      },
+      "bodyDegrees": {
+        "pitch": 2.657711569698569,
+        "roll": -0.9418018290456085,
+        "chest": -6.749999999999998,
+        "pelvis": -1.5
+      },
+      "bodyFieldError": 2.5917503942984865e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.4305114763857318e-06,
+      "shoulderFrameError": 1.089976762180811e-07,
+      "tailFrameError": 2.2904728469441693e-07,
+      "headRigidError": 2.547129280827676e-07,
+      "arms": {
+        "R": {
+          "error": 8.229635580780936e-07,
+          "jacobian": 0.8957070292616468
+        },
+        "L": {
+          "error": 2.444190787542766e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 3.624731776952217e-07,
+      "floorLiftError": 4.453277589050453e-08,
+      "hand": [
+        0.7290121507582646,
+        -0.42265006837826247,
+        0.4841842723450828
+      ]
+    },
+    {
+      "seconds": 2.5,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.582990397805213,
+        "Stroke": 0.3992655913766212,
+        "Unloaded lift": 0.020971193415637857,
+        "Bristle drag": -0.10485596707818928,
+        "Chest yaw": -6.557436342592594,
+        "Pelvis yaw": -1.4973665501080948,
+        "Attention": 0.7407407407407407,
+        "Head response": 0.5405010562059499
+      },
+      "bodyDegrees": {
+        "pitch": 2.5475023761688815,
+        "roll": -0.90240287090651,
+        "chest": -6.557436342592594,
+        "pelvis": -1.4973665501080948
+      },
+      "bodyFieldError": 2.6077110892863686e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 3.5321271152355393e-07,
+      "shoulderFrameError": 1.0711653808392896e-07,
+      "tailFrameError": 2.2446610881132756e-07,
+      "headRigidError": 1.3753501848512428e-07,
+      "arms": {
+        "R": {
+          "error": 7.006707287704472e-07,
+          "jacobian": 0.8968110288517941
+        },
+        "L": {
+          "error": 2.3462767506643445e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.3555833051378556e-07,
+      "floorLiftError": 4.519749080555968e-08,
+      "hand": [
+        0.7353209722181601,
+        -0.41107781659642184,
+        0.4816502280756153
+      ]
+    },
+    {
+      "seconds": 2.6,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.3474346822797314,
+        "Stroke": 0.2126033996012079,
+        "Unloaded lift": 0.013991769547325096,
+        "Bristle drag": -0.06995884773662547,
+        "Chest yaw": -4.249855324074074,
+        "Pelvis yaw": -1.2340215609175724,
+        "Attention": 0.5119037620927263,
+        "Head response": 0.3403648352516133
+      },
+      "bodyDegrees": {
+        "pitch": 1.46751084604161,
+        "roll": -0.5175174019606977,
+        "chest": -4.249855324074074,
+        "pelvis": -1.2340215609175724
+      },
+      "bodyFieldError": 2.287484419660757e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 7.59407326356154e-07,
+      "shoulderFrameError": 1.1813864997378687e-07,
+      "tailFrameError": 2.1403326710967008e-07,
+      "headRigidError": 1.5326652169633803e-07,
+      "arms": {
+        "R": {
+          "error": 1.143680423698612e-06,
+          "jacobian": 0.9057144358876738
+        },
+        "L": {
+          "error": 2.5685464888347553e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.983598861947215e-07,
+      "floorLiftError": 3.581184425394124e-09,
+      "hand": [
+        0.7842297746239155,
+        -0.2900669428438762,
+        0.45463653182022284
+      ]
+    },
+    {
+      "seconds": 2.7,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.1430731022567756,
+        "Stroke": 0.07036108423982745,
+        "Unloaded lift": 0.006222222222222212,
+        "Bristle drag": -0.03111111111111106,
+        "Chest yaw": -1.8554687499999973,
+        "Pelvis yaw": -0.7225664166219288,
+        "Attention": 0.2806672345599023,
+        "Head response": 0.1639192150514277
+      },
+      "bodyDegrees": {
+        "pitch": 0.5699414752499817,
+        "roll": -0.19936196964863756,
+        "chest": -1.8554687499999973,
+        "pelvis": -0.7225664166219288
+      },
+      "bodyFieldError": 2.4601800840962085e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 4.7683715553858974e-07,
+      "shoulderFrameError": 1.5453339008431044e-07,
+      "tailFrameError": 2.4154860556180324e-07,
+      "headRigidError": 1.2893945644520954e-07,
+      "arms": {
+        "R": {
+          "error": 7.047902921275551e-07,
+          "jacobian": 0.9090245877218855
+        },
+        "L": {
+          "error": 1.906322059097576e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 1.7857812717458899e-07,
+      "floorLiftError": -6.355179679728984e-08,
+      "hand": [
+        0.8047425602750443,
+        -0.1835254281347494,
+        0.42964212606105134
+      ]
+    },
+    {
+      "seconds": 2.8,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.017896635432538943,
+        "Stroke": 0.00215189623516876,
+        "Unloaded lift": 0.0008230452674897193,
+        "Bristle drag": -0.004115226337448583,
+        "Chest yaw": -0.24233217592592826,
+        "Pelvis yaw": -0.2241697015423465,
+        "Attention": 0.09502213583846253,
+        "Head response": 0.04077744654808191
+      },
+      "bodyDegrees": {
+        "pitch": 0.05799369876795435,
+        "roll": -0.01961815242067395,
+        "chest": -0.24233217592592826,
+        "pelvis": -0.2241697015423465
+      },
+      "bodyFieldError": 2.5102225298390124e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 2.825701654884938e-07,
+      "shoulderFrameError": 2.147831614784934e-07,
+      "tailFrameError": 2.0327465888314578e-07,
+      "headRigidError": 1.0040268927369311e-07,
+      "arms": {
+        "R": {
+          "error": 3.2588172915737346e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 2.6881807935197344e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.746982437131564e-07,
+      "floorLiftError": -5.413475351323527e-08,
+      "hand": [
+        0.8076685915842788,
+        -0.1233821075060859,
+        0.41500096997762065
+      ]
+    },
+    {
+      "seconds": 2.82,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.006586761688802567,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0003057777777777833,
+        "Bristle drag": -0.001528888888888913,
+        "Chest yaw": -0.08984375000000089,
+        "Pelvis yaw": -0.1490402054526201,
+        "Attention": 0.06758729358880544,
+        "Head response": 0.025151521133989996
+      },
+      "bodyDegrees": {
+        "pitch": 0.0197602850664077,
+        "roll": -0.006586761688802567,
+        "chest": -0.08984375000000089,
+        "pelvis": -0.1490402054526201
+      },
+      "bodyFieldError": 1.683518684458818e-07,
+      "displayedPawDrift": 0.0,
+      "curveError": 9.536743155180716e-07,
+      "shoulderFrameError": 1.3409003707387512e-07,
+      "tailFrameError": 2.2682442790689095e-07,
+      "headRigidError": 1.3047816560529668e-07,
+      "arms": {
+        "R": {
+          "error": 5.589212281886802e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.727179501642695e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 4.988066056865748e-07,
+      "floorLiftError": -3.5752402417071893e-08,
+      "hand": [
+        0.8076109256793991,
+        -0.1193205991478925,
+        0.41403182283024487
+      ]
+    },
+    {
+      "seconds": 2.85,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": -0.06148343755894392,
+        "Attention": 0.03429355281207114,
+        "Head response": 0.008449647602313703
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": -0.06148343755894392
+      },
+      "bodyFieldError": 7.356881914777347e-08,
+      "displayedPawDrift": 0.0,
+      "curveError": 1.8403834611824266e-07,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 1.472690858150827e-07,
+      "headRigidError": 9.89117128202821e-08,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 2.9,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0029594436245986566,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 7.301150051208793e-08,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 1.9871682921390743e-07,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.0,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.1,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.2,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.3,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.4,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.5,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.6,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.7,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.8,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 3.9,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0.0,
+        "Stroke": 0.0,
+        "Unloaded lift": 0.0,
+        "Bristle drag": 0.0,
+        "Chest yaw": 0.0,
+        "Pelvis yaw": 0.0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0.0,
+        "roll": -0.0,
+        "chest": 0.0,
+        "pelvis": 0.0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    },
+    {
+      "seconds": 4.0,
+      "articulation": 1.0,
+      "legAnchoring": 1.0,
+      "controls": {
+        "Work posture": 0,
+        "Stroke": 0,
+        "Unloaded lift": 0,
+        "Bristle drag": 0,
+        "Chest yaw": 0,
+        "Pelvis yaw": 0,
+        "Attention": 0.0,
+        "Head response": 0.0
+      },
+      "bodyDegrees": {
+        "pitch": 0,
+        "roll": 0.0,
+        "chest": 0,
+        "pelvis": 0
+      },
+      "bodyFieldError": 2.7755575615628914e-17,
+      "displayedPawDrift": 0.0,
+      "curveError": 0.0,
+      "shoulderFrameError": 0.0,
+      "tailFrameError": 2.7755575615628914e-17,
+      "headRigidError": 0.0,
+      "arms": {
+        "R": {
+          "error": 1.1868784266511057e-07,
+          "jacobian": 0.9090245877218854
+        },
+        "L": {
+          "error": 1.1284768619557184e-07,
+          "jacobian": 0.9090245877218854
+        }
+      },
+      "propError": 5.220021567220456e-07,
+      "floorLiftError": 5.960464477539063e-08,
+      "hand": [
+        0.80755840546133,
+        -0.117385901474383,
+        0.41358738711348436
+      ]
+    }
+  ],
+  "images": [
+    {
+      "case": "A-common",
+      "pose": "hold",
+      "seconds": 0.0,
+      "checks": {
+        "seconds": 0.0,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0,
+          "Stroke": 0,
+          "Unloaded lift": 0,
+          "Bristle drag": 0,
+          "Chest yaw": 0,
+          "Pelvis yaw": 0,
+          "Attention": 0,
+          "Head response": 0
+        },
+        "bodyDegrees": {
+          "pitch": 0,
+          "roll": 0.0,
+          "chest": 0,
+          "pelvis": 0
+        },
+        "bodyFieldError": 2.7755575615628914e-17,
+        "displayedPawDrift": 0.0,
+        "curveError": 0.0,
+        "shoulderFrameError": 0.0,
+        "tailFrameError": 2.7755575615628914e-17,
+        "headRigidError": 0.0,
+        "arms": {
+          "R": {
+            "error": 1.1868784266511057e-07,
+            "jacobian": 0.9090245877218854
+          },
+          "L": {
+            "error": 1.1284768619557184e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 5.220021567220456e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.80755840546133,
+          -0.117385901474383,
+          0.41358738711348436
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-hold-front.png",
+          "sha256": "dc5b0018f031b27c51ddcc2cc8d0b51c5c33287e8a3304ebde0780c0b4c85211"
+        },
+        "oblique": {
+          "file": "A-common-hold-oblique.png",
+          "sha256": "228906ed31b76ca6d49eb9ea9ec06cd38f8094b17135c0a2eb224fb564697411"
+        },
+        "side": {
+          "file": "A-common-hold-side.png",
+          "sha256": "779e2fccf78f4d873750019675d927e4937d80bb46d957324503891a0ab7cf40"
+        },
+        "top": {
+          "file": "A-common-hold-top.png",
+          "sha256": "743c00662f025164e0075d33593e13e452734e137292639fc599913bae4fa9ba"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "hold",
+      "seconds": 0.0,
+      "checks": {
+        "seconds": 0.0,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0,
+          "Stroke": 0,
+          "Unloaded lift": 0,
+          "Bristle drag": 0,
+          "Chest yaw": 0,
+          "Pelvis yaw": 0,
+          "Attention": 0,
+          "Head response": 0
+        },
+        "bodyDegrees": {
+          "pitch": 0,
+          "roll": 0.0,
+          "chest": 0,
+          "pelvis": 0
+        },
+        "bodyFieldError": 2.7755575615628914e-17,
+        "displayedPawDrift": 0.0,
+        "curveError": 0.0,
+        "shoulderFrameError": 0.0,
+        "tailFrameError": 2.7755575615628914e-17,
+        "headRigidError": 0.0,
+        "arms": {
+          "R": {
+            "error": 1.1868784266511057e-07,
+            "jacobian": 0.9090245877218854
+          },
+          "L": {
+            "error": 1.1284768619557184e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 5.220021567220456e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.80755840546133,
+          -0.117385901474383,
+          0.41358738711348436
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-hold-front.png",
+          "sha256": "79f79d934273135ab9b653d2e847b0ce80af39d5c32c50fcec2e533bd122520a"
+        },
+        "oblique": {
+          "file": "B-articulated-hold-oblique.png",
+          "sha256": "b306357014c3c9ec547396942cff36c58dfeef38c61943e1ddfcb109c4943274"
+        },
+        "side": {
+          "file": "B-articulated-hold-side.png",
+          "sha256": "c7891d2fcf56826c3f78d364bece4a67924b6fab017278e2808d151fde07f926"
+        },
+        "top": {
+          "file": "B-articulated-hold-top.png",
+          "sha256": "a2b14da8c4f0cdc0af63545bc07052d1ec02f24cbbe6c6d4b36a2a3252fbb39f"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "prepare",
+      "seconds": 1.46,
+      "checks": {
+        "seconds": 1.46,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.43587172011661796,
+          "Stroke": 0.010574060160837036,
+          "Unloaded lift": 0.0178695,
+          "Bristle drag": 0.0020411138649948997,
+          "Chest yaw": -1.6339303887645011,
+          "Pelvis yaw": -0.053394466127885606,
+          "Attention": 0.16436151603498508,
+          "Head response": 0.0
+        },
+        "bodyDegrees": {
+          "pitch": 1.328763280671528,
+          "roll": -0.44433096824528756,
+          "chest": -1.6339303887645011,
+          "pelvis": -0.053394466127885606
+        },
+        "bodyFieldError": 3.024010812868738e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 5.400935416677299e-07,
+        "shoulderFrameError": 7.764547738098315e-08,
+        "tailFrameError": 2.098497575708791e-07,
+        "headRigidError": 1.1168655644766545e-07,
+        "arms": {
+          "R": {
+            "error": 8.012194459006139e-07,
+            "jacobian": 0.8979668887773457
+          },
+          "L": {
+            "error": 2.814179305143938e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 3.1901954400392896e-07,
+        "floorLiftError": -5.729866027828767e-08,
+        "hand": [
+          0.8143361427073981,
+          -0.19140590180404318,
+          0.44280796033973346
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-prepare-front.png",
+          "sha256": "7728fc35bc1867347b9ef02009319be1d5f608b011abe54233a4093fd0875912"
+        },
+        "oblique": {
+          "file": "A-common-prepare-oblique.png",
+          "sha256": "a5a684303286f183654576a9f70d578db44db0a47f85ed30b0f0149e095af3ee"
+        },
+        "side": {
+          "file": "A-common-prepare-side.png",
+          "sha256": "b311169eb972849ab62f793ef87c43eb52e918c3222b30f032caeb2f92ddcd7d"
+        },
+        "top": {
+          "file": "A-common-prepare-top.png",
+          "sha256": "956cb7ecf2422c15bf090ddf11fbede7d8d022c88201a22750818ae9b3c6c131"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "prepare",
+      "seconds": 1.46,
+      "checks": {
+        "seconds": 1.46,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.43587172011661796,
+          "Stroke": 0.010574060160837036,
+          "Unloaded lift": 0.0178695,
+          "Bristle drag": 0.0020411138649948997,
+          "Chest yaw": -1.6339303887645011,
+          "Pelvis yaw": -0.053394466127885606,
+          "Attention": 0.16436151603498508,
+          "Head response": 0.0
+        },
+        "bodyDegrees": {
+          "pitch": 1.328763280671528,
+          "roll": -0.44433096824528756,
+          "chest": -1.6339303887645011,
+          "pelvis": -0.053394466127885606
+        },
+        "bodyFieldError": 3.024010812868738e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 5.400935416677299e-07,
+        "shoulderFrameError": 7.764547738098315e-08,
+        "tailFrameError": 3.021060954733201e-07,
+        "headRigidError": 1.1168655644766545e-07,
+        "arms": {
+          "R": {
+            "error": 8.012194459006139e-07,
+            "jacobian": 0.8979668887773457
+          },
+          "L": {
+            "error": 2.814179305143938e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 3.1901954400392896e-07,
+        "floorLiftError": -5.729866027828767e-08,
+        "hand": [
+          0.8143361427073981,
+          -0.19140590180404318,
+          0.44280796033973346
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-prepare-front.png",
+          "sha256": "550cd184eea290c727719fe876b8de12384451ac3482b5d41390c90c7a62efd1"
+        },
+        "oblique": {
+          "file": "B-articulated-prepare-oblique.png",
+          "sha256": "8853502eb592d15a74925880e8bcacb5e2f5e23d227e06f5a6fbad05b46528ef"
+        },
+        "side": {
+          "file": "B-articulated-prepare-side.png",
+          "sha256": "2b7d8b1c1910a87b44fc5237489c58bd22260bdbca9c6b94e1372a9f04dcc2d2"
+        },
+        "top": {
+          "file": "B-articulated-prepare-top.png",
+          "sha256": "501a915ee10dfb9d606a3e344de37df49c97d7f8cab0a437956bd31289116596"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "mid-sweep",
+      "seconds": 1.78,
+      "checks": {
+        "seconds": 1.78,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 1.0,
+          "Stroke": 0.5679939894815929,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.9526169995626184,
+          "Chest yaw": -6.773189593882853,
+          "Pelvis yaw": -1.9180220832547408,
+          "Attention": 1.0,
+          "Head response": 0.4095361326766284
+        },
+        "bodyDegrees": {
+          "pitch": 4.135987978963186,
+          "roll": -1.4543951915852742,
+          "chest": -6.773189593882853,
+          "pelvis": -1.9180220832547408
+        },
+        "bodyFieldError": 2.2469767668731322e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 1.8581435146103331e-06,
+        "shoulderFrameError": 7.530360335294972e-08,
+        "tailFrameError": 2.3788106040534274e-07,
+        "headRigidError": 1.1611160299906942e-07,
+        "arms": {
+          "R": {
+            "error": 8.28267942121208e-07,
+            "jacobian": 0.8695014552096997
+          },
+          "L": {
+            "error": 2.384217210327222e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 2.1264082616934132e-07,
+        "floorLiftError": 0.0,
+        "hand": [
+          0.6686711872895146,
+          -0.5112087546383915,
+          0.5058066514750605
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-mid-sweep-front.png",
+          "sha256": "1f80432c3e0424461f051c53aeaafafa286d479923444d3263909e7708c355eb"
+        },
+        "oblique": {
+          "file": "A-common-mid-sweep-oblique.png",
+          "sha256": "c97e156f2cfa73a2ec6838d9ba19eae60ed9b146ea313f97d64226246f9b4a03"
+        },
+        "side": {
+          "file": "A-common-mid-sweep-side.png",
+          "sha256": "d5ac16b191c81dfa72069bf5960bd9d3c20d638f454669f0005547d002c0b643"
+        },
+        "top": {
+          "file": "A-common-mid-sweep-top.png",
+          "sha256": "4ac0204f2c91881cd5a82fe463dd1ed27d4a5e2f1338fd83cb118c239848d54b"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "mid-sweep",
+      "seconds": 1.78,
+      "checks": {
+        "seconds": 1.78,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 1.0,
+          "Stroke": 0.5679939894815929,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.9526169995626184,
+          "Chest yaw": -6.773189593882853,
+          "Pelvis yaw": -1.9180220832547408,
+          "Attention": 1.0,
+          "Head response": 0.4095361326766284
+        },
+        "bodyDegrees": {
+          "pitch": 4.135987978963186,
+          "roll": -1.4543951915852742,
+          "chest": -6.773189593882853,
+          "pelvis": -1.9180220832547408
+        },
+        "bodyFieldError": 2.2469767668731322e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 1.8581435146103331e-06,
+        "shoulderFrameError": 7.530360335294972e-08,
+        "tailFrameError": 2.2416318157247872e-07,
+        "headRigidError": 1.1611160299906942e-07,
+        "arms": {
+          "R": {
+            "error": 8.28267942121208e-07,
+            "jacobian": 0.8695014552096997
+          },
+          "L": {
+            "error": 2.384217210327222e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 2.1264082616934132e-07,
+        "floorLiftError": 0.0,
+        "hand": [
+          0.6686711872895146,
+          -0.5112087546383915,
+          0.5058066514750605
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-mid-sweep-front.png",
+          "sha256": "4206fc268aed0462fddf973d74254ed423acf6f5c44cc4054ee1924cc0bf6382"
+        },
+        "oblique": {
+          "file": "B-articulated-mid-sweep-oblique.png",
+          "sha256": "ef916d645c8ead65b112ee9d7f45e0a9b94dfe2c7259286a185c9ad94e11a0c1"
+        },
+        "side": {
+          "file": "B-articulated-mid-sweep-side.png",
+          "sha256": "e4dfab22bf58ddd10873c4461b2359225055f273845f5300d2d2d54ff52ee506"
+        },
+        "top": {
+          "file": "B-articulated-mid-sweep-top.png",
+          "sha256": "27edb78eb674d1e5daf0516ecb3ce74c4e4a4bbff4f846dfa863cdeb5673fac9"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "work-end",
+      "seconds": 2.08,
+      "checks": {
+        "seconds": 2.08,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 1.0,
+          "Stroke": 1.0,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.15000000000000002,
+          "Chest yaw": -15.0,
+          "Pelvis yaw": -2.8773803710937504,
+          "Attention": 1.0,
+          "Head response": 0.9686395636808862
+        },
+        "bodyDegrees": {
+          "pitch": 5.0,
+          "roll": -1.8,
+          "chest": -15.0,
+          "pelvis": -2.8773803710937504
+        },
+        "bodyFieldError": 2.2396981069761068e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 2.384185786574733e-07,
+        "shoulderFrameError": 7.544215763211071e-08,
+        "tailFrameError": 2.1091341584345003e-07,
+        "headRigidError": 2.1144344364287804e-07,
+        "arms": {
+          "R": {
+            "error": 1.2868360098616805e-06,
+            "jacobian": 0.8815691142598068
+          },
+          "L": {
+            "error": 2.4882098614842363e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 4.6811405418623053e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.45192870559710985,
+          -0.6926275726955176,
+          0.5346096271191214
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-work-end-front.png",
+          "sha256": "312508ff165d8d8dd969c18d9c4557a8175c20a55a864633516f239bc621667e"
+        },
+        "oblique": {
+          "file": "A-common-work-end-oblique.png",
+          "sha256": "aaa34cd071018001c6d46191ade3f3a7fbe9ee1cdf9ec5f2425178b6fd446bf8"
+        },
+        "side": {
+          "file": "A-common-work-end-side.png",
+          "sha256": "7322b9b4c99f75cdcc22052bf5ac708fc715fbdb1a9571730526f6bf23947ff4"
+        },
+        "top": {
+          "file": "A-common-work-end-top.png",
+          "sha256": "ffacde7bf0b399adc274ef37b7d9fa4eaa5826ec1b7663fb374d95363e908cc8"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "work-end",
+      "seconds": 2.08,
+      "checks": {
+        "seconds": 2.08,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 1.0,
+          "Stroke": 1.0,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.15000000000000002,
+          "Chest yaw": -15.0,
+          "Pelvis yaw": -2.8773803710937504,
+          "Attention": 1.0,
+          "Head response": 0.9686395636808862
+        },
+        "bodyDegrees": {
+          "pitch": 5.0,
+          "roll": -1.8,
+          "chest": -15.0,
+          "pelvis": -2.8773803710937504
+        },
+        "bodyFieldError": 2.2396981069761068e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 2.384185786574733e-07,
+        "shoulderFrameError": 7.544215763211071e-08,
+        "tailFrameError": 2.3182088071393991e-07,
+        "headRigidError": 2.1144344364287804e-07,
+        "arms": {
+          "R": {
+            "error": 1.2868360098616805e-06,
+            "jacobian": 0.8815691142598068
+          },
+          "L": {
+            "error": 2.4882098614842363e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 4.6811405418623053e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.45192870559710985,
+          -0.6926275726955176,
+          0.5346096271191214
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-work-end-front.png",
+          "sha256": "1e6073fa969a130cbd9a47e311b764df11579a5a5ca195e13f7af51b99bbf0b3"
+        },
+        "oblique": {
+          "file": "B-articulated-work-end-oblique.png",
+          "sha256": "8ae7c1c9b0cabf809be5821932467c460d3c4e220564c0a17d85e228808a632d"
+        },
+        "side": {
+          "file": "B-articulated-work-end-side.png",
+          "sha256": "76231bb2fa1370fca379756ab4c0c5a6346cfcf60887a40e167cbe955e767112"
+        },
+        "top": {
+          "file": "B-articulated-work-end-top.png",
+          "sha256": "6ab8cb7de7abf3b29d350ab8ef825ea684185e579412e49d3a229d0c542874b6"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "early-return",
+      "seconds": 2.38,
+      "checks": {
+        "seconds": 2.38,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.8392622187028844,
+          "Stroke": 0.640199001046335,
+          "Unloaded lift": 0.02373046875,
+          "Bristle drag": -0.1169677734375,
+          "Chest yaw": -7.9897280092592595,
+          "Pelvis yaw": -1.8694280480358245,
+          "Attention": 0.9446064139941692,
+          "Head response": 0.7702406570193274
+        },
+        "bodyDegrees": {
+          "pitch": 3.7981846582013232,
+          "roll": -1.3514214195399523,
+          "chest": -7.9897280092592595,
+          "pelvis": -1.8694280480358245
+        },
+        "bodyFieldError": 2.4934418463296026e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 9.631130339915472e-07,
+        "shoulderFrameError": 9.764499520059644e-08,
+        "tailFrameError": 2.486814556501571e-07,
+        "headRigidError": 7.389966188986463e-08,
+        "arms": {
+          "R": {
+            "error": 9.806734319051102e-07,
+            "jacobian": 0.8849885815965212
+          },
+          "L": {
+            "error": 1.891833703027146e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 4.3117702275274894e-07,
+        "floorLiftError": 4.768371581961861e-08,
+        "hand": [
+          0.6534945998917321,
+          -0.5294115758066215,
+          0.5079576194441365
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-early-return-front.png",
+          "sha256": "3ca6d4189d0cc83e00335b33e7d90427fb805c17fd4e6ff92bdcbc0f70775a17"
+        },
+        "oblique": {
+          "file": "A-common-early-return-oblique.png",
+          "sha256": "491db7343116924d7d2d7b6439863680d1b1d3364d031f6b2e6e52d19a1a90b8"
+        },
+        "side": {
+          "file": "A-common-early-return-side.png",
+          "sha256": "b86cd454997888a5fd8c085ecbad82bdfa98e617796be5dddc98a0e4fd4b2244"
+        },
+        "top": {
+          "file": "A-common-early-return-top.png",
+          "sha256": "6f7a899b33a7861e1b49ce4a2b736eab8071935e5e8a37d8a93c3856bbab37ba"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "early-return",
+      "seconds": 2.38,
+      "checks": {
+        "seconds": 2.38,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.8392622187028844,
+          "Stroke": 0.640199001046335,
+          "Unloaded lift": 0.02373046875,
+          "Bristle drag": -0.1169677734375,
+          "Chest yaw": -7.9897280092592595,
+          "Pelvis yaw": -1.8694280480358245,
+          "Attention": 0.9446064139941692,
+          "Head response": 0.7702406570193274
+        },
+        "bodyDegrees": {
+          "pitch": 3.7981846582013232,
+          "roll": -1.3514214195399523,
+          "chest": -7.9897280092592595,
+          "pelvis": -1.8694280480358245
+        },
+        "bodyFieldError": 2.4934418463296026e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 9.631130339915472e-07,
+        "shoulderFrameError": 9.764499520059644e-08,
+        "tailFrameError": 2.3345329025481476e-07,
+        "headRigidError": 7.389966188986463e-08,
+        "arms": {
+          "R": {
+            "error": 9.806734319051102e-07,
+            "jacobian": 0.8849885815965212
+          },
+          "L": {
+            "error": 1.891833703027146e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 4.3117702275274894e-07,
+        "floorLiftError": 4.768371581961861e-08,
+        "hand": [
+          0.6534945998917321,
+          -0.5294115758066215,
+          0.5079576194441365
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-early-return-front.png",
+          "sha256": "96427619aed21a76bbd81d3cc45a33ea33522bd539d434297dfe523e06413880"
+        },
+        "oblique": {
+          "file": "B-articulated-early-return-oblique.png",
+          "sha256": "f178e32804c5c12a1d1fec6bc2872acc965b83d09da3815cf75447c2a1b81a1a"
+        },
+        "side": {
+          "file": "B-articulated-early-return-side.png",
+          "sha256": "7af3105c5b66e06f7e84e6cf66684907b708c8596fc2dac82f74798d78087d42"
+        },
+        "top": {
+          "file": "B-articulated-early-return-top.png",
+          "sha256": "b2525a8d2f3b56b009d1742da4fccc9b52e61eb12cedcf74fe6199c055f6d355"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "late-return",
+      "seconds": 2.7,
+      "checks": {
+        "seconds": 2.7,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.1430731022567756,
+          "Stroke": 0.07036108423982745,
+          "Unloaded lift": 0.006222222222222212,
+          "Bristle drag": -0.03111111111111106,
+          "Chest yaw": -1.8554687499999973,
+          "Pelvis yaw": -0.7225664166219288,
+          "Attention": 0.2806672345599023,
+          "Head response": 0.1639192150514277
+        },
+        "bodyDegrees": {
+          "pitch": 0.5699414752499817,
+          "roll": -0.19936196964863756,
+          "chest": -1.8554687499999973,
+          "pelvis": -0.7225664166219288
+        },
+        "bodyFieldError": 2.4601800840962085e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 4.7683715553858974e-07,
+        "shoulderFrameError": 1.5453339008431044e-07,
+        "tailFrameError": 2.3693038664340804e-07,
+        "headRigidError": 1.2893945644520954e-07,
+        "arms": {
+          "R": {
+            "error": 7.047902921275551e-07,
+            "jacobian": 0.9090245877218855
+          },
+          "L": {
+            "error": 1.906322059097576e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 1.7857812717458899e-07,
+        "floorLiftError": -6.355179679728984e-08,
+        "hand": [
+          0.8047425602750443,
+          -0.1835254281347494,
+          0.42964212606105134
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-late-return-front.png",
+          "sha256": "1339bd546868e2942569b7970003b161f5734f35a41d9513dc57e76ed1298031"
+        },
+        "oblique": {
+          "file": "A-common-late-return-oblique.png",
+          "sha256": "41440f0f713209e411134c35b769e39c8cd7a8da3d0905f2c3895dfde958f5d7"
+        },
+        "side": {
+          "file": "A-common-late-return-side.png",
+          "sha256": "73def30c3e1d738043966c3925fc5f2aef9a44d2caaad0ca56bb83fe3e43adb3"
+        },
+        "top": {
+          "file": "A-common-late-return-top.png",
+          "sha256": "774f1d1d94c0572ddb97078e5fcabb891dbe958d1fa28e2b351a798ce6144fcc"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "late-return",
+      "seconds": 2.7,
+      "checks": {
+        "seconds": 2.7,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.1430731022567756,
+          "Stroke": 0.07036108423982745,
+          "Unloaded lift": 0.006222222222222212,
+          "Bristle drag": -0.03111111111111106,
+          "Chest yaw": -1.8554687499999973,
+          "Pelvis yaw": -0.7225664166219288,
+          "Attention": 0.2806672345599023,
+          "Head response": 0.1639192150514277
+        },
+        "bodyDegrees": {
+          "pitch": 0.5699414752499817,
+          "roll": -0.19936196964863756,
+          "chest": -1.8554687499999973,
+          "pelvis": -0.7225664166219288
+        },
+        "bodyFieldError": 2.4601800840962085e-07,
+        "displayedPawDrift": 0.0,
+        "curveError": 4.7683715553858974e-07,
+        "shoulderFrameError": 1.5453339008431044e-07,
+        "tailFrameError": 2.4154860556180324e-07,
+        "headRigidError": 1.2893945644520954e-07,
+        "arms": {
+          "R": {
+            "error": 7.047902921275551e-07,
+            "jacobian": 0.9090245877218855
+          },
+          "L": {
+            "error": 1.906322059097576e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 1.7857812717458899e-07,
+        "floorLiftError": -6.355179679728984e-08,
+        "hand": [
+          0.8047425602750443,
+          -0.1835254281347494,
+          0.42964212606105134
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-late-return-front.png",
+          "sha256": "f333079cfa0208b1f7dbf973f2118b3a7361756ae9786b5ae99488a1537091bd"
+        },
+        "oblique": {
+          "file": "B-articulated-late-return-oblique.png",
+          "sha256": "d520eb556ba85f22ccb7b193c662cfad9ea573103f4bb75597654c17ba752713"
+        },
+        "side": {
+          "file": "B-articulated-late-return-side.png",
+          "sha256": "2a0a2c9aab64bedd169517da8fd0a820a47f68da5286c5434931278547bbd444"
+        },
+        "top": {
+          "file": "B-articulated-late-return-top.png",
+          "sha256": "7d24041a37c1448ce8d7ba4ae752f1427d924ff20c4ea98d24de937374f202cf"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "A-common",
+      "pose": "settled",
+      "seconds": 3.2,
+      "checks": {
+        "seconds": 3.2,
+        "articulation": 0.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.0,
+          "Stroke": 0.0,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.0,
+          "Chest yaw": 0.0,
+          "Pelvis yaw": 0.0,
+          "Attention": 0.0,
+          "Head response": 0.0
+        },
+        "bodyDegrees": {
+          "pitch": 0.0,
+          "roll": -0.0,
+          "chest": 0.0,
+          "pelvis": 0.0
+        },
+        "bodyFieldError": 2.7755575615628914e-17,
+        "displayedPawDrift": 0.0,
+        "curveError": 0.0,
+        "shoulderFrameError": 0.0,
+        "tailFrameError": 2.7755575615628914e-17,
+        "headRigidError": 0.0,
+        "arms": {
+          "R": {
+            "error": 1.1868784266511057e-07,
+            "jacobian": 0.9090245877218854
+          },
+          "L": {
+            "error": 1.1284768619557184e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 5.220021567220456e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.80755840546133,
+          -0.117385901474383,
+          0.41358738711348436
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "A-common-settled-front.png",
+          "sha256": "6c9e9990488948ef72fe44067aed35dbfd782fdb01cf4801d77e9b77ed62cd66"
+        },
+        "oblique": {
+          "file": "A-common-settled-oblique.png",
+          "sha256": "084b43d1a7ded6b50a475337f715695dccc346c7001340e8b68cf359f46e3552"
+        },
+        "side": {
+          "file": "A-common-settled-side.png",
+          "sha256": "305b178b4460382a6910f2b5ebb40b66b6436110134a203ee51c35e808136330"
+        },
+        "top": {
+          "file": "A-common-settled-top.png",
+          "sha256": "4bfbec6ce9bcee426eb0306043e0833fbb85d7dbbd3c94a3a49071a4a51f389c"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "settled",
+      "seconds": 3.2,
+      "checks": {
+        "seconds": 3.2,
+        "articulation": 1.0,
+        "legAnchoring": 1.0,
+        "controls": {
+          "Work posture": 0.0,
+          "Stroke": 0.0,
+          "Unloaded lift": 0.0,
+          "Bristle drag": 0.0,
+          "Chest yaw": 0.0,
+          "Pelvis yaw": 0.0,
+          "Attention": 0.0,
+          "Head response": 0.0
+        },
+        "bodyDegrees": {
+          "pitch": 0.0,
+          "roll": -0.0,
+          "chest": 0.0,
+          "pelvis": 0.0
+        },
+        "bodyFieldError": 2.7755575615628914e-17,
+        "displayedPawDrift": 0.0,
+        "curveError": 0.0,
+        "shoulderFrameError": 0.0,
+        "tailFrameError": 2.7755575615628914e-17,
+        "headRigidError": 0.0,
+        "arms": {
+          "R": {
+            "error": 1.1868784266511057e-07,
+            "jacobian": 0.9090245877218854
+          },
+          "L": {
+            "error": 1.1284768619557184e-07,
+            "jacobian": 0.9090245877218854
+          }
+        },
+        "propError": 5.220021567220456e-07,
+        "floorLiftError": 5.960464477539063e-08,
+        "hand": [
+          0.80755840546133,
+          -0.117385901474383,
+          0.41358738711348436
+        ]
+      },
+      "views": {
+        "front": {
+          "file": "B-articulated-settled-front.png",
+          "sha256": "0e3d8a3da21b3f9530f83ef01741aa54239219a721f97bac5596a69f72eced65"
+        },
+        "oblique": {
+          "file": "B-articulated-settled-oblique.png",
+          "sha256": "9212753eff987645ac3c034bd506305622f5d0dddcb6a19312e81d8505eea0be"
+        },
+        "side": {
+          "file": "B-articulated-settled-side.png",
+          "sha256": "c547c49b12ef9d853b58ceebe0064967759c75f931d7abacd755617a9016c02f"
+        },
+        "top": {
+          "file": "B-articulated-settled-top.png",
+          "sha256": "12083933f797b0ec3feeb1318067e8d2739f0a8e865c136eff2a6f2067a9ec08"
+        }
+      },
+      "equalUpperTaskError": 0.0
+    },
+    {
+      "case": "C-no-relative-turn",
+      "pose": "work-end",
+      "seconds": 2.08,
+      "views": {
+        "front": {
+          "file": "C-no-relative-turn-work-end-front.png",
+          "sha256": "64e4d309635a67881250a8457592c9d5a18f5a0c98f12210c9e479157ff74a59"
+        },
+        "oblique": {
+          "file": "C-no-relative-turn-work-end-oblique.png",
+          "sha256": "541fbd8506cbd9b966f76da9bd9c888a98ff7233be38f67fda75039c28e942ea"
+        },
+        "side": {
+          "file": "C-no-relative-turn-work-end-side.png",
+          "sha256": "371485d6d01dd46c1078c7dced3a1558e30743364c2d35a72564feeda4a0d74e"
+        },
+        "top": {
+          "file": "C-no-relative-turn-work-end-top.png",
+          "sha256": "89eab0e5a365d890894a2f0393d80969f92eb502399dcb909907d3f267f35b1a"
+        }
+      }
+    },
+    {
+      "case": "D-no-leg-anchor",
+      "pose": "work-end",
+      "seconds": 2.08,
+      "views": {
+        "front": {
+          "file": "D-no-leg-anchor-work-end-front.png",
+          "sha256": "bd70920b86ff63ac74549a75ed7e6d433a6227da18df463c26eb10759beac579"
+        },
+        "oblique": {
+          "file": "D-no-leg-anchor-work-end-oblique.png",
+          "sha256": "969b874f0b2ece97f71d85d667f443fe7264766671733ac287a6329b2d277ae1"
+        },
+        "side": {
+          "file": "D-no-leg-anchor-work-end-side.png",
+          "sha256": "edfc9ac74be21a300a6b5eb6874aba41ab91545ba7ed89a5bb76ce3794922105"
+        },
+        "top": {
+          "file": "D-no-leg-anchor-work-end-top.png",
+          "sha256": "5dfe177a5250750b9b4a2546528c1c64d00c365682818cf5d586c127887cdfa2"
+        }
+      }
+    }
+  ],
+  "clay": [
+    {
+      "case": "A-common",
+      "pose": "work-end",
+      "views": {
+        "front": {
+          "file": "A-common-clay-front.png",
+          "sha256": "8e9794255ccae224350d216c645623c02924db9306f80238953909f2e209e8af"
+        },
+        "oblique": {
+          "file": "A-common-clay-oblique.png",
+          "sha256": "93d9a8f668e6bf32ca30663412bee6fdac892c3cf306e78e76e2116e070566eb"
+        },
+        "side": {
+          "file": "A-common-clay-side.png",
+          "sha256": "444c02cc74fb0034309babc87df454583f4a5b65fff761daf8a313c3292bf646"
+        },
+        "back": {
+          "file": "A-common-clay-back.png",
+          "sha256": "0ec8c3c752565eaf8cf7ab140e25d8ea1cd06f5a8e07f76991b24dd446fe08e8"
+        }
+      }
+    },
+    {
+      "case": "B-articulated",
+      "pose": "work-end",
+      "views": {
+        "front": {
+          "file": "B-articulated-clay-front.png",
+          "sha256": "60b63e63f24451ae8335dfdbca43c32adfd21316348329effac9cbe82f340994"
+        },
+        "oblique": {
+          "file": "B-articulated-clay-oblique.png",
+          "sha256": "ea58992c805feda5a71b498b6fdf9a9e379e8bff858c7551d8e20cfd619d7c45"
+        },
+        "side": {
+          "file": "B-articulated-clay-side.png",
+          "sha256": "a4a9400237855d47512338169c57c8a256706418408d441cfa5161a7a30260ec"
+        },
+        "back": {
+          "file": "B-articulated-clay-back.png",
+          "sha256": "9fa94d30b1d90e282f2039fa6cf63f139b736f2b3064dc51805f68344768daba"
+        }
+      }
+    },
+    {
+      "case": "C-no-relative-turn",
+      "pose": "work-end",
+      "views": {
+        "front": {
+          "file": "C-no-relative-turn-clay-front.png",
+          "sha256": "341d18b807b899114052055a115ed6c9d6f015e376643cd27fba4b0e2d50865b"
+        },
+        "oblique": {
+          "file": "C-no-relative-turn-clay-oblique.png",
+          "sha256": "2971d4e618d30662596114923bbb0aa4805f1887d7250a574d269a591b7416c3"
+        },
+        "side": {
+          "file": "C-no-relative-turn-clay-side.png",
+          "sha256": "813cd7466806923285ff71c0a1abc0d94d6fdd36c619f0aaa4d7c1620887b332"
+        },
+        "back": {
+          "file": "C-no-relative-turn-clay-back.png",
+          "sha256": "0f3aad15759dcb67294efd42b4b81b6bdf8b6e69c705995c5c2fad7c858fb3c3"
+        }
+      }
+    },
+    {
+      "case": "D-no-leg-anchor",
+      "pose": "work-end",
+      "views": {
+        "front": {
+          "file": "D-no-leg-anchor-clay-front.png",
+          "sha256": "6ce92eb95a947fa82b8740ea06ba4fe01cc45d75e9f8fbb9a6b22ea3d8e009d3"
+        },
+        "oblique": {
+          "file": "D-no-leg-anchor-clay-oblique.png",
+          "sha256": "c6967d52a99ebd85ba5d8df58c534b1be59e3b8a9aff671b230f9226690d6031"
+        },
+        "side": {
+          "file": "D-no-leg-anchor-clay-side.png",
+          "sha256": "e20f9429230704076fd420cf73491110a44edb57acd85943486e9c5773d53bd6"
+        },
+        "back": {
+          "file": "D-no-leg-anchor-clay-back.png",
+          "sha256": "1539796cee76527eec7445b538bee51cb7a0bcf4d2a9dbdb4717706ea727f6cc"
+        }
+      }
+    }
+  ],
+  "restError": 0.0,
+  "controlProbes": [
+    {
+      "control": "Torso articulation",
+      "value": 0.0,
+      "actualGeometryChange": 0.3414812758564949,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Leg anchoring",
+      "value": 0.0,
+      "actualGeometryChange": 0.04259848594665527,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Turn separation",
+      "value": 0.0,
+      "actualGeometryChange": 0.3414812758564949,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Chest turn gain",
+      "value": 0.5,
+      "actualGeometryChange": 0.21853020787239075,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Pelvis turn gain",
+      "value": 0.5,
+      "actualGeometryChange": 0.04100249707698822,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Body coupling",
+      "value": 0.5,
+      "actualGeometryChange": 0.10522261754290663,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": -5.960464477539063e-08
+    },
+    {
+      "control": "Amplitude",
+      "value": 0.65,
+      "actualGeometryChange": 0.13728445768356323,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 0.0
+    }
+  ],
+  "endRestError": 0.0,
+  "reopenError": 0.0,
+  "reopenControlProbes": [
+    {
+      "control": "Torso articulation",
+      "value": 0.0,
+      "actualGeometryChange": 0.3414812758564949,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Leg anchoring",
+      "value": 0.5,
+      "actualGeometryChange": 0.02144433557987213,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Chest turn gain",
+      "value": 0.65,
+      "actualGeometryChange": 0.153238445520401,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    },
+    {
+      "control": "Pelvis turn gain",
+      "value": 0.5,
+      "actualGeometryChange": 0.04100249707698822,
+      "restoreError": 0.0,
+      "pawDrift": 0.0,
+      "bladeFloorError": 5.960464477539063e-08
+    }
+  ],
+  "endpointError": 0.0,
+  "nativeSHA256": "81f0a7904bc861989eb894c2be5aeca347b9aeec3ca5447870a24cd30eb7d793",
+  "nativeBytes": 220981730,
+  "sourceUnchanged": true,
+  "freeBytes": 5611401216,
+  "status": "NATIVE_VERIFIED_VISUAL_REVIEW_PENDING"
+}

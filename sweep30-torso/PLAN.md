@@ -1,0 +1,65 @@
+# Sweep30: supported torso articulation
+
+The owner authorized the proposed chest/pelvis rig extension on 2026-10-04 after
+reviewing Sweep29's independent front reference. This is an authored native rig
+experiment, not video-coordinate fitting or motion adoption.
+
+## Frozen inputs and hypothesis
+
+Start from Sweep25's complete native, SHA256
+`1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6`.
+Preserve its body scaffold, original head, arm material dimensions, paws, broom,
+pigments and cameras. Sweep29 original SHA256
+`f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a`
+provides preparation, inward sweep and return semantics. Oblique Sweep23 and
+independent Sweep25 side/top references remain qualitative depth checks.
+They do not prescribe synchronized joint targets or new tail anatomy.
+
+A broad relative chest turn with planted lower attachment may communicate a
+supported sweep more clearly than common whole-body rotation. Test the same
+upper-chest, arm, grip and head tasks in A and B; only lower-body deformation
+and tail-root transport differ. Seven keys cover hold, preparation, mid-sweep,
+work end, early return, late return and settle in one four-second action.
+
+## Mechanism and controls
+
+- A: a common rigid frame on the body/thigh branch, with joined paws excluded.
+- B: separate authored chest and pelvis yaw; a C2 height field distributes the
+  difference from lower torso to the shoulder shelf. Angle interpolation rotates
+  each rest cross-section without blending scaled rotation matrices.
+- Gray leg/ankle response fades the lower frame to zero near the planted paw.
+  Paw geometry, orientation and support anchors stay fixed.
+- Original shoulders, both live arms and the rigid head assembly follow the
+  chest frame. The tail follows the lower frame; it is not bent by chest twist.
+- Belly pigment retains its existing rest-coordinate ownership on the same
+  deforming geometry. No material or head-internal edit is planned.
+- Native controls allow A/B, chest/pelvis gain edits and a leg-response ablation.
+  Ordinary curves, built-in expressions and Geometry Nodes persist in the blend.
+
+## Predeclared verification
+
+Run cheap analytic tests before one consolidated Windows FIFO pilot. Record a
+real pre-extension failure of relative torso capability, not an environment
+failure. Then test evaluated fields, actual displayed paws, rigid head/arms,
+grip and blade-floor contact, material/topology preservation and edit/reset
+after saving/reopening a new native. Thresholds: geometric transport/floor
+3e-6 model units, displayed-paw drift1e-7, original rest3e-6; all finite.
+Sample deformation Jacobians and mesh edge/triangle changes diagnostically;
+positive determinants alone do not certify surface appearance.
+
+Review seven keys in front/oblique/side/top for A/B and worst-work ablations,
+plus isolated shaded body/hip/ankle surfaces. Reject exposed gaps, cuffs,
+waist pinching, abrupt folds, root disconnection, accidental paw movement,
+head deformation or loss of the single hand/tool relation. Review continuous
+native playback after the pose pilot succeeds; do not claim all control
+combinations or whole-motion release gates passed.
+
+Native issues addressed: task-frame ownership, torso shape response, supported
+lower attachment, rigid part transport, control persistence and observation
+coverage. The full15-issue/11-gate release ledger remains unqualified outside
+the evidence in this scoped experiment. Main-agent implementation and review;
+no independent sign-off, external model review or adopted-registry replacement.
+
+Blender runs only on windows-pc via its existing FIFO, owner standing. The Mac
+performs source editing, pure logic checks and visual review. Preserve the
+5GB Windows free-space floor and all other sessions' work.

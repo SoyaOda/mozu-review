@@ -1,0 +1,154 @@
+{
+  "nativeSHA256": "81f0a7904bc861989eb894c2be5aeca347b9aeec3ca5447870a24cd30eb7d793",
+  "scope": "Scoped torso-rig experiment, not a complete motion release",
+  "wholeMotionReleaseQualified": false,
+  "issues": [
+    {
+      "id": "I01",
+      "originalSymptom": "Missing anticipation flexion / flight extension / landing flexion",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Jump phase performance is outside this supported sweep; no jump requalification."
+    },
+    {
+      "id": "I02",
+      "originalSymptom": "Airborne thigh/crotch/cuff crumpling",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Sweeping hip/ankle surfaces inspected in16clay images. Airborne deformation remains untested."
+    },
+    {
+      "id": "I03",
+      "originalSymptom": "Crotch remains about14px high during crouch/impact",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Both displayed paws fixed and lower-body accommodation tested; jump crouch/impact trajectories remain untested."
+    },
+    {
+      "id": "I04",
+      "originalSymptom": "Landing poyon excludes thighs or introduces a second bounce",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "No landing/poyon authored; quiet sweep preparation/return only."
+    },
+    {
+      "id": "I05",
+      "originalSymptom": "Paws remain block-like through launch",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Paw shape/orientation preserved; no takeoff tested."
+    },
+    {
+      "id": "I06",
+      "originalSymptom": "Apex soles too horizontal; descent flattens too early",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "No airborne sole orientation or landing flattening tested."
+    },
+    {
+      "id": "I07",
+      "originalSymptom": "Arms small in crouch/impact but not apex",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Existing arm material dimensions and authored local articulation retained; jump arm scaling untested."
+    },
+    {
+      "id": "I08",
+      "originalSymptom": "Club-arm shape, stable shoulder attachment and side coherence",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "57native times verify rigid chest-bound shoulder/arm transport; seven four-view keys and edits reviewed. Existing root overlap remains."
+    },
+    {
+      "id": "I09",
+      "originalSymptom": "Tail launch arc too high despite close apex",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Tail has explicit lower-frame rigid transport and retained shape; no launch arc or general tail dynamics tested."
+    },
+    {
+      "id": "I10",
+      "originalSymptom": "Charcoal tail merges with charcoal limbs",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Inherited Sweep25 pigments retained; visible overlap reviewed in color and geometry in isolated clay. No alternate diagnostic-color identity pass."
+    },
+    {
+      "id": "I11",
+      "originalSymptom": "Event order and timing remain coarse",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "One authored4s preparation/sweep/return is inspected; no measured source fit or full performance acceptance."
+    },
+    {
+      "id": "I12",
+      "originalSymptom": "AI pads, proportion drift, hidden depth and source ambiguity",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Independent generated views and invented tail appearance excluded as anatomy authority; exact source25rest/face retained."
+    },
+    {
+      "id": "I13",
+      "originalSymptom": "Native parity mistaken for quality; export and ranges uncertain",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Native saved/reopened with scripts disabled and actual controls edited/restored; target runtime export and whole control box untested."
+    },
+    {
+      "id": "I14",
+      "originalSymptom": "Quality claims passed despite visible failures",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "Geometry checks separated from main-agent visual findings; no independent sign-off or all-gate completion claim."
+    },
+    {
+      "id": "I15",
+      "originalSymptom": "One jump mistaken for a general rig",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep30EvidenceOrExclusion": "One asymmetric supported reach, alternate control values and A/B ablations only; alternating support and general motion trajectories remain untested."
+    }
+  ],
+  "gates": [
+    {
+      "id": "authority",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "identity",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "geometry",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "attachment",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "contact",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "performance",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "temporal",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "readability",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "native_delivery",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "governance",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    },
+    {
+      "id": "domain",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open"
+    }
+  ]
+}

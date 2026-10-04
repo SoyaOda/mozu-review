@@ -1,0 +1,42 @@
+{
+  "videoSHA256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+  "decision": "pass-with-limitations",
+  "method": "Main-agent inspection of all four chronological native-frame sheets covering120frames, full-sizeframes0/45/60/78, feature-auditkeys0/40/50/60/70/80/119, and actual browser playback at1x/0.5x/0.25x with loop and end checks.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      119
+    ]
+  ],
+  "summary": "A readable single inward sweep and return from a fixed front camera, with one broom, one holding hand and stable visible support. Selected as an independent front motion reference candidate.",
+  "observedMotion": "Neutral hold approximately0\u20131.3s; small preparation near1.3\u20131.5s; the brush travels inward across the floor ahead of the feet approximately1.5\u20132.1s while the torso/head incline and turn slightly; return approximately2.2\u20132.8s; calm neutral settle through4s. Both eyes remain visible, one hand holds the same broom, and there is no observed hand switch, second broom, step, cut or abrupt attachment loss.",
+  "blockingIssues": [],
+  "limitations": [
+    "Independent front performance, not synchronized to the oblique source or a measured alternate camera of it.",
+    "The newly exposed brown tail silhouette is not independently validated; do not adopt it as tail shape or pigment authority.",
+    "Visible foot features are not anatomical joint markers and do not certify static3D paws, contact force or balance.",
+    "The shared first/last image does not certify an exact pixel or velocity loop.",
+    "The initial approximately1.3s hold is a pacing choice of this original; the footage is not trimmed or retimed.",
+    "Native output is30fps, not a60fps real-time rig deliverable."
+  ],
+  "featureDiagnostics": {
+    "file": "feature-diagnostics.json",
+    "reviewedMaskFrames": [
+      0,
+      40,
+      50,
+      60,
+      70,
+      80,
+      119
+    ],
+    "acceptedObservations": [
+      "One isolated green binding component in all120frames, identified at seven reviewed keys.",
+      "Lower dark exposed left edge range1pixel and bottom range1pixel in native960x960 images."
+    ],
+    "excludedObservations": [
+      "Rightmost dark bounding box is not a reliable right-paw marker; occlusion and other dark regions change it."
+    ]
+  },
+  "ownerAcceptance": "Pending owner visual judgment; not an owner-adopted motion release."
+}
