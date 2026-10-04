@@ -1,0 +1,28 @@
+{
+  "provider": "runway",
+  "model": "wan3",
+  "providerTaskId": "6065c921-bdd9-41a7-828d-a86ff3afcced",
+  "originalSHA256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+  "unchangedProviderOriginal": true,
+  "requestedDurationSeconds": 4,
+  "requestedResolution": "720p",
+  "firstSHA256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4",
+  "lastSHA256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4",
+  "inputStatus": "UNREGISTERED; owner authorized this experiment under platform spend control",
+  "estimate": {
+    "usd": 0.4,
+    "verified": true,
+    "basis": "RunwayWan3 720p, 40credits x0.01USD"
+  },
+  "actualUSD": null,
+  "usage": {
+    "credits": 40
+  },
+  "promptSHA256": "8f27f4e98432a51994bb85502168c75a15589cd97d51975a6b233f2d9e5cf5df",
+  "reviewedFrameRanges": [
+    [
+      0,
+      119
+    ]
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "status": "INDEPENDENT_FRONT_AUDITION",
+  "selection": {
+    "status": "AGENT_SELECTED_FRONT_REFERENCE_CANDIDATE",
+    "selectedCase": "wan3-r01",
+    "videoSHA256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+    "scope": "Independent front one-sweep motion reference only; not synchronized multi-view motion or native adoption.",
+    "tailGeometryAuthority": false,
+    "ownerAcceptance": "pending",
+    "estimatedUSD": 0.4,
+    "actualUSD": null,
+    "reviewSHA256": "405c8515b595352bdd43256c42a0f1bc966b95567c80d46a7436e465998432a9"
+  },
+  "trials": [
+    {
+      "id": "wan3-r01",
+      "title": "wan3 r01",
+      "decision": "pass-with-limitations",
+      "summary": "A readable single inward sweep and return from a fixed front camera, with one broom, one holding hand and stable visible support. Selected as an independent front motion reference candidate.",
+      "limits": [
+        "Independent front performance, not synchronized to the oblique source or a measured alternate camera of it.",
+        "The newly exposed brown tail silhouette is not independently validated; do not adopt it as tail shape or pigment authority.",
+        "Visible foot features are not anatomical joint markers and do not certify static3D paws, contact force or balance.",
+        "The shared first/last image does not certify an exact pixel or velocity loop.",
+        "The initial approximately1.3s hold is a pacing choice of this original; the footage is not trimmed or retimed.",
+        "Native output is30fps, not a60fps real-time rig deliverable."
+      ],
+      "movie": "wan3-r01/original.mp4",
+      "first": "wan3-r01/first.png",
+      "last": "wan3-r01/last.png",
+      "fps": 30.0,
+      "frames": 120,
+      "width": 960,
+      "height": 960,
+      "sheets": [
+        {
+          "file": "wan3-r01/sheet-0.jpg",
+          "first": 0,
+          "last": 35
+        },
+        {
+          "file": "wan3-r01/sheet-1.jpg",
+          "first": 36,
+          "last": 71
+        },
+        {
+          "file": "wan3-r01/sheet-2.jpg",
+          "first": 72,
+          "last": 107
+        },
+        {
+          "file": "wan3-r01/sheet-3.jpg",
+          "first": 108,
+          "last": 119
+        }
+      ],
+      "diagnostics": [
+        {
+          "name": "feature-diagnostics.json",
+          "file": "wan3-r01/feature-diagnostics.json"
+        },
+        {
+          "name": "feature-audit.jpg",
+          "file": "wan3-r01/feature-audit.jpg"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "PLAN.html",
+      "bytes": 1830,
+      "sha256": "0c77998d0eb783f5322a9481dba0d1408033e70b749270c7b28afc741b5ab4ee"
+    },
+    {
+      "path": "PLAN.md",
+      "bytes": 1425,
+      "sha256": "35e81044d9a3238f2bd86306b9e82328ff013b3e7927c8d86088dd1608eb2293"
+    },
+    {
+      "path": "REPORT.html",
+      "bytes": 5223,
+      "sha256": "732fed01e77b1a706c95d1356b63854ed4035f7b35af33c450de1a65a0888723"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 4796,
+      "sha256": "4fd8ab0e7234c4044f69f8459ded0439d8de7ab9a0d59adcc01650c212c3c46c"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5987,
+      "sha256": "31cc0f8c827888fc751f6116df760f97c5ed278fd1242b81d812ad20a6e07478"
+    },
+    {
+      "path": "review.js",
+      "bytes": 3953,
+      "sha256": "461449eefd8b15a5e77aab6fbfd8a859071d7c916f032d0e95ab7004660ff2f2"
+    },
+    {
+      "path": "wan3-r01/PROMPT.txt",
+      "bytes": 1102,
+      "sha256": "a0fd721a9ff757d457e7f817c064b0f4af8d2c099178703fc1b526be190a6a5b"
+    },
+    {
+      "path": "wan3-r01/feature-audit.jpg",
+      "bytes": 198656,
+      "sha256": "ad7fd1611e989969b0cd181b5f750329a6f03d0572df31d540de3779489280f2"
+    },
+    {
+      "path": "wan3-r01/feature-diagnostics.json",
+      "bytes": 30276,
+      "sha256": "3c7e448a9b9ef6bcd1d2f0089739149c63df3b5c5548c9213e95c56e75f51ec4"
+    },
+    {
+      "path": "wan3-r01/first.png",
+      "bytes": 163705,
+      "sha256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4"
+    },
+    {
+      "path": "wan3-r01/last.png",
+      "bytes": 163705,
+      "sha256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4"
+    },
+    {
+      "path": "wan3-r01/original.mp4",
+      "bytes": 2133603,
+      "sha256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a"
+    },
+    {
+      "path": "wan3-r01/provenance.json",
+      "bytes": 878,
+      "sha256": "2370f24452e043753f9a8cafb79e114650b77f9f37151d263c03483a6b8e1f50"
+    },
+    {
+      "path": "wan3-r01/review.json",
+      "bytes": 2418,
+      "sha256": "405c8515b595352bdd43256c42a0f1bc966b95567c80d46a7436e465998432a9"
+    },
+    {
+      "path": "wan3-r01/sheet-0.jpg",
+      "bytes": 481345,
+      "sha256": "bd31b8538bcc2e7df242578d61265d5a7bf7b9e9cd2b3a2195e48a217e61e10a"
+    },
+    {
+      "path": "wan3-r01/sheet-1.jpg",
+      "bytes": 469500,
+      "sha256": "b2070108ab3d134c934441cb3f5e774dbdf1f65a18c61e807dfd2e3d86caea5e"
+    },
+    {
+      "path": "wan3-r01/sheet-2.jpg",
+      "bytes": 486139,
+      "sha256": "83921dc5003af11d5b2528cab4638da0c9a6d9512e944324504fc8aee1c10736"
+    },
+    {
+      "path": "wan3-r01/sheet-3.jpg",
+      "bytes": 193866,
+      "sha256": "620034f2e5d76bb52e8a6e373aa0c1d54fac52d120c4401ab89a6515476a95e0"
+    }
+  ]
+}
