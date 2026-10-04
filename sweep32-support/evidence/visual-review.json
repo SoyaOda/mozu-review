@@ -1,0 +1,68 @@
+{
+  "nativeSHA256": "d3cac1880009f3b27aa3da18116b209af38885ab6ed672384455221176867694",
+  "pilotSHA256": "d9b9edb0590a8f4c34d06113b3263d8fdeb2831a4698760f09f4970617f02dd6",
+  "decision": "PASS_PILOT_WITH_LIMITATIONS",
+  "reviewer": "Main agent, not independent",
+  "coverage": {
+    "colorImages": 56,
+    "shadedImages": 8,
+    "poses": 7,
+    "views": [
+      "front",
+      "oblique",
+      "side",
+      "top"
+    ],
+    "cases": [
+      "H0-central",
+      "H1-contact"
+    ]
+  },
+  "sheets": [
+    {
+      "file": "pilot-sheet-clay.jpg",
+      "sha256": "62de5317904dd046dc73c8795398b2ce0997047c75a524d3bab0b8fec0e11e04"
+    },
+    {
+      "file": "pilot-sheet-crossing.jpg",
+      "sha256": "65941ecdd7f2bc4302bd69d7deead5b6486e4f2ce4ba0bda2e66e5a03f0f84b5"
+    },
+    {
+      "file": "pilot-sheet-hold.jpg",
+      "sha256": "c2d2e16b8bc83e0e5dd30be3c24d55c549e34a21180dd890f56d09000aef48f6"
+    },
+    {
+      "file": "pilot-sheet-prepare.jpg",
+      "sha256": "71a65dbf43f080be9b27b6759fd7ac93fe2d38a8c68632952bd8d88c277d8d3a"
+    },
+    {
+      "file": "pilot-sheet-release.jpg",
+      "sha256": "dac8364db6f0583c3036e75d58502e3a35bfa28e4a12f8d342662997f6943419"
+    },
+    {
+      "file": "pilot-sheet-return.jpg",
+      "sha256": "21c93a8cd1014e5b4e022a063a84a915a21c0eed1417a0be566ac995f444997b"
+    },
+    {
+      "file": "pilot-sheet-settled.jpg",
+      "sha256": "55839bc47c03617b6f7c665c31eb7c60d7d55790ba3ae1f543b104b7f9ef1f63"
+    },
+    {
+      "file": "pilot-sheet-work.jpg",
+      "sha256": "b5ad85c77af44301f4e6133778f3d6263e507cd13f1d7863cd2a3066fda656af"
+    }
+  ],
+  "findings": [
+    "All seven pose pairs in four views reviewed, plus both four-view shaded support sets.",
+    "The corrected rest-height sections remove the first pilot rear-side local bulge and round the lower belly boundary. No new visible crease, fold or open ankle gap is observed in these samples.",
+    "The rigid head leveling reduces excess lateral head inclination while retaining forward attention.",
+    "The working arm crosses the front with a continuous readable silhouette; original shoulder-root embedding remains intentional and visible in the oblique context.",
+    "The broom reaches the opposite foot and returns with the grip connected. Both paw shapes stay unchanged.",
+    "H1 differs mainly in depth transport and forward body support versus H0; frontal differences are modest. Choose H1 for the continuous comparison."
+  ],
+  "limits": [
+    "This pilot establishes sampled visual quality, not full-sequence acceptance.",
+    "Simplified geometric thigh/paw overlap is inherited. Physical forces and unique source 3D support axis are not identified.",
+    "Field Jacobians are diagnostics, not an all-control-domain collision or volume certificate."
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "nativeSHA256": "d3cac1880009f3b27aa3da18116b209af38885ab6ed672384455221176867694",
+  "captureSHA256": "10c7a9248e09b2ab2641bad404894790e9cec06f2e68490f4dc77935ee827465",
+  "media": [
+    {
+      "case": "H0-central",
+      "view": "front",
+      "file": "media\\H0-central-front.mp4",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 55,
+      "sha256": "4314b1cdc72d49ae4568ff26e5e722ab06642fc648e345e0054f4a018e50c217"
+    },
+    {
+      "case": "H1-contact",
+      "view": "front",
+      "file": "media\\H1-contact-front.mp4",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 55,
+      "sha256": "d5dd7d835acfa7c8bd5f360ef6a4ff74b5edb0539753235996d99a916f73bdd7"
+    },
+    {
+      "case": "H1-contact",
+      "view": "oblique",
+      "file": "media\\H1-contact-oblique.mp4",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 42,
+      "sha256": "6176c6d5cc8d990b84cda789dfe869a131685a4a5041398aa72be270810c1492"
+    },
+    {
+      "case": "H1-contact",
+      "view": "side",
+      "file": "media\\H1-contact-side.mp4",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 41,
+      "sha256": "fdcd0b9f478cf481ec0fad3c7e25bd6c6bfe56cccab46184f747bd38cd56a45d"
+    },
+    {
+      "case": "H1-contact",
+      "view": "top",
+      "file": "media\\H1-contact-top.mp4",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 33,
+      "sha256": "16f88e0f083ee593be72ae02c363e8921998afccc637089966e52f8a1f937ab0"
+    }
+  ],
+  "sheets": [
+    {
+      "case": "H0-central",
+      "view": "front",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-H0-central-front-0.jpg",
+      "sha256": "a70767eea2319f4673b24d83330f6b2753e6cce849cb571253e533cdb6127c7e"
+    },
+    {
+      "case": "H0-central",
+      "view": "front",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-H0-central-front-1.jpg",
+      "sha256": "e7df0e7a0a186477034a0c7907e1fa06a1d5d22073208d741435ce42064f0ae1"
+    },
+    {
+      "case": "H0-central",
+      "view": "front",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-H0-central-front-2.jpg",
+      "sha256": "dd5e2815d099702db5da613f686d041e321be55e9003cbd77da8ad9c71505a8c"
+    },
+    {
+      "case": "H0-central",
+      "view": "front",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-H0-central-front-3.jpg",
+      "sha256": "e002f7086306616b339101662da70161d466b87d86735a66847275f90d7099ef"
+    },
+    {
+      "case": "H1-contact",
+      "view": "front",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-H1-contact-front-0.jpg",
+      "sha256": "d6b23d1b0e53b5c559b38e854fa06725c685f6d46126c76669ba4a2bd34df33b"
+    },
+    {
+      "case": "H1-contact",
+      "view": "front",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-H1-contact-front-1.jpg",
+      "sha256": "bf37ed7df4c45f562dfb1948eae8356ddd36050ffae95b1545e27bf8e2405cbb"
+    },
+    {
+      "case": "H1-contact",
+      "view": "front",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-H1-contact-front-2.jpg",
+      "sha256": "e9b175222647cde75977c297961c8b63fdedf628edf74203a4caf549ebc8520d"
+    },
+    {
+      "case": "H1-contact",
+      "view": "front",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-H1-contact-front-3.jpg",
+      "sha256": "c49897db28f60b53662f01b096d197bcede61b511d3bee3021122543b8bdfd37"
+    },
+    {
+      "case": "H1-contact",
+      "view": "oblique",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-H1-contact-oblique-0.jpg",
+      "sha256": "758392f6f58c087bea60fa3c73478770639596c3188882bc6f719dd87b823ca8"
+    },
+    {
+      "case": "H1-contact",
+      "view": "oblique",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-H1-contact-oblique-1.jpg",
+      "sha256": "23d4dba84ae81bc3ce4f0ff9cc5e8a9d554c3ca5f7917a861eb88c47bf96ecd0"
+    },
+    {
+      "case": "H1-contact",
+      "view": "oblique",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-H1-contact-oblique-2.jpg",
+      "sha256": "116f5ae0fd331794e9b3e981492be8cdb3b02eefbb00281d9b1e5f5d7a349449"
+    },
+    {
+      "case": "H1-contact",
+      "view": "oblique",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-H1-contact-oblique-3.jpg",
+      "sha256": "cc789373943155855e4e0966b077f2187194945e90afb69400f5652c96ec360b"
+    },
+    {
+      "case": "H1-contact",
+      "view": "side",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-H1-contact-side-0.jpg",
+      "sha256": "ff97639f01341fcd31e72f06b5b622040cded12adb1aba61a299a1437de01a40"
+    },
+    {
+      "case": "H1-contact",
+      "view": "side",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-H1-contact-side-1.jpg",
+      "sha256": "6e4128fec0bc3b4dee437b4f2d8f0c52c4ea69248ffa588cac344a7fdf5798a7"
+    },
+    {
+      "case": "H1-contact",
+      "view": "side",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-H1-contact-side-2.jpg",
+      "sha256": "caa13bad161d1143463cded5fac036c8da528850bac2506c204346ee32a139bb"
+    },
+    {
+      "case": "H1-contact",
+      "view": "side",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-H1-contact-side-3.jpg",
+      "sha256": "9c978fef4b6c17b20886873a4d7baf9654627695dafef05e1aabe927d7f0432f"
+    },
+    {
+      "case": "H1-contact",
+      "view": "top",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-H1-contact-top-0.jpg",
+      "sha256": "eccfa2c585da08b6e1804799e88590822608885baf14e878638fe31be04ef5ee"
+    },
+    {
+      "case": "H1-contact",
+      "view": "top",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-H1-contact-top-1.jpg",
+      "sha256": "2b22f7644202c4e011bfdaa7d80954a28a430f645800f09fbdbb2cb494dc500c"
+    },
+    {
+      "case": "H1-contact",
+      "view": "top",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-H1-contact-top-2.jpg",
+      "sha256": "49f981756007093b03aceb0edf390d9d7cb8fc02b83b375725aadec57a3a037c"
+    },
+    {
+      "case": "H1-contact",
+      "view": "top",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-H1-contact-top-3.jpg",
+      "sha256": "a12692a6f290582c4d09fb2526a73e4f9a2744d94073b4f039067a237ef1e146"
+    }
+  ]
+}

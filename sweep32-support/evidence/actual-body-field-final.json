@@ -1,0 +1,454 @@
+{
+  "nativeSHA256": "d3cac1880009f3b27aa3da18116b209af38885ab6ed672384455221176867694",
+  "mathSHA256": "1fb351b11089f6953afd820e71ece6f119b0beddd72c83cad54d820157be6d4d",
+  "restSnapshotSHA256": "b210618ff8c7690729d148bfd80ea59b9ca56ce2afed89adedf46afe7629382e",
+  "method": "Numerical derivatives of the field validated against actual native geometry, sampled on the actual evaluated rest surface",
+  "caveat": "Surface diagnostic, not a volumetric or full-control-domain quality certificate",
+  "summary": {
+    "determinantMin": 0.9166413500068886,
+    "minimumStretch": 0.5683552691633246,
+    "maximumStretch": 2.2551646796729887
+  },
+  "rows": [
+    {
+      "seconds": 0.0,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.1,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.2,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.3,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.4,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.5,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.6,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.7,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.8,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.9,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.0,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.1,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.2,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.3,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.35,
+      "sampleCount": 12396,
+      "determinantMin": 0.9976215196259802,
+      "determinantMax": 1.0056642001928284,
+      "minimumStretch": 0.9963282757989731,
+      "maximumStretch": 1.0063905395694268
+    },
+    {
+      "seconds": 1.4,
+      "sampleCount": 12396,
+      "determinantMin": 0.9913927209070361,
+      "determinantMax": 1.0206536071515202,
+      "minimumStretch": 0.979241535604028,
+      "maximumStretch": 1.0327154021152103
+    },
+    {
+      "seconds": 1.45,
+      "sampleCount": 12396,
+      "determinantMin": 0.9822948838699375,
+      "determinantMax": 1.0457821275608499,
+      "minimumStretch": 0.9379791261587558,
+      "maximumStretch": 1.0959467713634368
+    },
+    {
+      "seconds": 1.46,
+      "sampleCount": 12396,
+      "determinantMin": 0.9802051864914513,
+      "determinantMax": 1.0521537148304339,
+      "minimumStretch": 0.927579101226941,
+      "maximumStretch": 1.1129843649816908
+    },
+    {
+      "seconds": 1.4666666666666666,
+      "sampleCount": 12396,
+      "determinantMin": 0.9787786949429977,
+      "determinantMax": 1.0566319865331792,
+      "minimumStretch": 0.920366278156197,
+      "maximumStretch": 1.1250836059712037
+    },
+    {
+      "seconds": 1.5,
+      "sampleCount": 12396,
+      "determinantMin": 0.9713435685316467,
+      "determinantMax": 1.0812898135469975,
+      "minimumStretch": 0.8818018721448477,
+      "maximumStretch": 1.1940201257319343
+    },
+    {
+      "seconds": 1.6,
+      "sampleCount": 12396,
+      "determinantMin": 0.9491068459869175,
+      "determinantMax": 1.1675552869741024,
+      "minimumStretch": 0.7615410578451928,
+      "maximumStretch": 1.4689136278422008
+    },
+    {
+      "seconds": 1.7,
+      "sampleCount": 12396,
+      "determinantMin": 0.9336596070658634,
+      "determinantMax": 1.2445129404929551,
+      "minimumStretch": 0.6644309576089754,
+      "maximumStretch": 1.7840426701260002
+    },
+    {
+      "seconds": 1.7333333333333334,
+      "sampleCount": 12396,
+      "determinantMin": 0.9306110603330218,
+      "determinantMax": 1.2638684590873965,
+      "minimumStretch": 0.6395547092971755,
+      "maximumStretch": 1.883519055500909
+    },
+    {
+      "seconds": 1.8,
+      "sampleCount": 12396,
+      "determinantMin": 0.924590086809337,
+      "determinantMax": 1.3000551537464018,
+      "minimumStretch": 0.6008626719573023,
+      "maximumStretch": 2.063344107946544
+    },
+    {
+      "seconds": 1.9,
+      "sampleCount": 12396,
+      "determinantMin": 0.9179494292074875,
+      "determinantMax": 1.3383069384904256,
+      "minimumStretch": 0.5707119503142102,
+      "maximumStretch": 2.236009106557222
+    },
+    {
+      "seconds": 1.94,
+      "sampleCount": 12396,
+      "determinantMin": 0.9167922577180121,
+      "determinantMax": 1.3444503820314686,
+      "minimumStretch": 0.5683552691633246,
+      "maximumStretch": 2.2551646796729887
+    },
+    {
+      "seconds": 1.96,
+      "sampleCount": 12396,
+      "determinantMin": 0.9166413500068886,
+      "determinantMax": 1.3451576102168057,
+      "minimumStretch": 0.5686170343501122,
+      "maximumStretch": 2.2551589341437444
+    },
+    {
+      "seconds": 2.0,
+      "sampleCount": 12396,
+      "determinantMin": 0.9167862097153952,
+      "determinantMax": 1.3443486625129248,
+      "minimumStretch": 0.5691760644429092,
+      "maximumStretch": 2.2515938023501887
+    },
+    {
+      "seconds": 2.1,
+      "sampleCount": 12396,
+      "determinantMin": 0.9177895908952752,
+      "determinantMax": 1.3390302578078346,
+      "minimumStretch": 0.5711774765243037,
+      "maximumStretch": 2.235198893463472
+    },
+    {
+      "seconds": 2.18,
+      "sampleCount": 12396,
+      "determinantMin": 0.9182786312615129,
+      "determinantMax": 1.3364490065349302,
+      "minimumStretch": 0.5720253382886776,
+      "maximumStretch": 2.2277931822633956
+    },
+    {
+      "seconds": 2.2,
+      "sampleCount": 12396,
+      "determinantMin": 0.9183823993553419,
+      "determinantMax": 1.3358442297165893,
+      "minimumStretch": 0.57256372452216,
+      "maximumStretch": 2.2246754929497183
+    },
+    {
+      "seconds": 2.2666666666666666,
+      "sampleCount": 12396,
+      "determinantMin": 0.9200871525218346,
+      "determinantMax": 1.325882593027687,
+      "minimumStretch": 0.5816850121470283,
+      "maximumStretch": 2.173217917325747
+    },
+    {
+      "seconds": 2.3,
+      "sampleCount": 12396,
+      "determinantMin": 0.9215717649055728,
+      "determinantMax": 1.3170105849276519,
+      "minimumStretch": 0.5902507606158117,
+      "maximumStretch": 2.1270825183174558
+    },
+    {
+      "seconds": 2.36,
+      "sampleCount": 12396,
+      "determinantMin": 0.9250503142729892,
+      "determinantMax": 1.2959848060195107,
+      "minimumStretch": 0.6122009922685361,
+      "maximumStretch": 2.0176403307962403
+    },
+    {
+      "seconds": 2.4,
+      "sampleCount": 12396,
+      "determinantMin": 0.9284348766006463,
+      "determinantMax": 1.2772142266338806,
+      "minimumStretch": 0.6313815182605025,
+      "maximumStretch": 1.92864738671578
+    },
+    {
+      "seconds": 2.48,
+      "sampleCount": 12396,
+      "determinantMin": 0.9392573702268561,
+      "determinantMax": 1.2254969887548142,
+      "minimumStretch": 0.6814895774711631,
+      "maximumStretch": 1.7221625945211652
+    },
+    {
+      "seconds": 2.5,
+      "sampleCount": 12396,
+      "determinantMin": 0.9425735552734519,
+      "determinantMax": 1.2105926542471293,
+      "minimumStretch": 0.6965150041707991,
+      "maximumStretch": 1.667508115620002
+    },
+    {
+      "seconds": 2.52,
+      "sampleCount": 12396,
+      "determinantMin": 0.9460806563444693,
+      "determinantMax": 1.1952816617935698,
+      "minimumStretch": 0.7125368171509399,
+      "maximumStretch": 1.6126130448573162
+    },
+    {
+      "seconds": 2.6,
+      "sampleCount": 12396,
+      "determinantMin": 0.9613541013613311,
+      "determinantMax": 1.13282742975226,
+      "minimumStretch": 0.7854964239063188,
+      "maximumStretch": 1.4000087844867466
+    },
+    {
+      "seconds": 2.7,
+      "sampleCount": 12396,
+      "determinantMin": 0.9801883096052284,
+      "determinantMax": 1.062410220289338,
+      "minimumStretch": 0.8872603227489253,
+      "maximumStretch": 1.1782793710224562
+    },
+    {
+      "seconds": 2.8,
+      "sampleCount": 12396,
+      "determinantMin": 0.9946928013522361,
+      "determinantMax": 1.0144245922655335,
+      "minimumStretch": 0.9723930389798959,
+      "maximumStretch": 1.0382827173988618
+    },
+    {
+      "seconds": 2.85,
+      "sampleCount": 12396,
+      "determinantMin": 0.9986658418744584,
+      "determinantMax": 1.0031834364090446,
+      "minimumStretch": 0.9954305284501623,
+      "maximumStretch": 1.0064672494304128
+    },
+    {
+      "seconds": 2.88,
+      "sampleCount": 12396,
+      "determinantMin": 0.9997778314541508,
+      "determinantMax": 1.0005290805289906,
+      "minimumStretch": 0.9996567936293307,
+      "maximumStretch": 1.0005967630253456
+    },
+    {
+      "seconds": 2.9,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.0,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.1,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.2,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.3,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.4,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.5,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.6,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.7,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.8,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.9,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 4.0,
+      "sampleCount": 12396,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    }
+  ]
+}
