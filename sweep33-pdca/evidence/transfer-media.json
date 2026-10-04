@@ -1,0 +1,108 @@
+{
+  "nativeSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "count": 20,
+  "bytes": 8475935,
+  "files": [
+    {
+      "file": "media/Sweep33-front.mp4",
+      "bytes": 135849,
+      "sha256": "c00404b8c1d2eb3f60cf7604685038a1b416d4e98ee02c7dc5e037ebc61b5bd2"
+    },
+    {
+      "file": "media/Sweep33-oblique.mp4",
+      "bytes": 128995,
+      "sha256": "cf80cc5aec499b3ba558ae471bac48cb02d93b5c44d6e3dd3f4bf1690902effc"
+    },
+    {
+      "file": "media/Sweep33-side.mp4",
+      "bytes": 111071,
+      "sha256": "d417689db3f2d01d8b38fdb0f61d1e5bd91e5cef205a86aa759f7a99085e141e"
+    },
+    {
+      "file": "media/Sweep33-top.mp4",
+      "bytes": 98517,
+      "sha256": "ee8437656d7ee32b4a7e86ea3fff26381283e31d28b41a66ca88de2df998b304"
+    },
+    {
+      "file": "media/sheet-Sweep33-front-0.jpg",
+      "bytes": 598823,
+      "sha256": "8eec62be04f47e09e2a7d158ee3fbb38bf5aadbd6c443bd50bc23e5d0740c6dc"
+    },
+    {
+      "file": "media/sheet-Sweep33-front-1.jpg",
+      "bytes": 584135,
+      "sha256": "17bf67f20b87f038b8b1ca7bb5d7568e5876dd1f3d464631b4c393af189add24"
+    },
+    {
+      "file": "media/sheet-Sweep33-front-2.jpg",
+      "bytes": 576577,
+      "sha256": "0854228887fc492aea15aa7761827fd831011e0fbc61d6bd169ea5170c5e1fe3"
+    },
+    {
+      "file": "media/sheet-Sweep33-front-3.jpg",
+      "bytes": 598825,
+      "sha256": "4c678cc204f782742275b6f15354625fab7d4d208b4ffa44bb9575c79425f2c1"
+    },
+    {
+      "file": "media/sheet-Sweep33-oblique-0.jpg",
+      "bytes": 524630,
+      "sha256": "4d29a50882a3b19b0e48cc367fcdebecbca06614104202e6446f2a894171d44c"
+    },
+    {
+      "file": "media/sheet-Sweep33-oblique-1.jpg",
+      "bytes": 530093,
+      "sha256": "9db0bf3ccd67bc80f9661d4f544435b3883370f9c2f03c73992c9ab87172f170"
+    },
+    {
+      "file": "media/sheet-Sweep33-oblique-2.jpg",
+      "bytes": 531225,
+      "sha256": "70a1cc399296883b51991615a990b1efad815671e3ec2b80e023ff9a641fb976"
+    },
+    {
+      "file": "media/sheet-Sweep33-oblique-3.jpg",
+      "bytes": 524563,
+      "sha256": "a41b6860d1d32aed37bcebb92db7f49971d19276415cbc12bda2194a71839b21"
+    },
+    {
+      "file": "media/sheet-Sweep33-side-0.jpg",
+      "bytes": 488755,
+      "sha256": "a4da37da872e31256b1dc10b4399d70b83af8bf940f2c49aba3747b7e54c0bce"
+    },
+    {
+      "file": "media/sheet-Sweep33-side-1.jpg",
+      "bytes": 480740,
+      "sha256": "4a1105c92b3344ea5525515169b75afeaf4b825f488c482f88ef0615591e49e7"
+    },
+    {
+      "file": "media/sheet-Sweep33-side-2.jpg",
+      "bytes": 476086,
+      "sha256": "9b35c2d50d8e7cd3c3507f7690cc58cc902349ac97751e191e700d6c102dcea5"
+    },
+    {
+      "file": "media/sheet-Sweep33-side-3.jpg",
+      "bytes": 488897,
+      "sha256": "1c3e0201abfd3d35d7a57e47915e7c9c35ddf41b6972b0efdd777d052ac9c59d"
+    },
+    {
+      "file": "media/sheet-Sweep33-top-0.jpg",
+      "bytes": 399070,
+      "sha256": "58c947c5e22814539ef8ebfa65a6bf3f05f5950f265cefa2f84d60132158db8e"
+    },
+    {
+      "file": "media/sheet-Sweep33-top-1.jpg",
+      "bytes": 399946,
+      "sha256": "80edd757096b6c554ac6229c870ec8fca3a7a1deae72f7436ba5e5c32ccfe08e"
+    },
+    {
+      "file": "media/sheet-Sweep33-top-2.jpg",
+      "bytes": 400360,
+      "sha256": "ee7a35e6f61ad44099a1d677b879b46ac27f1b7eb35b5b54c7666c9bcd145876"
+    },
+    {
+      "file": "media/sheet-Sweep33-top-3.jpg",
+      "bytes": 398778,
+      "sha256": "0743ef602402d65b47d30dc30a61215c9d3bb632217a1c9eb184b7822ca8d69f"
+    }
+  ],
+  "status": "ALL_HOST_HASHES_MATCH"
+}

@@ -1,0 +1,18 @@
+{
+  "nativeSHA256": "8866c0d64de3044b929853af117896df0a8b0ec4ae542aa25ede0ccd96ea0d43",
+  "pilotSHA256": "76cc287cbf62b72b0fb69cd0c4623c545d2915f7910c103b560c4716bae0b9b2",
+  "reviewer": "Main agent; not independent",
+  "decision": "ITERATE_COMPONENT_SUCCESS_NO_PREVIEW",
+  "reviewedColorImages": 55,
+  "reviewedShadedImages": 20,
+  "findings": {
+    "attention": "Clear reduction of intermediate overturn in front/oblique while the original rigid face remains intact; no new neck gap observed. Retain world attention.",
+    "lower-coherence": "Rejected: earlier transfer sharpens the lower side transition and increases sampled maximum stretch to2.642. Better low belly projection is insufficient.",
+    "compact-turn": "Retain smaller common heading direction: less pronounced lower side bulge and less torso rotation.",
+    "combined": "Reject narrow transfer band despite a closer lowest belly image edge.",
+    "arms": "Current hand rises toward the body at work. Next causal round lowers its task path with fixed original arm material length."
+  },
+  "nativeSamples": 230,
+  "maximumNativeError": 1.123399501312683e-06,
+  "sourcePreserved": "d3cac1880009f3b27aa3da18116b209af38885ab6ed672384455221176867694"
+}

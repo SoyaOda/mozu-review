@@ -1,0 +1,25 @@
+{
+  "status": "EXACT",
+  "files": [
+    {
+      "path": "output/rig_candidates/chores214_20260925/v2/sweep32_support/pilot03/sweep32-support.blend",
+      "sha256": "d3cac1880009f3b27aa3da18116b209af38885ab6ed672384455221176867694",
+      "bytes": 221011694
+    },
+    {
+      "path": "output/rig_candidates/chores214_20260925/v2/sweep33_pdca/pilot01/sweep33-attention.blend",
+      "sha256": "8866c0d64de3044b929853af117896df0a8b0ec4ae542aa25ede0ccd96ea0d43",
+      "bytes": 221023644
+    },
+    {
+      "path": "output/rig_candidates/chores214_20260925/v2/sweep33_pdca/pilot03/sweep33-groundwork.blend",
+      "sha256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+      "bytes": 221049280
+    },
+    {
+      "path": "output/ssot_candidates/sweep29_front_single_20261004/wan3-r01/original/output.mp4",
+      "sha256": "f47916172a0d827d3e68527cfdd167d2dea7b3a357f5cca19f0ae804b861cd6a",
+      "bytes": 2133603
+    }
+  ]
+}

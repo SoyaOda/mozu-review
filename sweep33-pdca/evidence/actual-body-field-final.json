@@ -1,0 +1,384 @@
+{
+  "nativeSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "pilotSHA256": "0c3454b02ac6dcea189926f8a02ff9a80691c1e23daad2c82448d5faca640795",
+  "restSnapshotSHA256": "b210618ff8c7690729d148bfd80ea59b9ca56ce2afed89adedf46afe7629382e",
+  "mathSHA256": "b5ca6e368fa6e4890f668318ea5852571e994e46f88ab7d002f827486afaa407",
+  "caseSHA256": "d80e2ccb96156eacdecb139e946e730b7794f8398334d16fe2fea70605373651",
+  "summary": {
+    "determinantMin": 0.7838769855193777,
+    "minimumStretch": 0.5030076279285779,
+    "maximumStretch": 2.14568834131846
+  },
+  "rows": [
+    {
+      "seconds": 0.0,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.1,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.2,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.3,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.4,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.5,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.6,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.7,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.8,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 0.9,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.0,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.1,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.2,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.3,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 1.4,
+      "sampleCount": 11097,
+      "determinantMin": 0.992008300231494,
+      "determinantMax": 1.0187683562614593,
+      "minimumStretch": 0.9821358149823186,
+      "maximumStretch": 1.0281512960551922
+    },
+    {
+      "seconds": 1.5,
+      "sampleCount": 11097,
+      "determinantMin": 0.9600845401473681,
+      "determinantMax": 1.091235365269551,
+      "minimumStretch": 0.890233930391731,
+      "maximumStretch": 1.174209928893557
+    },
+    {
+      "seconds": 1.6,
+      "sampleCount": 11097,
+      "determinantMin": 0.9080152650709385,
+      "determinantMax": 1.206382706340036,
+      "minimumStretch": 0.7592648266458206,
+      "maximumStretch": 1.4281091119287734
+    },
+    {
+      "seconds": 1.7,
+      "sampleCount": 11097,
+      "determinantMin": 0.8570279263476264,
+      "determinantMax": 1.312488546933262,
+      "minimumStretch": 0.640956959605519,
+      "maximumStretch": 1.7152780536268255
+    },
+    {
+      "seconds": 1.8,
+      "sampleCount": 11097,
+      "determinantMin": 0.8161214235279701,
+      "determinantMax": 1.3883626322579228,
+      "minimumStretch": 0.5552814086503332,
+      "maximumStretch": 1.9687377412789853
+    },
+    {
+      "seconds": 1.83,
+      "sampleCount": 11097,
+      "determinantMin": 0.8059833626120406,
+      "determinantMax": 1.4063376056051682,
+      "minimumStretch": 0.536767423207279,
+      "maximumStretch": 2.0300199698542434
+    },
+    {
+      "seconds": 1.893333333,
+      "sampleCount": 11097,
+      "determinantMin": 0.7899271016791557,
+      "determinantMax": 1.4347306314410222,
+      "minimumStretch": 0.510156214349107,
+      "maximumStretch": 2.1219730365687464
+    },
+    {
+      "seconds": 1.9,
+      "sampleCount": 11097,
+      "determinantMin": 0.7887391037541526,
+      "determinantMax": 1.4368262511604957,
+      "minimumStretch": 0.5084059105238599,
+      "maximumStretch": 2.1281006157699256
+    },
+    {
+      "seconds": 2.0,
+      "sampleCount": 11097,
+      "determinantMin": 0.7838769855193777,
+      "determinantMax": 1.445472714927449,
+      "minimumStretch": 0.5030076279285779,
+      "maximumStretch": 2.14568834131846
+    },
+    {
+      "seconds": 2.02,
+      "sampleCount": 11097,
+      "determinantMin": 0.784517297442333,
+      "determinantMax": 1.444342417664726,
+      "minimumStretch": 0.5038419547353834,
+      "maximumStretch": 2.142816649883997
+    },
+    {
+      "seconds": 2.1,
+      "sampleCount": 11097,
+      "determinantMin": 0.7880140189649091,
+      "determinantMax": 1.438144696614264,
+      "minimumStretch": 0.5081113004735125,
+      "maximumStretch": 2.1284890558430187
+    },
+    {
+      "seconds": 2.2,
+      "sampleCount": 11097,
+      "determinantMin": 0.7904600101607082,
+      "determinantMax": 1.4338086046605463,
+      "minimumStretch": 0.5112895164677067,
+      "maximumStretch": 2.117732441088714
+    },
+    {
+      "seconds": 2.3,
+      "sampleCount": 11097,
+      "determinantMin": 0.8031950903845323,
+      "determinantMax": 1.411396113848058,
+      "minimumStretch": 0.5356906287413377,
+      "maximumStretch": 2.031268132065482
+    },
+    {
+      "seconds": 2.34,
+      "sampleCount": 11097,
+      "determinantMin": 0.8124226166187279,
+      "determinantMax": 1.395114451213273,
+      "minimumStretch": 0.5541405240945791,
+      "maximumStretch": 1.9693139504728072
+    },
+    {
+      "seconds": 2.4,
+      "sampleCount": 11097,
+      "determinantMin": 0.8301959599569049,
+      "determinantMax": 1.3622036176764187,
+      "minimumStretch": 0.5905667102501148,
+      "maximumStretch": 1.854335107233013
+    },
+    {
+      "seconds": 2.5,
+      "sampleCount": 11097,
+      "determinantMin": 0.8709575017667636,
+      "determinantMax": 1.2789764877539562,
+      "minimumStretch": 0.6748724901453409,
+      "maximumStretch": 1.6185569767959862
+    },
+    {
+      "seconds": 2.6,
+      "sampleCount": 11097,
+      "determinantMin": 0.9183938158962177,
+      "determinantMax": 1.1777163355273481,
+      "minimumStretch": 0.7812553153527154,
+      "maximumStretch": 1.3732427021232028
+    },
+    {
+      "seconds": 2.7,
+      "sampleCount": 11097,
+      "determinantMin": 0.9626355155087665,
+      "determinantMax": 1.0819403680035706,
+      "minimumStretch": 0.891728057587971,
+      "maximumStretch": 1.1659026047642345
+    },
+    {
+      "seconds": 2.8,
+      "sampleCount": 11097,
+      "determinantMin": 0.9926753797818622,
+      "determinantMax": 1.0164264374850722,
+      "minimumStretch": 0.9758584866986063,
+      "maximumStretch": 1.033925631339701
+    },
+    {
+      "seconds": 2.9,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 2.94,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.0,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.1,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.2,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.3,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.4,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.5,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.6,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.7,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.8,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 3.9,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    },
+    {
+      "seconds": 4.0,
+      "sampleCount": 11097,
+      "determinantMin": 0.9999999999905099,
+      "determinantMax": 1.0000000000085514,
+      "minimumStretch": 0.9999999999954489,
+      "maximumStretch": 1.0000000000065512
+    }
+  ],
+  "method": "Finite-difference actual rest-surface diagnostic; field correspondence checked in the native pilot",
+  "caveat": "Positive sampled Jacobians are not a volume, collision or arbitrary-control certificate"
+}

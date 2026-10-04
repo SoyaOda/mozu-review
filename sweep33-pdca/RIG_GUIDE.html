@@ -1,0 +1,44 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep33 / RIG_GUIDE</title><style>body{max-width:1000px;margin:32px auto;padding:0 20px;background:#f5f3ed;color:#263b34;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#345f4e}</style><a href="./">Back to comparison</a><pre># Sweep33 editable grounded sweep
+
+Open `sweep33-groundwork.blend` in Blender5.2. Select `Sweep33 | Supported action and world attention`. Frames1–240 at60fps contain the four-second action; frame241 is the quiet endpoint. Save edits as a new version.
+
+| Control | Responsibility | Selected value |
+| --- | --- | --- |
+| Support reference | Declared non-holding sole reference for the common frame | 1 |
+| Turn gain | Scale the original common heading | 22/26 |
+| Inclination | Original common pitch and roll | 1 |
+| Work lean | Additional forward body reach during Stroke | 8degrees |
+| World lean | Apply that reach after the common turn;0 tests the local-frame alternative | 1 |
+| Trunk coherence height | Upper edge of the smooth support transition | 0.56 |
+| Arm reach | Original shoulder-led inward/front articulation | 1 |
+| Elbow effort | Scale the original shallow elbow bend; no length stretch | 0.7 |
+| World attention | Direct world orientation of the rigid head;0 restores local counterturn | 1 |
+| Attention gain | Strength of the world head-orientation task | 1 |
+| Look task / Nod task | Native C1 curves for facing and downward attention | animated |
+| Work posture / Stroke | Preparation, inward sweep and recovery | animated |
+| Unloaded lift / Bristle drag | Broom return clearance and straw response | animated |
+
+Original historical properties remain for graph provenance. The selected Sweep33 controls above own the current action. The displayed property ranges are editing aids, not a certificate for arbitrary combinations.
+
+## Frame ownership
+
+The common body transform is a local pitch, roll and yaw followed by an additional world-X forward inclination. Applying the last inclination in world space avoids the extra lateral head transport observed when the same8degrees was applied before yaw. The head attachment, shoulder sockets, articulated arms and tail all receive this common transport. The world-space head task owns orientation only; it cannot translate the head independently of its original neck attachment.
+
+The support reference is approximately(-0.37652278,-0.06862354,-0.286308885), declared from the non-holding sole. Both paws remain planted. A front generated video cannot determine the physical pivot, hidden depth or unilateral load; this rig does not claim that reconstruction.
+
+The joined body field excludes all9988paw vertices. Its gray ankle region belowZ-0.045 is fixed. Each original-height body section receives the same rigid rotation, weighted by a quintic transition fromZ-0.045 toZ0.56. The joins are C2; the field equals the common upper transform above the band. This preserves cross-section distances but does not preserve volume or eliminate longitudinal strain. Shaded front, oblique, side and rear pilot images accompany the numeric diagnostics.
+
+## Arms, head and broom
+
+The club-arm material length, girth and paw dimensions remain unchanged. The original shoulder action carries a14degree peak elbow bend instead of20degrees. Arm-only lowering was rejected because the distal arm disappeared into the body. The selected version preserves the arm/body relationship and uses whole-body forward reach to lower the grip from approximatelyZ0.502 toZ0.375 at2.02seconds. Its rest grip is approximatelyZ0.414. These are native-coordinate measurements, not inferred physical dimensions.
+
+The actual holding-paw centroid owns the broom grip. The unchanged rigid shaft follows the existing floor-contact solution, including the small authored return clearance. Only the straw deforms for drag. There is no independent hand-position trajectory or arm-length compensation.
+
+The complete original head remains rigid. A built-in world-space Copy Rotation constraint points an orientation basis at the world attention task. One continuous facing curve reaches-15.8degrees at2.02seconds; the previous sum of opposed local and body turns peaked earlier. Nod is independently timed, and the original face, eye shapes and materials remain intact.
+
+## Delivery and limits
+
+Playback uses saved Geometry Nodes, ordinary animation curves and simple native drivers. It needs no geometry cache or Python frame handler. The source extension scripts use earlier Mozu repository builders; the native itself is the standalone editable deliverable. Retain the evidence reports with it.
+
+Only the authored planted sweep and limited edit/reset probes are reviewed. Pickup/release, stepping, physical force balance, all-control collisions, airborne deformation and skeletal runtime export remain open. This candidate does not replace an adopted motion or certify the full fifteen-issue, eleven-gate development contract.
+</pre></html>

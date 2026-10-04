@@ -1,0 +1,840 @@
+{
+  "status": "PASS_REVISED_OFFLINE_PREFLIGHT",
+  "scope": "Actual rest-body point-cloud frontal-depth diagnostic, not a closed-surface collision certificate",
+  "rejectedArmOnlyDistalOcclusion": 1.0,
+  "rows": [
+    {
+      "case": "attention32",
+      "samples": [
+        {
+          "seconds": 1.3,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.4,
+          "hand": [
+            0.8120754075090022,
+            -0.14664742523596572,
+            0.42618236405690746
+          ],
+          "approximateDistalOccludedFraction": 0.09113300492610837,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.5,
+          "hand": [
+            0.7648767275687003,
+            -0.3075459805494789,
+            0.4425036460954017
+          ],
+          "approximateDistalOccludedFraction": 0.09359605911330049,
+          "elbowJacobian": 0.8928958827497602
+        },
+        {
+          "seconds": 1.6,
+          "hand": [
+            0.6042807322842549,
+            -0.5409125931410335,
+            0.4513694361690598
+          ],
+          "approximateDistalOccludedFraction": 0.1477832512315271,
+          "elbowJacobian": 0.8640144977330255
+        },
+        {
+          "seconds": 1.7,
+          "hand": [
+            0.37045594663635656,
+            -0.7182674389921189,
+            0.46324690722748885
+          ],
+          "approximateDistalOccludedFraction": 0.20689655172413793,
+          "elbowJacobian": 0.8462438686169266
+        },
+        {
+          "seconds": 1.8,
+          "hand": [
+            0.14853047377673334,
+            -0.799658935699335,
+            0.48248676409016455
+          ],
+          "approximateDistalOccludedFraction": 0.26108374384236455,
+          "elbowJacobian": 0.843525578592873
+        },
+        {
+          "seconds": 1.83,
+          "hand": [
+            0.09559062739340617,
+            -0.8093690364838959,
+            0.4885276762931236
+          ],
+          "approximateDistalOccludedFraction": 0.2684729064039409,
+          "elbowJacobian": 0.8428511184671801
+        },
+        {
+          "seconds": 1.9,
+          "hand": [
+            0.010870152859482642,
+            -0.8164142880667826,
+            0.4992225155754961
+          ],
+          "approximateDistalOccludedFraction": 0.29310344827586204,
+          "elbowJacobian": 0.8417050724299748
+        },
+        {
+          "seconds": 2.0,
+          "hand": [
+            -0.00775793544194181,
+            -0.8149210115202727,
+            0.5021568174986499
+          ],
+          "approximateDistalOccludedFraction": 0.2955665024630542,
+          "elbowJacobian": 0.8413931059461481
+        },
+        {
+          "seconds": 2.02,
+          "hand": [
+            -0.005070693620394208,
+            -0.8150420921087065,
+            0.5017643157039178
+          ],
+          "approximateDistalOccludedFraction": 0.2955665024630542,
+          "elbowJacobian": 0.8414348946633642
+        },
+        {
+          "seconds": 2.1,
+          "hand": [
+            0.009086323677110483,
+            -0.8157934028541912,
+            0.49963483613956317
+          ],
+          "approximateDistalOccludedFraction": 0.2955665024630542,
+          "elbowJacobian": 0.8416612776353687
+        },
+        {
+          "seconds": 2.2,
+          "hand": [
+            0.019418395075045305,
+            -0.8160177264471121,
+            0.49813632981147177
+          ],
+          "approximateDistalOccludedFraction": 0.2881773399014778,
+          "elbowJacobian": 0.8418204345319771
+        },
+        {
+          "seconds": 2.3,
+          "hand": [
+            0.08834752168563739,
+            -0.8076384924827401,
+            0.4900669835805529
+          ],
+          "approximateDistalOccludedFraction": 0.2733990147783251,
+          "elbowJacobian": 0.8426836459200907
+        },
+        {
+          "seconds": 2.4,
+          "hand": [
+            0.2347282997107216,
+            -0.7694880432687229,
+            0.47439753001377527
+          ],
+          "approximateDistalOccludedFraction": 0.23891625615763548,
+          "elbowJacobian": 0.845990479150685
+        },
+        {
+          "seconds": 2.5,
+          "hand": [
+            0.4278013632630541,
+            -0.6692295835700918,
+            0.4545739412684238
+          ],
+          "approximateDistalOccludedFraction": 0.2019704433497537,
+          "elbowJacobian": 0.8628433276709278
+        },
+        {
+          "seconds": 2.6,
+          "hand": [
+            0.6141625561315656,
+            -0.5009125150307036,
+            0.43693666020940103
+          ],
+          "approximateDistalOccludedFraction": 0.16009852216748768,
+          "elbowJacobian": 0.8857764651427358
+        },
+        {
+          "seconds": 2.7,
+          "hand": [
+            0.7443825392781243,
+            -0.30506515899540443,
+            0.4259261829630925
+          ],
+          "approximateDistalOccludedFraction": 0.12315270935960591,
+          "elbowJacobian": 0.9035832593938067
+        },
+        {
+          "seconds": 2.8,
+          "hand": [
+            0.8026394136648092,
+            -0.1558188128949443,
+            0.41911883065039873
+          ],
+          "approximateDistalOccludedFraction": 0.09852216748768473,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 2.9,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 3.0,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        }
+      ],
+      "fieldSamples": 10117,
+      "determinantMin": 0.9166792884748028,
+      "singularValueMax": 2.2553824026539133
+    },
+    {
+      "case": "local-reach22",
+      "samples": [
+        {
+          "seconds": 1.3,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.4,
+          "hand": [
+            0.8124284861800729,
+            -0.14040028017316153,
+            0.4249639974029544
+          ],
+          "approximateDistalOccludedFraction": 0.09113300492610837,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.5,
+          "hand": [
+            0.7705405851437126,
+            -0.28873812201291743,
+            0.4362293191980045
+          ],
+          "approximateDistalOccludedFraction": 0.0960591133004926,
+          "elbowJacobian": 0.9020867218733194
+        },
+        {
+          "seconds": 1.6,
+          "hand": [
+            0.6248484277804865,
+            -0.5209462774883403,
+            0.4293198171707613
+          ],
+          "approximateDistalOccludedFraction": 0.15270935960591134,
+          "elbowJacobian": 0.8860412870691737
+        },
+        {
+          "seconds": 1.7,
+          "hand": [
+            0.4067159357234722,
+            -0.7156249497179636,
+            0.4152476096314805
+          ],
+          "approximateDistalOccludedFraction": 0.21182266009852216,
+          "elbowJacobian": 0.8751681647561329
+        },
+        {
+          "seconds": 1.8,
+          "hand": [
+            0.19199290959494342,
+            -0.8251135186005495,
+            0.4077968703852469
+          ],
+          "approximateDistalOccludedFraction": 0.26354679802955666,
+          "elbowJacobian": 0.8735499638657431
+        },
+        {
+          "seconds": 1.83,
+          "hand": [
+            0.13980816434129772,
+            -0.8429530267585883,
+            0.40695216886692925
+          ],
+          "approximateDistalOccludedFraction": 0.27832512315270935,
+          "elbowJacobian": 0.8731484570484901
+        },
+        {
+          "seconds": 1.9,
+          "hand": [
+            0.05510919674184995,
+            -0.8646544313508926,
+            0.405951490710825
+          ],
+          "approximateDistalOccludedFraction": 0.3054187192118227,
+          "elbowJacobian": 0.8724662146455738
+        },
+        {
+          "seconds": 2.0,
+          "hand": [
+            0.03591772222415934,
+            -0.8673737339949938,
+            0.4057269140290085
+          ],
+          "approximateDistalOccludedFraction": 0.31527093596059114,
+          "elbowJacobian": 0.872280500671924
+        },
+        {
+          "seconds": 2.02,
+          "hand": [
+            0.03866380612211943,
+            -0.866935102497519,
+            0.4057565591088235
+          ],
+          "approximateDistalOccludedFraction": 0.31527093596059114,
+          "elbowJacobian": 0.8723053775389281
+        },
+        {
+          "seconds": 2.1,
+          "hand": [
+            0.053165993084995394,
+            -0.8646486763049136,
+            0.4059193867740174
+          ],
+          "approximateDistalOccludedFraction": 0.3054187192118227,
+          "elbowJacobian": 0.8724401435586042
+        },
+        {
+          "seconds": 2.2,
+          "hand": [
+            0.0636914358628897,
+            -0.8627543872154789,
+            0.4060373224052224
+          ],
+          "approximateDistalOccludedFraction": 0.30295566502463056,
+          "elbowJacobian": 0.8725348898253839
+        },
+        {
+          "seconds": 2.3,
+          "hand": [
+            0.1320380444160698,
+            -0.8435586691497059,
+            0.40677859420301477
+          ],
+          "approximateDistalOccludedFraction": 0.2832512315270936,
+          "elbowJacobian": 0.873048760466294
+        },
+        {
+          "seconds": 2.4,
+          "hand": [
+            0.2744905948807431,
+            -0.7855527476898934,
+            0.40935917669508987
+          ],
+          "approximateDistalOccludedFraction": 0.2561576354679803,
+          "elbowJacobian": 0.8750173217422311
+        },
+        {
+          "seconds": 2.5,
+          "hand": [
+            0.455948474948566,
+            -0.6669908892508766,
+            0.41378482024845914
+          ],
+          "approximateDistalOccludedFraction": 0.2044334975369458,
+          "elbowJacobian": 0.8852214680257053
+        },
+        {
+          "seconds": 2.6,
+          "hand": [
+            0.6278866960438151,
+            -0.4899466726997764,
+            0.41802424354154694
+          ],
+          "approximateDistalOccludedFraction": 0.16502463054187191,
+          "elbowJacobian": 0.8980211731980441
+        },
+        {
+          "seconds": 2.7,
+          "hand": [
+            0.7481418640635344,
+            -0.29524414754448325,
+            0.4202090318308309
+          ],
+          "approximateDistalOccludedFraction": 0.12561576354679804,
+          "elbowJacobian": 0.907977790819288
+        },
+        {
+          "seconds": 2.8,
+          "hand": [
+            0.8029557361696259,
+            -0.1517132631334266,
+            0.4182374560114849
+          ],
+          "approximateDistalOccludedFraction": 0.10098522167487685,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 2.9,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 3.0,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        }
+      ],
+      "fieldSamples": 10117,
+      "determinantMin": 0.7875422094690611,
+      "singularValueMax": 2.33728464564378
+    },
+    {
+      "case": "world-reach22",
+      "samples": [
+        {
+          "seconds": 1.3,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.4,
+          "hand": [
+            0.8124284861800729,
+            -0.14040028017316153,
+            0.4249639974029544
+          ],
+          "approximateDistalOccludedFraction": 0.09113300492610837,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.5,
+          "hand": [
+            0.771032080088359,
+            -0.2889334338870199,
+            0.4353888655421893
+          ],
+          "approximateDistalOccludedFraction": 0.0960591133004926,
+          "elbowJacobian": 0.9020867218733194
+        },
+        {
+          "seconds": 1.6,
+          "hand": [
+            0.628654918176518,
+            -0.5223771383869188,
+            0.42305002347019605
+          ],
+          "approximateDistalOccludedFraction": 0.15024630541871922,
+          "elbowJacobian": 0.8860412870691737
+        },
+        {
+          "seconds": 1.7,
+          "hand": [
+            0.4179851395983963,
+            -0.7194637776774301,
+            0.39883298049046806
+          ],
+          "approximateDistalOccludedFraction": 0.21182266009852216,
+          "elbowJacobian": 0.8751681647561329
+        },
+        {
+          "seconds": 1.8,
+          "hand": [
+            0.21351536973534296,
+            -0.8318366172354172,
+            0.38199550468464305
+          ],
+          "approximateDistalOccludedFraction": 0.26354679802955666,
+          "elbowJacobian": 0.8735499638657431
+        },
+        {
+          "seconds": 1.83,
+          "hand": [
+            0.16431695029745716,
+            -0.8505102574502911,
+            0.37922866776650593
+          ],
+          "approximateDistalOccludedFraction": 0.27832512315270935,
+          "elbowJacobian": 0.8731484570484901
+        },
+        {
+          "seconds": 1.9,
+          "hand": [
+            0.08490642980010037,
+            -0.8737011887532711,
+            0.37560412658717257
+          ],
+          "approximateDistalOccludedFraction": 0.3054187192118227,
+          "elbowJacobian": 0.8724662146455738
+        },
+        {
+          "seconds": 2.0,
+          "hand": [
+            0.06686855075991566,
+            -0.87674300033447,
+            0.3750304023798281
+          ],
+          "approximateDistalOccludedFraction": 0.31527093596059114,
+          "elbowJacobian": 0.872280500671924
+        },
+        {
+          "seconds": 2.02,
+          "hand": [
+            0.06943757019947062,
+            -0.876254654703532,
+            0.37511925140785385
+          ],
+          "approximateDistalOccludedFraction": 0.312807881773399,
+          "elbowJacobian": 0.8723053775389281
+        },
+        {
+          "seconds": 2.1,
+          "hand": [
+            0.08303941729384098,
+            -0.8737157804341006,
+            0.37558046434475917
+          ],
+          "approximateDistalOccludedFraction": 0.3054187192118227,
+          "elbowJacobian": 0.8724401435586042
+        },
+        {
+          "seconds": 2.2,
+          "hand": [
+            0.09291221472983517,
+            -0.8716377852908039,
+            0.3759407181071323
+          ],
+          "approximateDistalOccludedFraction": 0.30295566502463056,
+          "elbowJacobian": 0.8725348898253839
+        },
+        {
+          "seconds": 2.3,
+          "hand": [
+            0.15679791625966946,
+            -0.8511945129003491,
+            0.3790335288313051
+          ],
+          "approximateDistalOccludedFraction": 0.27832512315270935,
+          "elbowJacobian": 0.873048760466294
+        },
+        {
+          "seconds": 2.4,
+          "hand": [
+            0.2913528291956806,
+            -0.7910075110770378,
+            0.3873850545087913
+          ],
+          "approximateDistalOccludedFraction": 0.2561576354679803,
+          "elbowJacobian": 0.8750173217422311
+        },
+        {
+          "seconds": 2.5,
+          "hand": [
+            0.46505965650436615,
+            -0.6700927353918857,
+            0.4000997983988242
+          ],
+          "approximateDistalOccludedFraction": 0.2044334975369458,
+          "elbowJacobian": 0.8852214680257053
+        },
+        {
+          "seconds": 2.6,
+          "hand": [
+            0.6313984284981653,
+            -0.49117125211784957,
+            0.4122503480753893
+          ],
+          "approximateDistalOccludedFraction": 0.16502463054187191,
+          "elbowJacobian": 0.8980211731980441
+        },
+        {
+          "seconds": 2.7,
+          "hand": [
+            0.7488481739204467,
+            -0.2954843307199217,
+            0.41900624023025274
+          ],
+          "approximateDistalOccludedFraction": 0.12561576354679804,
+          "elbowJacobian": 0.907977790819288
+        },
+        {
+          "seconds": 2.8,
+          "hand": [
+            0.8029757469088527,
+            -0.15171951898216865,
+            0.4182032171853166
+          ],
+          "approximateDistalOccludedFraction": 0.10098522167487685,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 2.9,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 3.0,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        }
+      ],
+      "fieldSamples": 10117,
+      "determinantMin": 0.7661305300416777,
+      "singularValueMax": 2.2734857884697894
+    },
+    {
+      "case": "supported-reach22",
+      "samples": [
+        {
+          "seconds": 1.3,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.4,
+          "hand": [
+            0.8124284861800729,
+            -0.14040028017316153,
+            0.4249639974029544
+          ],
+          "approximateDistalOccludedFraction": 0.09113300492610837,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 1.5,
+          "hand": [
+            0.771032080088359,
+            -0.2889334338870199,
+            0.4353888655421893
+          ],
+          "approximateDistalOccludedFraction": 0.0960591133004926,
+          "elbowJacobian": 0.9020867218733194
+        },
+        {
+          "seconds": 1.6,
+          "hand": [
+            0.628654918176518,
+            -0.5223771383869188,
+            0.42305002347019605
+          ],
+          "approximateDistalOccludedFraction": 0.15024630541871922,
+          "elbowJacobian": 0.8860412870691737
+        },
+        {
+          "seconds": 1.7,
+          "hand": [
+            0.4179851395983963,
+            -0.7194637776774301,
+            0.39883298049046806
+          ],
+          "approximateDistalOccludedFraction": 0.20935960591133004,
+          "elbowJacobian": 0.8751681647561329
+        },
+        {
+          "seconds": 1.8,
+          "hand": [
+            0.21351536973534296,
+            -0.8318366172354172,
+            0.38199550468464305
+          ],
+          "approximateDistalOccludedFraction": 0.25862068965517243,
+          "elbowJacobian": 0.8735499638657431
+        },
+        {
+          "seconds": 1.83,
+          "hand": [
+            0.16431695029745716,
+            -0.8505102574502911,
+            0.37922866776650593
+          ],
+          "approximateDistalOccludedFraction": 0.270935960591133,
+          "elbowJacobian": 0.8731484570484901
+        },
+        {
+          "seconds": 1.9,
+          "hand": [
+            0.08490642980010037,
+            -0.8737011887532711,
+            0.37560412658717257
+          ],
+          "approximateDistalOccludedFraction": 0.29310344827586204,
+          "elbowJacobian": 0.8724662146455738
+        },
+        {
+          "seconds": 2.0,
+          "hand": [
+            0.06686855075991566,
+            -0.87674300033447,
+            0.3750304023798281
+          ],
+          "approximateDistalOccludedFraction": 0.29802955665024633,
+          "elbowJacobian": 0.872280500671924
+        },
+        {
+          "seconds": 2.02,
+          "hand": [
+            0.06943757019947062,
+            -0.876254654703532,
+            0.37511925140785385
+          ],
+          "approximateDistalOccludedFraction": 0.29802955665024633,
+          "elbowJacobian": 0.8723053775389281
+        },
+        {
+          "seconds": 2.1,
+          "hand": [
+            0.08303941729384098,
+            -0.8737157804341006,
+            0.37558046434475917
+          ],
+          "approximateDistalOccludedFraction": 0.29310344827586204,
+          "elbowJacobian": 0.8724401435586042
+        },
+        {
+          "seconds": 2.2,
+          "hand": [
+            0.09291221472983517,
+            -0.8716377852908039,
+            0.3759407181071323
+          ],
+          "approximateDistalOccludedFraction": 0.2881773399014778,
+          "elbowJacobian": 0.8725348898253839
+        },
+        {
+          "seconds": 2.3,
+          "hand": [
+            0.15679791625966946,
+            -0.8511945129003491,
+            0.3790335288313051
+          ],
+          "approximateDistalOccludedFraction": 0.270935960591133,
+          "elbowJacobian": 0.873048760466294
+        },
+        {
+          "seconds": 2.4,
+          "hand": [
+            0.2913528291956806,
+            -0.7910075110770378,
+            0.3873850545087913
+          ],
+          "approximateDistalOccludedFraction": 0.2413793103448276,
+          "elbowJacobian": 0.8750173217422311
+        },
+        {
+          "seconds": 2.5,
+          "hand": [
+            0.46505965650436615,
+            -0.6700927353918857,
+            0.4000997983988242
+          ],
+          "approximateDistalOccludedFraction": 0.2019704433497537,
+          "elbowJacobian": 0.8852214680257053
+        },
+        {
+          "seconds": 2.6,
+          "hand": [
+            0.6313984284981653,
+            -0.49117125211784957,
+            0.4122503480753893
+          ],
+          "approximateDistalOccludedFraction": 0.16009852216748768,
+          "elbowJacobian": 0.8980211731980441
+        },
+        {
+          "seconds": 2.7,
+          "hand": [
+            0.7488481739204467,
+            -0.2954843307199217,
+            0.41900624023025274
+          ],
+          "approximateDistalOccludedFraction": 0.12561576354679804,
+          "elbowJacobian": 0.907977790819288
+        },
+        {
+          "seconds": 2.8,
+          "hand": [
+            0.8029757469088527,
+            -0.15171951898216865,
+            0.4182032171853166
+          ],
+          "approximateDistalOccludedFraction": 0.10098522167487685,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 2.9,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        },
+        {
+          "seconds": 3.0,
+          "hand": [
+            0.8075584081795786,
+            -0.11738589775909136,
+            0.4135873951594149
+          ],
+          "approximateDistalOccludedFraction": 0.10591133004926108,
+          "elbowJacobian": 0.9090245877218854
+        }
+      ],
+      "fieldSamples": 11097,
+      "determinantMin": 0.7834788465238657,
+      "singularValueMax": 2.148920856770224
+    }
+  ],
+  "nativeVisualRequirement": "Every working-arm pilot must remain readable in front, oblique and side; numeric field/FK/floor passes alone are insufficient."
+}

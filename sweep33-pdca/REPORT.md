@@ -1,0 +1,50 @@
+# Sweep33: lower hand, supported forward reach and steady attention
+
+Sweep33 is ready for a scoped owner preview after three causal PDCA rounds and complete four-view sequence inspection. The visible improvement is a lower working hand carried by a forward-reaching body, with a calmer, later head turn. The original arm length, rigid face, two planted paws and broom dimensions remain intact. This is an unadopted candidate, not a complete general-rig qualification.
+
+Selected native: `pilot03/sweep33-groundwork.blend`,221049280bytes, SHA256`ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10`.
+
+## What changed and why
+
+1. The old head orientation combined a body turn with a differently phased local counterturn. It turned too far during the approach, then partially reversed before the work pose. A world-space orientation task now owns the complete rigid head's facing, while its original neck position remains carried by the body. The isolated first round demonstrated the reduced intermediate overturn.
+2. Lowering the arm alone produced a numerical success and a visible failure: the entire distal working arm disappeared into the torso. That second round was rejected. No native from that round is the deliverable.
+3. Whole-body forward reach preserves the arm/body relationship and lowers the hand. A local forward rotation also added unwanted lateral head movement, so the selected additional8degree inclination is applied after the common turn, in world space. The common heading is22degrees instead of26; the soft elbow peak is14degrees instead of20. A wider lower support transition ending atZ0.56softens the side contour compared withZ0.50.
+
+At2.02seconds the native grip moves fromZ0.501764 in the baseline toZ0.375119; the rest grip isZ0.413587. The working arm remains readable in the inspected front, oblique and side views. The actual-body point-cloud diagnostic finds29.8%approximate distal occlusion, close to29.6%baseline; the rejected arm-only round reached100%. These are diagnostic fractions, not exact collision volumes.
+
+## Source observations and remaining differences
+
+The original Source29video, original timing and both native cameras are unchanged. The table compares active-phase image cues from1.30through2.94seconds, with50matched source times. Errors are RMSE as a percentage of each video's initial head width, measured relative to that video's rest observation. They are not recovered joint-angle errors. Belly observations are horizontal image intersections, not tracked material points.
+
+| Observed cue | Sweep32 error | Sweep33 error | Source-normalized excursion,32→33 |
+| --- | ---: | ---: | ---: |
+| Head-envelope midpoint X | 0.888% | 1.290% | 90.2%→82.7% |
+| Nose offset inside head | 2.128% | 0.697% | 118.9%→102.0% |
+| Broom binding X | 5.138% | 3.421% | 106.1%→97.1% |
+| Middle belly left edge, row0.675 | 1.845% | 0.903% | 141.5%→117.9% |
+| Lower-middle belly edge, row0.715 | 1.980% | 1.394% | 141.5%→129.7% |
+| Lowest sampled belly edge, row0.765 | 3.262% | 3.224% | 61.0%→65.4% |
+
+The facing cue's active error falls67.2%; the broom trajectory's rest-relative error falls33.4%. Head-envelope translation becomes smaller than the source and its error increases. The lowest belly edge remains under-responsive. The new broom reaches less far across in absolute image position than32, even though its excursion and rest-relative trajectory fit improve. The plot deliberately shows its absolute offset from the initial head midpoint so this distinction is visible. No single score declares the whole performance solved.
+
+Source anatomy, concealed depth and support force remain uncertain. The generated tail shape is not adopted. Both native soles are fixed; the declared non-holding sole reference is an authoring choice, not a recovered center of pressure.
+
+## Geometry and native evidence
+
+The final pilot checks184time/case pairs across four causal alternatives, with maximum independent correspondence error1.194105e-6 native units. Four pre-extension parity samples preserve the attention-only baseline. Nine controls visibly change geometry and reset exactly; all nine repeat successfully after reopening with scripts disabled. Rest, save/reopen and endpoint geometry errors are zero. Original material attributes and rigid facial assembly are retained.
+
+The selected actual-body surface diagnostic covers46times. Minimum sampled Jacobian determinant is0.783877; minimum and maximum singular stretch are0.503008and2.145688. The previous32maximum was2.255165, but its minimum was0.568355: maximum stretch improves while compression increases. The field preserves each original-height cross-section and has C2 joins, but it is not volume preserving. Positive sampled Jacobians do not certify every volume point, collision or control combination.
+
+The continuous capture matches the complete native at nine held-out times, maximum error4.918e-7. All240times retain all9988paw vertices and22344gray ankle vertices exactly. Maximum broom floor/return-lift error is1.491e-7. The native has no external library or unpacked image dependency. Capture uses the actual live fields on verified native rest snapshots; there is no pose interpolation or geometry cache in playback.
+
+## Visual and media review
+
+Round01:55color and20shaded images reviewed; world attention retained and narrow support transfer rejected. Round02: completed images visibly reject arm-only lowering. Round03:44color and16shaded images reviewed; the broader world-reach case selected.
+
+All960final view frames were inspected in16complete sheets: front, oblique, side and top,240frames each at60fps. Approach, work, return and rest remain continuous; no distal-arm disappearance, detached neck, sole slide, new sharp side fold or visible loop seam was observed. Top view naturally hides much of the torso and cannot independently prove attachment. Four movies decode completely with no blank or cropped frames. All20transferred movies/sheets match the render-host SHA256 records.
+
+Native pilot FIFO20261004-110129-33089c61 and final capture/media FIFO20261004-111237-09b877ae completed successfully. An earlier admission stopped before opening a native because of the shared host disk reserve; that is an environment stop, not motion evidence. Only exact backed-up temporary host copies of this task's old25and30natives were retired; Mac originals remain intact. Final capture left5362896896free bytes on the host.
+
+## Scope of this preview
+
+Main-agent implementation and review only; there is no independent critic sign-off. All fifteen architecture issues and eleven whole-motion gates retain their open release status in the bound qualification ledger. Owner adoption, all-control collision checks, physical load, stepping, pickup/release, airborne deformation and skeletal runtime export remain open. Original Source29, Sweep32, the first Sweep33pilot and all adopted releases remain preserved. This preview stops the current causal iteration so the owner can judge the demonstrated change.

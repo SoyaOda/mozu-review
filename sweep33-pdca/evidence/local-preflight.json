@@ -1,0 +1,43 @@
+{
+  "status": "PASS_LOCAL_CAUSAL_PREFLIGHT",
+  "source": "Sweep32 actual rest body,168230vertices",
+  "surfaceField": [
+    {
+      "case": "baseline32",
+      "samples": 10254,
+      "determinantMin": 0.9167191726902058,
+      "singularValueMax": 2.2555822914992807
+    },
+    {
+      "case": "attention",
+      "samples": 10254,
+      "determinantMin": 0.9167191726902058,
+      "singularValueMax": 2.2555822914992807
+    },
+    {
+      "case": "lower-coherence",
+      "samples": 10254,
+      "determinantMin": 0.8981417460856876,
+      "singularValueMax": 2.641867961544324
+    },
+    {
+      "case": "compact-turn",
+      "samples": 10254,
+      "determinantMin": 0.9167792486769268,
+      "singularValueMax": 2.0746923349838795
+    },
+    {
+      "case": "combined",
+      "samples": 10254,
+      "determinantMin": 0.8732439651108362,
+      "singularValueMax": 2.474649214451836
+    }
+  ],
+  "headYaw": {
+    "baselinePeakSeconds": 1.8933333333333335,
+    "baselinePeakDegrees": -18.631248130410253,
+    "newPeakSeconds": 2.02,
+    "newPeakDegrees": -15.8
+  },
+  "caveat": "Surface samples and world Euler diagnostics require native image confirmation; not a force/volume certificate"
+}

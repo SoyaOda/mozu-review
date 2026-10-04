@@ -1,0 +1,58 @@
+# Sweep33: causal support and attention PDCA
+
+Owner requests thorough fundamental iteration, with a preview only after a clear breakthrough. Continue from the delivered Sweep32 candidate; preserve its native/media and every adopted original. Main agent only. No new generated source is needed. No automatic adoption.
+
+Intent: one calm, purposeful inward sweep to the opposite foot and return,4seconds, both paws planted. Primary: common supported body and shoulder/arm transport. Secondary: head attention, broom straw and restrained settling. Source29 remains the performance observation; its generated anatomy, hidden depth and physical load are not authority.
+
+## Working causal hypotheses
+
+1. Sweep32 local head counterturn has a different delay/shape from the common trunk turn. Their sum reaches a stronger facing angle during the approach than at the work pose. The observed nose cue peaks early and about19%farther than the source. Test a direct world-attention orientation task at the moving native neck attachment, instead of summing independently phased opposed Euler turns. Preserve the rigid original head and all facial internals.
+2. A single height gradient currently distributes26degrees of common rotation down to fixed ankles. Mid-belly image excursion is about141%of source while the lowest sampled edge reaches61%. This is evidence to separate actual body rotation, lower accommodation and raster/occlusion effects, not evidence that a single yaw gain fixes all regions. Inspect the actual body surface and compare deformation approaches at equal common upper tasks.
+3. Reduce unsupported local strain without losing lower body participation. Evaluate earlier trunk coherence together with a smaller common heading and appropriate contact-relative inclination; use actual native flat/clay views to reject local bulges or dents. Do not trade geometry for image-fit scores.
+
+## Experimental sequence and stop criterion
+
+- Reuse32as the frozen baseline. Declare independent causal probes before any native render. Use actual168230vertex rest arrays; offline G arrays are not current-body authority.
+- Check head timing analytically and support-field boundaries/Jacobians/section profiles locally. Keep exact foot, source, camera, pigment and arm material-length invariants.
+- Run one queued Blender pilot after local cells are complete. Render a small causal matrix, review the whole body, arms and feet in front/oblique/side plus isolated shaded body. Inspect worst poses, not just2seconds.
+- Change one responsible mechanism per PDCA iteration, record rejection and quantitative/visual deltas. Combine demonstrated fixes only after their isolated effect is understood.
+- A breakthrough requires a visible improvement over32in body/arm coherence and/or head temporal presentation, no new support/surface/grip defect, and objective evidence of its cause. Improved scalar fitting alone does not qualify. Confirm the chosen result across held-out poses and a complete60fpssequence before publishing the preview.
+- Preserve all15architecture issues and11release-gate exclusions. Scoped comparison delivery is not full general-rig qualification or physical contact-force recovery.
+
+Reuse ordinary native curves, built-in drivers and editable Geometry Nodes. Save/reopen and edit/reset actual public controls. Retain one heavy job handle at a time and use the Windows FIFO broker. Report only useful findings while working; do not interrupt the owner for routine reversible choices.
+
+## First causal cells
+
+The original world head yaw peaks at1.8933seconds/-18.631degrees although the work pose arrives at about2seconds. A single world-attention curve reaches-15.8degrees at2.02seconds without an intermediate reversal. A native world-space Copy Rotation constraint owns orientation only; the existing body-bound neck location and complete rigid head assembly remain intact. The legacy local frame is retained as a reversible ablation.
+
+Actual-body surface probes use10254points over32active times. Baseline maximum singular stretch2.2556; earlier coherence atZ0.38 alone increases it to2.6419. Lower heading22degrees at the unchangedZ0.50 band lowers it to2.0747. The combined early band,22degree turn and1.25inclination reaches2.4746, so better frontal contours cannot by themselves justify that case. Native pilot01tests five declared cases, with identical arm FK, camera and pigments. FIFO20261004-102346-1de80a43.
+
+A further action-level residual is now explicit: the32hand rises fromZ0.4136at rest to approximatelyZ0.5022at work. The source appearance motivates a lower working grip, but its concealed palm location is not an exact3Dtarget. A candidate10degree soft elbow and less forward shoulder swing can place the native hand nearZ0.35with fixed material length and girth. Test this independently from the body field; do not compensate by scaling the arm or broom. The lower grip remains coupled to the native floor-contact broom branch.
+
+Repository-wide diff-check encountered pre-existing CRLF/trailing whitespace in unrelated run221probe files. The scoped33source, docs and plans check passes; unrelated files are left intact.
+
+## Native round01 and rejected round02
+
+Round01completed230native time/case probes and75reviewed images. Native8866c0d64de3044b929853af117896df0a8b0ec4ae542aa25ede0ccd96ea0d43 is preserved. Direct world attention visibly reduces the intermediate overturn. Earlier coherence increases lower-side curvature and strain, so it is rejected. Smaller common heading is retained as a useful direction.
+
+Round02demonstrates a new failure rather than a usable candidate. Arm-only lowering passes material-length/FK/floor checks but hides the whole distal working arm behind/in the body at the work pose. Actual front, oblique and side renders show the missing arm. FIFO20261004-103502-55549873 was cancelled after this observed failure(rc130), preserving92completed native probes and two cases of images. No final round02native was saved. This is a visual-quality rejection, not a build or environment RED. Its read-only rejection receipt is pilot02/visual-review.json.
+
+## Revised whole-body reach
+
+The arm/body relationship must be preserved while the body contributes to a lower grip. Retain the original shoulder articulation and reduce only the shallow elbow effort to70%. Add8degrees of forward reach during the stroke. A local forward inclination also adds unwanted lateral head travel when combined with yaw; a world-space forward inclination applied after the common turn leaves worldXtransport unchanged. Both versions are causal native cases. Direct world head orientation remains separately owned.
+
+The selected design hypothesis combines22degree common heading, an8degree world forward reach,14degree peak elbow and a broader support band ending atZ0.56. Actual-rest-body preflight bounds: sampled Jacobian minimum0.7835and maximum singular stretch2.1489, versus baseline0.9167/2.2554. This is not volume preservation or a whole-domain collision certificate. A frontal-depth test on the actual body catches the rejected arm-only solution at100%distal occlusion; revised cases stay within5.5percentage points of the original over the tested transition. Actual native images remain required.
+
+Round03first admission20261004-105245-0b584684 stopped before opening the native because the shared host dropped below its disk reserve. It produced no motion evidence. Exact Mac copies of this task's old25and30candidates were SHA-verified before retiring only their temporary render-host replicas; local originals and adopted assets remain intact. Corrected admission20261004-110129-33089c61 runs the four-case comparison. No new generation or adoption.
+
+## Round03 selection and continuous confirmation
+
+Round03completed184time/case probes and60reviewed images. The selected `supported-reach22` preserves the holding arm in all front/oblique/side working poses. Its grip isZ0.375119 at2.02seconds, compared withZ0.501764 in the attention-only baseline andZ0.413587 at rest. The approximate distal-arm occlusion fraction is29.8%, close to29.6%baseline; the rejected arm-only experiment was100%. These point-cloud fractions are a diagnostic, not a closed-surface collision certificate.
+
+The local-pitch alternative adds excess lateral head movement. The world-pitch version avoids that extra transport. Widening the lower support band from0.50to0.56softens the lower side transition visible in the shaded comparison. Original cross-sections remain rigid; both feet and the gray ankle boundary are fixed. The selected actual-surface diagnostic over46times gives sampled determinant minimum0.783877, minimum singular stretch0.503008 and maximum2.145688. Maximum stretch is lower than32's2.255165, but compression is greater than32's0.568355 minimum stretch. This tradeoff remains explicit; there is no overall volume-preservation claim.
+
+Native SHA256ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10,221049280bytes, is preserved on Mac and the render host. All9controls change geometry and restore it exactly before and after reopening. Rest, reopened state and endpoint errors are zero. Maximum independent native correspondence error is1.194105e-6. Frozen authoring sources are in pilot03/authoring.
+
+The pilot passed for continuous confirmation; the complete review is now recorded in REPORT.md and sequence-review.json. FIFO20261004-111237-09b877ae captures240times in four views and then encodes/decodes the full60fpsmovies. Nine complete scene comparisons between the live native and capture representation pass with maximum error4.918e-7. No external library or unpacked image is required for playback.
+
+Final confirmation: FIFO20261004-111237-09b877ae completed withrc0. All960view frames and16complete sheets reviewed; all four movies decode240frames at60fps. Every selected paw and gray ankle vertex is fixed at all240times. Main-agent decisionPASS_SCOPED_PREVIEW retains the source residuals and geometry tradeoff in REPORT.md. No further native fitting is scheduled before owner preview.

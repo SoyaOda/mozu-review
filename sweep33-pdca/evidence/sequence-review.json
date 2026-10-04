@@ -1,0 +1,186 @@
+{
+  "nativeSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "captureSHA256": "7b295a080bb173823aafb9a4505bcf65f415dd5067e2e69cc430b3e7edfa4c3d",
+  "mediaSHA256": "bfb85964aea6835940659550d650afbd7f8c4da23d74107b6f63855a62f24567",
+  "pilotVisualSHA256": "f67c3d81c6fdc2fe17bebf663c69f20c4f19ce3c8cb7867055d69898e53d7146",
+  "performanceSHA256": "f7abc5c207c7f0ae3378d30a8d6f60489faf2c17915ae9837cf70f9d2009762e",
+  "decision": "PASS_SCOPED_PREVIEW",
+  "reviewer": "Main agent, not independent",
+  "coverage": {
+    "timeSamples": 240,
+    "framesPerSecond": 60,
+    "viewFrames": 960,
+    "series": [
+      [
+        "Sweep33",
+        "front"
+      ],
+      [
+        "Sweep33",
+        "oblique"
+      ],
+      [
+        "Sweep33",
+        "side"
+      ],
+      [
+        "Sweep33",
+        "top"
+      ]
+    ],
+    "sheets": 16
+  },
+  "sheets": [
+    {
+      "case": "Sweep33",
+      "view": "front",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-Sweep33-front-0.jpg",
+      "sha256": "8eec62be04f47e09e2a7d158ee3fbb38bf5aadbd6c443bd50bc23e5d0740c6dc"
+    },
+    {
+      "case": "Sweep33",
+      "view": "front",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-Sweep33-front-1.jpg",
+      "sha256": "17bf67f20b87f038b8b1ca7bb5d7568e5876dd1f3d464631b4c393af189add24"
+    },
+    {
+      "case": "Sweep33",
+      "view": "front",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-Sweep33-front-2.jpg",
+      "sha256": "0854228887fc492aea15aa7761827fd831011e0fbc61d6bd169ea5170c5e1fe3"
+    },
+    {
+      "case": "Sweep33",
+      "view": "front",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-Sweep33-front-3.jpg",
+      "sha256": "4c678cc204f782742275b6f15354625fab7d4d208b4ffa44bb9575c79425f2c1"
+    },
+    {
+      "case": "Sweep33",
+      "view": "oblique",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-Sweep33-oblique-0.jpg",
+      "sha256": "4d29a50882a3b19b0e48cc367fcdebecbca06614104202e6446f2a894171d44c"
+    },
+    {
+      "case": "Sweep33",
+      "view": "oblique",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-Sweep33-oblique-1.jpg",
+      "sha256": "9db0bf3ccd67bc80f9661d4f544435b3883370f9c2f03c73992c9ab87172f170"
+    },
+    {
+      "case": "Sweep33",
+      "view": "oblique",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-Sweep33-oblique-2.jpg",
+      "sha256": "70a1cc399296883b51991615a990b1efad815671e3ec2b80e023ff9a641fb976"
+    },
+    {
+      "case": "Sweep33",
+      "view": "oblique",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-Sweep33-oblique-3.jpg",
+      "sha256": "a41b6860d1d32aed37bcebb92db7f49971d19276415cbc12bda2194a71839b21"
+    },
+    {
+      "case": "Sweep33",
+      "view": "side",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-Sweep33-side-0.jpg",
+      "sha256": "a4da37da872e31256b1dc10b4399d70b83af8bf940f2c49aba3747b7e54c0bce"
+    },
+    {
+      "case": "Sweep33",
+      "view": "side",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-Sweep33-side-1.jpg",
+      "sha256": "4a1105c92b3344ea5525515169b75afeaf4b825f488c482f88ef0615591e49e7"
+    },
+    {
+      "case": "Sweep33",
+      "view": "side",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-Sweep33-side-2.jpg",
+      "sha256": "9b35c2d50d8e7cd3c3507f7690cc58cc902349ac97751e191e700d6c102dcea5"
+    },
+    {
+      "case": "Sweep33",
+      "view": "side",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-Sweep33-side-3.jpg",
+      "sha256": "1c3e0201abfd3d35d7a57e47915e7c9c35ddf41b6972b0efdd777d052ac9c59d"
+    },
+    {
+      "case": "Sweep33",
+      "view": "top",
+      "first": 0,
+      "last": 59,
+      "file": "media\\sheet-Sweep33-top-0.jpg",
+      "sha256": "58c947c5e22814539ef8ebfa65a6bf3f05f5950f265cefa2f84d60132158db8e"
+    },
+    {
+      "case": "Sweep33",
+      "view": "top",
+      "first": 60,
+      "last": 119,
+      "file": "media\\sheet-Sweep33-top-1.jpg",
+      "sha256": "80edd757096b6c554ac6229c870ec8fca3a7a1deae72f7436ba5e5c32ccfe08e"
+    },
+    {
+      "case": "Sweep33",
+      "view": "top",
+      "first": 120,
+      "last": 179,
+      "file": "media\\sheet-Sweep33-top-2.jpg",
+      "sha256": "ee7a35e6f61ad44099a1d677b879b46ac27f1b7eb35b5b54c7666c9bcd145876"
+    },
+    {
+      "case": "Sweep33",
+      "view": "top",
+      "first": 180,
+      "last": 239,
+      "file": "media\\sheet-Sweep33-top-3.jpg",
+      "sha256": "0743ef602402d65b47d30dc30a61215c9d3bb632217a1c9eb184b7822ca8d69f"
+    }
+  ],
+  "findings": {
+    "front": "Smooth preparation, cross-foot work and return. Holding arm remains visible throughout the inward reach; head turns gradually without the earlier intermediate overturn. Both feet stay fixed and the lower silhouette is continuous.",
+    "oblique": "Forward common-body reach is visible and lowers the held tool. The arm retains clearance, with no round02 distal disappearance or disconnected neck. Body returns without a second bounce.",
+    "side": "The low grip and forward posture remain consistent through approach, work and recovery. Continuous lower transition and fixed sole; no abrupt local side fold observed.",
+    "top": "Continuous common turn, rigid original head and tail transport. Head naturally occludes much of body/arms, so this view alone cannot certify attachment.",
+    "restAndEnd": "Initial hold and final settled poses match; no visible loop seam.",
+    "sourceResiduals": "Head-orientation cue and broom/mid-belly errors improve; head-envelope translation becomes smaller than the source and lowest belly edge remains under-responsive. No retiming or source-shape manipulation."
+  },
+  "boundaries": {
+    "vertices": {
+      "paws": 9988,
+      "grayAnkle": 22344
+    },
+    "maximumPawError": 0.0,
+    "maximumGrayAnkleError": 0.0,
+    "maximumFloorLiftError": 1.4901161193847656e-07
+  },
+  "limitations": [
+    "Sampled shape diagnostics are not volume preservation or full collision certification.",
+    "Generated front video does not identify physical pivot, hidden depth or contact force.",
+    "All fifteen architecture issues and eleven general-release gates remain open.",
+    "Main-agent review only; owner adoption and runtime skeletal export remain open."
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "nativeSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "pilotSHA256": "0c3454b02ac6dcea189926f8a02ff9a80691c1e23daad2c82448d5faca640795",
+  "selectedCase": "supported-reach22",
+  "decision": "PASS_PILOT_WITH_LIMITATIONS",
+  "reviewer": "Main agent, not independent",
+  "reviewedColorImages": 44,
+  "reviewedShadedImages": 16,
+  "nativeTimeCaseSamples": 184,
+  "maximumNativeError": 1.1941042177276984e-06,
+  "findings": {
+    "attention": "Retain pilot01 world-attention improvement: intermediate over-turn reduced while preserving the complete rigid face and moving neck attachment.",
+    "arm": "Whole-body reach lowers the work grip fromZ0.501764 toZ0.375119 without the hidden distal arm seen in rejected round02. All front/oblique/side work poses retain readable holding arms.",
+    "world-frame": "World-X forward reach avoids the additional image-left head transport visible in the local-pitch case.",
+    "support": "Broader0.56 band reduces the lower side bulge and sharpness relative to world-reach22 at0.50. Four shaded views show continuous surfaces and intact paw boundaries.",
+    "limitations": "Body still uses a non-volume-preserving support field. Broom endpoint is somewhat less far across than32. Front source alone cannot certify hidden depth or force. Full sequence and source residual measurement required before preview."
+  },
+  "reviewSheets": [
+    {
+      "file": "comparison-front.jpg",
+      "sha256": "e05d84e953f8164ac23eef5eb654e0c31f25135c98a4018fd3156ddee0cc1297"
+    },
+    {
+      "file": "comparison-oblique.jpg",
+      "sha256": "4c64c9b4052a6cd7713f38ef31ce93fbcbe1be74dca2735a3c2cb9c6f6b7b303"
+    },
+    {
+      "file": "comparison-side.jpg",
+      "sha256": "fb9657dd7f24968888fc8b791a35ffb0800224b99a81ddbfa6c0ce1cf5693c6d"
+    },
+    {
+      "file": "comparison-clay.jpg",
+      "sha256": "cbc5422f2a753f5e2f5e7f2a59764f387c1ee9ad47af2a1c31f3d0204ccd356d"
+    }
+  ]
+}
