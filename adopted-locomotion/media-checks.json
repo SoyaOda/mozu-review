@@ -4,8 +4,8 @@
     {
       "motion": "walk",
       "view": "front",
-      "file": "walk-front.mp4",
-      "nativeSHA256": "bdd583979432369752ac8da247d17c7add9f32388fe3d51c55ddabda42a834c7",
+      "file": "walk-1.2.0/front.mp4",
+      "nativeSHA256": "711496e0778f6546b6900d7c26397d249c62f4e7cff84161a2615bbf69f75f6d",
       "nativeFrames": 58,
       "repetitions": 6,
       "interpolated": false,
@@ -14,7 +14,12 @@
       "height": 480,
       "r_frame_rate": "60/1",
       "duration": "5.800000",
-      "nb_read_frames": "348"
+      "nb_read_frames": "348",
+      "renderedStudySHA256": "24e30bf9db17d80e4d50ca7f6a6e9152a65acb06df2bc7f0e2f2f98281dc59d6",
+      "openingDegrees": 6,
+      "reencoded": false,
+      "sha256": "f73d6678aaa35c298492445e1174b297bba76c2e03f340fbacf4420670ac638b",
+      "nativeParity": "Eight full geometry/material/channel keys exact after saving the selected setting; unchanged full-cycle study evidence retained."
     },
     {
       "motion": "run",
@@ -34,8 +39,8 @@
     {
       "motion": "walk",
       "view": "oblique",
-      "file": "walk-oblique.mp4",
-      "nativeSHA256": "bdd583979432369752ac8da247d17c7add9f32388fe3d51c55ddabda42a834c7",
+      "file": "walk-1.2.0/oblique.mp4",
+      "nativeSHA256": "711496e0778f6546b6900d7c26397d249c62f4e7cff84161a2615bbf69f75f6d",
       "nativeFrames": 58,
       "repetitions": 6,
       "interpolated": false,
@@ -44,7 +49,12 @@
       "height": 480,
       "r_frame_rate": "60/1",
       "duration": "5.800000",
-      "nb_read_frames": "348"
+      "nb_read_frames": "348",
+      "renderedStudySHA256": "24e30bf9db17d80e4d50ca7f6a6e9152a65acb06df2bc7f0e2f2f98281dc59d6",
+      "openingDegrees": 6,
+      "reencoded": false,
+      "sha256": "0690af3cff721e9a5233fe580a78d6d13f04ea14421713d08d3ca070a46aa2d8",
+      "nativeParity": "Eight full geometry/material/channel keys exact after saving the selected setting; unchanged full-cycle study evidence retained."
     },
     {
       "motion": "run",
@@ -64,8 +74,8 @@
     {
       "motion": "walk",
       "view": "side",
-      "file": "walk-side.mp4",
-      "nativeSHA256": "bdd583979432369752ac8da247d17c7add9f32388fe3d51c55ddabda42a834c7",
+      "file": "walk-1.2.0/side.mp4",
+      "nativeSHA256": "711496e0778f6546b6900d7c26397d249c62f4e7cff84161a2615bbf69f75f6d",
       "nativeFrames": 58,
       "repetitions": 6,
       "interpolated": false,
@@ -74,7 +84,12 @@
       "height": 480,
       "r_frame_rate": "60/1",
       "duration": "5.800000",
-      "nb_read_frames": "348"
+      "nb_read_frames": "348",
+      "renderedStudySHA256": "24e30bf9db17d80e4d50ca7f6a6e9152a65acb06df2bc7f0e2f2f98281dc59d6",
+      "openingDegrees": 6,
+      "reencoded": false,
+      "sha256": "72564db085138bcaee30d0115624780718c786627c8575e5ec9f1d9526f41fd9",
+      "nativeParity": "Eight full geometry/material/channel keys exact after saving the selected setting; unchanged full-cycle study evidence retained."
     },
     {
       "motion": "run",

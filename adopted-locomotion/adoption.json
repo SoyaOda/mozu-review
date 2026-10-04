@@ -1,9 +1,9 @@
 {
   "walk": {
-    "version": "1.1.0",
-    "rig_revision": "Locomotion219",
-    "adopted_on": "2026-09-27",
-    "nativeSHA256": "bdd583979432369752ac8da247d17c7add9f32388fe3d51c55ddabda42a834c7",
+    "version": "1.2.0",
+    "rig_revision": "Locomotion219S-6deg",
+    "adopted_on": "2026-10-04",
+    "nativeSHA256": "711496e0778f6546b6900d7c26397d249c62f4e7cff84161a2615bbf69f75f6d",
     "motion": {
       "frames": [
         1,
@@ -12,9 +12,11 @@
       "fps": 60,
       "periodSeconds": 0.9666666666666667,
       "loop": true,
-      "performance": "walk219 bouncy walk (G prompt, side-view source)"
+      "performance": "Walk219 bouncy walk with straight rounded arms and six-degree shoulder opening"
     },
-    "status": "owner-accepted-provisional"
+    "status": "owner-accepted-provisional",
+    "openingDegrees": 6,
+    "reviewedStudySHA256": "24e30bf9db17d80e4d50ca7f6a6e9152a65acb06df2bc7f0e2f2f98281dc59d6"
   },
   "run": {
     "version": "1.1.0",

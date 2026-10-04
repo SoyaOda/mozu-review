@@ -7,12 +7,12 @@
 <p class="eyebrow">Mozu · Walking study · 4 October 2026</p>
 <h1>Compare shoulder opening.</h1>
 <p class="intro">The same straight-arm walk, with three outward shoulder angles. Only the opening changes: arm shape, swing, steps, body movement and timing stay the same.</p>
-<p class="note">Review comparison · no angle has been selected. <a href="https://soyaoda.github.io/mozu-review/walk-straight/">Previous straight-arm review</a> · <a href="https://soyaoda.github.io/mozu-review/adopted-locomotion/">Adopted walk and run</a></p>
+<p class="note">6° adopted on 4 October 2026 · comparison retained. <a href="https://soyaoda.github.io/mozu-review/walk-straight/">Previous straight-arm review</a> · <a href="https://soyaoda.github.io/mozu-review/adopted-locomotion/">Adopted walk and run</a></p>
 <section class="card"><h2>0° / 6° / 12°</h2>
 <div class="controls"><label>View<select id="view"><option value="front">Front</option><option value="oblique">Oblique</option><option value="side">Side</option></select></label><label>Speed<select id="speed"><option value="1">1×</option><option value="0.5">½×</option><option value="0.25">¼×</option></select></label><button id="play">Play</button></div>
 <div class="comparison">
 <article><h3>0°</h3><p>No added opening</p><video id="v00" playsinline muted loop preload="auto" aria-label="Zero-degree opening"></video></article>
-<article><h3>6°</h3><p>Reduced opening</p><video id="v06" playsinline muted loop preload="auto" aria-label="Six-degree opening"></video></article>
+<article><h3>6°</h3><p>Adopted · 6° opening</p><video id="v06" playsinline muted loop preload="auto" aria-label="Six-degree opening"></video></article>
 <article><h3>12°</h3><p>Previous version</p><video id="v12" playsinline muted loop preload="auto" aria-label="Twelve-degree previous version"></video></article>
 </div>
 <div class="timeline"><button id="previous" aria-label="Previous frame">←</button><input id="frame" type="range" min="0" max="57" value="0" aria-label="Frame in the 58-pose cycle"><button id="next" aria-label="Next frame">→</button><output id="frame-label">1 / 58</output></div>
@@ -26,7 +26,7 @@
 <section class="card"><h2>What stays fixed</h2><p>Straight rounded arms, 65% shoulder swing and the same shoulder rest angle. The shoulder roots, body, head, thighs, paws, tail and pigment remain unchanged.</p>
 <details><summary>Measurements and review scope</summary><table><thead><tr><th>Opening</th><th>Front-hidden tip samples</th><th>Extra body depth</th><th>Extra leg depth</th></tr></thead><tbody><tr><th>0°</th><td>11.49%</td><td>0.04110</td><td>0.02053</td></tr>
 <tr><th>6°</th><td>0.23%</td><td>0.00866</td><td>0.00000</td></tr>
-<tr><th>12°</th><td>0.00%</td><td>0.00000</td><td>0.00000</td></tr></tbody></table><p class="note">Maximum values across both arms and all 58 poses. Front-hidden tip values count sampled vertices, not image pixels. Depth is measured in native units relative to the original neutral attachment; intentional shoulder embedding remains. These measurements support the visual comparison and do not select a winner. Main-agent review; whole-motion qualification and owner adoption remain separate.</p></details></section>
+<tr><th>12°</th><td>0.00%</td><td>0.00000</td><td>0.00000</td></tr></tbody></table><p class="note">Maximum values across both arms and all 58 poses. Front-hidden tip values count sampled vertices, not image pixels. Depth is measured in native units relative to the original neutral attachment; intentional shoulder embedding remains. These measurements support the visual comparison and do not select a winner. The owner selected 6° by visual review. Main-agent review; whole-motion qualification remains open.</p></details></section>
 <script>
 const $=id=>document.getElementById(id),angles=['00','06','12'],videos=angles.map(n=>$('v'+n)),leader=videos[0];let frame=0,generation=0;
 function label(){$('frame').value=frame;$('frame-label').textContent=(frame+1)+' / 58';}
