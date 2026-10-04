@@ -1,0 +1,243 @@
+{
+  "reviewPassed": true,
+  "native": {
+    "file": "mozu-siteat212-fair-arms-r01.blend",
+    "bytes": 222298685,
+    "sha256": "5b365a2825e85e2914f89b67275cd2cb1f1adf86dbe57577cf84fd46edcb8b10"
+  },
+  "auditSha256": "50c126e7b72eadd0f31d45d32aff2dfbd3f658ebcdd812775649fae2f0f75d1d",
+  "reviewer": "main agent visual inspection; no independent score or owner adoption",
+  "observations": [
+    "All18 matched clay images inspected in three3x2 boards at215,256,1194. The parent inner elbow notch and terminal bulge become one shallow smooth bow with no visible fold or pinch.",
+    "All15 direct whole-character images inspected at43,215,1061,1080,1194 in all three views; corresponding15 cached images are pixel-exact.",
+    "Grip attachment, head/face, settled feet and meal appearance remain coherent. Side food occlusion and front foreshortening remain inherited limitations."
+  ],
+  "proofImages": [
+    {
+      "file": "cached-0043-front.png",
+      "sha256": "6f94958e1843d83f51195c1900c76432782bc0cb3b15243dda72f8486f5ac268"
+    },
+    {
+      "file": "cached-0043-oblique.png",
+      "sha256": "079e7299aa3a2f9fa624ad35bcd5effc4e27316b654d68a3659ea47cc954084f"
+    },
+    {
+      "file": "cached-0043-side.png",
+      "sha256": "4812bf05aaa0d9487f2d00ff1fb40d2b6eecdc5a1bef464bec65feb0d9505ef0"
+    },
+    {
+      "file": "cached-0215-front.png",
+      "sha256": "8feb9fd1f44e531e961e8516c5be398fb4d74b32c84464c51383d1a12765834e"
+    },
+    {
+      "file": "cached-0215-oblique.png",
+      "sha256": "f63e14c6a9aadcb18e8c62d15a52917e5f9ca0c327298ae1e40a7855c57d1d3c"
+    },
+    {
+      "file": "cached-0215-side.png",
+      "sha256": "a45ca40edd82aa3d81d413e71578fce1646aaaf101146ac658690a96fdbdee30"
+    },
+    {
+      "file": "cached-1061-front.png",
+      "sha256": "537d994d271d06d276e00c7745a1f5598463f48028e97188ec498878dac9ef15"
+    },
+    {
+      "file": "cached-1061-oblique.png",
+      "sha256": "fc290dfcc3328bc85dbac48957ce0790da9df0160e1423e790d578becfe30aff"
+    },
+    {
+      "file": "cached-1061-side.png",
+      "sha256": "ab0969b219be7b78c2e1b1cfa10a477f29020159b5e8b2714a0ec50d3e6ed35b"
+    },
+    {
+      "file": "cached-1080-front.png",
+      "sha256": "fae1ee12895876fe5b6079771dff9bf39d5c2ea6aecf42e5788dbb6a633cdfcd"
+    },
+    {
+      "file": "cached-1080-oblique.png",
+      "sha256": "be632957b8b1526b8ed7bb767ff7c154913063c73105850dfaeec91bdb9ceec7"
+    },
+    {
+      "file": "cached-1080-side.png",
+      "sha256": "78c2ed360d18809de170a81c8df7f6c7606023f5150705fde5be329fe3ab978b"
+    },
+    {
+      "file": "cached-1194-front.png",
+      "sha256": "4362aeef7f62fa53eb1f4e300a78dc18592e2d5566f88f89538b48efa4bd3551"
+    },
+    {
+      "file": "cached-1194-oblique.png",
+      "sha256": "0cbf776cc4538dc357b072ad22260b91c3cd19f9bee2c119089eca8f574e610d"
+    },
+    {
+      "file": "cached-1194-side.png",
+      "sha256": "a5df57549f6c721f3d2c5fe5fc27b861dda6e1c904b94e6c1385736be3625501"
+    },
+    {
+      "file": "clay-fair-0215-front.png",
+      "sha256": "1cc997f0f2afdc95d23cb412ec6e3c3bc80c5a2faac84c9a5fbf51b19b813bc9"
+    },
+    {
+      "file": "clay-fair-0215-oblique.png",
+      "sha256": "9d42977326e25bef223ad8e55f202ba04d67b8ccc3ed373168fa1962ab6f3244"
+    },
+    {
+      "file": "clay-fair-0215-side.png",
+      "sha256": "54ae4f57672badd8cbe9e9f2513ca1d7a8400c52222d2a0c413456bd5ecbce08"
+    },
+    {
+      "file": "clay-fair-0256-front.png",
+      "sha256": "8052d816bc6082276f37bf7788760c3b05afa8dde70f55ca0532d028bd664e3b"
+    },
+    {
+      "file": "clay-fair-0256-oblique.png",
+      "sha256": "3410779bd582edfc04a5b36fc2aa6c9f5e027774ff034109bf24766cf4c50b37"
+    },
+    {
+      "file": "clay-fair-0256-side.png",
+      "sha256": "e7db30798582ad8c655ec7e2ae96647f9d30839146b7ddc456737e720fda9547"
+    },
+    {
+      "file": "clay-fair-1194-front.png",
+      "sha256": "36a471c83d52edf9941c7f1900abf00c81f8bd3dc71accddea443d56fcb4c88c"
+    },
+    {
+      "file": "clay-fair-1194-oblique.png",
+      "sha256": "94a1d04965e5e5f00262a1bba8f6706f6e88beb8230eb6192d92441c8b460c9b"
+    },
+    {
+      "file": "clay-fair-1194-side.png",
+      "sha256": "c9631d9b835709b9d3346398fb0ae7631081c431dd01dcb36383a2df68f2b20c"
+    },
+    {
+      "file": "clay-parent-0215-front.png",
+      "sha256": "a5ed8cdb9572df319ac4d60230ccd8c77a55a5b3104fc5bc0c606c49a1733219"
+    },
+    {
+      "file": "clay-parent-0215-oblique.png",
+      "sha256": "b235cbcc983c70d84b4223945e092a21f9381e77d128f2ccccca509c58822e17"
+    },
+    {
+      "file": "clay-parent-0215-side.png",
+      "sha256": "bee50bce5f9774f3a57112b57397f9d3a8e200ed8a428d38f44ca4734eb11a3b"
+    },
+    {
+      "file": "clay-parent-0256-front.png",
+      "sha256": "e1fc9ff48b78320aa8cbed20ffdf9d5f2a3c5f3ffda509750f6ea1cc03229478"
+    },
+    {
+      "file": "clay-parent-0256-oblique.png",
+      "sha256": "f1e42adf727603e83a554c37aefd1bd895c5ed354c02b2b3792d4a69f26fcbdf"
+    },
+    {
+      "file": "clay-parent-0256-side.png",
+      "sha256": "f1a492145e55444b0ce0deb9c0cd5339bcf079a832804db57222de4fec2fb990"
+    },
+    {
+      "file": "clay-parent-1194-front.png",
+      "sha256": "e76ce1268346de43d176f993060ca8c05f724ec125de9230fee0ed7ca6147109"
+    },
+    {
+      "file": "clay-parent-1194-oblique.png",
+      "sha256": "6df9f1754dd6a43a142a07f713642e8ad436193cf4e5bea0409debed57532be7"
+    },
+    {
+      "file": "clay-parent-1194-side.png",
+      "sha256": "4ce0d79896fb92e4851e566a7a9c7b8e1b385bec90886be5632add96366098b2"
+    },
+    {
+      "file": "direct-0043-front.png",
+      "sha256": "53d85bb5b369b013686f45bfab102eac4f4f7057d650f14d1d1a4d501bcd242d"
+    },
+    {
+      "file": "direct-0043-oblique.png",
+      "sha256": "dcf2883e658f4ecbd70d5719394f245330e5a56c52cc42bb7287d09e2b7c9477"
+    },
+    {
+      "file": "direct-0043-side.png",
+      "sha256": "51daca91421ce9537a7765586100010c4361063e097ae05b020f1c92ebc77545"
+    },
+    {
+      "file": "direct-0215-front.png",
+      "sha256": "a6e3d4842c883fbb5a34dd29a98a546b42dcc0714b50cd5acf9eea209dd51ab4"
+    },
+    {
+      "file": "direct-0215-oblique.png",
+      "sha256": "68e7c073d43ddb239a8019239f144920b46e250d1727d9070c33468a64790b56"
+    },
+    {
+      "file": "direct-0215-side.png",
+      "sha256": "473bfec9ba78d39dda2909dc945c24d272a1a291cbd394f3b32d383fe785bf08"
+    },
+    {
+      "file": "direct-1061-front.png",
+      "sha256": "3ec6c040ee2fa19dc57d5abcf94f409a6ddb246f48d5d747540f1efccbc5e829"
+    },
+    {
+      "file": "direct-1061-oblique.png",
+      "sha256": "d9bec28e9d8d941b366cb5a22e329742b944822378e968e88e396fb961e52347"
+    },
+    {
+      "file": "direct-1061-side.png",
+      "sha256": "27b7b95fe54914ca6c22ffc20db8b34b79ff7e8a630f597a2a17744a9363f649"
+    },
+    {
+      "file": "direct-1080-front.png",
+      "sha256": "d6ff7bd23619860136517b6c2eaae1c1685e2bcd659649c18ddbedc3834911e7"
+    },
+    {
+      "file": "direct-1080-oblique.png",
+      "sha256": "2d551395520f69305f6478f40f2eb9d81ca9081ed1b377f351c09cc91012c7ee"
+    },
+    {
+      "file": "direct-1080-side.png",
+      "sha256": "c3ff46fbff78d8baef43901dedee4505dd0306a278e6226cd2fc5e93d049cecd"
+    },
+    {
+      "file": "direct-1194-front.png",
+      "sha256": "f6490c426809ad4255ee3a49176ab01374644af0741beb8734ef794c6dba116f"
+    },
+    {
+      "file": "direct-1194-oblique.png",
+      "sha256": "8f7dc67a335917f1ee1ae3c05f2cd44e245112a31d428f48c39d023ed3802d85"
+    },
+    {
+      "file": "direct-1194-side.png",
+      "sha256": "2d96058324cd7c071b1c482afa1c7cf3690e38eedb0710c097d9ab1757c4e72d"
+    }
+  ],
+  "boards": [
+    {
+      "file": "clay-review-0215.jpg",
+      "sha256": "feaa6087dfbcd4b9d06bcb46f88c3bf72dc697f00692258126506514ca75fe2e"
+    },
+    {
+      "file": "clay-review-0256.jpg",
+      "sha256": "2d50ac5024ef889a23528262e417de73157c1bf3f4312a160a32b9d9dff7786c"
+    },
+    {
+      "file": "clay-review-1194.jpg",
+      "sha256": "9799e3f895a94ed3fd10b5f1c1dd5d01b006b70787615501207d65cb5ffc13bb"
+    },
+    {
+      "file": "direct-review-0043.jpg",
+      "sha256": "7b12e2efa07afee6bd912977abcb7bbae5f19e349b12b6b11571993bc5fbdc60"
+    },
+    {
+      "file": "direct-review-0215.jpg",
+      "sha256": "97c9036ca8ae6b707153f147b6a71c245482e22301182f59817d385fa2f72222"
+    },
+    {
+      "file": "direct-review-1061.jpg",
+      "sha256": "4027ee17dc7364b96d6a4683813eaa9272bab9c30fe9878094c5ce27118f0eb0"
+    },
+    {
+      "file": "direct-review-1080.jpg",
+      "sha256": "db0a1ddc46d53e2e978c4417e982635123e01cbb4c016f41e07786a0b9ce5592"
+    },
+    {
+      "file": "direct-review-1194.jpg",
+      "sha256": "505e7de82afbc03fcb115cb5ec633d1420f62835fa9836513f45b5b1e28febcd"
+    }
+  ]
+}

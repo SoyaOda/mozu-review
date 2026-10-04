@@ -1,0 +1,778 @@
+{
+  "url": "https://soyaoda.github.io/mozu-review/sit-eat-fair-arms/",
+  "native": {
+    "file": "mozu-siteat212-fair-arms-r01.blend",
+    "bytes": 222298685,
+    "sha256": "5b365a2825e85e2914f89b67275cd2cb1f1adf86dbe57577cf84fd46edcb8b10"
+  },
+  "comparisonReferences": [
+    {
+      "file": "mechanics-front.mp4",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "a45306f7861034bfb39f1211672f5a3996fa7ad1ac32ff3537e1aebeca90795f",
+      "bytes": 966423
+    },
+    {
+      "file": "poster-front.jpg",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "556c06dc9dd916916f80f0ee0d1c00e57976f9b213a6b8e48db52992b33b4e4c",
+      "bytes": 33321
+    },
+    {
+      "file": "mechanics-oblique.mp4",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "61a048366fcfb7f6da3c9ab16c1526fe92ee18595b2f8449be9965838eb03736",
+      "bytes": 902904
+    },
+    {
+      "file": "poster-oblique.jpg",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "06488bf09f7bd0a2e13a22d867fbcba6afc1bb44fe689a6ce322d6ac83ff6667",
+      "bytes": 28925
+    },
+    {
+      "file": "mechanics-side.mp4",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "d4a6d8220b4aaf4a45403d68c79b3762165802b02342e03e262adfae030617b0",
+      "bytes": 612315
+    },
+    {
+      "file": "poster-side.jpg",
+      "baseUrl": "https://soyaoda.github.io/mozu-review/sit-eat-supported-seat/",
+      "sha256": "6ff1ddb392046dade34e69840f35b3f5c3efcec0f36767debb6aca292cd216fb",
+      "bytes": 25381
+    }
+  ],
+  "files": [
+    {
+      "file": "EDITING.md",
+      "sha256": "c9e47e87b4e4ee55d81cdffb01eea94c855546fca944d4092130050f70f28368",
+      "bytes": 4072
+    },
+    {
+      "file": "REPORT.html",
+      "sha256": "2871eef1c7c4fb896d45f756c78ae39b44b33be2d09a963399bd7854606eccf9",
+      "bytes": 2878
+    },
+    {
+      "file": "REPORT.md",
+      "sha256": "4b169558a0e7def0ec081ce1001caaf98f6f3edb3177c663f034bd264697dda6",
+      "bytes": 5622
+    },
+    {
+      "file": "audit-review.json",
+      "sha256": "51ce4aef2dd62fcaba2ed72509c305c43e422e99c52c40909793c2d566c4f665",
+      "bytes": 8578
+    },
+    {
+      "file": "detail-new-0215-front.jpg",
+      "sha256": "9c9fbe97b6e8d52a0fd58ca3f259d292b00060fbf82c6f275e04bf62dab69a3f",
+      "bytes": 14712
+    },
+    {
+      "file": "detail-new-0215-oblique.jpg",
+      "sha256": "b6880910dc92a8857ebe849fcc01a8ea9100ea6be1721ef0d17fb5e5509f53d5",
+      "bytes": 17199
+    },
+    {
+      "file": "detail-new-0215-side.jpg",
+      "sha256": "591db46ecea0c16fe2c70335cb09817e20f2633991ed8a3847673f2d8455bb5f",
+      "bytes": 17363
+    },
+    {
+      "file": "detail-new-0256-front.jpg",
+      "sha256": "c5b6744f8f70cedb18db20cceab3ab66e28b888247bbf4d3a4a8e56aa63ea583",
+      "bytes": 15795
+    },
+    {
+      "file": "detail-new-0256-oblique.jpg",
+      "sha256": "da241631ba5db09bd43bd107a05536fa7fb50941ac9f9267827dc93e5ba924c7",
+      "bytes": 18086
+    },
+    {
+      "file": "detail-new-0256-side.jpg",
+      "sha256": "5ca09e2f9b218c4d0e4c29e7e17b17928ea3cde5005f51da96dd2fa46ed3d6e2",
+      "bytes": 18175
+    },
+    {
+      "file": "detail-new-1194-front.jpg",
+      "sha256": "f2e2b0180b75e92123871684225a361fb33ccfb86b9e756c7127394e5c75ebdd",
+      "bytes": 17054
+    },
+    {
+      "file": "detail-new-1194-oblique.jpg",
+      "sha256": "c915e26cb4a88cf5226ef604ebc716f15eaaba1ff984f80e59f619e211c0c165",
+      "bytes": 15033
+    },
+    {
+      "file": "detail-new-1194-side.jpg",
+      "sha256": "8c6664412e46989e0d48c2507dc69ebed0ae381036b6ddcb4bbef28cf863efdd",
+      "bytes": 16355
+    },
+    {
+      "file": "detail-old-0215-front.jpg",
+      "sha256": "737d0b0063c45a67fec754dace5c25b775d92ff20f1099a86cdc471709ec4135",
+      "bytes": 14987
+    },
+    {
+      "file": "detail-old-0215-oblique.jpg",
+      "sha256": "602f1f8d5f66870f1538ccf231fe4d657ae207f6a83d09c321b29c704747de3e",
+      "bytes": 17574
+    },
+    {
+      "file": "detail-old-0215-side.jpg",
+      "sha256": "7875540f1ade9c884d2892455ec8df2e9698b53d2ea384861b08e5e6df1fe8c9",
+      "bytes": 17783
+    },
+    {
+      "file": "detail-old-0256-front.jpg",
+      "sha256": "4141496dcb9e6cecf3a560265826ced183a794c5a1d75033b49c7db35e415ea2",
+      "bytes": 15863
+    },
+    {
+      "file": "detail-old-0256-oblique.jpg",
+      "sha256": "40e0da726e42225c40e7e9667c6c5ea8cc5704897f7c59e2c68365de622edf31",
+      "bytes": 18229
+    },
+    {
+      "file": "detail-old-0256-side.jpg",
+      "sha256": "20d9292bef82aea10189fb23441e145a8cf5ad65e52d7aad7f18f9269c8c459d",
+      "bytes": 18144
+    },
+    {
+      "file": "detail-old-1194-front.jpg",
+      "sha256": "8d5ce03c0e1e87319f3bfc4f6fd3b1a85a80de20e5d5fa39352c6e18d8300bad",
+      "bytes": 16970
+    },
+    {
+      "file": "detail-old-1194-oblique.jpg",
+      "sha256": "5fb678e7766ae4bc26524aeb7e14ec0f90eb862ef4c2625ed7555a7bc72549eb",
+      "bytes": 15361
+    },
+    {
+      "file": "detail-old-1194-side.jpg",
+      "sha256": "41bdaa1df2a32af815c2eb4df5252324cf14382775bf41c3ab29b01b5f729548",
+      "bytes": 16642
+    },
+    {
+      "file": "fair-front-sheet-01.jpg",
+      "sha256": "2ddf0261f1503aacecea206053196f033857d85a8d86573681d0ffaf8084b83c",
+      "bytes": 399054
+    },
+    {
+      "file": "fair-front-sheet-02.jpg",
+      "sha256": "ae8d91615ddf76dc131b5ac071b27e3375eda73058343d89b03d3cac43eefe28",
+      "bytes": 394436
+    },
+    {
+      "file": "fair-front-sheet-03.jpg",
+      "sha256": "047903d6ce700362de442271aecced44924c448d796a160de1250c30c3800f5b",
+      "bytes": 387163
+    },
+    {
+      "file": "fair-front-sheet-04.jpg",
+      "sha256": "bcad64caabef3b720eeba97d932cce6a5b73fb7188ca2f5b705801a570c1ffc0",
+      "bytes": 385842
+    },
+    {
+      "file": "fair-front-sheet-05.jpg",
+      "sha256": "55aeda4ec0058d9826bca9f5fd504eb8e9ab1f0939d02628abcd9955a6b2efe6",
+      "bytes": 389020
+    },
+    {
+      "file": "fair-front-sheet-06.jpg",
+      "sha256": "22a6217cd5fb9c6cee0a67b40559ed7a310a16bcafebda6b8a35342ceba938a9",
+      "bytes": 399074
+    },
+    {
+      "file": "fair-front-sheet-07.jpg",
+      "sha256": "37469319a55a09caa5c6ac476dba065bf20e7e79c936e1872f1d0bbee9b884b4",
+      "bytes": 391191
+    },
+    {
+      "file": "fair-front-sheet-08.jpg",
+      "sha256": "d99193b3edecd04952b88478b39abb50e221a35cbf56cdb866320e58d60636ff",
+      "bytes": 396965
+    },
+    {
+      "file": "fair-front-sheet-09.jpg",
+      "sha256": "2df7abd63026f152474b7d234f304e323ed32f127aad252064f6d846399ced1d",
+      "bytes": 396371
+    },
+    {
+      "file": "fair-front-sheet-10.jpg",
+      "sha256": "2969f0fc334590c6625f7ef7808c00c2dd69d0d16cc3c3827fce9551a2bc13c5",
+      "bytes": 400119
+    },
+    {
+      "file": "fair-front-sheet-11.jpg",
+      "sha256": "9b2a454ecb02d2553b760b77514154664644c25fcaac54ee9a9fd781963f6386",
+      "bytes": 403491
+    },
+    {
+      "file": "fair-front-sheet-12.jpg",
+      "sha256": "237f7f3f6becaced1673533d89e4a2ce68388fa20f324e176ef3d7fcf69880cd",
+      "bytes": 391807
+    },
+    {
+      "file": "fair-front-sheet-13.jpg",
+      "sha256": "3519eee418bc5c3b600e8a2eb35cd9e83b0ebd6dafba468a246a60c31b03ca41",
+      "bytes": 397786
+    },
+    {
+      "file": "fair-front-sheet-14.jpg",
+      "sha256": "c0ace4528806f929bb32e5649c5cf3551f28e8f055b3a714ebceb7e253b19f28",
+      "bytes": 398356
+    },
+    {
+      "file": "fair-front-sheet-15.jpg",
+      "sha256": "8bb3f29b668012c764ee6656e8596ea8c85628e88bb452da2763db2249d9b359",
+      "bytes": 402543
+    },
+    {
+      "file": "fair-front-sheet-16.jpg",
+      "sha256": "4943e72e1c9dd7dfba73a65558cc998edfa075964526e43c54234dca001244a6",
+      "bytes": 400041
+    },
+    {
+      "file": "fair-front-sheet-17.jpg",
+      "sha256": "89ff9e34f20c80f6ab4ed804cc99af632b6d1b403c53b52fdd7637815bbbf1fc",
+      "bytes": 388995
+    },
+    {
+      "file": "fair-front-sheet-18.jpg",
+      "sha256": "37717abcd16a5835982dc3d1324b0181b26ef2a063177c6287f1c6f200e582ab",
+      "bytes": 397361
+    },
+    {
+      "file": "fair-front-sheet-19.jpg",
+      "sha256": "2a31cc5cf32a63e9be3d1ca9630094fcb554953f22f76fe35cdb4e80859b7ced",
+      "bytes": 397059
+    },
+    {
+      "file": "fair-front-sheet-20.jpg",
+      "sha256": "674ef227dcc3bcfab91b8a85dd9f6466cee478eaeaf488520aa660b7f05711fe",
+      "bytes": 402158
+    },
+    {
+      "file": "fair-front-sheet-21.jpg",
+      "sha256": "6652fb88b0b96abef8ed8d52f6b547840d40921f92d7dd5168f58e0a45a7490e",
+      "bytes": 390758
+    },
+    {
+      "file": "fair-front-sheet-22.jpg",
+      "sha256": "ade21a3ec410b49c6d19a17e2896831fc92de5b009246a10eda8f7dbf17ae05a",
+      "bytes": 383763
+    },
+    {
+      "file": "fair-front-sheet-23.jpg",
+      "sha256": "5b10ed4d3f36540520acc369b371019046340cd6d53d743eb3f879d64bc37f7a",
+      "bytes": 390427
+    },
+    {
+      "file": "fair-front-sheet-24.jpg",
+      "sha256": "0a9e81b1dc12afd71a3582d4dfb05b950fe8430ced3d3c82ab4258d610c9de1d",
+      "bytes": 392797
+    },
+    {
+      "file": "fair-front-sheet-25.jpg",
+      "sha256": "690ab78470b4d05791370b484f6eaf5cb9c98272292dcfbd42646e6df520472d",
+      "bytes": 395437
+    },
+    {
+      "file": "fair-front-sheet-26.jpg",
+      "sha256": "a1d867fd17715a11bb13f981f0d43824de7e33d14d4bd8da146c85f733139a4e",
+      "bytes": 383896
+    },
+    {
+      "file": "fair-front-sheet-27.jpg",
+      "sha256": "89aeff90d36dd982407373b222da59e2e4a740639210ed501d884da91ca48483",
+      "bytes": 390543
+    },
+    {
+      "file": "fair-front-sheet-28.jpg",
+      "sha256": "6ed7f3216be0c9f11457684b2e4264d9df091a3fa9d278268eaaa3030fc68749",
+      "bytes": 392407
+    },
+    {
+      "file": "fair-front-sheet-29.jpg",
+      "sha256": "f3dc7a76cc036317d220ff755ff436abc5efc278d9ca30220363b53866ddebe3",
+      "bytes": 394238
+    },
+    {
+      "file": "fair-front-sheet-30.jpg",
+      "sha256": "d10673223a8770f6966df6f497083e8d6abfbc41cd641f3b6ae66438c9d8ab35",
+      "bytes": 383617
+    },
+    {
+      "file": "fair-front-sheet-31.jpg",
+      "sha256": "441a40d2e9f26f20be59f7a87b4e31e499f2494aa42a8291956a69b6877a5cbd",
+      "bytes": 381398
+    },
+    {
+      "file": "fair-front-sheet-32.jpg",
+      "sha256": "d46b1585a8eed6800544746d5b2a480177003d7a145987df2f220219af2495e2",
+      "bytes": 387678
+    },
+    {
+      "file": "fair-front-sheet-33.jpg",
+      "sha256": "a49327bd7903a72fa32b10032b8edcbf0f37eaed2b21747fe5406e9f9f85a4e2",
+      "bytes": 395476
+    },
+    {
+      "file": "fair-front-sheet-34.jpg",
+      "sha256": "50f6ae3d0fd28e2b459120beacb1a1afcf56de2650b0475f22d13d1ca7eb04c8",
+      "bytes": 405001
+    },
+    {
+      "file": "fair-front-sheet-35.jpg",
+      "sha256": "38b8058bc2bf4555cb3b979b48c3d2f9d529d8385004d9c00b2b3ea1fa75a6bd",
+      "bytes": 403722
+    },
+    {
+      "file": "fair-front-sheet-36.jpg",
+      "sha256": "d574a5ff61cca1d6d1e1d08be9d59e279c86ba151b50b8c70532bb9590405346",
+      "bytes": 390490
+    },
+    {
+      "file": "fair-front-sheet-37.jpg",
+      "sha256": "127d4f6cb2c34b4e2ba5200b33bd2275612648659d9a3570e03dab305503fe2d",
+      "bytes": 362224
+    },
+    {
+      "file": "fair-front.mp4",
+      "sha256": "fec18400c96941b6efb4fbe2f3123ab22a96b560f25a7effc2ddb8c792c88e59",
+      "bytes": 964384
+    },
+    {
+      "file": "fair-oblique-sheet-01.jpg",
+      "sha256": "ffdcc5ff8330be5550e9fbe86b6fafdf6e7dedae08341312931f327f18f1d28d",
+      "bytes": 351869
+    },
+    {
+      "file": "fair-oblique-sheet-02.jpg",
+      "sha256": "aa5302f54ed9244a4fc81ab9ae98412beec1a812975bc8fc556c2f81deb46b36",
+      "bytes": 370234
+    },
+    {
+      "file": "fair-oblique-sheet-03.jpg",
+      "sha256": "8311fd717a2cae9e68ffe909c5e5b2a18bbaf2ce8a0a938e6406b9f044dadd1e",
+      "bytes": 363038
+    },
+    {
+      "file": "fair-oblique-sheet-04.jpg",
+      "sha256": "b47b5502cf760213dc8985681dfd70a5f4b56b9fe74700c74dedb5c0a87ea6b1",
+      "bytes": 363918
+    },
+    {
+      "file": "fair-oblique-sheet-05.jpg",
+      "sha256": "42cc5b20807b20c36f650e3dd04dab5229d2314ec133c23c217b7df76e117e78",
+      "bytes": 375480
+    },
+    {
+      "file": "fair-oblique-sheet-06.jpg",
+      "sha256": "c504c1f580f80131649c8ba6bae4033492eb7ccd4b9e2c8217ca521195125c99",
+      "bytes": 379571
+    },
+    {
+      "file": "fair-oblique-sheet-07.jpg",
+      "sha256": "9d7b1b97d6b7872f0b67be6f6de67fc3c048eaf6f55268d87c1637ca597e35ed",
+      "bytes": 374240
+    },
+    {
+      "file": "fair-oblique-sheet-08.jpg",
+      "sha256": "cbc5fb81f46fccb15347d1e32743bb57f09e6cdd2da191fe8029d6ac466b7170",
+      "bytes": 380418
+    },
+    {
+      "file": "fair-oblique-sheet-09.jpg",
+      "sha256": "65145d37c6635373f344ebed17b9069da7b17aeb22d9108f2b523af979ec31c4",
+      "bytes": 380174
+    },
+    {
+      "file": "fair-oblique-sheet-10.jpg",
+      "sha256": "549f9146a6eca44d6bb511038ddd5dabbec876e2ebf5b1ffd0b86be6e656a75f",
+      "bytes": 381749
+    },
+    {
+      "file": "fair-oblique-sheet-11.jpg",
+      "sha256": "832f187ebf1d777a6c219d4c73fdf2a0927355516651512bceff8e8e0d547f34",
+      "bytes": 384160
+    },
+    {
+      "file": "fair-oblique-sheet-12.jpg",
+      "sha256": "2a67b7b6769c6333af0861f9c4fb7ef33efc78646f14e09431cb1299ede6f431",
+      "bytes": 379653
+    },
+    {
+      "file": "fair-oblique-sheet-13.jpg",
+      "sha256": "d974444e51cbeccef4362a34a613f958d15358e9b6d9fb6278fdc85caffef557",
+      "bytes": 378734
+    },
+    {
+      "file": "fair-oblique-sheet-14.jpg",
+      "sha256": "b7d10fb800c71936d6e771b47d8dc0a27ebc7c85bf0a430a2bc622c66123616e",
+      "bytes": 378636
+    },
+    {
+      "file": "fair-oblique-sheet-15.jpg",
+      "sha256": "8018473701846348214acd47d0f726555447c916ed1e6027caee0ab88ef2ba97",
+      "bytes": 379154
+    },
+    {
+      "file": "fair-oblique-sheet-16.jpg",
+      "sha256": "bdbc25099ab20de31ca186caa5cb07ff4279dc576b2539ef86e464f10fc57ba1",
+      "bytes": 374727
+    },
+    {
+      "file": "fair-oblique-sheet-17.jpg",
+      "sha256": "e3a5f9679785dfd45966d3c34d1903dc4c7c4980f230b82499e3854f71828f64",
+      "bytes": 370185
+    },
+    {
+      "file": "fair-oblique-sheet-18.jpg",
+      "sha256": "60bd37c3a31a060733321724ab3debf7b13dfb70e0c39b758771f298fecd8726",
+      "bytes": 370660
+    },
+    {
+      "file": "fair-oblique-sheet-19.jpg",
+      "sha256": "80008985eda66e8a4bb056d3afc1483235213abf9772813c5900b29fe986bfa4",
+      "bytes": 370536
+    },
+    {
+      "file": "fair-oblique-sheet-20.jpg",
+      "sha256": "fded074046f6a4c5dd5df16615adda45e781f6e8959431769b1a2d59b928374e",
+      "bytes": 373281
+    },
+    {
+      "file": "fair-oblique-sheet-21.jpg",
+      "sha256": "1bdb6733f248b615fdb4245d695f04ee5df7780cbaf98c0e1f9d5b6bc1d08f03",
+      "bytes": 375758
+    },
+    {
+      "file": "fair-oblique-sheet-22.jpg",
+      "sha256": "1641f18cf4080d4c31c8e7c586f28be2a35f14f1b38dac7da05390c4d4e5511b",
+      "bytes": 370509
+    },
+    {
+      "file": "fair-oblique-sheet-23.jpg",
+      "sha256": "cf64b84af5f2045ab162da963eb221a48cf39c28bc01d9fae6969804cfd83925",
+      "bytes": 373840
+    },
+    {
+      "file": "fair-oblique-sheet-24.jpg",
+      "sha256": "1a5e82529aab4732a40781bf23b375933b867b7c43cf75c6851ba5f490337b2a",
+      "bytes": 374308
+    },
+    {
+      "file": "fair-oblique-sheet-25.jpg",
+      "sha256": "03d38527fea0b82c9ba7bae4e3686a9e2574ecc61f80768864375c32285a195a",
+      "bytes": 376730
+    },
+    {
+      "file": "fair-oblique-sheet-26.jpg",
+      "sha256": "33b4bfeab9ef7a2d79addb36bb10c98a55c85c6dc9bb4c025ba7124e19cae407",
+      "bytes": 370257
+    },
+    {
+      "file": "fair-oblique-sheet-27.jpg",
+      "sha256": "758e46aa5815b8b027d77ba719eccc2facf213ef9190fb4db970c1a7c183791e",
+      "bytes": 374927
+    },
+    {
+      "file": "fair-oblique-sheet-28.jpg",
+      "sha256": "28738a0fa562ce6ebcd67cf77694d24e8416bc022bc6885d3b80a7c8f645c78d",
+      "bytes": 375670
+    },
+    {
+      "file": "fair-oblique-sheet-29.jpg",
+      "sha256": "0748977b5a0413bc0701710e13fd09ca27ddaf0d62771c738cb8cb297ea7d326",
+      "bytes": 376240
+    },
+    {
+      "file": "fair-oblique-sheet-30.jpg",
+      "sha256": "8ad48d113dfe736ffedcacd83d85c95f7b2c850e0532b1f798403beb14778d34",
+      "bytes": 369611
+    },
+    {
+      "file": "fair-oblique-sheet-31.jpg",
+      "sha256": "599c085ddedf14d1be8221f993f5e12e7074337234ee515a5a0084221b395b46",
+      "bytes": 367898
+    },
+    {
+      "file": "fair-oblique-sheet-32.jpg",
+      "sha256": "aaba76c9018854fba7d0dfcc08a39f857c161027f3ac1872216486a561e756ac",
+      "bytes": 371796
+    },
+    {
+      "file": "fair-oblique-sheet-33.jpg",
+      "sha256": "e4a279d3a3531f1fb2e5c91c3cef4481f61079408752dcc70796d7e0f5717610",
+      "bytes": 379870
+    },
+    {
+      "file": "fair-oblique-sheet-34.jpg",
+      "sha256": "0036c6049792a019a036e3372bc390d19c74d7fa118cbf191f02bd1d6e31ba43",
+      "bytes": 372429
+    },
+    {
+      "file": "fair-oblique-sheet-35.jpg",
+      "sha256": "55fa14e9dc722e295e56a97a2b68f931c3f4ad177437d4b7c6d3aab6d35bd0ce",
+      "bytes": 369947
+    },
+    {
+      "file": "fair-oblique-sheet-36.jpg",
+      "sha256": "790bf7ac5aa74cfc3c3a96eba5ad7eddc06ef8b9c35deccf53980a191bc23372",
+      "bytes": 365850
+    },
+    {
+      "file": "fair-oblique-sheet-37.jpg",
+      "sha256": "de52101ddcade33bf251f978a95d3a9307e29a5c8b354fbb1ccd1c37ab39dd47",
+      "bytes": 339573
+    },
+    {
+      "file": "fair-oblique.mp4",
+      "sha256": "905c9f44bbdb3b66aef75e7576b450295b10f2faf4a76625054d1035bdb02c0d",
+      "bytes": 899606
+    },
+    {
+      "file": "fair-side-sheet-01.jpg",
+      "sha256": "989bfd9055440ed173431617f6f39b1105820f37f6f03fbfc0e1eda90b84192e",
+      "bytes": 291204
+    },
+    {
+      "file": "fair-side-sheet-02.jpg",
+      "sha256": "fa5a5e380fd4289ed313412e1d711b992bf709026533de1dbc1d2f4a1c0727dd",
+      "bytes": 286631
+    },
+    {
+      "file": "fair-side-sheet-03.jpg",
+      "sha256": "ca6885903d0192018db294eb13e021f6fd5b79a1f823e4fc1836171373bc2b9c",
+      "bytes": 290668
+    },
+    {
+      "file": "fair-side-sheet-04.jpg",
+      "sha256": "526c86176de9909f55a4d9b56b44c3f6367a3260990244e46e18658562a63ed2",
+      "bytes": 291822
+    },
+    {
+      "file": "fair-side-sheet-05.jpg",
+      "sha256": "aaa5434cf47caa74192bbb3c0b700559fd4d9b58bdb6c48170ea6683919edca8",
+      "bytes": 292176
+    },
+    {
+      "file": "fair-side-sheet-06.jpg",
+      "sha256": "97def83b13a5bcd5578e487740bbecbc44de1673bbc0130cb1b56f4928216478",
+      "bytes": 295278
+    },
+    {
+      "file": "fair-side-sheet-07.jpg",
+      "sha256": "bf526dcc75aa9e6ce3537a11d417e862a30bf02d175861d48da39a0875d73766",
+      "bytes": 293577
+    },
+    {
+      "file": "fair-side-sheet-08.jpg",
+      "sha256": "c737bb21629491bc001c154da58fea7393d131a171314918a5c5d59fe6b8e71d",
+      "bytes": 292340
+    },
+    {
+      "file": "fair-side-sheet-09.jpg",
+      "sha256": "bb1ec430fa3a8fc211b105e8fc598d057ac9c00360228ae12f059669db8ba210",
+      "bytes": 292029
+    },
+    {
+      "file": "fair-side-sheet-10.jpg",
+      "sha256": "f9ece30b4acc7740e66e1617993fa4d6c0f347c08b974317cfed0ec359b01743",
+      "bytes": 293656
+    },
+    {
+      "file": "fair-side-sheet-11.jpg",
+      "sha256": "8c588a04a4c4ba3ad05da870710c52ff79e7bc124ef0ca37a4ce2dd9b01464c3",
+      "bytes": 297926
+    },
+    {
+      "file": "fair-side-sheet-12.jpg",
+      "sha256": "c0878a05d6e34c1322f3f249d1f82011236ca34bc1474c7acf561e3bb78eac30",
+      "bytes": 299679
+    },
+    {
+      "file": "fair-side-sheet-13.jpg",
+      "sha256": "bf083ea918658ff0a9f22abae9907d814d49e871992ec47ca0cb295f183d84ed",
+      "bytes": 300373
+    },
+    {
+      "file": "fair-side-sheet-14.jpg",
+      "sha256": "3c85ed443b80db8ed309eb9589325022941b5090ba7c55323fa6082ee0daae99",
+      "bytes": 300485
+    },
+    {
+      "file": "fair-side-sheet-15.jpg",
+      "sha256": "18c8914b9487f80a3d577cf2e009d0387b6d0dc1e0abac0d7621cf881a67ec81",
+      "bytes": 300409
+    },
+    {
+      "file": "fair-side-sheet-16.jpg",
+      "sha256": "0591bcfc49fe70475c343c74d0e40afd700d314387cd8f08b91ff5fd6db6d5f9",
+      "bytes": 298442
+    },
+    {
+      "file": "fair-side-sheet-17.jpg",
+      "sha256": "610278e3cd13f4fd1a8b9188fa758553f2b58e1d88224b9f2ad7730de68fbdf8",
+      "bytes": 298014
+    },
+    {
+      "file": "fair-side-sheet-18.jpg",
+      "sha256": "35871bb2edb296a2c4f99a3b2d2c2fd87d3fc9072efa254b8a135c432f6387fb",
+      "bytes": 296656
+    },
+    {
+      "file": "fair-side-sheet-19.jpg",
+      "sha256": "2a0a9b7f4d47e0426b04574133cedb35fe9ff9ce748bec3b4f9b4210cfa8ada1",
+      "bytes": 297095
+    },
+    {
+      "file": "fair-side-sheet-20.jpg",
+      "sha256": "bd99b1cf448d7dfa1eb5197d69b79c6781de76cd4c3d2d1cc373d069f0fb6e81",
+      "bytes": 298558
+    },
+    {
+      "file": "fair-side-sheet-21.jpg",
+      "sha256": "cf0dadd0e6f2a5b0b55d10e8deaa3fb1bad6d3ca4d7662e631d8c99bf8a9ab0b",
+      "bytes": 296062
+    },
+    {
+      "file": "fair-side-sheet-22.jpg",
+      "sha256": "543727883f55eaa5c76d99400d91a456ac957a7713e7826ab5f8898ee0d1793e",
+      "bytes": 293807
+    },
+    {
+      "file": "fair-side-sheet-23.jpg",
+      "sha256": "1fc912c4748221d985c3fe6dae351a0829dc5e90c335d2afad2a8df54b618386",
+      "bytes": 297265
+    },
+    {
+      "file": "fair-side-sheet-24.jpg",
+      "sha256": "d4a808717692f34becc1d6de016760b52af926618d65b5a2d11cd9905ef4f09c",
+      "bytes": 298397
+    },
+    {
+      "file": "fair-side-sheet-25.jpg",
+      "sha256": "b968d3bb441e980878f0e6232af50cb8ddbd50b07d05702475d731e75a0936be",
+      "bytes": 298358
+    },
+    {
+      "file": "fair-side-sheet-26.jpg",
+      "sha256": "3876120b763ad5ae73d8efbb6d708453aa342ba21a6ae593ac86d8e16543175b",
+      "bytes": 292178
+    },
+    {
+      "file": "fair-side-sheet-27.jpg",
+      "sha256": "95f603d37e07fd2011e7e3ae9ee08b7787523114cf91f09818439dfb7f87d34f",
+      "bytes": 296954
+    },
+    {
+      "file": "fair-side-sheet-28.jpg",
+      "sha256": "16d7f7a71ddcf944aaf206a08d9b91b3ddb3e9280f14aa38a717723eeda54edb",
+      "bytes": 297863
+    },
+    {
+      "file": "fair-side-sheet-29.jpg",
+      "sha256": "161e1d0b92cb68e3f33b3bb8766f73c338a026516b25ee78d8bbe6196ee7385d",
+      "bytes": 296359
+    },
+    {
+      "file": "fair-side-sheet-30.jpg",
+      "sha256": "c75407e1c71708fef742ae81b9586caec76c286dcd5112c347e0b9df607d0113",
+      "bytes": 291404
+    },
+    {
+      "file": "fair-side-sheet-31.jpg",
+      "sha256": "a940e096473cf5567cc83220d9c73f62d9a6eb4a10790eb5f44343a0908225f9",
+      "bytes": 291350
+    },
+    {
+      "file": "fair-side-sheet-32.jpg",
+      "sha256": "ee6d20d8421b8591af6d9ece808e83fc8baceebd2a9e605a119e0c3ade9f7912",
+      "bytes": 295450
+    },
+    {
+      "file": "fair-side-sheet-33.jpg",
+      "sha256": "b54ba25bcf9397ac2db250c4b8546f118db9363d3081b318f87f1f9b3bb2e1dd",
+      "bytes": 294295
+    },
+    {
+      "file": "fair-side-sheet-34.jpg",
+      "sha256": "6ae62f8d891d9655948a86a833102bfb23f2858f4705dace92b40f407dda5734",
+      "bytes": 293069
+    },
+    {
+      "file": "fair-side-sheet-35.jpg",
+      "sha256": "9e0a0426cad9c1ee5ac50cb0dbbf8120bd39ab16c9b33106e0f04192dd8336c2",
+      "bytes": 292560
+    },
+    {
+      "file": "fair-side-sheet-36.jpg",
+      "sha256": "c35bbd967a1b2bb510186a16fab5a63b667cca41d127c42ad020a43dc5f4eda0",
+      "bytes": 294106
+    },
+    {
+      "file": "fair-side-sheet-37.jpg",
+      "sha256": "0ac90bd7431cb0b53de4e0ea30a2d1f6c9d2d98a70048a2ab61afc628abb5a76",
+      "bytes": 273943
+    },
+    {
+      "file": "fair-side.mp4",
+      "sha256": "82977da19adc9d2bce2721071f8a90333c22a549f9f67799d16001781992bf87",
+      "bytes": 611558
+    },
+    {
+      "file": "full-visual-review.json",
+      "sha256": "b6d9f7cb358a0b7638ec865cbd3a3ca7ab08b5ef61f21335da00abed42519708",
+      "bytes": 29243
+    },
+    {
+      "file": "index.html",
+      "sha256": "ea88284950d135dbb50f49e25c429a0078073435bc42c0ac9fd886e41b664ee1",
+      "bytes": 12808
+    },
+    {
+      "file": "manifest.json",
+      "sha256": "208c488bf4d897dd3e3cc1f5c821ede8d1ab1deb63f85590744a1f9c962209e4",
+      "bytes": 22785
+    },
+    {
+      "file": "media.json",
+      "sha256": "bf7b9aab4ccd0a62ca64a295a4a0a20181ce60086c9940075f66aab258e95e65",
+      "bytes": 200444
+    },
+    {
+      "file": "poster-front.jpg",
+      "sha256": "e959cc466b201453732c36cd1ea2e65ae196125f626a09b8b61e7d89f0a636a8",
+      "bytes": 32866
+    },
+    {
+      "file": "poster-oblique.jpg",
+      "sha256": "c7d14846fc5a1eed2f0f3c2aba951938b7049094b0f61da8122bb4861890f071",
+      "bytes": 31326
+    },
+    {
+      "file": "poster-side.jpg",
+      "sha256": "5888f7784920810b19fec36a3613d32c5677253a357f906568ab3f86f9283819",
+      "bytes": 25416
+    },
+    {
+      "file": "seated-front.jpg",
+      "sha256": "ac881e8d8750f7eaf20a5b840d784fcea99af0300ad391d09ce51db864cbcee2",
+      "bytes": 34214
+    },
+    {
+      "file": "seated-oblique.jpg",
+      "sha256": "e6a6f557240dfb22d296d0f788640290b8f393259ef5326d47cc883775dae5a7",
+      "bytes": 30433
+    },
+    {
+      "file": "seated-side.jpg",
+      "sha256": "288f5e857ba202c2c4faa00268b622120190f88cf75aafe8e09c86627f8f75ee",
+      "bytes": 24955
+    }
+  ]
+}

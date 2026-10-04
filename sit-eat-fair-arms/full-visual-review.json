@@ -1,0 +1,969 @@
+{
+  "complete": true,
+  "reviewPassed": true,
+  "scope": "Current six-mouthful meal: contour continuity and preserved protected action, main-agent review only",
+  "reviewer": "main agent visual inspection",
+  "reviewedAt": "2026-10-04T19:03:41.612791+00:00",
+  "native": {
+    "file": "mozu-siteat212-fair-arms-r01.blend",
+    "bytes": 222298685,
+    "sha256": "5b365a2825e85e2914f89b67275cd2cb1f1adf86dbe57577cf84fd46edcb8b10"
+  },
+  "mediaSha256": "bf7b9aab4ccd0a62ca64a295a4a0a20181ce60086c9940075f66aab258e95e65",
+  "captureSha256": "eb5dbcaecbb4e93c48f9f8cfb647a9c6658d99b0b61cd24d6c7a48546d2375c2",
+  "auditReviewSha256": "51ce4aef2dd62fcaba2ed72509c305c43e422e99c52c40909793c2d566c4f665",
+  "views": [
+    "front",
+    "oblique",
+    "side"
+  ],
+  "framesPerView": 1329,
+  "fps": 60,
+  "viewFramesReviewed": 3987,
+  "sheetsReviewed": 111,
+  "groups": [
+    {
+      "view": "oblique",
+      "sheets": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "frames": [
+        1,
+        144
+      ],
+      "observations": "Standing-to-seat outline remains continuous, with a smooth arm rotation/fade; compact paw placement and blink preserved. No contour pop in entry or early seated hold."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "frames": [
+        145,
+        288
+      ],
+      "observations": "Both arms lift smoothly into the first mouthful and return to holding. Near-arm upper and lower outlines form one broad rounded shape without the previous alternating notch/bulge. Food and mouth remain attached through the bite; seated feet stable."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "frames": [
+        289,
+        432
+      ],
+      "observations": "Second lift, mouth contact, and withdrawal retain a consistent rounded near-arm contour. No wrist jump or section collapse; far-arm overlap and the onigiri silhouette follow the original action."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "frames": [
+        433,
+        576
+      ],
+      "observations": "Second chewing hold and third lift are continuous, including the 542/543 resumed-capture boundary. Near arm retains a rounded end and shallow lower arc; small food is partly hidden by the hand near contact, with no new detached grip."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "frames": [
+        577,
+        720
+      ],
+      "observations": "Third bite withdrawal and chewing hold keep a consistent broad arc; no alternating inner elbow bend, contour chatter or foot drift. Food visibility remains limited when covered by the near hand."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "frames": [
+        721,
+        864
+      ],
+      "observations": "Fourth contact and chewing return maintain the revised smooth arm silhouette. No midsection kink or change in bend direction; late food is small and partly obscured, consistent with inherited meal presentation."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "frames": [
+        865,
+        1008
+      ],
+      "observations": "Fifth lift, contact and return retain a smooth tapered shoulder-to-hand outline. The white remnant becomes small but stays between the hands; no new section bulge or silhouette direction flip."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "frames": [
+        1009,
+        1152
+      ],
+      "observations": "Final mouthful and empty-hand chewing are coherent; the arm stays smoothly tapered as the final rice disappears. No reintroduced elbow notch, wrist collapse or foot movement."
+    },
+    {
+      "view": "oblique",
+      "sheets": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "frames": [
+        1153,
+        1329
+      ],
+      "observations": "Empty hands lower through the fairness fade without a pop or bend reversal; settled arms return smoothly to the original rest shape. Final waiting and the 1292/1293 continuation boundary are visually consistent. All 1329 oblique frames inspected."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "frames": [
+        1,
+        144
+      ],
+      "observations": "Bilateral standing-to-seat motion and rounded arms remain continuous. Original rest-arm/paw silhouette merging remains after sitting; no new asymmetry or change to the compact feet."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "frames": [
+        145,
+        288
+      ],
+      "observations": "First lift, mouthful and holding return preserve symmetrical hand placement and a readable central onigiri. Arm silhouettes rotate continuously without a new pinch; face and settled feet remain consistent."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "frames": [
+        289,
+        432
+      ],
+      "observations": "Second bite preserves the intended tilted onigiri and differing hand heights. Both rounded arm ends remain attached with smooth entry/withdrawal; no new arm-side asymmetry beyond the authored pose."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "frames": [
+        433,
+        576
+      ],
+      "observations": "Chewing and third lift preserve food rotation and the authored hand-height exchange. No silhouette pop at the resumed 542/543 boundary; front hands remain rounded with increasing expected foreshortening."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "frames": [
+        577,
+        720
+      ],
+      "observations": "Third mouthful withdrawal and chewing hold remain smooth. The food remnant remains held and partly hidden by the hands; no sudden collapse, jump or change in the protected body/feet."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "frames": [
+        721,
+        864
+      ],
+      "observations": "Fourth bite and chewing return remain continuous, with rounded hand ends and unchanged seated feet. The near-contact foreshortening is expected; no new silhouette kink."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "frames": [
+        865,
+        1008
+      ],
+      "observations": "Fifth mouthful preserves the small tilted remnant between the hands. Arm ends remain smoothly rounded throughout rise and return; no new foot or body displacement."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "frames": [
+        1009,
+        1152
+      ],
+      "observations": "Final bite and empty-hand chewing retain smooth rounded ends, with no wrist collapse as the rice disappears. Arms move continuously from mouth to holding."
+    },
+    {
+      "view": "front",
+      "sheets": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "frames": [
+        1153,
+        1329
+      ],
+      "observations": "Arms lower and open smoothly, then return to the inherited resting shape without a contour pop. Existing arm/paw overlap remains. The 1292/1293 capture boundary is consistent; all 1329 front frames inspected."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "frames": [
+        1,
+        144
+      ],
+      "observations": "Standing-to-seat arm rotation and return remain continuous in profile. Original planted paw/seat descent and neutral arm silhouette retained; no shoulder disconnection."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "frames": [
+        145,
+        288
+      ],
+      "observations": "First lift and withdrawal show a smooth shoulder-to-grip taper in profile. The onigiri is mostly occluded behind the near arm, inherited from the action/view. No new arm kink or detached food motion."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "frames": [
+        289,
+        432
+      ],
+      "observations": "Second mouthful shows the rotated onigiri and two hand ends in profile. Upper/underarm edges remain smooth; near/far hand overlap changes coherently with the authored rotation."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "frames": [
+        433,
+        576
+      ],
+      "observations": "Second chewing and third lift remain continuous, including 542/543. Near arm keeps a shallow continuous taper while the far hand and food rotate below it; no new concave elbow notch."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "frames": [
+        577,
+        720
+      ],
+      "observations": "Third contact and chewing hold show a stable smooth top/underside to the near arm. Small food is largely covered by the overlapping hands; no profile collapse or paw drift."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "frames": [
+        721,
+        864
+      ],
+      "observations": "Fourth lift/contact/return retain one smooth near-arm profile. Food mostly occluded, but visible fragments remain at the unchanged hand contact. No abrupt contour direction changes."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "frames": [
+        865,
+        1008
+      ],
+      "observations": "Fifth mouthful maintains a shallow rounded arm profile and consistent shoulder attachment. Mouth/hand occlusion increases at contact; no upper-arm wave or new section bulge."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        29,
+        30,
+        31,
+        32
+      ],
+      "frames": [
+        1009,
+        1152
+      ],
+      "observations": "Last mouthful and empty-hand chewing show no mid-arm bump, wrist collapse, or contour discontinuity. Face-to-hand overlap and the thin side food visibility are inherited presentation limits."
+    },
+    {
+      "view": "side",
+      "sheets": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "frames": [
+        1153,
+        1329
+      ],
+      "observations": "Empty arms lower continuously through the shape fade and return to the original neutral profile. No shoulder pop, cap bulge, foot shift, or resumed-boundary discontinuity at1292/1293. All1329 side frames inspected."
+    }
+  ],
+  "boards": [
+    {
+      "file": "fair-front-sheet-01.jpg",
+      "bytes": 399054,
+      "sha256": "2ddf0261f1503aacecea206053196f033857d85a8d86573681d0ffaf8084b83c"
+    },
+    {
+      "file": "fair-front-sheet-02.jpg",
+      "bytes": 394436,
+      "sha256": "ae8d91615ddf76dc131b5ac071b27e3375eda73058343d89b03d3cac43eefe28"
+    },
+    {
+      "file": "fair-front-sheet-03.jpg",
+      "bytes": 387163,
+      "sha256": "047903d6ce700362de442271aecced44924c448d796a160de1250c30c3800f5b"
+    },
+    {
+      "file": "fair-front-sheet-04.jpg",
+      "bytes": 385842,
+      "sha256": "bcad64caabef3b720eeba97d932cce6a5b73fb7188ca2f5b705801a570c1ffc0"
+    },
+    {
+      "file": "fair-front-sheet-05.jpg",
+      "bytes": 389020,
+      "sha256": "55aeda4ec0058d9826bca9f5fd504eb8e9ab1f0939d02628abcd9955a6b2efe6"
+    },
+    {
+      "file": "fair-front-sheet-06.jpg",
+      "bytes": 399074,
+      "sha256": "22a6217cd5fb9c6cee0a67b40559ed7a310a16bcafebda6b8a35342ceba938a9"
+    },
+    {
+      "file": "fair-front-sheet-07.jpg",
+      "bytes": 391191,
+      "sha256": "37469319a55a09caa5c6ac476dba065bf20e7e79c936e1872f1d0bbee9b884b4"
+    },
+    {
+      "file": "fair-front-sheet-08.jpg",
+      "bytes": 396965,
+      "sha256": "d99193b3edecd04952b88478b39abb50e221a35cbf56cdb866320e58d60636ff"
+    },
+    {
+      "file": "fair-front-sheet-09.jpg",
+      "bytes": 396371,
+      "sha256": "2df7abd63026f152474b7d234f304e323ed32f127aad252064f6d846399ced1d"
+    },
+    {
+      "file": "fair-front-sheet-10.jpg",
+      "bytes": 400119,
+      "sha256": "2969f0fc334590c6625f7ef7808c00c2dd69d0d16cc3c3827fce9551a2bc13c5"
+    },
+    {
+      "file": "fair-front-sheet-11.jpg",
+      "bytes": 403491,
+      "sha256": "9b2a454ecb02d2553b760b77514154664644c25fcaac54ee9a9fd781963f6386"
+    },
+    {
+      "file": "fair-front-sheet-12.jpg",
+      "bytes": 391807,
+      "sha256": "237f7f3f6becaced1673533d89e4a2ce68388fa20f324e176ef3d7fcf69880cd"
+    },
+    {
+      "file": "fair-front-sheet-13.jpg",
+      "bytes": 397786,
+      "sha256": "3519eee418bc5c3b600e8a2eb35cd9e83b0ebd6dafba468a246a60c31b03ca41"
+    },
+    {
+      "file": "fair-front-sheet-14.jpg",
+      "bytes": 398356,
+      "sha256": "c0ace4528806f929bb32e5649c5cf3551f28e8f055b3a714ebceb7e253b19f28"
+    },
+    {
+      "file": "fair-front-sheet-15.jpg",
+      "bytes": 402543,
+      "sha256": "8bb3f29b668012c764ee6656e8596ea8c85628e88bb452da2763db2249d9b359"
+    },
+    {
+      "file": "fair-front-sheet-16.jpg",
+      "bytes": 400041,
+      "sha256": "4943e72e1c9dd7dfba73a65558cc998edfa075964526e43c54234dca001244a6"
+    },
+    {
+      "file": "fair-front-sheet-17.jpg",
+      "bytes": 388995,
+      "sha256": "89ff9e34f20c80f6ab4ed804cc99af632b6d1b403c53b52fdd7637815bbbf1fc"
+    },
+    {
+      "file": "fair-front-sheet-18.jpg",
+      "bytes": 397361,
+      "sha256": "37717abcd16a5835982dc3d1324b0181b26ef2a063177c6287f1c6f200e582ab"
+    },
+    {
+      "file": "fair-front-sheet-19.jpg",
+      "bytes": 397059,
+      "sha256": "2a31cc5cf32a63e9be3d1ca9630094fcb554953f22f76fe35cdb4e80859b7ced"
+    },
+    {
+      "file": "fair-front-sheet-20.jpg",
+      "bytes": 402158,
+      "sha256": "674ef227dcc3bcfab91b8a85dd9f6466cee478eaeaf488520aa660b7f05711fe"
+    },
+    {
+      "file": "fair-front-sheet-21.jpg",
+      "bytes": 390758,
+      "sha256": "6652fb88b0b96abef8ed8d52f6b547840d40921f92d7dd5168f58e0a45a7490e"
+    },
+    {
+      "file": "fair-front-sheet-22.jpg",
+      "bytes": 383763,
+      "sha256": "ade21a3ec410b49c6d19a17e2896831fc92de5b009246a10eda8f7dbf17ae05a"
+    },
+    {
+      "file": "fair-front-sheet-23.jpg",
+      "bytes": 390427,
+      "sha256": "5b10ed4d3f36540520acc369b371019046340cd6d53d743eb3f879d64bc37f7a"
+    },
+    {
+      "file": "fair-front-sheet-24.jpg",
+      "bytes": 392797,
+      "sha256": "0a9e81b1dc12afd71a3582d4dfb05b950fe8430ced3d3c82ab4258d610c9de1d"
+    },
+    {
+      "file": "fair-front-sheet-25.jpg",
+      "bytes": 395437,
+      "sha256": "690ab78470b4d05791370b484f6eaf5cb9c98272292dcfbd42646e6df520472d"
+    },
+    {
+      "file": "fair-front-sheet-26.jpg",
+      "bytes": 383896,
+      "sha256": "a1d867fd17715a11bb13f981f0d43824de7e33d14d4bd8da146c85f733139a4e"
+    },
+    {
+      "file": "fair-front-sheet-27.jpg",
+      "bytes": 390543,
+      "sha256": "89aeff90d36dd982407373b222da59e2e4a740639210ed501d884da91ca48483"
+    },
+    {
+      "file": "fair-front-sheet-28.jpg",
+      "bytes": 392407,
+      "sha256": "6ed7f3216be0c9f11457684b2e4264d9df091a3fa9d278268eaaa3030fc68749"
+    },
+    {
+      "file": "fair-front-sheet-29.jpg",
+      "bytes": 394238,
+      "sha256": "f3dc7a76cc036317d220ff755ff436abc5efc278d9ca30220363b53866ddebe3"
+    },
+    {
+      "file": "fair-front-sheet-30.jpg",
+      "bytes": 383617,
+      "sha256": "d10673223a8770f6966df6f497083e8d6abfbc41cd641f3b6ae66438c9d8ab35"
+    },
+    {
+      "file": "fair-front-sheet-31.jpg",
+      "bytes": 381398,
+      "sha256": "441a40d2e9f26f20be59f7a87b4e31e499f2494aa42a8291956a69b6877a5cbd"
+    },
+    {
+      "file": "fair-front-sheet-32.jpg",
+      "bytes": 387678,
+      "sha256": "d46b1585a8eed6800544746d5b2a480177003d7a145987df2f220219af2495e2"
+    },
+    {
+      "file": "fair-front-sheet-33.jpg",
+      "bytes": 395476,
+      "sha256": "a49327bd7903a72fa32b10032b8edcbf0f37eaed2b21747fe5406e9f9f85a4e2"
+    },
+    {
+      "file": "fair-front-sheet-34.jpg",
+      "bytes": 405001,
+      "sha256": "50f6ae3d0fd28e2b459120beacb1a1afcf56de2650b0475f22d13d1ca7eb04c8"
+    },
+    {
+      "file": "fair-front-sheet-35.jpg",
+      "bytes": 403722,
+      "sha256": "38b8058bc2bf4555cb3b979b48c3d2f9d529d8385004d9c00b2b3ea1fa75a6bd"
+    },
+    {
+      "file": "fair-front-sheet-36.jpg",
+      "bytes": 390490,
+      "sha256": "d574a5ff61cca1d6d1e1d08be9d59e279c86ba151b50b8c70532bb9590405346"
+    },
+    {
+      "file": "fair-front-sheet-37.jpg",
+      "bytes": 362224,
+      "sha256": "127d4f6cb2c34b4e2ba5200b33bd2275612648659d9a3570e03dab305503fe2d"
+    },
+    {
+      "file": "fair-oblique-sheet-01.jpg",
+      "bytes": 351869,
+      "sha256": "ffdcc5ff8330be5550e9fbe86b6fafdf6e7dedae08341312931f327f18f1d28d"
+    },
+    {
+      "file": "fair-oblique-sheet-02.jpg",
+      "bytes": 370234,
+      "sha256": "aa5302f54ed9244a4fc81ab9ae98412beec1a812975bc8fc556c2f81deb46b36"
+    },
+    {
+      "file": "fair-oblique-sheet-03.jpg",
+      "bytes": 363038,
+      "sha256": "8311fd717a2cae9e68ffe909c5e5b2a18bbaf2ce8a0a938e6406b9f044dadd1e"
+    },
+    {
+      "file": "fair-oblique-sheet-04.jpg",
+      "bytes": 363918,
+      "sha256": "b47b5502cf760213dc8985681dfd70a5f4b56b9fe74700c74dedb5c0a87ea6b1"
+    },
+    {
+      "file": "fair-oblique-sheet-05.jpg",
+      "bytes": 375480,
+      "sha256": "42cc5b20807b20c36f650e3dd04dab5229d2314ec133c23c217b7df76e117e78"
+    },
+    {
+      "file": "fair-oblique-sheet-06.jpg",
+      "bytes": 379571,
+      "sha256": "c504c1f580f80131649c8ba6bae4033492eb7ccd4b9e2c8217ca521195125c99"
+    },
+    {
+      "file": "fair-oblique-sheet-07.jpg",
+      "bytes": 374240,
+      "sha256": "9d7b1b97d6b7872f0b67be6f6de67fc3c048eaf6f55268d87c1637ca597e35ed"
+    },
+    {
+      "file": "fair-oblique-sheet-08.jpg",
+      "bytes": 380418,
+      "sha256": "cbc5fb81f46fccb15347d1e32743bb57f09e6cdd2da191fe8029d6ac466b7170"
+    },
+    {
+      "file": "fair-oblique-sheet-09.jpg",
+      "bytes": 380174,
+      "sha256": "65145d37c6635373f344ebed17b9069da7b17aeb22d9108f2b523af979ec31c4"
+    },
+    {
+      "file": "fair-oblique-sheet-10.jpg",
+      "bytes": 381749,
+      "sha256": "549f9146a6eca44d6bb511038ddd5dabbec876e2ebf5b1ffd0b86be6e656a75f"
+    },
+    {
+      "file": "fair-oblique-sheet-11.jpg",
+      "bytes": 384160,
+      "sha256": "832f187ebf1d777a6c219d4c73fdf2a0927355516651512bceff8e8e0d547f34"
+    },
+    {
+      "file": "fair-oblique-sheet-12.jpg",
+      "bytes": 379653,
+      "sha256": "2a67b7b6769c6333af0861f9c4fb7ef33efc78646f14e09431cb1299ede6f431"
+    },
+    {
+      "file": "fair-oblique-sheet-13.jpg",
+      "bytes": 378734,
+      "sha256": "d974444e51cbeccef4362a34a613f958d15358e9b6d9fb6278fdc85caffef557"
+    },
+    {
+      "file": "fair-oblique-sheet-14.jpg",
+      "bytes": 378636,
+      "sha256": "b7d10fb800c71936d6e771b47d8dc0a27ebc7c85bf0a430a2bc622c66123616e"
+    },
+    {
+      "file": "fair-oblique-sheet-15.jpg",
+      "bytes": 379154,
+      "sha256": "8018473701846348214acd47d0f726555447c916ed1e6027caee0ab88ef2ba97"
+    },
+    {
+      "file": "fair-oblique-sheet-16.jpg",
+      "bytes": 374727,
+      "sha256": "bdbc25099ab20de31ca186caa5cb07ff4279dc576b2539ef86e464f10fc57ba1"
+    },
+    {
+      "file": "fair-oblique-sheet-17.jpg",
+      "bytes": 370185,
+      "sha256": "e3a5f9679785dfd45966d3c34d1903dc4c7c4980f230b82499e3854f71828f64"
+    },
+    {
+      "file": "fair-oblique-sheet-18.jpg",
+      "bytes": 370660,
+      "sha256": "60bd37c3a31a060733321724ab3debf7b13dfb70e0c39b758771f298fecd8726"
+    },
+    {
+      "file": "fair-oblique-sheet-19.jpg",
+      "bytes": 370536,
+      "sha256": "80008985eda66e8a4bb056d3afc1483235213abf9772813c5900b29fe986bfa4"
+    },
+    {
+      "file": "fair-oblique-sheet-20.jpg",
+      "bytes": 373281,
+      "sha256": "fded074046f6a4c5dd5df16615adda45e781f6e8959431769b1a2d59b928374e"
+    },
+    {
+      "file": "fair-oblique-sheet-21.jpg",
+      "bytes": 375758,
+      "sha256": "1bdb6733f248b615fdb4245d695f04ee5df7780cbaf98c0e1f9d5b6bc1d08f03"
+    },
+    {
+      "file": "fair-oblique-sheet-22.jpg",
+      "bytes": 370509,
+      "sha256": "1641f18cf4080d4c31c8e7c586f28be2a35f14f1b38dac7da05390c4d4e5511b"
+    },
+    {
+      "file": "fair-oblique-sheet-23.jpg",
+      "bytes": 373840,
+      "sha256": "cf64b84af5f2045ab162da963eb221a48cf39c28bc01d9fae6969804cfd83925"
+    },
+    {
+      "file": "fair-oblique-sheet-24.jpg",
+      "bytes": 374308,
+      "sha256": "1a5e82529aab4732a40781bf23b375933b867b7c43cf75c6851ba5f490337b2a"
+    },
+    {
+      "file": "fair-oblique-sheet-25.jpg",
+      "bytes": 376730,
+      "sha256": "03d38527fea0b82c9ba7bae4e3686a9e2574ecc61f80768864375c32285a195a"
+    },
+    {
+      "file": "fair-oblique-sheet-26.jpg",
+      "bytes": 370257,
+      "sha256": "33b4bfeab9ef7a2d79addb36bb10c98a55c85c6dc9bb4c025ba7124e19cae407"
+    },
+    {
+      "file": "fair-oblique-sheet-27.jpg",
+      "bytes": 374927,
+      "sha256": "758e46aa5815b8b027d77ba719eccc2facf213ef9190fb4db970c1a7c183791e"
+    },
+    {
+      "file": "fair-oblique-sheet-28.jpg",
+      "bytes": 375670,
+      "sha256": "28738a0fa562ce6ebcd67cf77694d24e8416bc022bc6885d3b80a7c8f645c78d"
+    },
+    {
+      "file": "fair-oblique-sheet-29.jpg",
+      "bytes": 376240,
+      "sha256": "0748977b5a0413bc0701710e13fd09ca27ddaf0d62771c738cb8cb297ea7d326"
+    },
+    {
+      "file": "fair-oblique-sheet-30.jpg",
+      "bytes": 369611,
+      "sha256": "8ad48d113dfe736ffedcacd83d85c95f7b2c850e0532b1f798403beb14778d34"
+    },
+    {
+      "file": "fair-oblique-sheet-31.jpg",
+      "bytes": 367898,
+      "sha256": "599c085ddedf14d1be8221f993f5e12e7074337234ee515a5a0084221b395b46"
+    },
+    {
+      "file": "fair-oblique-sheet-32.jpg",
+      "bytes": 371796,
+      "sha256": "aaba76c9018854fba7d0dfcc08a39f857c161027f3ac1872216486a561e756ac"
+    },
+    {
+      "file": "fair-oblique-sheet-33.jpg",
+      "bytes": 379870,
+      "sha256": "e4a279d3a3531f1fb2e5c91c3cef4481f61079408752dcc70796d7e0f5717610"
+    },
+    {
+      "file": "fair-oblique-sheet-34.jpg",
+      "bytes": 372429,
+      "sha256": "0036c6049792a019a036e3372bc390d19c74d7fa118cbf191f02bd1d6e31ba43"
+    },
+    {
+      "file": "fair-oblique-sheet-35.jpg",
+      "bytes": 369947,
+      "sha256": "55fa14e9dc722e295e56a97a2b68f931c3f4ad177437d4b7c6d3aab6d35bd0ce"
+    },
+    {
+      "file": "fair-oblique-sheet-36.jpg",
+      "bytes": 365850,
+      "sha256": "790bf7ac5aa74cfc3c3a96eba5ad7eddc06ef8b9c35deccf53980a191bc23372"
+    },
+    {
+      "file": "fair-oblique-sheet-37.jpg",
+      "bytes": 339573,
+      "sha256": "de52101ddcade33bf251f978a95d3a9307e29a5c8b354fbb1ccd1c37ab39dd47"
+    },
+    {
+      "file": "fair-side-sheet-01.jpg",
+      "bytes": 291204,
+      "sha256": "989bfd9055440ed173431617f6f39b1105820f37f6f03fbfc0e1eda90b84192e"
+    },
+    {
+      "file": "fair-side-sheet-02.jpg",
+      "bytes": 286631,
+      "sha256": "fa5a5e380fd4289ed313412e1d711b992bf709026533de1dbc1d2f4a1c0727dd"
+    },
+    {
+      "file": "fair-side-sheet-03.jpg",
+      "bytes": 290668,
+      "sha256": "ca6885903d0192018db294eb13e021f6fd5b79a1f823e4fc1836171373bc2b9c"
+    },
+    {
+      "file": "fair-side-sheet-04.jpg",
+      "bytes": 291822,
+      "sha256": "526c86176de9909f55a4d9b56b44c3f6367a3260990244e46e18658562a63ed2"
+    },
+    {
+      "file": "fair-side-sheet-05.jpg",
+      "bytes": 292176,
+      "sha256": "aaa5434cf47caa74192bbb3c0b700559fd4d9b58bdb6c48170ea6683919edca8"
+    },
+    {
+      "file": "fair-side-sheet-06.jpg",
+      "bytes": 295278,
+      "sha256": "97def83b13a5bcd5578e487740bbecbc44de1673bbc0130cb1b56f4928216478"
+    },
+    {
+      "file": "fair-side-sheet-07.jpg",
+      "bytes": 293577,
+      "sha256": "bf526dcc75aa9e6ce3537a11d417e862a30bf02d175861d48da39a0875d73766"
+    },
+    {
+      "file": "fair-side-sheet-08.jpg",
+      "bytes": 292340,
+      "sha256": "c737bb21629491bc001c154da58fea7393d131a171314918a5c5d59fe6b8e71d"
+    },
+    {
+      "file": "fair-side-sheet-09.jpg",
+      "bytes": 292029,
+      "sha256": "bb1ec430fa3a8fc211b105e8fc598d057ac9c00360228ae12f059669db8ba210"
+    },
+    {
+      "file": "fair-side-sheet-10.jpg",
+      "bytes": 293656,
+      "sha256": "f9ece30b4acc7740e66e1617993fa4d6c0f347c08b974317cfed0ec359b01743"
+    },
+    {
+      "file": "fair-side-sheet-11.jpg",
+      "bytes": 297926,
+      "sha256": "8c588a04a4c4ba3ad05da870710c52ff79e7bc124ef0ca37a4ce2dd9b01464c3"
+    },
+    {
+      "file": "fair-side-sheet-12.jpg",
+      "bytes": 299679,
+      "sha256": "c0878a05d6e34c1322f3f249d1f82011236ca34bc1474c7acf561e3bb78eac30"
+    },
+    {
+      "file": "fair-side-sheet-13.jpg",
+      "bytes": 300373,
+      "sha256": "bf083ea918658ff0a9f22abae9907d814d49e871992ec47ca0cb295f183d84ed"
+    },
+    {
+      "file": "fair-side-sheet-14.jpg",
+      "bytes": 300485,
+      "sha256": "3c85ed443b80db8ed309eb9589325022941b5090ba7c55323fa6082ee0daae99"
+    },
+    {
+      "file": "fair-side-sheet-15.jpg",
+      "bytes": 300409,
+      "sha256": "18c8914b9487f80a3d577cf2e009d0387b6d0dc1e0abac0d7621cf881a67ec81"
+    },
+    {
+      "file": "fair-side-sheet-16.jpg",
+      "bytes": 298442,
+      "sha256": "0591bcfc49fe70475c343c74d0e40afd700d314387cd8f08b91ff5fd6db6d5f9"
+    },
+    {
+      "file": "fair-side-sheet-17.jpg",
+      "bytes": 298014,
+      "sha256": "610278e3cd13f4fd1a8b9188fa758553f2b58e1d88224b9f2ad7730de68fbdf8"
+    },
+    {
+      "file": "fair-side-sheet-18.jpg",
+      "bytes": 296656,
+      "sha256": "35871bb2edb296a2c4f99a3b2d2c2fd87d3fc9072efa254b8a135c432f6387fb"
+    },
+    {
+      "file": "fair-side-sheet-19.jpg",
+      "bytes": 297095,
+      "sha256": "2a0a9b7f4d47e0426b04574133cedb35fe9ff9ce748bec3b4f9b4210cfa8ada1"
+    },
+    {
+      "file": "fair-side-sheet-20.jpg",
+      "bytes": 298558,
+      "sha256": "bd99b1cf448d7dfa1eb5197d69b79c6781de76cd4c3d2d1cc373d069f0fb6e81"
+    },
+    {
+      "file": "fair-side-sheet-21.jpg",
+      "bytes": 296062,
+      "sha256": "cf0dadd0e6f2a5b0b55d10e8deaa3fb1bad6d3ca4d7662e631d8c99bf8a9ab0b"
+    },
+    {
+      "file": "fair-side-sheet-22.jpg",
+      "bytes": 293807,
+      "sha256": "543727883f55eaa5c76d99400d91a456ac957a7713e7826ab5f8898ee0d1793e"
+    },
+    {
+      "file": "fair-side-sheet-23.jpg",
+      "bytes": 297265,
+      "sha256": "1fc912c4748221d985c3fe6dae351a0829dc5e90c335d2afad2a8df54b618386"
+    },
+    {
+      "file": "fair-side-sheet-24.jpg",
+      "bytes": 298397,
+      "sha256": "d4a808717692f34becc1d6de016760b52af926618d65b5a2d11cd9905ef4f09c"
+    },
+    {
+      "file": "fair-side-sheet-25.jpg",
+      "bytes": 298358,
+      "sha256": "b968d3bb441e980878f0e6232af50cb8ddbd50b07d05702475d731e75a0936be"
+    },
+    {
+      "file": "fair-side-sheet-26.jpg",
+      "bytes": 292178,
+      "sha256": "3876120b763ad5ae73d8efbb6d708453aa342ba21a6ae593ac86d8e16543175b"
+    },
+    {
+      "file": "fair-side-sheet-27.jpg",
+      "bytes": 296954,
+      "sha256": "95f603d37e07fd2011e7e3ae9ee08b7787523114cf91f09818439dfb7f87d34f"
+    },
+    {
+      "file": "fair-side-sheet-28.jpg",
+      "bytes": 297863,
+      "sha256": "16d7f7a71ddcf944aaf206a08d9b91b3ddb3e9280f14aa38a717723eeda54edb"
+    },
+    {
+      "file": "fair-side-sheet-29.jpg",
+      "bytes": 296359,
+      "sha256": "161e1d0b92cb68e3f33b3bb8766f73c338a026516b25ee78d8bbe6196ee7385d"
+    },
+    {
+      "file": "fair-side-sheet-30.jpg",
+      "bytes": 291404,
+      "sha256": "c75407e1c71708fef742ae81b9586caec76c286dcd5112c347e0b9df607d0113"
+    },
+    {
+      "file": "fair-side-sheet-31.jpg",
+      "bytes": 291350,
+      "sha256": "a940e096473cf5567cc83220d9c73f62d9a6eb4a10790eb5f44343a0908225f9"
+    },
+    {
+      "file": "fair-side-sheet-32.jpg",
+      "bytes": 295450,
+      "sha256": "ee6d20d8421b8591af6d9ece808e83fc8baceebd2a9e605a119e0c3ade9f7912"
+    },
+    {
+      "file": "fair-side-sheet-33.jpg",
+      "bytes": 294295,
+      "sha256": "b54ba25bcf9397ac2db250c4b8546f118db9363d3081b318f87f1f9b3bb2e1dd"
+    },
+    {
+      "file": "fair-side-sheet-34.jpg",
+      "bytes": 293069,
+      "sha256": "6ae62f8d891d9655948a86a833102bfb23f2858f4705dace92b40f407dda5734"
+    },
+    {
+      "file": "fair-side-sheet-35.jpg",
+      "bytes": 292560,
+      "sha256": "9e0a0426cad9c1ee5ac50cb0dbbf8120bd39ab16c9b33106e0f04192dd8336c2"
+    },
+    {
+      "file": "fair-side-sheet-36.jpg",
+      "bytes": 294106,
+      "sha256": "c35bbd967a1b2bb510186a16fab5a63b667cca41d127c42ad020a43dc5f4eda0"
+    },
+    {
+      "file": "fair-side-sheet-37.jpg",
+      "bytes": 273943,
+      "sha256": "0ac90bd7431cb0b53de4e0ea30a2d1f6c9d2d98a70048a2ab61afc628abb5a76"
+    }
+  ],
+  "limitations": [
+    "No independent critic or owner adoption",
+    "Existing side-view food occlusion, late front-view foreshortening and resting front arm/paw merging remain",
+    "Arbitrary new wrist/roll combinations, physical grasp, runtime export and inherited whole-release gates remain unqualified"
+  ]
+}
