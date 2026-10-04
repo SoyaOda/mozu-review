@@ -132,7 +132,13 @@ for (const video of [source, ...nativeVideos]) {
 }
 candidate.addEventListener("ended", () => {
   if ($("loop").checked) { seek(0); playAll(); }
-  else { pauseAll(); paint(); }
+  else {
+    pauseAll();
+    changing = true;
+    for (const video of linked()) if (video !== candidate) video.currentTime = duration;
+    changing = false;
+    paint();
+  }
 });
 function tick() {
   if (playing && !candidate.paused) {
