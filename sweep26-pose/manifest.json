@@ -1,0 +1,188 @@
+{
+  "schema": "Sweep26PoseReview1",
+  "status": "ANALYSIS_AND_DESIGN_ONLY",
+  "sourceSHA256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4",
+  "nativeMovieSHA256": "51319d835a64208e7e9b70bde4216e5c62d55dd80636f2d438afcf33c83a528f",
+  "files": [
+    {
+      "path": "REPORT.html",
+      "bytes": 12578,
+      "sha256": "66eb3a11445657eda04bdeaac0bb082d96d852b942b0e121fb42d807aab466c3"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 10751,
+      "sha256": "81698929d695cd921cb966cf7bbe43f53db8f8ca0f5fe83b1902a35dc8e5f2fd"
+    },
+    {
+      "path": "RIG_DESIGN.html",
+      "bytes": 10856,
+      "sha256": "6afbfc10cfd006e4cc160e5d1ff078b17c23df631976554bf855521ee242c3bc"
+    },
+    {
+      "path": "RIG_DESIGN.md",
+      "bytes": 9355,
+      "sha256": "802eb6de152675e4a011e364423e5c35f26401cb4ba87ddfa73e30e1d2c24153"
+    },
+    {
+      "path": "index.html",
+      "bytes": 13039,
+      "sha256": "213f934f5e08601c14d4041030bf043959c055fb1b5cc81ebad29be2b002ccd8"
+    },
+    {
+      "path": "lower-body-keys.jpg",
+      "bytes": 101959,
+      "sha256": "2eb8c79244716c63063f9018db2ab3dca947f089ac3c87176d861cd5694fb52d"
+    },
+    {
+      "path": "pose-000.jpg",
+      "bytes": 74478,
+      "sha256": "cea5c33e3ad97b49bac0e68d212ec83b46dc6401d385f5f0e69894f7008e4662"
+    },
+    {
+      "path": "pose-036.jpg",
+      "bytes": 79290,
+      "sha256": "2806395d189c5ee1a1bebebde328b6cffa6e2ad80b3995bde9db77066154fa7c"
+    },
+    {
+      "path": "pose-042.jpg",
+      "bytes": 78016,
+      "sha256": "67dc426d43f43b4196102c4b63485d9690acac3752fcacedef74620836a21b1e"
+    },
+    {
+      "path": "pose-048.jpg",
+      "bytes": 78865,
+      "sha256": "9117f2b9246f18ad7773dff589b3de412bd039b3dce1f203d1ea20f0d7108282"
+    },
+    {
+      "path": "pose-054.jpg",
+      "bytes": 78277,
+      "sha256": "1568502d5ae5b69fdd655dd58cb48bbb9e02eae1c41368fd603a819e1b7592b8"
+    },
+    {
+      "path": "pose-061.jpg",
+      "bytes": 79389,
+      "sha256": "f1fa2615cd414ad222749e7bb1dfe66582913b43031f10501c378bf219a399ab"
+    },
+    {
+      "path": "pose-068.jpg",
+      "bytes": 93408,
+      "sha256": "369e13bcb5dcfed527c8f60e51080ae0814cf61257bd926e9561eca28492b469"
+    },
+    {
+      "path": "pose-075.jpg",
+      "bytes": 79992,
+      "sha256": "35f3088ff0963db4acc19876b16e3d8709c296ad626da65e71218a70629cd30b"
+    },
+    {
+      "path": "pose-083.jpg",
+      "bytes": 80100,
+      "sha256": "19b1e35106b7284df9b99444dc12ea018ffcacadfd6208c767d1db9d548b5a61"
+    },
+    {
+      "path": "pose-091.jpg",
+      "bytes": 80102,
+      "sha256": "3b5edb7aa597703b68f4c04609293eb61d9566f84c0db03e0557d8ae841bf1cb"
+    },
+    {
+      "path": "pose-099.jpg",
+      "bytes": 80054,
+      "sha256": "5c7ce1e849899022a2671d4720c51255a337b3152564d9a4a9d83f2b64c6082a"
+    },
+    {
+      "path": "pose-106.jpg",
+      "bytes": 81433,
+      "sha256": "32f9297c8b001989cb0783f962196364b234c0ed5aac5ba553436f6656abd0b4"
+    },
+    {
+      "path": "pose-114.jpg",
+      "bytes": 79363,
+      "sha256": "4301dab76b49ed74c23bbafc919b19b07abcb5ac6f1b2c27a2b3d49a64d2f898"
+    },
+    {
+      "path": "pose-121.jpg",
+      "bytes": 87166,
+      "sha256": "fe338464a45d14954be640799b3cfbe95bcf5a58e0359da8ac1abbaf4b6b53f0"
+    },
+    {
+      "path": "pose-130.jpg",
+      "bytes": 79759,
+      "sha256": "fdf96c99df4e694a038711aee08ce1a2409793f35fbbc45dc76e2bf4564907c0"
+    },
+    {
+      "path": "pose-142.jpg",
+      "bytes": 77389,
+      "sha256": "a36aa6f27bed0c12fa42e9169a136ff191f954288d6fb055ee1aa35f8b5fba33"
+    },
+    {
+      "path": "pose-179.jpg",
+      "bytes": 75471,
+      "sha256": "24477ff8cd2a67b171a8a427b9260b84b21ad2d683a2555c307e49020c9915d2"
+    },
+    {
+      "path": "pose-evidence.json",
+      "bytes": 567312,
+      "sha256": "9df59bb0889b982acebc9b4f70517d4948a5652d1bf1ac940b49c99b45439356"
+    },
+    {
+      "path": "pose-sheet-0.jpg",
+      "bytes": 302965,
+      "sha256": "c23b149317aedcef6ac1df00756c482b6956754136b96bc6171a8aac8d4d7e85"
+    },
+    {
+      "path": "pose-sheet-1.jpg",
+      "bytes": 304806,
+      "sha256": "a074a9c9f4f7b27cf8c1b8a36510fec7c80486f77c9c136f6a409fb055c84244"
+    },
+    {
+      "path": "pose-sheet-2.jpg",
+      "bytes": 309162,
+      "sha256": "96534d51e6b7e04e843e905b070babe86ac556cfd3d16d9586a73e1a79de3c4a"
+    },
+    {
+      "path": "pose-sheet-3.jpg",
+      "bytes": 309407,
+      "sha256": "998091121b9115b5ffe9d17b20c9aa8a6c16302ed00ec7a57df4d2f969976729"
+    },
+    {
+      "path": "pose-sheet-4.jpg",
+      "bytes": 307134,
+      "sha256": "2bc74d4dd318bd01f22c42e3c6ca9638452eceace909b0ba72ce449887c817d4"
+    },
+    {
+      "path": "pose-sheet-5.jpg",
+      "bytes": 307143,
+      "sha256": "280b2e931f7ae5d98ff8bdbad12acb15aba74594648b5e6b6eb2f194bd81ec2a"
+    },
+    {
+      "path": "review.js",
+      "bytes": 4913,
+      "sha256": "600d5cbd62027316874b191644f8d575994e6e163acdda3f222ceccf9c8ea935"
+    },
+    {
+      "path": "rig-design.json",
+      "bytes": 2752,
+      "sha256": "204b188bdfdb694c495d742ce55526730872ea0d752d8e2372eb2a5b76be0c1a"
+    },
+    {
+      "path": "screen-space-traces.svg",
+      "bytes": 22760,
+      "sha256": "801dd5f05e0b284aaa4c0b976ad2f8810e3cdb3bc23848c7cdd83ca5593fa4df"
+    },
+    {
+      "path": "source.mp4",
+      "bytes": 3378857,
+      "sha256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4"
+    },
+    {
+      "path": "sweep25.mp4",
+      "bytes": 202132,
+      "sha256": "51319d835a64208e7e9b70bde4216e5c62d55dd80636f2d438afcf33c83a528f"
+    },
+    {
+      "path": "threshold-sensitivity.json",
+      "bytes": 388,
+      "sha256": "6b61f91d9fa6772be6fa4daf5195f0138a552c92f4be3c13c94c69a8d9eaa237"
+    }
+  ]
+}

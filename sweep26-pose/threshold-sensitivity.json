@@ -1,0 +1,21 @@
+{
+  "test": "Rear contact dark-threshold sensitivity",
+  "cutoffs": {
+    "90": {
+      "min": 553,
+      "max": 555,
+      "range": 2
+    },
+    "100": {
+      "min": 553,
+      "max": 555,
+      "range": 2
+    },
+    "110": {
+      "min": 553,
+      "max": 555,
+      "range": 2
+    }
+  },
+  "scope": "180 frames; only dark-color cutoff varied, not proof against all annotation error"
+}

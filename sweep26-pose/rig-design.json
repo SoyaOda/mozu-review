@@ -1,0 +1,125 @@
+{
+  "schema": "Sweep26RigDesign1",
+  "status": "DESIGN_ONLY_NOT_NATIVE_IMPLEMENTED",
+  "enforcement": false,
+  "noMechanicalFitting": true,
+  "sourceSHA256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4",
+  "baselineNativeSHA256": "1cfc32aa8a05d2d26d8c3602839e8312e855f29dd4f77405b7fefc1a8044dfc6",
+  "observedSupport": "Visible rear foot edge stable within 2 px; hidden contacts and load are unresolved.",
+  "owners": [
+    {
+      "domain": "paw_contact_L_R",
+      "parent": "support_tasks",
+      "output": "contact_frames"
+    },
+    {
+      "domain": "pelvis",
+      "parent": "balance_intention_and_support",
+      "output": "lower_frame"
+    },
+    {
+      "domain": "hips_and_thighs",
+      "parent": "pelvis_plus_contact_frames",
+      "output": "continuous_accommodation"
+    },
+    {
+      "domain": "chest",
+      "parent": "pelvis_plus_relative_orientation",
+      "output": "orthonormal_chest_material_frame"
+    },
+    {
+      "domain": "shoulders_and_arms",
+      "parent": "chest",
+      "output": "original_local_articulation_then_world_grip"
+    },
+    {
+      "domain": "head",
+      "parent": "chest_neck_plus_local_attention",
+      "output": "intact_rigid_head"
+    },
+    {
+      "domain": "tail",
+      "parent": "pelvis_lower_trunk",
+      "output": "bound_root_then_existing_angular_response"
+    },
+    {
+      "domain": "broom",
+      "parent": "world_grip_plus_floor_task",
+      "output": "original_rigid_tool_and_optional_bristle_response"
+    }
+  ],
+  "pilot": {
+    "sourceFrames": [
+      0,
+      42,
+      61,
+      75,
+      91,
+      142
+    ],
+    "views": [
+      "front",
+      "oblique",
+      "side",
+      "top"
+    ],
+    "variants": [
+      "one_body_frame",
+      "independent_pelvis_chest"
+    ],
+    "ablations": [
+      "zero_relative_chest",
+      "zero_pelvis_response",
+      "zero_local_attention"
+    ],
+    "frozen": [
+      "rest_geometry",
+      "camera",
+      "materials",
+      "tool_dimensions",
+      "hand_contact_tasks"
+    ],
+    "authoredDomains": {
+      "pelvis_heading_deg": [
+        -4,
+        4
+      ],
+      "pelvis_incline_deg": [
+        -3,
+        3
+      ],
+      "chest_relative_heading_deg": [
+        -12,
+        12
+      ],
+      "chest_forward_incline_deg": [
+        0,
+        8
+      ],
+      "balance_shift_character_height_fraction": [
+        -0.01,
+        0.01
+      ]
+    },
+    "nativeValidation": "PENDING_NEW_IMPLEMENTATION"
+  },
+  "issueIds": [
+    "I02",
+    "I03",
+    "I08",
+    "I09",
+    "I11",
+    "I12",
+    "I13",
+    "I14",
+    "I15"
+  ],
+  "unresolved": [
+    "hidden_joint_positions",
+    "load_ratio",
+    "3d_chest_pelvis_split",
+    "physical_friction",
+    "native_deformation_quality",
+    "runtime_export"
+  ]
+}
