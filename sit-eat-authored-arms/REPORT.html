@@ -1,0 +1,76 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SE212 · REPORT</title><style>body{max-width:960px;margin:32px auto;padding:0 20px;background:#f1f0e9;color:#27312b;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:inherit}</style><a href="./">Back to three-view review</a><pre># SE212 complete three-bite movie
+
+Status: complete879-frame media and three-view inspection passed. The player
+reaches frame879 in actual browser playback. This supersedes the earlier
+211-frame movie coverage; the authored rig and native action are unchanged.
+
+## What was wrong
+
+The earlier public player used the211-frame arm-study export (3.5167seconds),
+while the existing Blender action already contained879frames and three bites.
+The first jaw snap is near3.425seconds; the short export ends before even the
+first chewing run is complete. Restoring the native scene range alone did not
+extend the exported movie. The public player and capture were still limited211.
+
+## Correction
+
+Keep the reviewed first211 decoded frames and append actual native frames212–879.
+There is no loop repetition, slow-motion padding, motion interpolation or action
+edit. The same three cameras,560px resolution,8-sample flat renderer and60fps
+clock are retained. A frame205 probe compares the persistent-renderer path with
+all three retained original rasters: maximum pixel error is0. The native remains
+`mozu-siteat212-authored-arms-f-full.blend`, SHA256
+`6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8`.
+
+All879 frames cover14.65seconds of encoded playback; the actual last pose is at
+14.6333seconds, with its one-frame display duration. The source action explicitly
+contains three eating cycles. The final chew ends at14.5333seconds and the native
+returns the jaw, mouth opening and eye closure to zero by frame879.
+
+The page includes Bite1 / Bite2 / Bite3 / Finish jumps. The earlier211-frame page
+is retained as the opening-study archive; the main public URL shows the full
+sequence. Frame bounds, sheet coverage and the displayed duration derive from
+the completed full-action media receipt.
+
+## Completed verification
+
+- Windows FIFO20261003-234759-60a0b5c3 completed with exit0. Capture covers211–879
+  including the splice probe. The native hash is unchanged after capture.
+- All three879-frame videos pass complete decoding,60fps and uniform timestamp
+  checks. The first211 decoded frames exactly match the earlier reviewed movies;
+  the remaining668 exactly match their new native capture encodes.
+- All78 transferred videos/sheets match SHA256 (28,104,343bytes).
+- Main-agent inspection covers all2637 view-frames:633 retained opening frames
+  with exact decoded-prefix proof and2004 new tail frames. Sheets06–25 in each
+  view were inspected individually, including the211/212 join, both later bites,
+  all chewing and the final879 pose. Camera, pigment and pose remain continuous.
+- All3345 native/source eating-channel comparisons pass; maximum error is
+  7.5642e-8. Later mouth-opening peaks are at428 and662; final mouth/chew/jaw and
+  eye closure return to zero. Front and oblique clearly show all bite events;
+  the strict side camera naturally hides much of the mouth and food.
+- Actual browser checks pass for Bite1/2/3 at185/419/653, Finish879, frame stepping,
+  synchronized seeking, and playback from the start through879. All three
+  videos finish at14.65seconds without errors.
+
+Receipts: `capture.json`, `review/full-media.json`, `transfer.json`,
+`channel-audit.json`, `visual-review.json` and `execution-receipt.json`.
+The full native is221551322bytes and stays on Windows. Its prior saved/reopened
+geometry and edit/reset evidence remain in `../native-delivery.json`.
+
+Rebuild the page with `python3 scripts/research/siteat212_20260925/seated_authored_page.py --full-action`.
+The publisher requires completed879-frame visual evidence before updating the
+existing URL and preserves the old page as `opening-preview-20261004.html`.
+
+## Unchanged scope and limits
+
+This repairs movie coverage. The authored arm rig, source action, body, face,
+paws, tail and onigiri remain unchanged. The original arm owns frames178 onward.
+The old rest/body overlap, the174 grip gap above0.07 and inherited food/head
+contact failures remain documented. No full motion qualification or owner
+adoption is claimed. The complete editable native stays on Windows.
+
+The published source of the short version was commitdd1cc12 in SoyaOda/mozu-review.
+The full version uses the same sit-eat-authored-arms URL and distinct movie names
+to avoid reusing cached short videos. Publication and HTTP verification are
+recorded separately in `public-delivery.json` after deployment.
+</pre></html>
