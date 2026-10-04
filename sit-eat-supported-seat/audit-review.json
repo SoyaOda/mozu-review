@@ -1,0 +1,115 @@
+{
+  "reviewPassed": true,
+  "reviewer": "main agent",
+  "independentReview": false,
+  "native": {
+    "file": "mozu-siteat212-reach-seated-r03.blend",
+    "bytes": 222238254,
+    "sha256": "2ac0328d74c06ae269951326e90e27590282e630a109083647a8f97e790a2472"
+  },
+  "auditSha256": "b9f46257c3132a7076819bc0ce80c9b4bfbb3e845e0c7c6d1792068c4326253a",
+  "mediaSha256": "872fa67278c02066e371a5ec16ea0238f02e01ebe3d49b03925bc849dfa94575",
+  "scope": "Final-native key-pose and shaded-surface review; continuous entry and complete meal remain required",
+  "reviewedSheets": [
+    {
+      "file": "sheet-surface-front-01.jpg",
+      "bytes": 103460,
+      "sha256": "3e1e2bab3df30b6bde4b6b337f84e99483dd0bf28c1d66c22223f7efcd509070"
+    },
+    {
+      "file": "sheet-surface-oblique-01.jpg",
+      "bytes": 107888,
+      "sha256": "fe41b43fb9141ea9c64615fed0e8b410e213f8173228986e45d5d3d6341df5da"
+    },
+    {
+      "file": "sheet-surface-side-01.jpg",
+      "bytes": 102480,
+      "sha256": "cf2892698ee6db2c3a3b855cd4638cd43da3a0c32b4dbaa1882ed9ae916f2fd7"
+    },
+    {
+      "file": "sheet-direct-front-01.jpg",
+      "bytes": 125044,
+      "sha256": "0ca705f231a6f546a43e4394937ae01fdcca9076f06a8bb2c3c841c27984eb1f"
+    },
+    {
+      "file": "sheet-direct-front-02.jpg",
+      "bytes": 36179,
+      "sha256": "023fa9129416d8d89c67508724bc6d0e9abfad87bddcf3af5274a59cdf8c3035"
+    },
+    {
+      "file": "sheet-direct-oblique-01.jpg",
+      "bytes": 116670,
+      "sha256": "ca11682db04c154c2b2e54896d8fcf61fd3c71ff581bffe59c14b1dc901cb90f"
+    },
+    {
+      "file": "sheet-direct-oblique-02.jpg",
+      "bytes": 34472,
+      "sha256": "7b152569ad7daa6de5f822d0ec58c86c2c0dab642fdb67175ac40ac4b7365adc"
+    },
+    {
+      "file": "sheet-direct-side-01.jpg",
+      "bytes": 96677,
+      "sha256": "7b180fd872866c85d0829c1484d00f925b9a10be8c0e6604ff26167ff3a62623"
+    },
+    {
+      "file": "sheet-direct-side-02.jpg",
+      "bytes": 30573,
+      "sha256": "88212517d6e1282523d80dab75932eef0ff0ab234e5f32f6f350917ad24d871c"
+    },
+    {
+      "file": "sheet-pilot-parity-front-01.jpg",
+      "bytes": 128854,
+      "sha256": "5c8ae87182db67b9c77a666ec8fba568208c4318de1690b715be57c3605298c9"
+    },
+    {
+      "file": "sheet-pilot-parity-front-02.jpg",
+      "bytes": 129016,
+      "sha256": "acf9679d4b3d53606e4fb199c0b06145ee9da6d7aa7c0e5cc54c929afc68d81b"
+    },
+    {
+      "file": "sheet-pilot-parity-front-03.jpg",
+      "bytes": 54524,
+      "sha256": "a9c20d2fc2bb7cdcafbfcedb3f3eb52125f509b72b72291a4d2a0c8054b30bd8"
+    },
+    {
+      "file": "sheet-pilot-parity-oblique-01.jpg",
+      "bytes": 117211,
+      "sha256": "ee0dbf3bc41e870a364e6512af391a5a1a4462398d45688bf1817344424f3c35"
+    },
+    {
+      "file": "sheet-pilot-parity-oblique-02.jpg",
+      "bytes": 117980,
+      "sha256": "38ef757ee4e6e19ddf640ad685f8f07b6baaebadb6215fb9943d5df8ad6ec6b3"
+    },
+    {
+      "file": "sheet-pilot-parity-oblique-03.jpg",
+      "bytes": 51962,
+      "sha256": "bea8f92a801ff826bcffe0409ec6d8e0613ff3389452a6844a50c5e671cc6712"
+    },
+    {
+      "file": "sheet-pilot-parity-side-01.jpg",
+      "bytes": 98740,
+      "sha256": "81b69edad570760f593d834f1a5944fb6716801d799ae86b4bd7172e3b87391b"
+    },
+    {
+      "file": "sheet-pilot-parity-side-02.jpg",
+      "bytes": 97308,
+      "sha256": "128a5f8fea796d144bc6a4ab09d89571e7bb749883ba324a1ac5929444ddbea4"
+    },
+    {
+      "file": "sheet-pilot-parity-side-03.jpg",
+      "bytes": 44931,
+      "sha256": "269f9e4833bf288153705046693cb861a9508a1a48d51043f951ed01f81ac96d"
+    }
+  ],
+  "viewImagesReviewed": 81,
+  "observations": [
+    "All14 selected poses in each of3 cameras preserve the complete flat-color character, eye-mask markings and food/face details. The lower leg remains compact through the final descent.",
+    "All6 shaded poses in each view show connected rounded thigh/paw/body surfaces. No visible ankle crack, cut-cap exposure or abrupt surface spike is evident in these samples.",
+    "Side and oblique poses show paws prepared at49 and the body continuing back/down to73. The body remains above its final seat at49; the grey thigh does not form the former long forward extension.",
+    "The inherited soft thigh compresses during preparation (minimum ratio approximately0.7267) and recovers to1.0016. Continuous playback must judge this recovery before full-meal capture.",
+    "Front resting arms partly merge with paw silhouettes at91/139; the side and oblique views separate them. This inherited rest-arm overlap is recorded, with no arm redesign in this task.",
+    "The direct meal keys retain the final small mouthful, empty hands and compact seated lower body; full1329-frame review is still pending."
+  ],
+  "next": "Capture and inspect frames1-177 at60fps in all3views, then the entire six-mouthful meal."
+}

@@ -1,0 +1,621 @@
+{
+  "mediaSha256": "5d6434b075849a111f5f99d0dcb73bdc6fd3dad5a634a3b8c07ed9101dd18629",
+  "entryOnly": false,
+  "files": [
+    {
+      "file": "EDITING.md",
+      "bytes": 7233,
+      "sha256": "1a45dafd576dd97cdc33a013249306eb5719c59457a7952c185a57217b7ab557"
+    },
+    {
+      "file": "REPORT.html",
+      "bytes": 6453,
+      "sha256": "45861ebfc4dc9d4ddb8a15ee600319924bfcaa3bda1e4d3fb708d592ae825251"
+    },
+    {
+      "file": "index.html",
+      "bytes": 11328,
+      "sha256": "9a9804502bad121771cf9cef62642b7adaba1b1dcd96d9fe761de3c2dd1e047d"
+    },
+    {
+      "file": "mechanics-front-sheet-01.jpg",
+      "bytes": 400132,
+      "sha256": "7a6cf808658a23d923c644e68a75368244a4c4bbb0aca0f469b1962263624e30"
+    },
+    {
+      "file": "mechanics-front-sheet-02.jpg",
+      "bytes": 396032,
+      "sha256": "c77382b7e4c55261e12929ded6245f65aab37e39b3c44aaa9fd20e5299935943"
+    },
+    {
+      "file": "mechanics-front-sheet-03.jpg",
+      "bytes": 387406,
+      "sha256": "c6f77262bc916e20e3fcc13fce5fc20b38f89f8d0ee088d9bbd20d619328c415"
+    },
+    {
+      "file": "mechanics-front-sheet-04.jpg",
+      "bytes": 385832,
+      "sha256": "67609041d235deac01abbf5af427d716c8e0277ce2e999522d9d7395e41f8821"
+    },
+    {
+      "file": "mechanics-front-sheet-05.jpg",
+      "bytes": 390965,
+      "sha256": "89093dd3f1edb46fb2f77de661a075e98e114f65e76dfe9d4acb37477f51f5fb"
+    },
+    {
+      "file": "mechanics-front-sheet-06.jpg",
+      "bytes": 398653,
+      "sha256": "c36604878e48ba08387a24c7d362e732dfb79095f9c2a793ad036d76b45a43b0"
+    },
+    {
+      "file": "mechanics-front-sheet-07.jpg",
+      "bytes": 388621,
+      "sha256": "216abe1e4baef7014688e892b2d4f5561878f06d52a29bd0770d04bfb7fdc589"
+    },
+    {
+      "file": "mechanics-front-sheet-08.jpg",
+      "bytes": 393580,
+      "sha256": "79a15c9170b05818641bbf1946fe7182d86b505654ca5fb3a13764d14c5c0479"
+    },
+    {
+      "file": "mechanics-front-sheet-09.jpg",
+      "bytes": 393024,
+      "sha256": "fca52eb8bd2385d36422a450d843211967c2d7f57c8bfd012a0fca7e159d24ed"
+    },
+    {
+      "file": "mechanics-front-sheet-10.jpg",
+      "bytes": 397482,
+      "sha256": "52bb7dce4bb9f2afad9dfda6fac890a0f0cf2dc0b8ec1ebffbf9bf0596f85331"
+    },
+    {
+      "file": "mechanics-front-sheet-11.jpg",
+      "bytes": 401711,
+      "sha256": "1c55690988566efabfaaa928647597cb7c252ded415c168f2dee61e640fc0951"
+    },
+    {
+      "file": "mechanics-front-sheet-12.jpg",
+      "bytes": 391367,
+      "sha256": "7f59afd2abf0f57171faf1a44d2617c6a7750bd81800748ae75236cbdc12e93b"
+    },
+    {
+      "file": "mechanics-front-sheet-13.jpg",
+      "bytes": 396657,
+      "sha256": "e6b543642f9aca2bda6042d56ff56b2eb4cbe9854c6f68e878b36053ef6a84f7"
+    },
+    {
+      "file": "mechanics-front-sheet-14.jpg",
+      "bytes": 396448,
+      "sha256": "e79f9234abe340d79f768354f451e2864516f7b114a70bffc025fb214ec5356c"
+    },
+    {
+      "file": "mechanics-front-sheet-15.jpg",
+      "bytes": 400470,
+      "sha256": "bfc99fedee8acd63bef2336d2f2048c9f465282b77c1fb45dae28fc8c04ac549"
+    },
+    {
+      "file": "mechanics-front-sheet-16.jpg",
+      "bytes": 398852,
+      "sha256": "d9730ac7acae0a541dd2acf0eabec9172b9ada7a9835b59c3ef6d3e242e2c4ae"
+    },
+    {
+      "file": "mechanics-front-sheet-17.jpg",
+      "bytes": 388419,
+      "sha256": "bdfee08a8a92aa042a6e81fc080c0c4fd8dad516a4145e776745208a5620890c"
+    },
+    {
+      "file": "mechanics-front-sheet-18.jpg",
+      "bytes": 394918,
+      "sha256": "2d0e6c063af71b67ffc44a571f42ad9bb72a99a230b25027df969d2af0626808"
+    },
+    {
+      "file": "mechanics-front-sheet-19.jpg",
+      "bytes": 394064,
+      "sha256": "f64b4339947516af7d0324555fb722c32aae9045deb4ccc1fba8d9e24f5e0c4c"
+    },
+    {
+      "file": "mechanics-front-sheet-20.jpg",
+      "bytes": 399297,
+      "sha256": "75c5aae989e20ea826a5a4a402d5f775828c5b358f679e95d2cad5455582ca2f"
+    },
+    {
+      "file": "mechanics-front-sheet-21.jpg",
+      "bytes": 392525,
+      "sha256": "7941063328e3014e7488892a5a137f1ae8395d498adee68dbef9019110b77b2d"
+    },
+    {
+      "file": "mechanics-front-sheet-22.jpg",
+      "bytes": 384900,
+      "sha256": "f9883856c97d5d99813b5e54f4485c02f20b8e20627253990e05c77e1b9242be"
+    },
+    {
+      "file": "mechanics-front-sheet-23.jpg",
+      "bytes": 390916,
+      "sha256": "7c31472bfb8e3abe8763a2e1a4e0088f433e29eea8cc97df30d20754ca8fe7be"
+    },
+    {
+      "file": "mechanics-front-sheet-24.jpg",
+      "bytes": 393512,
+      "sha256": "708a5b6407b59e9c1503347d6ae591451ed66fa92d2b9f1cb59bcb1f1939bc7e"
+    },
+    {
+      "file": "mechanics-front-sheet-25.jpg",
+      "bytes": 396216,
+      "sha256": "3a88f4e010efaef288feb6313e8d37910a659b891b4d31feace4aa3cae70ce94"
+    },
+    {
+      "file": "mechanics-front-sheet-26.jpg",
+      "bytes": 385757,
+      "sha256": "21d3ed5eda900de29fd8483f6a33e3a7cb48544155a27679ca0c4b0ccc0c412f"
+    },
+    {
+      "file": "mechanics-front-sheet-27.jpg",
+      "bytes": 390490,
+      "sha256": "42179023289dfabac91fda5245601e84debeb78b5d95abceb1b3839de3acfba0"
+    },
+    {
+      "file": "mechanics-front-sheet-28.jpg",
+      "bytes": 393016,
+      "sha256": "4888c3007efb593af44a87dae36202411ff440762485d6097d9e12a23509eb49"
+    },
+    {
+      "file": "mechanics-front-sheet-29.jpg",
+      "bytes": 394874,
+      "sha256": "66dfcbfda8d36968c50cbc8aff8930cb552cf092431d09442c4a7dc424adfcae"
+    },
+    {
+      "file": "mechanics-front-sheet-30.jpg",
+      "bytes": 385334,
+      "sha256": "d936b7a410336da09333334bfb2411cbe12ebf4be82fe94e41c7cb7dba9e921b"
+    },
+    {
+      "file": "mechanics-front-sheet-31.jpg",
+      "bytes": 382206,
+      "sha256": "eca00a6cade172a1e41c8a5b6116ad60bec3a855c026bd016a40a64f6a30f00d"
+    },
+    {
+      "file": "mechanics-front-sheet-32.jpg",
+      "bytes": 388349,
+      "sha256": "a82d49a21d9984f62702e2535ee60621a5345088d9a74c1dbc374162a38483fb"
+    },
+    {
+      "file": "mechanics-front-sheet-33.jpg",
+      "bytes": 397628,
+      "sha256": "93d558664b46b6d7a096e3d27b316afc439d6cc1251d54ce600fb8bf3e536485"
+    },
+    {
+      "file": "mechanics-front-sheet-34.jpg",
+      "bytes": 407067,
+      "sha256": "f05d97dc4a541ae0499f6613f2b83c207fa34b42342a6a8d1c7cf8b7de651248"
+    },
+    {
+      "file": "mechanics-front-sheet-35.jpg",
+      "bytes": 403821,
+      "sha256": "d775c174215873697ac29b5c91d23177801f36d49c809c509b4af5c2147918cc"
+    },
+    {
+      "file": "mechanics-front-sheet-36.jpg",
+      "bytes": 390468,
+      "sha256": "2a6d39c49e159e59c4e2a479ed08b752ca6ed33f01e5d8916d99c0719d809c37"
+    },
+    {
+      "file": "mechanics-front-sheet-37.jpg",
+      "bytes": 362187,
+      "sha256": "49ba74daa464508cbf8d8f676a0167920f344b3eb810b659a9848144c9163ca7"
+    },
+    {
+      "file": "mechanics-front.mp4",
+      "bytes": 966423,
+      "sha256": "a45306f7861034bfb39f1211672f5a3996fa7ad1ac32ff3537e1aebeca90795f"
+    },
+    {
+      "file": "mechanics-oblique-sheet-01.jpg",
+      "bytes": 352224,
+      "sha256": "f194bd8c78053897ffc2c98773a95fa45fce561f2c940bd35eedba784e46e703"
+    },
+    {
+      "file": "mechanics-oblique-sheet-02.jpg",
+      "bytes": 370109,
+      "sha256": "a996598a9c629f48e9e7b2de04c2c7ef42c2cbf9fcbb1b800412f21f2f47cfa2"
+    },
+    {
+      "file": "mechanics-oblique-sheet-03.jpg",
+      "bytes": 363374,
+      "sha256": "799684af5938dc588c87ce4a32ed81a47f58cea99ee9171d4ecbddd0941468bc"
+    },
+    {
+      "file": "mechanics-oblique-sheet-04.jpg",
+      "bytes": 364386,
+      "sha256": "f9a0eeaa36287dbf745d4cc777f0afbe4f739a16056062cb5f8f665335383429"
+    },
+    {
+      "file": "mechanics-oblique-sheet-05.jpg",
+      "bytes": 375356,
+      "sha256": "6f3e896f1d691c3418b5292b08aa147ea6412a076b540e4ad3d57b51cac06798"
+    },
+    {
+      "file": "mechanics-oblique-sheet-06.jpg",
+      "bytes": 379191,
+      "sha256": "5ead7f5447351af5ea5da5c12fc9ca8f2af35196b269d21356a558015ad90266"
+    },
+    {
+      "file": "mechanics-oblique-sheet-07.jpg",
+      "bytes": 374469,
+      "sha256": "2431d14a0523f1223b614da66276fe9b9a2159287d067065a02fb14e25e37564"
+    },
+    {
+      "file": "mechanics-oblique-sheet-08.jpg",
+      "bytes": 377650,
+      "sha256": "cae42c92d854ec2bb86a9021e446a1152096ec4fed8a01b5d3e337dfd51de84b"
+    },
+    {
+      "file": "mechanics-oblique-sheet-09.jpg",
+      "bytes": 377384,
+      "sha256": "5cc42e50146723dafcc9ad4a23937eab62cbc658267d4941dc47bd575529eb70"
+    },
+    {
+      "file": "mechanics-oblique-sheet-10.jpg",
+      "bytes": 379561,
+      "sha256": "441272c1617a0d19696653a268b1bf44c111a91908d2312c97b4daa217bb7a87"
+    },
+    {
+      "file": "mechanics-oblique-sheet-11.jpg",
+      "bytes": 381920,
+      "sha256": "2d3529f25c0ccacf823d19f2bee8f1d611fa264f897bde74207ff1894f58ffce"
+    },
+    {
+      "file": "mechanics-oblique-sheet-12.jpg",
+      "bytes": 380126,
+      "sha256": "584df3a5491f876c165a69f2981210240c4ca69bffd9972a4c1c1b46ae4a589c"
+    },
+    {
+      "file": "mechanics-oblique-sheet-13.jpg",
+      "bytes": 380514,
+      "sha256": "07d15ba04227c7ecd1a61578a70681b3d1060464121e38e5a5d9638bc47d2a1d"
+    },
+    {
+      "file": "mechanics-oblique-sheet-14.jpg",
+      "bytes": 380384,
+      "sha256": "faec5ddad9249db853f756ed28bbb29b3cf25240cf930106b6df1c5b52e23513"
+    },
+    {
+      "file": "mechanics-oblique-sheet-15.jpg",
+      "bytes": 381406,
+      "sha256": "55a2645c926102a37085c4b5588301f24b7e1c6b6850fb8f2eeccabceeb74f14"
+    },
+    {
+      "file": "mechanics-oblique-sheet-16.jpg",
+      "bytes": 374577,
+      "sha256": "d0b04e0f558904b677d1dfdcf67beeea8bd977818fb219c57476326513dcc92e"
+    },
+    {
+      "file": "mechanics-oblique-sheet-17.jpg",
+      "bytes": 371419,
+      "sha256": "708bf5bc2aac3da9a1140e7561abe61f8cd06edc63aa1288c38335956cb4f838"
+    },
+    {
+      "file": "mechanics-oblique-sheet-18.jpg",
+      "bytes": 372826,
+      "sha256": "142bfa848ac1b0a482aee569d27bc5566b133d0ebb89bd15aae7e7be24e933fc"
+    },
+    {
+      "file": "mechanics-oblique-sheet-19.jpg",
+      "bytes": 372693,
+      "sha256": "2a08b76d1dc875175890d6c082df12c3c3ab089fe671facc4b34ee34ec88aeaa"
+    },
+    {
+      "file": "mechanics-oblique-sheet-20.jpg",
+      "bytes": 375208,
+      "sha256": "10923ef839c4ee3fdb827ad8718403b215c049c8a79abbdfab753584446eca45"
+    },
+    {
+      "file": "mechanics-oblique-sheet-21.jpg",
+      "bytes": 377506,
+      "sha256": "c20b5b416d0bf0a3148c2ab70fd5179f2d3f7e8769eda55f3997f8ab7bb4130e"
+    },
+    {
+      "file": "mechanics-oblique-sheet-22.jpg",
+      "bytes": 373172,
+      "sha256": "fd6b005fe025f02146d2b805cd34b8282bbb412745b9588ff826ec9a99318cf8"
+    },
+    {
+      "file": "mechanics-oblique-sheet-23.jpg",
+      "bytes": 376425,
+      "sha256": "f503c8bb758b7169b2eabe75366997d882d8d17070b8542639f8714144447514"
+    },
+    {
+      "file": "mechanics-oblique-sheet-24.jpg",
+      "bytes": 377812,
+      "sha256": "fcc2c249ac9319033d79a8beda2f628c0d02bbbf359de7efbb9f488e93fc4aaf"
+    },
+    {
+      "file": "mechanics-oblique-sheet-25.jpg",
+      "bytes": 379329,
+      "sha256": "7cf68cefa6b060170c414a4d2013b218a2f30beb4572354e11ede4771c1e27c5"
+    },
+    {
+      "file": "mechanics-oblique-sheet-26.jpg",
+      "bytes": 371609,
+      "sha256": "5b32eb60c7497aeb9deebfcc791b3bfce876c7f5f66916b1180ead39f15b1d0f"
+    },
+    {
+      "file": "mechanics-oblique-sheet-27.jpg",
+      "bytes": 376492,
+      "sha256": "2b1fcf9991478339364df509e955a208bcb7f5aa0bda5b75168957dc526f1b0a"
+    },
+    {
+      "file": "mechanics-oblique-sheet-28.jpg",
+      "bytes": 378179,
+      "sha256": "85eec1a7559e5b7bff10055a4a5cd379ad8af747e8a866df2453b9946bd2b0fa"
+    },
+    {
+      "file": "mechanics-oblique-sheet-29.jpg",
+      "bytes": 379166,
+      "sha256": "eaf3b88230c6b1981a305da51372574cf101c0b76efaf0603f3f683c52b42cbe"
+    },
+    {
+      "file": "mechanics-oblique-sheet-30.jpg",
+      "bytes": 372461,
+      "sha256": "caf3cccc51ec53289c71fe7eb757cd2cec09f07f02eaf64503e14f27ebea80c7"
+    },
+    {
+      "file": "mechanics-oblique-sheet-31.jpg",
+      "bytes": 369778,
+      "sha256": "5cf06c13199964051bb0625af1199ac25304d8764f204a9754f43aebc78bc7a5"
+    },
+    {
+      "file": "mechanics-oblique-sheet-32.jpg",
+      "bytes": 373829,
+      "sha256": "72b97abfc56a10adbe2bc3918fb50d3e8227fed090e8796480bfb0ae78dabb1e"
+    },
+    {
+      "file": "mechanics-oblique-sheet-33.jpg",
+      "bytes": 379963,
+      "sha256": "a090e4bdec3d5feef03b93b3b9b0cf194fb9c37c23a067686c66c5402f3d0e55"
+    },
+    {
+      "file": "mechanics-oblique-sheet-34.jpg",
+      "bytes": 373455,
+      "sha256": "8153769f24eaa75910d45d9c0a855d91af8c376b3d22ed1efe77e26bea3b409a"
+    },
+    {
+      "file": "mechanics-oblique-sheet-35.jpg",
+      "bytes": 370001,
+      "sha256": "e0df0dd8b0fde32f33ec8ac72139d00c177e110409266b4968071aac02a949e6"
+    },
+    {
+      "file": "mechanics-oblique-sheet-36.jpg",
+      "bytes": 365850,
+      "sha256": "790bf7ac5aa74cfc3c3a96eba5ad7eddc06ef8b9c35deccf53980a191bc23372"
+    },
+    {
+      "file": "mechanics-oblique-sheet-37.jpg",
+      "bytes": 339573,
+      "sha256": "de52101ddcade33bf251f978a95d3a9307e29a5c8b354fbb1ccd1c37ab39dd47"
+    },
+    {
+      "file": "mechanics-oblique.mp4",
+      "bytes": 902904,
+      "sha256": "61a048366fcfb7f6da3c9ab16c1526fe92ee18595b2f8449be9965838eb03736"
+    },
+    {
+      "file": "mechanics-side-sheet-01.jpg",
+      "bytes": 291726,
+      "sha256": "0dc6d7d9965d13b26a1c518f63e00a1b11d2d3c53932c8cb0c16a3a612421a3f"
+    },
+    {
+      "file": "mechanics-side-sheet-02.jpg",
+      "bytes": 287816,
+      "sha256": "ce955ae54ba81b23920a7234b2c6183ab6d5fe4984d787470721b27d87da1e59"
+    },
+    {
+      "file": "mechanics-side-sheet-03.jpg",
+      "bytes": 291329,
+      "sha256": "05bf587578281e120054e4baa6dd8194c33eddd48db702ce970d2a051bb09e9a"
+    },
+    {
+      "file": "mechanics-side-sheet-04.jpg",
+      "bytes": 292309,
+      "sha256": "d6a1e1914b31d8c6c95b3710b31589bf4efef66dad283676a81864e8ba2d8df2"
+    },
+    {
+      "file": "mechanics-side-sheet-05.jpg",
+      "bytes": 292706,
+      "sha256": "54f74a26870140e368b0be53545224d4baedbd7f66a67db34891fca1da020950"
+    },
+    {
+      "file": "mechanics-side-sheet-06.jpg",
+      "bytes": 296403,
+      "sha256": "37b119280c6b2713107178aa44d21ff12fe32f9fc2a7b2af23f4ce9ad4c2c7e1"
+    },
+    {
+      "file": "mechanics-side-sheet-07.jpg",
+      "bytes": 294892,
+      "sha256": "55bac5c07a61081d28679704aa80593a81d83dc61b57c712955813c020be62d0"
+    },
+    {
+      "file": "mechanics-side-sheet-08.jpg",
+      "bytes": 292002,
+      "sha256": "9daeaad2cd2812d72945a06b9223f3b8cefbc4793ad78ba12086a2e3cb893ac2"
+    },
+    {
+      "file": "mechanics-side-sheet-09.jpg",
+      "bytes": 292070,
+      "sha256": "84e5e212a86083a5a4580a0e33f4035b6a4e7741f5080d83f4cf2ee2421b2a6f"
+    },
+    {
+      "file": "mechanics-side-sheet-10.jpg",
+      "bytes": 293594,
+      "sha256": "e31e68adca6f2d657511f5e685b7fd52979ae1a261a176ca1f5229d3b7ae4060"
+    },
+    {
+      "file": "mechanics-side-sheet-11.jpg",
+      "bytes": 300581,
+      "sha256": "d2305aadee22f8fdad06be1f8ff290715015e8dadddd0a2df93642e8cb2ac9f4"
+    },
+    {
+      "file": "mechanics-side-sheet-12.jpg",
+      "bytes": 301842,
+      "sha256": "43b1db372684c4d79184b19ea18855f335c80b5f26385f62ea2181af976692af"
+    },
+    {
+      "file": "mechanics-side-sheet-13.jpg",
+      "bytes": 303208,
+      "sha256": "2befc314a13cbe6d44c65129144277f5b7975a35fe4fc57eb75adcb20c76b2c0"
+    },
+    {
+      "file": "mechanics-side-sheet-14.jpg",
+      "bytes": 303250,
+      "sha256": "4a072090ddbfedd23d1b6db7c56edfc6045932b4c2932020dc1ea48abc85cb39"
+    },
+    {
+      "file": "mechanics-side-sheet-15.jpg",
+      "bytes": 303398,
+      "sha256": "f4d4d0384cf9b4305eeef38f5c5ab54464064aa73aca4274a5caa474a26ea03e"
+    },
+    {
+      "file": "mechanics-side-sheet-16.jpg",
+      "bytes": 299023,
+      "sha256": "3688165179d90e43be9ae9399f0b2b1cf746749c41921f328068321992e28fe3"
+    },
+    {
+      "file": "mechanics-side-sheet-17.jpg",
+      "bytes": 297995,
+      "sha256": "1efc752d60687ae0ae357559dfcf8998d4338298862b2d45302a1e096b1715bb"
+    },
+    {
+      "file": "mechanics-side-sheet-18.jpg",
+      "bytes": 297701,
+      "sha256": "4b846d1869856534d6642ca084e1c511e87f3c24a6d4587fe5d5117efc3f9312"
+    },
+    {
+      "file": "mechanics-side-sheet-19.jpg",
+      "bytes": 298005,
+      "sha256": "a9f800c655376dbadd2f4724bab3117f5678f9d8a4f1844d51d1e6ab361a3a5a"
+    },
+    {
+      "file": "mechanics-side-sheet-20.jpg",
+      "bytes": 299487,
+      "sha256": "e7016eec18c53a1c51032de98ae751e0749bf063f7972d009baefe88af6f7633"
+    },
+    {
+      "file": "mechanics-side-sheet-21.jpg",
+      "bytes": 297087,
+      "sha256": "4ba977ad6393a0bace3380adb0364fdf22880d049f3a2f462654357468f13c8f"
+    },
+    {
+      "file": "mechanics-side-sheet-22.jpg",
+      "bytes": 293910,
+      "sha256": "c16fbbf620d9b124931ef54a6397be305293197f0b42af3b80a3b00b0e6bba44"
+    },
+    {
+      "file": "mechanics-side-sheet-23.jpg",
+      "bytes": 296860,
+      "sha256": "1a7d6b26ae4b168646579d78329c75bbde5ccc1a9d84f38581d91381bc1464c2"
+    },
+    {
+      "file": "mechanics-side-sheet-24.jpg",
+      "bytes": 298372,
+      "sha256": "16fd89f5256cb598f71741f4131404fb7dbbae1d1beff9a959b935072594da4d"
+    },
+    {
+      "file": "mechanics-side-sheet-25.jpg",
+      "bytes": 297581,
+      "sha256": "cc8a3616259deb22b1d0a30a93a44ffbe40b5bcd0e70dd00d292219177931b9f"
+    },
+    {
+      "file": "mechanics-side-sheet-26.jpg",
+      "bytes": 293518,
+      "sha256": "fe40bbe232a115f1ad91047a47a7c51746216a2877084e4f9ecd90b0dfb6832e"
+    },
+    {
+      "file": "mechanics-side-sheet-27.jpg",
+      "bytes": 296216,
+      "sha256": "e4cae300ada9fff1d0cb7d263698b0eddcf6502db5103c9de75e06052562d9bc"
+    },
+    {
+      "file": "mechanics-side-sheet-28.jpg",
+      "bytes": 296781,
+      "sha256": "322b66890ce48a3f17ed68e37c759498a49d456e900cfaea847ee922457c0512"
+    },
+    {
+      "file": "mechanics-side-sheet-29.jpg",
+      "bytes": 296475,
+      "sha256": "1e98abbd0dc6307d869fda86ffbe7b488505637649a8ba3b9a4ef2239469035e"
+    },
+    {
+      "file": "mechanics-side-sheet-30.jpg",
+      "bytes": 292601,
+      "sha256": "26509e317ddae9317ed53cf42b9ae78c4b5c6775bceb58139940b850ab7d467e"
+    },
+    {
+      "file": "mechanics-side-sheet-31.jpg",
+      "bytes": 292276,
+      "sha256": "6af66676aa16beb4a5c303d92091d0348f29259c33f7d0188f102bc657d30766"
+    },
+    {
+      "file": "mechanics-side-sheet-32.jpg",
+      "bytes": 295703,
+      "sha256": "ac0a6ee5096bd481d7ec6f4d8ba2e31287d72bbbd3eba65d07b024ae526dd9bc"
+    },
+    {
+      "file": "mechanics-side-sheet-33.jpg",
+      "bytes": 295335,
+      "sha256": "593d320fd3d72b7fc76b4c115588bb7fcc3bd56f25fa8be8e0d657b553fa5aca"
+    },
+    {
+      "file": "mechanics-side-sheet-34.jpg",
+      "bytes": 293602,
+      "sha256": "3e163d36afb5d3ef16364cbd4c8300dc1037567aaa596c753917843bae104a04"
+    },
+    {
+      "file": "mechanics-side-sheet-35.jpg",
+      "bytes": 292638,
+      "sha256": "82a3fbe327619f0675bf557527cb112f6fe09dbbc946a9423bdef1a254f7bdc6"
+    },
+    {
+      "file": "mechanics-side-sheet-36.jpg",
+      "bytes": 294106,
+      "sha256": "c35bbd967a1b2bb510186a16fab5a63b667cca41d127c42ad020a43dc5f4eda0"
+    },
+    {
+      "file": "mechanics-side-sheet-37.jpg",
+      "bytes": 273943,
+      "sha256": "0ac90bd7431cb0b53de4e0ea30a2d1f6c9d2d98a70048a2ab61afc628abb5a76"
+    },
+    {
+      "file": "mechanics-side.mp4",
+      "bytes": 612315,
+      "sha256": "d4a6d8220b4aaf4a45403d68c79b3762165802b02342e03e262adfae030617b0"
+    },
+    {
+      "file": "poster-front.jpg",
+      "bytes": 33321,
+      "sha256": "556c06dc9dd916916f80f0ee0d1c00e57976f9b213a6b8e48db52992b33b4e4c"
+    },
+    {
+      "file": "poster-oblique.jpg",
+      "bytes": 28925,
+      "sha256": "06488bf09f7bd0a2e13a22d867fbcba6afc1bb44fe689a6ce322d6ac83ff6667"
+    },
+    {
+      "file": "poster-side.jpg",
+      "bytes": 25381,
+      "sha256": "6ff1ddb392046dade34e69840f35b3f5c3efcec0f36767debb6aca292cd216fb"
+    },
+    {
+      "file": "seated-front.jpg",
+      "bytes": 34201,
+      "sha256": "026c2dce963d5a1c2aa32828c5d5faf464a68b567f11ba838ed7139ccf7415fc"
+    },
+    {
+      "file": "seated-oblique.jpg",
+      "bytes": 30423,
+      "sha256": "6ca5b7bde83c6a782d36f143a06e25630b82011770e2d186476dd3b8aebd7765"
+    },
+    {
+      "file": "seated-side.jpg",
+      "bytes": 24955,
+      "sha256": "288f5e857ba202c2c4faa00268b622120190f88cf75aafe8e09c86627f8f75ee"
+    }
+  ]
+}
