@@ -1,0 +1,226 @@
+{
+  "method": "Color-component centroid x extrema in four declared source-event windows; no time shift. Bands include every sample within3px of the extremum. Describes the visible green broom binding, not a joint or whole-body pose.",
+  "windows": [
+    [
+      "work1",
+      0.9,
+      1.35,
+      "min"
+    ],
+    [
+      "return1",
+      1.45,
+      1.9,
+      "max"
+    ],
+    [
+      "work2",
+      2,
+      2.4,
+      "min"
+    ],
+    [
+      "return2",
+      2.55,
+      2.85,
+      "max"
+    ]
+  ],
+  "cases": {
+    "source": {
+      "events": [
+        {
+          "event": "work1",
+          "frame": 33,
+          "seconds": 1.1,
+          "collarX960": 316.71311475409834,
+          "within3pxBand": [
+            0.9666666666666667,
+            1.2333333333333334
+          ]
+        },
+        {
+          "event": "return1",
+          "frame": 52,
+          "seconds": 1.7333333333333334,
+          "collarX960": 430.9232804232804,
+          "within3pxBand": [
+            1.6666666666666667,
+            1.7666666666666666
+          ]
+        },
+        {
+          "event": "work2",
+          "frame": 64,
+          "seconds": 2.1333333333333333,
+          "collarX960": 316.04285714285714,
+          "within3pxBand": [
+            2.1,
+            2.2333333333333334
+          ]
+        },
+        {
+          "event": "return2",
+          "frame": 79,
+          "seconds": 2.6333333333333333,
+          "collarX960": 432.3826530612245,
+          "within3pxBand": [
+            2.6333333333333333,
+            2.7333333333333334
+          ]
+        }
+      ],
+      "videoSHA256": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4"
+    },
+    "kling-front-r01": {
+      "events": [
+        {
+          "event": "work1",
+          "frame": 28,
+          "seconds": 1.1666666666666665,
+          "collarX960": 318.4602510460251,
+          "within3pxBand": [
+            1.0,
+            1.2916666666666665
+          ]
+        },
+        {
+          "event": "return1",
+          "frame": 42,
+          "seconds": 1.75,
+          "collarX960": 433.7298578199052,
+          "within3pxBand": [
+            1.75,
+            1.8333333333333333
+          ]
+        },
+        {
+          "event": "work2",
+          "frame": 53,
+          "seconds": 2.208333333333333,
+          "collarX960": 319.44468546637745,
+          "within3pxBand": [
+            2.1666666666666665,
+            2.2916666666666665
+          ]
+        },
+        {
+          "event": "return2",
+          "frame": 66,
+          "seconds": 2.75,
+          "collarX960": 434.95180722891564,
+          "within3pxBand": [
+            2.708333333333333,
+            2.7916666666666665
+          ]
+        }
+      ],
+      "videoSHA256": "762df3cf43cae1d8917d50f8b083cdca88e4afd65353e4b10cda8d5d5a39da3d"
+    },
+    "kling-front-r02": {
+      "events": [
+        {
+          "event": "work1",
+          "frame": 28,
+          "seconds": 1.1666666666666665,
+          "collarX960": 316.6934156378601,
+          "within3pxBand": [
+            1.0416666666666665,
+            1.25
+          ]
+        },
+        {
+          "event": "return1",
+          "frame": 42,
+          "seconds": 1.75,
+          "collarX960": 432.2909090909091,
+          "within3pxBand": [
+            1.75,
+            1.8333333333333333
+          ]
+        },
+        {
+          "event": "work2",
+          "frame": 53,
+          "seconds": 2.208333333333333,
+          "collarX960": 316.4765957446809,
+          "within3pxBand": [
+            2.1666666666666665,
+            2.2916666666666665
+          ]
+        },
+        {
+          "event": "return2",
+          "frame": 65,
+          "seconds": 2.708333333333333,
+          "collarX960": 432.39493670886077,
+          "within3pxBand": [
+            2.708333333333333,
+            2.7916666666666665
+          ]
+        }
+      ],
+      "videoSHA256": "469aac7f984c402f4ac2066b7df9798ad511ab62f841fa955a536d33196ca250"
+    },
+    "kling-side-r02": {
+      "events": [
+        {
+          "event": "work1",
+          "frame": 29,
+          "seconds": 1.2083333333333333,
+          "collarX960": 316.8408163265306,
+          "within3pxBand": [
+            1.0416666666666665,
+            1.2916666666666665
+          ]
+        },
+        {
+          "event": "return1",
+          "frame": 42,
+          "seconds": 1.75,
+          "collarX960": 432.1706036745407,
+          "within3pxBand": [
+            1.75,
+            1.8333333333333333
+          ]
+        },
+        {
+          "event": "work2",
+          "frame": 53,
+          "seconds": 2.208333333333333,
+          "collarX960": 316.36570247933884,
+          "within3pxBand": [
+            2.1666666666666665,
+            2.2916666666666665
+          ]
+        },
+        {
+          "event": "return2",
+          "frame": 66,
+          "seconds": 2.75,
+          "collarX960": 432.9345088161209,
+          "within3pxBand": [
+            2.708333333333333,
+            2.7916666666666665
+          ]
+        }
+      ],
+      "videoSHA256": "42ce300d1d843bebdae7f36f1dda07245e03c557d759271d952856c4fd9314de"
+    }
+  },
+  "limits": [
+    "Only source and unchanged-oblique Kling cases are used quantitatively. Bernini-r01 green mask is unreliable39/49missing; no timing derived from it.",
+    "Raw extremum timestamps can move within flat plateaus. Do not interpret subframe precision or physical delay."
+  ],
+  "rearDiagnostic": {
+    "case": "bernini-rear-oblique-r02",
+    "videoSHA256": "009e9bf13f1fdb25aee11c2e95d733e7ae1c4dffbf4e3d9574a82311cf6d02cf",
+    "windowSeconds": [
+      0,
+      0.25
+    ],
+    "sourceMaxBindingImageDisplacement960": 0.1503322914085153,
+    "rearMaxBindingImageDisplacement960": 50.698276955558605,
+    "interpretation": "Strong visible early tool motion absent from the source projection. These image distances are not equal3D units or a calibrated cross-view displacement test."
+  }
+}

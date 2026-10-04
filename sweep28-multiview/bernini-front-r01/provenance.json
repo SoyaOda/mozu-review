@@ -1,0 +1,28 @@
+{
+  "originalSHA256": "ec8db83e973b099ac4be99a7275582b7069cba767aef8e3281a86da659cf2921",
+  "provider": "fal",
+  "endpoint": "fal-ai/bernini-r/edit-video",
+  "taskId": "01a10508-8dc7-75a1-9251-3b92739f01b1",
+  "unchangedProviderOriginal": true,
+  "inputSHA256": {
+    "video_url": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4"
+  },
+  "promptSHA256": "75297ba408d7680e72c86ac81c9a1c343f81e13f9bf40c4cef37c9871d0f5c82",
+  "estimate": {
+    "usd": 0.245,
+    "tier": "generic",
+    "basis": "caller",
+    "verified": false,
+    "warnings": [
+      "caller-supplied estimate for fal/fal-ai/bernini-r/edit-video; not verified against fal pricing"
+    ]
+  },
+  "actualUSD": null,
+  "negativePrompt": null,
+  "reviewedFrameRanges": [
+    [
+      0,
+      48
+    ]
+  ]
+}

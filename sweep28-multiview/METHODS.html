@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep28 / METHODS</title><style>body{max-width:1100px;margin:30px auto;padding:0 20px;color:#29373d;background:#f7f5ef;font:16px/1.7 system-ui}h1{line-height:1.2}h2{margin-top:40px}a{color:#2e655d}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid #ccd4ce;padding:10px;vertical-align:top;text-align:left}th{background:#e8ede5}.table{overflow:auto}code{overflow-wrap:anywhere}.item{padding-left:16px}</style><a href="./">Back to comparison</a><h1>Sweep28 methods and interpretation limits</h1>
+<h2>One source interval</h2>
+<p>Every submitted case receives the same90-frame temporal crop of the primary oblique original:</p>
+<p>sourceframes24–113, original0.8–3.8s,30fps,960x960. The crop is losslessly encoded and every</p>
+<p>decoded pixel was compared to its corresponding original frame, with zero differences.</p>
+<p>The full six-second original remains available beside the crop. No generated movie is retimed,</p>
+<p>interpolated, reversed, stabilized or combined with another output.</p>
+<p>The crop contains two working reaches and two recoveries. It excludes the third stroke and final</p>
+<p>settle, so a good pilot would certify only this interval. Output timestamps use each provider</p>
+<p>movie&#x27;s native frame rate.49frames at16fps last3.0625s;73frames at24fps last3.0417s.</p>
+<p>The final displayed sample is at3.0s in both formats. These facts do not imply that the source</p>
+<p>has been resampled into a synchronized multi-camera recording.</p>
+<h2>Review order</h2>
+<p class="item">1. Verify the exact submitted video/image hashes, prompt and untouched downloaded movie.</p>
+<p class="item">2. Decode every native frame, retaining timestamps and image hashes.</p>
+<p class="item">3. Inspect all chronological sheets for actual viewpoint, identity, grip, tool continuity,</p>
+<p>   apparent support, body proportions, tail continuity and work/recovery behavior.</p>
+<p class="item">4. Inspect enlarged key images where a relationship is ambiguous. Keep a decisive camera or</p>
+<p>   identity failure as a rejection, even if some temporal behavior survives.</p>
+<p class="item">5. Compare actual seconds in linked playback. Event buttons refer to source poses. Candidate</p>
+<p>   disagreement is visible and is not removed with phase shifts or time stretching.</p>
+<p>All review decisions belong to the main agent. No independent model or subagent review was used.</p>
+<h2>Color-feature diagnostics</h2>
+<p><code>measure.py</code> reads native decoded frames and resizes only the analysis images to960x960.</p>
+<p>The provider original remains unchanged. It measures the largest green component belowy400,</p>
+<p>HSV hue34–85, saturation&gt;=65, value&gt;80, area&gt;=50pixels. On the source, three Kling outputs and Bernini rear-oblique-r02,</p>
+<p>seven explicit key masks identify the green broom binding. The full traces retain all native</p>
+<p>samples. A missing detection is kept missing and is not interpolated.</p>
+<p>Bernini front-r01 changes the binding and yields39missing detections out of49frames. Its remaining</p>
+<p>green candidates are not accepted as the original binding. No quantitative timing claim uses</p>
+<p>that trace. A visually plausible graph cannot rescue a changed identity or a failed feature mask.</p>
+<p>Four fixed crop-time windows locate binding-x extrema: work1[0.90,1.35], return1[1.45,1.90],</p>
+<p>work2[2.00,2.40], return2[2.55,2.85]. The report also retains every sample within3pixels of each</p>
+<p>extremum as a plateau band. An extremum is an image-feature event, not a unique whole-body pose,</p>
+<p>an anatomical joint angle or a precise physical delay. Extrema can move within a flat plateau.</p>
+<p>No temporal alignment, trajectory fitting or cross-view3D reconstruction is performed.</p>
+<p>The dark lower silhouette uses maxRGB&lt;80 belowy690, connected area&gt;=100pixels, and components</p>
+<p>whose bottom lies within6pixels of the lowest qualifying component. This excludes a separated</p>
+<p>tail stub but can still include a connected arm/body region. The exposed sole-bottom and rear</p>
+<p>edge are image observations only. Broom occlusion changes the apparent leftmost dark pixel by</p>
+<p>many pixels in the original itself; that bounding box cannot measure a step. The source&#x27;s full</p>
+<p>foot/contact audit remains Sweep27.</p>
+<h2>Image guides</h2>
+<p>Kling front-r02 and side-r02 additionally receive byte-identical existing neutral front/side</p>
+<p>images from Sweep25. The exact files and hashes are displayed in the comparison page. They guide</p>
+<p>camera orientation and character appearance; they are not source motion, anatomical measurements</p>
+<p>or adopted joint-angle constraints. Their input status is honestly recorded as UNREGISTERED.</p>
+<p>The current platform policy permits these inputs under the owner&#x27;s standing generation authority.</p>
+<h2>What generated views can establish</h2>
+<p>A successful output may supply a coherent visual hypothesis for the hidden side of a pose.</p>
+<p>It does not add an independent physical measurement. The same model can repeat the same invented</p>
+<p>joint arrangement in multiple views. Fixed-looking feet do not measure weight, ground reaction,</p>
+<p>friction, balance or3D penetration. Apparent hip/chest separation remains ambiguous until a common</p>
+<p>editable rig is tested from several cameras with explicit contact and shape constraints.</p>
+<h2>Provider documentation</h2>
+<p class="item">- <a href="https://fal.ai/models/fal-ai/kling-video/o3/pro/video-to-video/edit/api">Kling O3 Pro video-edit input schema</a></p>
+<p class="item">- <a href="https://fal.ai/models/fal-ai/bernini-r/edit-video/api">Bernini-R video-edit input schema</a></p>
+<p class="item">- <a href="https://fal.ai/models/fal-ai/kling-video/o3/pro/video-to-video/edit">Kling pricing</a></p>
+<p class="item">- <a href="https://fal.ai/models/fal-ai/bernini-r/edit-video">Bernini pricing</a></p>
+<p>Checked2026-10-04. Generic mediagen estimates are caller-supplied from these advertised rates;</p>
+<p>the broker marks them unverified. Actual billed cost is not returned by these jobs.</p></html>

@@ -1,0 +1,23 @@
+{
+  "decision": "reject",
+  "summary": "The output stays oblique throughout, so it provides no new front-view evidence.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      72
+    ]
+  ],
+  "observations": [
+    "All73 original frames inspected in three full sheets.",
+    "Flat gray appearance and single holding arm broadly preserved.",
+    "Two work/recovery movements remain visible.",
+    "The requested front camera is not acquired in any reviewed frame."
+  ],
+  "limitations": [
+    "No physical certificate or anatomical joint-angle inference from this rejected output."
+  ],
+  "reviewer": "Main agent; no independent review.",
+  "videoSHA256": "762df3cf43cae1d8917d50f8b083cdca88e4afd65353e4b10cda8d5d5a39da3d",
+  "measurementsApproved": true,
+  "measurementScope": "Green binding centroid and foot-bottom silhouette checked at7key frames; all-frame traces are retained. Dark toe visibility changes with broom occlusion, not stepping."
+}

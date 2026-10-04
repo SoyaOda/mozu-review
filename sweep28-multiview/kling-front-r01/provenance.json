@@ -1,0 +1,28 @@
+{
+  "originalSHA256": "762df3cf43cae1d8917d50f8b083cdca88e4afd65353e4b10cda8d5d5a39da3d",
+  "provider": "fal",
+  "endpoint": "fal-ai/kling-video/o3/pro/video-to-video/edit",
+  "taskId": "01a10511-8907-76f2-b870-6a78b96eb1e4",
+  "unchangedProviderOriginal": true,
+  "inputSHA256": {
+    "video_url": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4"
+  },
+  "promptSHA256": "c6ce3875f476a1f6f824a4aefd95f42d7d30e433be80309d7d6bdecedd6569b9",
+  "estimate": {
+    "usd": 0.504,
+    "tier": "generic",
+    "basis": "caller",
+    "verified": false,
+    "warnings": [
+      "caller-supplied estimate for fal/fal-ai/kling-video/o3/pro/video-to-video/edit; not verified against fal pricing"
+    ]
+  },
+  "actualUSD": null,
+  "negativePrompt": null,
+  "reviewedFrameRanges": [
+    [
+      0,
+      72
+    ]
+  ]
+}

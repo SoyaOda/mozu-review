@@ -1,0 +1,25 @@
+{
+  "videoSHA256": "469aac7f984c402f4ac2066b7df9798ad511ab62f841fa955a536d33196ca250",
+  "decision": "reject",
+  "summary": "The face remains oblique despite the front guide; the long visible tail is reduced to a stub-like silhouette.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      72
+    ]
+  ],
+  "observations": [
+    "All73frames in three sheets reviewed.",
+    "The source two strokes broadly remain, but the requested frontal viewpoint is never reached.",
+    "Neutral reference appearance partly transferred while the tail geometry is lost."
+  ],
+  "blockingIssues": [
+    "Requested frontal presentation not acquired."
+  ],
+  "limitations": [
+    "The tail change cannot be uniquely separated into occlusion, reorientation or redesign from these images.",
+    "No reliable new foot, pelvis or chest evidence is accepted from this result."
+  ],
+  "measurementsApproved": true,
+  "measurementScope": "Green binding centroid and foot-bottom silhouette checked at7key frames; all-frame traces are retained. Dark toe visibility changes with broom occlusion, not stepping."
+}

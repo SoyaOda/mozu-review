@@ -1,0 +1,25 @@
+{
+  "videoSHA256": "42ce300d1d843bebdae7f36f1dda07245e03c557d759271d952856c4fd9314de",
+  "decision": "reject",
+  "summary": "The side-image guide does not produce an exact side view; the source oblique face remains visible throughout.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      72
+    ]
+  ],
+  "observations": [
+    "All73frames in three chronological sheets reviewed.",
+    "The far eye and broad frontal muzzle remain visible, rather than a single clear profile.",
+    "Two work/recovery movements remain; flat appearance and supported lower silhouette broadly persist.",
+    "Tail and lower-body outline change with the image guide."
+  ],
+  "blockingIssues": [
+    "Requested side camera not acquired."
+  ],
+  "limitations": [
+    "The clip supplies no independent view of hip or ankle accommodation."
+  ],
+  "measurementsApproved": true,
+  "measurementScope": "Green binding centroid and foot-bottom silhouette checked at7key frames; all-frame traces are retained. Dark toe visibility changes with broom occlusion, not stepping."
+}

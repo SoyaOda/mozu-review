@@ -1,0 +1,27 @@
+{
+  "videoSHA256": "438de6ca029286e016b86e0c4d471626bc217db066f55cd6e07462f4d7738e5b",
+  "decision": "reject",
+  "summary": "The camera becomes frontal and the plush texture is avoided, but the broom is duplicated into both hands and the source sweeping action disappears.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      48
+    ]
+  ],
+  "observations": [
+    "All49frames in two sheets reviewed.",
+    "Frontal camera from the first frame; smooth flat style persists.",
+    "One broom per hand is visible across the sequence, replacing the single source broom.",
+    "Rounder face/eye design and changing smile or open-mouth shapes replace the source identity.",
+    "Mostly upright wobble and facial changes; the two source work/recovery strokes are not reproduced."
+  ],
+  "blockingIssues": [
+    "Duplicated tool and changed hand task.",
+    "Facial identity changed.",
+    "Original two-stroke performance absent."
+  ],
+  "measurementsApproved": false,
+  "limitations": [
+    "Two green bindings create an ambiguous largest-component signal; no timing or joint inference is derived from it."
+  ]
+}

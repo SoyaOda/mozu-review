@@ -1,0 +1,665 @@
+{
+  "status": "SOURCE_CONDITIONED_CAMERA_STUDY",
+  "sourceSHA256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4",
+  "cases": [
+    {
+      "id": "bernini-front-r01",
+      "label": "bernini front r01",
+      "requestedView": "front",
+      "decision": "reject",
+      "finding": "The fixed front view is achieved, but mascot identity, single-hand grip and two-stroke timing are not preserved.",
+      "limits": "No physical certificate or anatomical joint-angle inference from this rejected output. Green binding is not reliably detectable:39of49frames fail the50px minimum; no quantitative timing or joint inference uses this mask.",
+      "movie": "bernini-front-r01/original.mp4",
+      "sha256": "ec8db83e973b099ac4be99a7275582b7069cba767aef8e3281a86da659cf2921",
+      "width": 848,
+      "height": 848,
+      "fps": 16.0,
+      "duration": 3.0625,
+      "sheets": [
+        "bernini-front-r01/sheet-0.jpg",
+        "bernini-front-r01/sheet-1.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "bernini-front-r01/pose-board.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "bernini-front-r01/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "bernini-front-r01/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "bernini-front-r01/PROMPT.txt"
+        }
+      ]
+    },
+    {
+      "id": "bernini-front-r02",
+      "label": "bernini front r02",
+      "requestedView": "front",
+      "decision": "reject",
+      "finding": "The camera becomes frontal and the plush texture is avoided, but the broom is duplicated into both hands and the source sweeping action disappears.",
+      "limits": "Two green bindings create an ambiguous largest-component signal; no timing or joint inference is derived from it.",
+      "movie": "bernini-front-r02/original.mp4",
+      "sha256": "438de6ca029286e016b86e0c4d471626bc217db066f55cd6e07462f4d7738e5b",
+      "width": 848,
+      "height": 848,
+      "fps": 16.0,
+      "duration": 3.0625,
+      "sheets": [
+        "bernini-front-r02/sheet-0.jpg",
+        "bernini-front-r02/sheet-1.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "bernini-front-r02/pose-board.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "bernini-front-r02/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "bernini-front-r02/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "bernini-front-r02/PROMPT.txt"
+        }
+      ]
+    },
+    {
+      "id": "kling-front-r01",
+      "label": "kling front r01",
+      "requestedView": "front",
+      "decision": "reject",
+      "finding": "The output stays oblique throughout, so it provides no new front-view evidence.",
+      "limits": "No physical certificate or anatomical joint-angle inference from this rejected output.",
+      "movie": "kling-front-r01/original.mp4",
+      "sha256": "762df3cf43cae1d8917d50f8b083cdca88e4afd65353e4b10cda8d5d5a39da3d",
+      "width": 1440,
+      "height": 1440,
+      "fps": 24.0,
+      "duration": 3.0416666666666665,
+      "sheets": [
+        "kling-front-r01/sheet-0.jpg",
+        "kling-front-r01/sheet-1.jpg",
+        "kling-front-r01/sheet-2.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "kling-front-r01/pose-board.jpg"
+        },
+        {
+          "label": "measurements.json",
+          "href": "kling-front-r01/measurements.json"
+        },
+        {
+          "label": "timing.svg",
+          "href": "kling-front-r01/timing.svg"
+        },
+        {
+          "label": "feature audit.jpg",
+          "href": "kling-front-r01/feature-audit.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "kling-front-r01/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "kling-front-r01/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "kling-front-r01/PROMPT.txt"
+        }
+      ]
+    },
+    {
+      "id": "kling-front-r02",
+      "label": "kling front r02",
+      "requestedView": "front",
+      "decision": "reject",
+      "finding": "The face remains oblique despite the front guide; the long visible tail is reduced to a stub-like silhouette.",
+      "limits": "The tail change cannot be uniquely separated into occlusion, reorientation or redesign from these images. No reliable new foot, pelvis or chest evidence is accepted from this result.",
+      "movie": "kling-front-r02/original.mp4",
+      "sha256": "469aac7f984c402f4ac2066b7df9798ad511ab62f841fa955a536d33196ca250",
+      "width": 1440,
+      "height": 1440,
+      "fps": 24.0,
+      "duration": 3.0416666666666665,
+      "sheets": [
+        "kling-front-r02/sheet-0.jpg",
+        "kling-front-r02/sheet-1.jpg",
+        "kling-front-r02/sheet-2.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "kling-front-r02/pose-board.jpg"
+        },
+        {
+          "label": "measurements.json",
+          "href": "kling-front-r02/measurements.json"
+        },
+        {
+          "label": "timing.svg",
+          "href": "kling-front-r02/timing.svg"
+        },
+        {
+          "label": "feature audit.jpg",
+          "href": "kling-front-r02/feature-audit.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "kling-front-r02/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "kling-front-r02/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "kling-front-r02/PROMPT.txt"
+        }
+      ]
+    },
+    {
+      "id": "bernini-rear-oblique-r02",
+      "label": "bernini rear oblique r02",
+      "requestedView": "rear-oblique",
+      "decision": "reject",
+      "finding": "A rear/side-oblique presentation is acquired, but extra early broom movement and a changed sweep/return sequence fail source-performance preservation.",
+      "limits": "Camera angle is not metrically calibrated. Projected brush height or tail-side overlap does not independently establish3D penetration or distance from the floor. This may suggest rear appearance, but supplies no accepted hidden-joint motion.",
+      "movie": "bernini-rear-oblique-r02/original.mp4",
+      "sha256": "009e9bf13f1fdb25aee11c2e95d733e7ae1c4dffbf4e3d9574a82311cf6d02cf",
+      "width": 848,
+      "height": 848,
+      "fps": 16.0,
+      "duration": 3.0625,
+      "sheets": [
+        "bernini-rear-oblique-r02/sheet-0.jpg",
+        "bernini-rear-oblique-r02/sheet-1.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "bernini-rear-oblique-r02/pose-board.jpg"
+        },
+        {
+          "label": "measurements.json",
+          "href": "bernini-rear-oblique-r02/measurements.json"
+        },
+        {
+          "label": "timing.svg",
+          "href": "bernini-rear-oblique-r02/timing.svg"
+        },
+        {
+          "label": "feature audit.jpg",
+          "href": "bernini-rear-oblique-r02/feature-audit.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "bernini-rear-oblique-r02/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "bernini-rear-oblique-r02/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "bernini-rear-oblique-r02/PROMPT.txt"
+        }
+      ]
+    },
+    {
+      "id": "kling-side-r02",
+      "label": "kling side r02",
+      "requestedView": "side",
+      "decision": "reject",
+      "finding": "The side-image guide does not produce an exact side view; the source oblique face remains visible throughout.",
+      "limits": "The clip supplies no independent view of hip or ankle accommodation.",
+      "movie": "kling-side-r02/original.mp4",
+      "sha256": "42ce300d1d843bebdae7f36f1dda07245e03c557d759271d952856c4fd9314de",
+      "width": 1440,
+      "height": 1440,
+      "fps": 24.0,
+      "duration": 3.0416666666666665,
+      "sheets": [
+        "kling-side-r02/sheet-0.jpg",
+        "kling-side-r02/sheet-1.jpg",
+        "kling-side-r02/sheet-2.jpg"
+      ],
+      "evidence": [
+        {
+          "label": "pose board.jpg",
+          "href": "kling-side-r02/pose-board.jpg"
+        },
+        {
+          "label": "measurements.json",
+          "href": "kling-side-r02/measurements.json"
+        },
+        {
+          "label": "timing.svg",
+          "href": "kling-side-r02/timing.svg"
+        },
+        {
+          "label": "feature audit.jpg",
+          "href": "kling-side-r02/feature-audit.jpg"
+        },
+        {
+          "label": "review.json",
+          "href": "kling-side-r02/review.json"
+        },
+        {
+          "label": "provenance.json",
+          "href": "kling-side-r02/provenance.json"
+        },
+        {
+          "label": "PROMPT.txt",
+          "href": "kling-side-r02/PROMPT.txt"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "METHODS.html",
+      "bytes": 6296,
+      "sha256": "4b1177d66609866fb04dadb89abf4cf7acbfa3a103644b1869eee8f946b1a588"
+    },
+    {
+      "path": "METHODS.md",
+      "bytes": 5087,
+      "sha256": "e47caa62b2c336a87be5d7227e16159c6e473ed03925b1b1733b3b7470efb7b3"
+    },
+    {
+      "path": "PLAN.html",
+      "bytes": 5368,
+      "sha256": "5dbe55caa9f3cf3586600abfb144eaafcdf48dc15f45eb24f0d5cad3b1845dc0"
+    },
+    {
+      "path": "PLAN.md",
+      "bytes": 4377,
+      "sha256": "a0b62191a92587fdb05dd09053f826571030a1e48cae6edac4c95c996c6502e4"
+    },
+    {
+      "path": "REPORT.html",
+      "bytes": 9495,
+      "sha256": "61096687c62508ebe15a5a6eb6fe7e1aa951a3500b2d6befb2b374ee68e5ce38"
+    },
+    {
+      "path": "REPORT.md",
+      "bytes": 7874,
+      "sha256": "5f8bc0776ec3e2a22a649f26751628fa63b8a25d6532f5a1495868e1d38530c0"
+    },
+    {
+      "path": "RIG_IMPLICATIONS.html",
+      "bytes": 3681,
+      "sha256": "e16752e9d6e1ab6aae9183e01b91315a26c620424a6ec5bf9daa4c2b1cf35744"
+    },
+    {
+      "path": "RIG_IMPLICATIONS.md",
+      "bytes": 2773,
+      "sha256": "50088cf4ffaf6bbc7ca789e49e055ba2fb981f63d05c2b2ec162fcd88b0b2fea"
+    },
+    {
+      "path": "bernini-front-r01/PROMPT.txt",
+      "bytes": 1308,
+      "sha256": "e5cf0ba299fac6c9385e00c476645279cd699def11bdceb15b80e54a062692c6"
+    },
+    {
+      "path": "bernini-front-r01/original.mp4",
+      "bytes": 851311,
+      "sha256": "ec8db83e973b099ac4be99a7275582b7069cba767aef8e3281a86da659cf2921"
+    },
+    {
+      "path": "bernini-front-r01/pose-board.jpg",
+      "bytes": 244653,
+      "sha256": "b0dd923fb057d977dbe4d8bff48768a8c593c722b212e096fc6f164046df816c"
+    },
+    {
+      "path": "bernini-front-r01/provenance.json",
+      "bytes": 784,
+      "sha256": "f5ee477cdbd52d07fed36b004dec8beedf745f51a135b26a02f7a2aaef08768c"
+    },
+    {
+      "path": "bernini-front-r01/review.json",
+      "bytes": 1205,
+      "sha256": "a1204cc5d87332562cc7b282f124d6ca9c787433e27036423013e6b4d48ac7f5"
+    },
+    {
+      "path": "bernini-front-r01/sheet-0.jpg",
+      "bytes": 739256,
+      "sha256": "b7a4a6f473d98415325a7c4ca516a085c2c971a69cd2397fe1d9f5529eae67fd"
+    },
+    {
+      "path": "bernini-front-r01/sheet-1.jpg",
+      "bytes": 298365,
+      "sha256": "2560da3fd9d0c9f87b7ebd018c495f56d0b7962d83e884056d87c2da406cb376"
+    },
+    {
+      "path": "bernini-front-r02/PROMPT.txt",
+      "bytes": 623,
+      "sha256": "2e26e53512b2c71893fe1fa4fb58c7ea70c8b24b792bd29e3bbec41c13744a18"
+    },
+    {
+      "path": "bernini-front-r02/original.mp4",
+      "bytes": 620942,
+      "sha256": "438de6ca029286e016b86e0c4d471626bc217db066f55cd6e07462f4d7738e5b"
+    },
+    {
+      "path": "bernini-front-r02/pose-board.jpg",
+      "bytes": 189142,
+      "sha256": "f96ed34f0417882218614dc036ea3b0177dd2dd81e68d9d931282d2f8ffef9a6"
+    },
+    {
+      "path": "bernini-front-r02/provenance.json",
+      "bytes": 942,
+      "sha256": "89a89102c9485cd926f933224246b5a530da9cf119abba6699ecefe85e5dfc32"
+    },
+    {
+      "path": "bernini-front-r02/review.json",
+      "bytes": 1104,
+      "sha256": "cdfbecd475c86d5be6a20499cbd46d18856d002c560d4b5349bbde172804ac68"
+    },
+    {
+      "path": "bernini-front-r02/sheet-0.jpg",
+      "bytes": 626043,
+      "sha256": "75fea9054b5e64b0256bcdb2a66da58cefed274ef90f6a3d2acebefc95e614fc"
+    },
+    {
+      "path": "bernini-front-r02/sheet-1.jpg",
+      "bytes": 248012,
+      "sha256": "5b942f2a34d00497a48b50d9498ff8be20b084c72f055780c5b5510623ceb249"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/PROMPT.txt",
+      "bytes": 674,
+      "sha256": "5534e3a1a7efab4a8bb68ae9e720f5127b2d81a52892dc8f21aafb7417ae6633"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/feature-audit.jpg",
+      "bytes": 144998,
+      "sha256": "2fdac8e6ee875a471059749c9dbcbc2052fa221373ec93b739d758d9a0f8f14b"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/measurements.json",
+      "bytes": 16218,
+      "sha256": "a2906da0e2d99643976d521f861fbc17f0379070a5b27d2d2ea5a8416db02932"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/original.mp4",
+      "bytes": 504562,
+      "sha256": "009e9bf13f1fdb25aee11c2e95d733e7ae1c4dffbf4e3d9574a82311cf6d02cf"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/pose-board.jpg",
+      "bytes": 144808,
+      "sha256": "4c393e773b8467a2824538a281b7a8da31e712777215745714cb45e6a07feca2"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/provenance.json",
+      "bytes": 942,
+      "sha256": "51dae0682af603e0e0189942686a79cb0efadd4c0b3b121c74b88ddfde770a5c"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/review.json",
+      "bytes": 1487,
+      "sha256": "aa53feffaa5e716fcf58acf6be9857cc32da8e42e308470817d5410bc6b3d7c1"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/sheet-0.jpg",
+      "bytes": 496124,
+      "sha256": "1e2afb8801735d75b8dca4df4454ced7285dfdccca7432b979ce91df51e12fbc"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/sheet-1.jpg",
+      "bytes": 202987,
+      "sha256": "a86a2b5422ef3cb407bb2ea266b328600fe705983797201dc48956b4c41647ab"
+    },
+    {
+      "path": "bernini-rear-oblique-r02/timing.svg",
+      "bytes": 2983,
+      "sha256": "e1b1a786af0177fd5d99397e40d134cee507ca6e53400d9788f6be8dc6972a8f"
+    },
+    {
+      "path": "index.html",
+      "bytes": 16006,
+      "sha256": "53a17a16790bc2f94605346745a09ae204453195f5b26e9578bfce9c265f5422"
+    },
+    {
+      "path": "kling-front-r01/PROMPT.txt",
+      "bytes": 1300,
+      "sha256": "f4638ba0cd1ece7f3829e7081f8e8964cba341b37df276b65c2e75ce723af6ea"
+    },
+    {
+      "path": "kling-front-r01/feature-audit.jpg",
+      "bytes": 149832,
+      "sha256": "eaf606159331a3a6df4d719c61b0f8624f6b8951d80bc2b2af91e5f1235f7fa6"
+    },
+    {
+      "path": "kling-front-r01/measurements.json",
+      "bytes": 24487,
+      "sha256": "7005d94fbbe95bb7abf85c22ded30aa9aa5e1fb7dfbfb531584863cbab01145f"
+    },
+    {
+      "path": "kling-front-r01/original.mp4",
+      "bytes": 2014336,
+      "sha256": "762df3cf43cae1d8917d50f8b083cdca88e4afd65353e4b10cda8d5d5a39da3d"
+    },
+    {
+      "path": "kling-front-r01/pose-board.jpg",
+      "bytes": 148438,
+      "sha256": "dc6f3dfb7ce100831d7729043a44fb97b9265471f3a23bd970007e9caf4a8b94"
+    },
+    {
+      "path": "kling-front-r01/provenance.json",
+      "bytes": 820,
+      "sha256": "a98ab50553a229873c012623e55bb3a64671608e2045e29ddc925c19eace2f3f"
+    },
+    {
+      "path": "kling-front-r01/review.json",
+      "bytes": 943,
+      "sha256": "874eba8fb3ce8e934bb93340c06fbc5d70057b2842b5fb43fc415d5388fa8c7e"
+    },
+    {
+      "path": "kling-front-r01/sheet-0.jpg",
+      "bytes": 475391,
+      "sha256": "6937f437fe2136c2b72f7c9d21312997369ee52d436545e3ffed6d9428a1c6bd"
+    },
+    {
+      "path": "kling-front-r01/sheet-1.jpg",
+      "bytes": 483887,
+      "sha256": "5ba2eef46df7d1ce232db8b7d793e07bbc029408806a27ba8cea1d1b2fd9b0f0"
+    },
+    {
+      "path": "kling-front-r01/sheet-2.jpg",
+      "bytes": 53982,
+      "sha256": "b82d33ace7195e132374bef5d638cb827a92eefb1dd58fe40cec981b4e452935"
+    },
+    {
+      "path": "kling-front-r01/timing.svg",
+      "bytes": 3643,
+      "sha256": "939301e916818c61ae4904982357901c7175114a310169cb2076bd2422ed9c6a"
+    },
+    {
+      "path": "kling-front-r02/PROMPT.txt",
+      "bytes": 616,
+      "sha256": "7bec636968a14c6ce2c16d10d5a6741982010096396212425bbc7f601ead6c28"
+    },
+    {
+      "path": "kling-front-r02/feature-audit.jpg",
+      "bytes": 136922,
+      "sha256": "98cede736e2249423001d15a50dc48564a9527cbc80ed6dd2e6cec14973abc04"
+    },
+    {
+      "path": "kling-front-r02/measurements.json",
+      "bytes": 24471,
+      "sha256": "9ba4ecfa634b4b24b2e1bb39af449e5fc41cf445cceb8433b25c1fb2174e3cd1"
+    },
+    {
+      "path": "kling-front-r02/original.mp4",
+      "bytes": 2079607,
+      "sha256": "469aac7f984c402f4ac2066b7df9798ad511ab62f841fa955a536d33196ca250"
+    },
+    {
+      "path": "kling-front-r02/pose-board.jpg",
+      "bytes": 135600,
+      "sha256": "56c2b7847a1e627b2385f70d766e48a21296aeaab72e82f872edef95e35b4afe"
+    },
+    {
+      "path": "kling-front-r02/provenance.json",
+      "bytes": 909,
+      "sha256": "2211fde307fa061e8c4aeb4db14622b2dce8705aaea15ae563c6bc8d663fed89"
+    },
+    {
+      "path": "kling-front-r02/review.json",
+      "bytes": 1080,
+      "sha256": "35a973e435342b12f19ab557b95c1b9393069ff21d217e17d896124922c8f201"
+    },
+    {
+      "path": "kling-front-r02/sheet-0.jpg",
+      "bytes": 434230,
+      "sha256": "256ea57800481e0458b1f013d65aac32666d43a351c8bcf3974084aec040ea69"
+    },
+    {
+      "path": "kling-front-r02/sheet-1.jpg",
+      "bytes": 446419,
+      "sha256": "d841d621e70aa042bac7aa5adb21011d50e0f9baea6e82b972a9eb009c5bc6d5"
+    },
+    {
+      "path": "kling-front-r02/sheet-2.jpg",
+      "bytes": 52616,
+      "sha256": "c929b59f379a319bf23a0f77659ebca8f43c38851c19520d243f0864a75969c6"
+    },
+    {
+      "path": "kling-front-r02/timing.svg",
+      "bytes": 3643,
+      "sha256": "ae3ec81df1a264b1fcfb984fe67c5056e1e87021c9f61632f5cf7bc8eaa14659"
+    },
+    {
+      "path": "kling-side-r02/PROMPT.txt",
+      "bytes": 642,
+      "sha256": "51f6d244501018f9fd66dfc22ca258a8be44dadb73a1388a560ba21519cd49eb"
+    },
+    {
+      "path": "kling-side-r02/feature-audit.jpg",
+      "bytes": 139163,
+      "sha256": "e5e1cb97f207a55f420df93d16ff7521e050d0c11ef96777e3e82b7417f75bf1"
+    },
+    {
+      "path": "kling-side-r02/measurements.json",
+      "bytes": 24481,
+      "sha256": "37dc585bdf5d5a16e0ed3e11df1bf1864f023d6a322dd60cd2399fe4a2797452"
+    },
+    {
+      "path": "kling-side-r02/original.mp4",
+      "bytes": 1684389,
+      "sha256": "42ce300d1d843bebdae7f36f1dda07245e03c557d759271d952856c4fd9314de"
+    },
+    {
+      "path": "kling-side-r02/pose-board.jpg",
+      "bytes": 138027,
+      "sha256": "e84dca483041f3884abeb4ca8a2bee00d4208b7f03bd29d81d5c825db9857a58"
+    },
+    {
+      "path": "kling-side-r02/provenance.json",
+      "bytes": 909,
+      "sha256": "1366cdad24cb00d5eb9ee87752b5a038490ffe79b6cb71e2655b188f2b3c182c"
+    },
+    {
+      "path": "kling-side-r02/review.json",
+      "bytes": 1043,
+      "sha256": "e1af7a736487b5cd213a082e3f7bbdd114ed88ac1726e142d3aa3505185a3d31"
+    },
+    {
+      "path": "kling-side-r02/sheet-0.jpg",
+      "bytes": 454477,
+      "sha256": "def1db22fbc113e6223625aa7be6b95fdaa61d135e66d63aa64ceb9baead6916"
+    },
+    {
+      "path": "kling-side-r02/sheet-1.jpg",
+      "bytes": 460235,
+      "sha256": "1fa5e4bb0d44086c70ae8f154e438ebd34ac348c88f0b079848dbde046b68c2f"
+    },
+    {
+      "path": "kling-side-r02/sheet-2.jpg",
+      "bytes": 53074,
+      "sha256": "96cc8c98b431a6253d107767dac613fee1c3bff8cf2bc6fd9b8fd77b8805a216"
+    },
+    {
+      "path": "kling-side-r02/timing.svg",
+      "bytes": 3642,
+      "sha256": "6cef00b13f3d4ccdd00fb14d8cbadddc20dd016c824e148ecaa07254338345db"
+    },
+    {
+      "path": "references/hold-front.png",
+      "bytes": 163705,
+      "sha256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4"
+    },
+    {
+      "path": "references/hold-side.png",
+      "bytes": 154588,
+      "sha256": "310f2f1e72f600e647680a3b8945e5e07c2265eca223b4ebb6a551a1dfaa5500"
+    },
+    {
+      "path": "references/manifest.json",
+      "bytes": 913,
+      "sha256": "b93987080aa2a908bb2e9da714db696e83512c6a74afbb47d5fdb284c0aaaf73"
+    },
+    {
+      "path": "review.js",
+      "bytes": 4826,
+      "sha256": "d0f0ccbfb45860a9a71452b9d8bcb3b9e49fb69ec4710d735d0abd722985c91a"
+    },
+    {
+      "path": "source-crop.mp4",
+      "bytes": 5608965,
+      "sha256": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4"
+    },
+    {
+      "path": "source-feature-audit.jpg",
+      "bytes": 138629,
+      "sha256": "75b4457756aad4f99b11807822ba87bbea453489b5f44016bda1ab3b3140c779"
+    },
+    {
+      "path": "source-full.mp4",
+      "bytes": 3378857,
+      "sha256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4"
+    },
+    {
+      "path": "source-lineage.json",
+      "bytes": 8457,
+      "sha256": "65db64e4369f68961c1cecf5dbe4b3e310c329b6ac688029aa820d598939f515"
+    },
+    {
+      "path": "source-measurements.json",
+      "bytes": 30004,
+      "sha256": "1b9ce76bc824f900ec29623aab64487d1b19c5f831dd82d579d11fec8621e2ca"
+    },
+    {
+      "path": "source-pose-board.jpg",
+      "bytes": 136831,
+      "sha256": "cf8eb53b0c873daf9509d9cd9a51e47284bb1eaf1839492fd9094db46860fae6"
+    },
+    {
+      "path": "source-timing.svg",
+      "bytes": 4107,
+      "sha256": "e032b04f6b63656c1e2f118703a7001de60fae7e4fc015a8cb2804d52384983a"
+    },
+    {
+      "path": "timing-comparison.json",
+      "bytes": 5906,
+      "sha256": "27e318fec1d9e5fb79663c997a951d2fc26cd325480d397994db1fc8ee36df04"
+    }
+  ]
+}

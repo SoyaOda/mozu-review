@@ -1,0 +1,20 @@
+[
+  {
+    "file": "hold-front.png",
+    "source": "/Users/moei/program/mozu_animation/output/ssot_candidates/sweep25_multiview_20261003/inputs/hold-front.png",
+    "sha256": "9530a9397383316a5be923194e683399f28751f0e229c73f5cd3c83ea1b136b4",
+    "scope": "Existing neutral shape and target camera guide only, not adopted motion or ground-truth pose.",
+    "visuallyInspected": true,
+    "status": "UNREGISTERED",
+    "transform": "Byte-identical copy."
+  },
+  {
+    "file": "hold-side.png",
+    "source": "/Users/moei/program/mozu_animation/output/ssot_candidates/sweep25_multiview_20261003/inputs/hold-side.png",
+    "sha256": "310f2f1e72f600e647680a3b8945e5e07c2265eca223b4ebb6a551a1dfaa5500",
+    "scope": "Existing neutral shape and target camera guide only, not adopted motion or ground-truth pose.",
+    "visuallyInspected": true,
+    "status": "UNREGISTERED",
+    "transform": "Byte-identical copy."
+  }
+]

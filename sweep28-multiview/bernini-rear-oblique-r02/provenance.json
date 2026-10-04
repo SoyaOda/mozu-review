@@ -1,0 +1,28 @@
+{
+  "originalSHA256": "009e9bf13f1fdb25aee11c2e95d733e7ae1c4dffbf4e3d9574a82311cf6d02cf",
+  "provider": "fal",
+  "endpoint": "fal-ai/bernini-r/edit-video",
+  "taskId": "01a1052d-85a5-7a21-a3a7-2d581d73d06d",
+  "unchangedProviderOriginal": true,
+  "inputSHA256": {
+    "video_url": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4"
+  },
+  "promptSHA256": "448107f0669c43dc9fe2565f6b828f7911b0cd69eef8cff9a08fdeb47abec7e6",
+  "estimate": {
+    "usd": 0.245,
+    "tier": "generic",
+    "basis": "caller",
+    "verified": false,
+    "warnings": [
+      "caller-supplied estimate for fal/fal-ai/bernini-r/edit-video; not verified against fal pricing"
+    ]
+  },
+  "actualUSD": null,
+  "negativePrompt": "fur, plush, fabric, texture, white eye highlights, two-handed grip, extra hand, changed tool, stepping, camera orbit, shortened tail, missing tail, static image",
+  "reviewedFrameRanges": [
+    [
+      0,
+      48
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "videoSHA256": "009e9bf13f1fdb25aee11c2e95d733e7ae1c4dffbf4e3d9574a82311cf6d02cf",
+  "decision": "reject",
+  "summary": "A rear/side-oblique presentation is acquired, but extra early broom movement and a changed sweep/return sequence fail source-performance preservation.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      48
+    ]
+  ],
+  "observations": [
+    "All49frames in two chronological sheets reviewed; native-size frames2and20 enlarged.",
+    "Back/side of the head and opposite tail presentation are visible; the angle is not calibrated.",
+    "One broom and a single holding arm remain; supported feet are broadly stable.",
+    "The brush changes direction repeatedly during the opening interval, before the source starts its main reach.",
+    "At1.25s the brush projects across the tail-side silhouette; the latter work/recovery pattern does not match the source two-stroke sequence."
+  ],
+  "blockingIssues": [
+    "Original temporal performance is not preserved."
+  ],
+  "measurementsApproved": true,
+  "measurementScope": "Green binding and lower-foot mask reviewed at7keys plus native-size2and20. Early visible motion is compared in actual seconds, not as equal3D displacement.",
+  "limitations": [
+    "Camera angle is not metrically calibrated.",
+    "Projected brush height or tail-side overlap does not independently establish3D penetration or distance from the floor.",
+    "This may suggest rear appearance, but supplies no accepted hidden-joint motion."
+  ]
+}

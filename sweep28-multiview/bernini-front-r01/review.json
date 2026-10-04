@@ -1,0 +1,28 @@
+{
+  "decision": "reject",
+  "summary": "The fixed front view is achieved, but mascot identity, single-hand grip and two-stroke timing are not preserved.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      48
+    ]
+  ],
+  "observations": [
+    "All49 original frames inspected in two full sheets.",
+    "Flat mascot becomes textured plush with invented white eye highlights.",
+    "The broom is smaller and the arm/grip organization changes toward a two-handed hold.",
+    "The source two reaches/recoveries are replaced by a broad early move and a largely static latter interval."
+  ],
+  "limitations": [
+    "No physical certificate or anatomical joint-angle inference from this rejected output.",
+    "Green binding is not reliably detectable:39of49frames fail the50px minimum; no quantitative timing or joint inference uses this mask."
+  ],
+  "reviewer": "Main agent; no independent review.",
+  "videoSHA256": "ec8db83e973b099ac4be99a7275582b7069cba767aef8e3281a86da659cf2921",
+  "blockingIssues": [
+    "Identity changed to plush with new eye highlights.",
+    "Two-handed grip replaces the original single-hand grip.",
+    "Two-stroke performance not preserved."
+  ],
+  "measurementsApproved": false
+}

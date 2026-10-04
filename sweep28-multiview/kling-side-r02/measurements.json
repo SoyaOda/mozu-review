@@ -1,0 +1,1180 @@
+{
+  "videoSHA256": "42ce300d1d843bebdae7f36f1dda07245e03c557d759271d952856c4fd9314de",
+  "scriptSHA256": "1a7c74cf20f526746214ebfc6069a440f354cf0b9e0bb9f662758a48ecfafbcf",
+  "method": "Native frame timestamps; images resized to960square for color-mask coordinates. Green collar component and dark lower silhouette are visible image features, not joints.",
+  "limitations": [
+    "Paw silhouette may include body/arm occlusion; no ankle angle or contact force can be inferred.",
+    "Across-camera coordinates and axis ranges are not comparable3D distances.",
+    "No phase shifts, time warping or motion fitting; feature masks require visual validation."
+  ],
+  "rows": [
+    {
+      "frame": 0,
+      "seconds": 0.0,
+      "collar": {
+        "x": 493.97216274089936,
+        "y": 768.9550321199143,
+        "area": 467
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5987
+      }
+    },
+    {
+      "frame": 1,
+      "seconds": 0.041666666666666664,
+      "collar": {
+        "x": 493.97216274089936,
+        "y": 768.9550321199143,
+        "area": 467
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5983
+      }
+    },
+    {
+      "frame": 2,
+      "seconds": 0.08333333333333333,
+      "collar": {
+        "x": 493.95922746781116,
+        "y": 768.9463519313305,
+        "area": 466
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5983
+      }
+    },
+    {
+      "frame": 3,
+      "seconds": 0.125,
+      "collar": {
+        "x": 493.98494623655915,
+        "y": 768.9634408602151,
+        "area": 465
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5989
+      }
+    },
+    {
+      "frame": 4,
+      "seconds": 0.16666666666666666,
+      "collar": {
+        "x": 493.98494623655915,
+        "y": 768.9634408602151,
+        "area": 465
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5989
+      }
+    },
+    {
+      "frame": 5,
+      "seconds": 0.20833333333333331,
+      "collar": {
+        "x": 493.9892008639309,
+        "y": 768.9352051835854,
+        "area": 463
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5987
+      }
+    },
+    {
+      "frame": 6,
+      "seconds": 0.25,
+      "collar": {
+        "x": 494.01952277657267,
+        "y": 768.9436008676789,
+        "area": 461
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5990
+      }
+    },
+    {
+      "frame": 7,
+      "seconds": 0.29166666666666663,
+      "collar": {
+        "x": 494.0238095238095,
+        "y": 768.9242424242424,
+        "area": 462
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5994
+      }
+    },
+    {
+      "frame": 8,
+      "seconds": 0.3333333333333333,
+      "collar": {
+        "x": 493.97210300429185,
+        "y": 768.9248927038626,
+        "area": 466
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 5992
+      }
+    },
+    {
+      "frame": 9,
+      "seconds": 0.375,
+      "collar": {
+        "x": 493.86304347826086,
+        "y": 768.7108695652174,
+        "area": 460
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 6005
+      }
+    },
+    {
+      "frame": 10,
+      "seconds": 0.41666666666666663,
+      "collar": {
+        "x": 485.17410714285717,
+        "y": 766.640625,
+        "area": 448
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 6185
+      }
+    },
+    {
+      "frame": 11,
+      "seconds": 0.4583333333333333,
+      "collar": {
+        "x": 482.86681222707426,
+        "y": 765.8689956331878,
+        "area": 458
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 6271
+      }
+    },
+    {
+      "frame": 12,
+      "seconds": 0.5,
+      "collar": {
+        "x": 474.47344110854505,
+        "y": 763.256351039261,
+        "area": 433
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 6600
+      }
+    },
+    {
+      "frame": 13,
+      "seconds": 0.5416666666666666,
+      "collar": {
+        "x": 464.0386363636364,
+        "y": 758.6931818181819,
+        "area": 440
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 7063
+      }
+    },
+    {
+      "frame": 14,
+      "seconds": 0.5833333333333333,
+      "collar": {
+        "x": 427.8722358722359,
+        "y": 744.5847665847666,
+        "area": 407
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8172
+      }
+    },
+    {
+      "frame": 15,
+      "seconds": 0.625,
+      "collar": {
+        "x": 425.1241050119332,
+        "y": 743.1026252983294,
+        "area": 419
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8250
+      }
+    },
+    {
+      "frame": 16,
+      "seconds": 0.6666666666666666,
+      "collar": {
+        "x": 416.4988399071926,
+        "y": 740.5800464037123,
+        "area": 431
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8346
+      }
+    },
+    {
+      "frame": 17,
+      "seconds": 0.7083333333333333,
+      "collar": {
+        "x": 401.4342723004695,
+        "y": 737.3028169014085,
+        "area": 426
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8396
+      }
+    },
+    {
+      "frame": 18,
+      "seconds": 0.75,
+      "collar": {
+        "x": 364.9607329842932,
+        "y": 733.5078534031413,
+        "area": 382
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8405
+      }
+    },
+    {
+      "frame": 19,
+      "seconds": 0.7916666666666666,
+      "collar": {
+        "x": 360.17054263565893,
+        "y": 734.9664082687339,
+        "area": 387
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8401
+      }
+    },
+    {
+      "frame": 20,
+      "seconds": 0.8333333333333333,
+      "collar": {
+        "x": 353.67966573816153,
+        "y": 736.2228412256268,
+        "area": 359
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8411
+      }
+    },
+    {
+      "frame": 21,
+      "seconds": 0.875,
+      "collar": {
+        "x": 341.51776649746193,
+        "y": 741.8807106598985,
+        "area": 394
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8427
+      }
+    },
+    {
+      "frame": 22,
+      "seconds": 0.9166666666666666,
+      "collar": {
+        "x": 323.5966587112172,
+        "y": 761.782816229117,
+        "area": 419
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8460
+      }
+    },
+    {
+      "frame": 23,
+      "seconds": 0.9583333333333333,
+      "collar": {
+        "x": 322.5165562913907,
+        "y": 764.4437086092715,
+        "area": 453
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8451
+      }
+    },
+    {
+      "frame": 24,
+      "seconds": 1.0,
+      "collar": {
+        "x": 321.15144766146994,
+        "y": 767.2806236080178,
+        "area": 449
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8455
+      }
+    },
+    {
+      "frame": 25,
+      "seconds": 1.0416666666666665,
+      "collar": {
+        "x": 318.8580931263858,
+        "y": 771.0643015521065,
+        "area": 451
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8459
+      }
+    },
+    {
+      "frame": 26,
+      "seconds": 1.0833333333333333,
+      "collar": {
+        "x": 317.5456389452333,
+        "y": 777.3265720081135,
+        "area": 493
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8463
+      }
+    },
+    {
+      "frame": 27,
+      "seconds": 1.125,
+      "collar": {
+        "x": 317.09638554216866,
+        "y": 777.8052208835342,
+        "area": 498
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8469
+      }
+    },
+    {
+      "frame": 28,
+      "seconds": 1.1666666666666665,
+      "collar": {
+        "x": 316.86558044806515,
+        "y": 777.8900203665988,
+        "area": 491
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8466
+      }
+    },
+    {
+      "frame": 29,
+      "seconds": 1.2083333333333333,
+      "collar": {
+        "x": 316.8408163265306,
+        "y": 777.7020408163265,
+        "area": 490
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8465
+      }
+    },
+    {
+      "frame": 30,
+      "seconds": 1.25,
+      "collar": {
+        "x": 318.1039501039501,
+        "y": 778.4594594594595,
+        "area": 481
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8462
+      }
+    },
+    {
+      "frame": 31,
+      "seconds": 1.2916666666666665,
+      "collar": {
+        "x": 319.8326530612245,
+        "y": 779.1979591836734,
+        "area": 490
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8462
+      }
+    },
+    {
+      "frame": 32,
+      "seconds": 1.3333333333333333,
+      "collar": {
+        "x": 321.2515337423313,
+        "y": 779.0613496932515,
+        "area": 489
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8450
+      }
+    },
+    {
+      "frame": 33,
+      "seconds": 1.375,
+      "collar": {
+        "x": 322.99391480730225,
+        "y": 779.8296146044624,
+        "area": 493
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8434
+      }
+    },
+    {
+      "frame": 34,
+      "seconds": 1.4166666666666665,
+      "collar": {
+        "x": 339.6039387308534,
+        "y": 781.7177242888403,
+        "area": 457
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 343,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 8234
+      }
+    },
+    {
+      "frame": 35,
+      "seconds": 1.4583333333333333,
+      "collar": {
+        "x": 349.3584474885845,
+        "y": 781.8561643835617,
+        "area": 438
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 348,
+        "xMax": 553,
+        "yMin": 802,
+        "yMax": 850,
+        "area": 7836
+      }
+    },
+    {
+      "frame": 36,
+      "seconds": 1.5,
+      "collar": {
+        "x": 360.0362811791383,
+        "y": 782.1473922902494,
+        "area": 441
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 361,
+        "xMax": 553,
+        "yMin": 806,
+        "yMax": 850,
+        "area": 7302
+      }
+    },
+    {
+      "frame": 37,
+      "seconds": 1.5416666666666665,
+      "collar": {
+        "x": 372.7069351230425,
+        "y": 780.7293064876958,
+        "area": 447
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 380,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 6639
+      }
+    },
+    {
+      "frame": 38,
+      "seconds": 1.5833333333333333,
+      "collar": {
+        "x": 401.5791962174941,
+        "y": 776.5106382978723,
+        "area": 423
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 412,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 5576
+      }
+    },
+    {
+      "frame": 39,
+      "seconds": 1.625,
+      "collar": {
+        "x": 412.6478873239437,
+        "y": 774.6502347417841,
+        "area": 426
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5644
+      }
+    },
+    {
+      "frame": 40,
+      "seconds": 1.6666666666666665,
+      "collar": {
+        "x": 420.5950617283951,
+        "y": 772.4074074074074,
+        "area": 405
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5854
+      }
+    },
+    {
+      "frame": 41,
+      "seconds": 1.7083333333333333,
+      "collar": {
+        "x": 426.0026525198939,
+        "y": 771.0159151193634,
+        "area": 377
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5971
+      }
+    },
+    {
+      "frame": 42,
+      "seconds": 1.75,
+      "collar": {
+        "x": 432.1706036745407,
+        "y": 768.3700787401575,
+        "area": 381
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6093
+      }
+    },
+    {
+      "frame": 43,
+      "seconds": 1.7916666666666665,
+      "collar": {
+        "x": 431.7237851662404,
+        "y": 768.1381074168798,
+        "area": 391
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 340,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6143
+      }
+    },
+    {
+      "frame": 44,
+      "seconds": 1.8333333333333333,
+      "collar": {
+        "x": 429.8216216216216,
+        "y": 767.6567567567567,
+        "area": 370
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6191
+      }
+    },
+    {
+      "frame": 45,
+      "seconds": 1.875,
+      "collar": {
+        "x": 423.5648648648649,
+        "y": 768.3,
+        "area": 370
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 801,
+        "yMax": 850,
+        "area": 6135
+      }
+    },
+    {
+      "frame": 46,
+      "seconds": 1.9166666666666665,
+      "collar": {
+        "x": 402.2412587412587,
+        "y": 769.5629370629371,
+        "area": 286
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 804,
+        "yMax": 850,
+        "area": 6191
+      }
+    },
+    {
+      "frame": 47,
+      "seconds": 1.9583333333333333,
+      "collar": {
+        "x": 384.74254742547424,
+        "y": 770.2005420054201,
+        "area": 369
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 343,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 6728
+      }
+    },
+    {
+      "frame": 48,
+      "seconds": 2.0,
+      "collar": {
+        "x": 367.64542936288086,
+        "y": 771.027700831025,
+        "area": 361
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 347,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 7319
+      }
+    },
+    {
+      "frame": 49,
+      "seconds": 2.0416666666666665,
+      "collar": {
+        "x": 337.0057971014493,
+        "y": 774.4260869565218,
+        "area": 345
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8516
+      }
+    },
+    {
+      "frame": 50,
+      "seconds": 2.083333333333333,
+      "collar": {
+        "x": 328.7326086956522,
+        "y": 775.3260869565217,
+        "area": 460
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8514
+      }
+    },
+    {
+      "frame": 51,
+      "seconds": 2.125,
+      "collar": {
+        "x": 322.6784232365145,
+        "y": 776.0145228215767,
+        "area": 482
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 552,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8491
+      }
+    },
+    {
+      "frame": 52,
+      "seconds": 2.1666666666666665,
+      "collar": {
+        "x": 318.7474120082816,
+        "y": 776.304347826087,
+        "area": 483
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 552,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8491
+      }
+    },
+    {
+      "frame": 53,
+      "seconds": 2.208333333333333,
+      "collar": {
+        "x": 316.36570247933884,
+        "y": 777.5971074380166,
+        "area": 484
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 552,
+        "yMin": 798,
+        "yMax": 850,
+        "area": 8492
+      }
+    },
+    {
+      "frame": 54,
+      "seconds": 2.25,
+      "collar": {
+        "x": 316.93223819301846,
+        "y": 778.1149897330596,
+        "area": 487
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 552,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8504
+      }
+    },
+    {
+      "frame": 55,
+      "seconds": 2.2916666666666665,
+      "collar": {
+        "x": 318.84909456740445,
+        "y": 778.8551307847082,
+        "area": 497
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 552,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8496
+      }
+    },
+    {
+      "frame": 56,
+      "seconds": 2.333333333333333,
+      "collar": {
+        "x": 321.30142566191444,
+        "y": 779.5071283095723,
+        "area": 491
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8508
+      }
+    },
+    {
+      "frame": 57,
+      "seconds": 2.375,
+      "collar": {
+        "x": 331.2721088435374,
+        "y": 780.8344671201814,
+        "area": 441
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 342,
+        "xMax": 553,
+        "yMin": 797,
+        "yMax": 850,
+        "area": 8509
+      }
+    },
+    {
+      "frame": 58,
+      "seconds": 2.4166666666666665,
+      "collar": {
+        "x": 341.2886363636364,
+        "y": 781.325,
+        "area": 440
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 344,
+        "xMax": 553,
+        "yMin": 802,
+        "yMax": 850,
+        "area": 8281
+      }
+    },
+    {
+      "frame": 59,
+      "seconds": 2.458333333333333,
+      "collar": {
+        "x": 352.5280172413793,
+        "y": 781.8922413793103,
+        "area": 464
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 351,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 7754
+      }
+    },
+    {
+      "frame": 60,
+      "seconds": 2.5,
+      "collar": {
+        "x": 363.99767981438515,
+        "y": 781.8816705336427,
+        "area": 431
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 367,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 7192
+      }
+    },
+    {
+      "frame": 61,
+      "seconds": 2.5416666666666665,
+      "collar": {
+        "x": 391.1625344352617,
+        "y": 777.1349862258953,
+        "area": 363
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 400,
+        "xMax": 553,
+        "yMin": 804,
+        "yMax": 850,
+        "area": 6013
+      }
+    },
+    {
+      "frame": 62,
+      "seconds": 2.583333333333333,
+      "collar": {
+        "x": 409.78891820580475,
+        "y": 774.7018469656992,
+        "area": 379
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 804,
+        "yMax": 850,
+        "area": 5544
+      }
+    },
+    {
+      "frame": 63,
+      "seconds": 2.625,
+      "collar": {
+        "x": 416.43932038834953,
+        "y": 773.257281553398,
+        "area": 412
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5752
+      }
+    },
+    {
+      "frame": 64,
+      "seconds": 2.6666666666666665,
+      "collar": {
+        "x": 424.2296918767507,
+        "y": 771.2268907563025,
+        "area": 357
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5919
+      }
+    },
+    {
+      "frame": 65,
+      "seconds": 2.708333333333333,
+      "collar": {
+        "x": 432.71898734177216,
+        "y": 768.8329113924051,
+        "area": 395
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6077
+      }
+    },
+    {
+      "frame": 66,
+      "seconds": 2.75,
+      "collar": {
+        "x": 432.9345088161209,
+        "y": 768.551637279597,
+        "area": 397
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 554,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6051
+      }
+    },
+    {
+      "frame": 67,
+      "seconds": 2.7916666666666665,
+      "collar": {
+        "x": 430.8472906403941,
+        "y": 769.0246305418719,
+        "area": 406
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 340,
+        "xMax": 554,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 6019
+      }
+    },
+    {
+      "frame": 68,
+      "seconds": 2.833333333333333,
+      "collar": {
+        "x": 426.2116402116402,
+        "y": 770.2804232804233,
+        "area": 378
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 340,
+        "xMax": 554,
+        "yMin": 800,
+        "yMax": 850,
+        "area": 5844
+      }
+    },
+    {
+      "frame": 69,
+      "seconds": 2.875,
+      "collar": {
+        "x": 405.3778501628664,
+        "y": 774.3322475570033,
+        "area": 307
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 341,
+        "xMax": 553,
+        "yMin": 804,
+        "yMax": 850,
+        "area": 5417
+      }
+    },
+    {
+      "frame": 70,
+      "seconds": 2.9166666666666665,
+      "collar": {
+        "x": 383.53097345132744,
+        "y": 777.6578171091445,
+        "area": 339
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 394,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 6240
+      }
+    },
+    {
+      "frame": 71,
+      "seconds": 2.958333333333333,
+      "collar": {
+        "x": 373.67727272727274,
+        "y": 779.3522727272727,
+        "area": 440
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 383,
+        "xMax": 553,
+        "yMin": 805,
+        "yMax": 850,
+        "area": 6592
+      }
+    },
+    {
+      "frame": 72,
+      "seconds": 3.0,
+      "collar": {
+        "x": 356.34168564920276,
+        "y": 781.0774487471526,
+        "area": 439
+      },
+      "visibleDarkLowerSilhouette": {
+        "xMin": 364,
+        "xMax": 553,
+        "yMin": 806,
+        "yMax": 850,
+        "area": 7356
+      }
+    }
+  ]
+}

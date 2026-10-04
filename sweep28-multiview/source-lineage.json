@@ -1,0 +1,465 @@
+{
+  "source": "/Users/moei/program/mozu_animation/output/ssot_candidates/sweep23_fixedshoulder_20261003/r01/original/output.mp4",
+  "sourceSHA256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4",
+  "crop": "/Users/moei/program/mozu_animation/output/ssot_candidates/sweep28_multiview_20261004/source/ssot-f024-f113.mp4",
+  "cropSHA256": "43478a044fe90c08f3ac2e904d25fb6397e8d6417a5841b801cbbfbdf17ac6f4",
+  "sourceStartFrame": 24,
+  "sourceEndFrameInclusive": 113,
+  "sourceOffsetSeconds": 0.8,
+  "durationSeconds": 3.0,
+  "fps": 30,
+  "frames": 90,
+  "derivative": "Temporal crop only; lossless H264 re-encode; no retiming, interpolation or spatial edit.",
+  "decodedPixelComparisons": [
+    {
+      "sourceFrame": 24,
+      "cropFrame": 0,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 25,
+      "cropFrame": 1,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 26,
+      "cropFrame": 2,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 27,
+      "cropFrame": 3,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 28,
+      "cropFrame": 4,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 29,
+      "cropFrame": 5,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 30,
+      "cropFrame": 6,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 31,
+      "cropFrame": 7,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 32,
+      "cropFrame": 8,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 33,
+      "cropFrame": 9,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 34,
+      "cropFrame": 10,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 35,
+      "cropFrame": 11,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 36,
+      "cropFrame": 12,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 37,
+      "cropFrame": 13,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 38,
+      "cropFrame": 14,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 39,
+      "cropFrame": 15,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 40,
+      "cropFrame": 16,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 41,
+      "cropFrame": 17,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 42,
+      "cropFrame": 18,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 43,
+      "cropFrame": 19,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 44,
+      "cropFrame": 20,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 45,
+      "cropFrame": 21,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 46,
+      "cropFrame": 22,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 47,
+      "cropFrame": 23,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 48,
+      "cropFrame": 24,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 49,
+      "cropFrame": 25,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 50,
+      "cropFrame": 26,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 51,
+      "cropFrame": 27,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 52,
+      "cropFrame": 28,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 53,
+      "cropFrame": 29,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 54,
+      "cropFrame": 30,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 55,
+      "cropFrame": 31,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 56,
+      "cropFrame": 32,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 57,
+      "cropFrame": 33,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 58,
+      "cropFrame": 34,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 59,
+      "cropFrame": 35,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 60,
+      "cropFrame": 36,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 61,
+      "cropFrame": 37,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 62,
+      "cropFrame": 38,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 63,
+      "cropFrame": 39,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 64,
+      "cropFrame": 40,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 65,
+      "cropFrame": 41,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 66,
+      "cropFrame": 42,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 67,
+      "cropFrame": 43,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 68,
+      "cropFrame": 44,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 69,
+      "cropFrame": 45,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 70,
+      "cropFrame": 46,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 71,
+      "cropFrame": 47,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 72,
+      "cropFrame": 48,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 73,
+      "cropFrame": 49,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 74,
+      "cropFrame": 50,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 75,
+      "cropFrame": 51,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 76,
+      "cropFrame": 52,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 77,
+      "cropFrame": 53,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 78,
+      "cropFrame": 54,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 79,
+      "cropFrame": 55,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 80,
+      "cropFrame": 56,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 81,
+      "cropFrame": 57,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 82,
+      "cropFrame": 58,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 83,
+      "cropFrame": 59,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 84,
+      "cropFrame": 60,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 85,
+      "cropFrame": 61,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 86,
+      "cropFrame": 62,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 87,
+      "cropFrame": 63,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 88,
+      "cropFrame": 64,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 89,
+      "cropFrame": 65,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 90,
+      "cropFrame": 66,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 91,
+      "cropFrame": 67,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 92,
+      "cropFrame": 68,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 93,
+      "cropFrame": 69,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 94,
+      "cropFrame": 70,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 95,
+      "cropFrame": 71,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 96,
+      "cropFrame": 72,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 97,
+      "cropFrame": 73,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 98,
+      "cropFrame": 74,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 99,
+      "cropFrame": 75,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 100,
+      "cropFrame": 76,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 101,
+      "cropFrame": 77,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 102,
+      "cropFrame": 78,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 103,
+      "cropFrame": 79,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 104,
+      "cropFrame": 80,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 105,
+      "cropFrame": 81,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 106,
+      "cropFrame": 82,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 107,
+      "cropFrame": 83,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 108,
+      "cropFrame": 84,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 109,
+      "cropFrame": 85,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 110,
+      "cropFrame": 86,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 111,
+      "cropFrame": 87,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 112,
+      "cropFrame": 88,
+      "maxPixelError": 0
+    },
+    {
+      "sourceFrame": 113,
+      "cropFrame": 89,
+      "maxPixelError": 0
+    }
+  ]
+}
