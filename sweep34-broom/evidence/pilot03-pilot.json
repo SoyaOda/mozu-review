@@ -1,0 +1,5352 @@
+{
+  "sourceSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "cases": {
+    "F1-distal": {
+      "Lower reach": 0.74,
+      "Upper handle": 0.12,
+      "Fan width": 0.51,
+      "Fan depth": 0.19,
+      "Fan height": 0.3,
+      "Shaft radius": 0.034,
+      "Fan turn": 0.0,
+      "Heading offset": 0.0,
+      "Heading travel": 0.0,
+      "Bristle response": 0.018,
+      "Grip region": 0.84,
+      "Design on": 1.0
+    },
+    "F2-distal": {
+      "Lower reach": 0.74,
+      "Upper handle": 0.12,
+      "Fan width": 0.51,
+      "Fan depth": 0.19,
+      "Fan height": 0.3,
+      "Shaft radius": 0.034,
+      "Fan turn": 0.0,
+      "Heading offset": 0.0,
+      "Heading travel": -30.0,
+      "Bristle response": 0.018,
+      "Grip region": 0.84,
+      "Design on": 1.0
+    },
+    "F3-distal": {
+      "Lower reach": 0.74,
+      "Upper handle": 0.12,
+      "Fan width": 0.51,
+      "Fan depth": 0.19,
+      "Fan height": 0.3,
+      "Shaft radius": 0.034,
+      "Fan turn": 0.0,
+      "Heading offset": 0.0,
+      "Heading travel": 30.0,
+      "Bristle response": 0.018,
+      "Grip region": 0.84,
+      "Design on": 1.0
+    }
+  },
+  "images": [
+    {
+      "case": "F1-distal",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "F1-distal-0-front.png",
+          "sha256": "e16bb7195821f12ed6920919f61176cc85ae56c519f0a2a52b2e94c2d3868c83"
+        },
+        "oblique": {
+          "file": "F1-distal-0-oblique.png",
+          "sha256": "e60ea2d78c1c42d48f1ca8524b67fd7861a4c059cff2bed8815a6087cb907c32"
+        },
+        "side": {
+          "file": "F1-distal-0-side.png",
+          "sha256": "76061a47c640fd996a36a2941cbc2396111c72ee2ab696699dd5512afb542979"
+        },
+        "reverse": {
+          "file": "F1-distal-0-reverse.png",
+          "sha256": "6ea8e12da74cdf570aa35ace32b063ef3b41d10653049576d02fedd5c30c48b2"
+        },
+        "back": {
+          "file": "F1-distal-0-back.png",
+          "sha256": "2dd0f713f87e51ce81d4adc429517be878e5b51bc14c632c48aab617abbc3cf1"
+        },
+        "top": {
+          "file": "F1-distal-0-top.png",
+          "sha256": "2ca0b223bb358c0890a235e1c9d7628c04eba34657f9b92f5d6af08b07fdf37c"
+        }
+      }
+    },
+    {
+      "case": "F1-distal",
+      "seconds": 1.83,
+      "views": {
+        "front": {
+          "file": "F1-distal-1-front.png",
+          "sha256": "6ce0f88f5ca05252f801774652ec2b0175a5bf4896ce543b33895e7d70dcc4c4"
+        },
+        "oblique": {
+          "file": "F1-distal-1-oblique.png",
+          "sha256": "6bd1663e198baf31f43c91fe845c9f2797a2a8443ebc27871103a51aec74e1d8"
+        },
+        "side": {
+          "file": "F1-distal-1-side.png",
+          "sha256": "7d799e780be37a39f75705461f4be0b91c332c880f1dc9ae75440a03b0b0acaf"
+        },
+        "reverse": {
+          "file": "F1-distal-1-reverse.png",
+          "sha256": "672d741139c0e797d41e869ff5e7bf0ccaee6b7b1867c7781d7ca0c1193b5b79"
+        },
+        "back": {
+          "file": "F1-distal-1-back.png",
+          "sha256": "b3a3b01c3dea4c410fb6256161c9ba51c2725b4ba36ac52039f2ed1fdfef66a7"
+        },
+        "top": {
+          "file": "F1-distal-1-top.png",
+          "sha256": "6910796fe696ff98de71f7d879db6bede1ba27cb6fcd6d33097ba4a14d7d339f"
+        }
+      }
+    },
+    {
+      "case": "F1-distal",
+      "seconds": 2.02,
+      "views": {
+        "front": {
+          "file": "F1-distal-2-front.png",
+          "sha256": "b186d89b0693229e1defe9c0257b46f9a31c8574bc3b3de8502fa9d2ac9daa46"
+        },
+        "oblique": {
+          "file": "F1-distal-2-oblique.png",
+          "sha256": "28e4ff59c08f7edda35c1f9af53b6700415baa20ab19ead6f4adbdf8a2e06ab1"
+        },
+        "side": {
+          "file": "F1-distal-2-side.png",
+          "sha256": "dbb2b48f762a849d6cebb4f477f097cf2f6f519c24124c5ac3b8c77f2e5d8052"
+        },
+        "reverse": {
+          "file": "F1-distal-2-reverse.png",
+          "sha256": "04fed1512005cfc5fb6a36f2023cc8b608066e5357e2dc097bbd93565e3882ba"
+        },
+        "back": {
+          "file": "F1-distal-2-back.png",
+          "sha256": "6a784ef8665c1b6d0dc15f085abfeb900e96aac9e681addf1252281c195d9bed"
+        },
+        "top": {
+          "file": "F1-distal-2-top.png",
+          "sha256": "c4be348768649392784385ee40384890cfc246b194686b06a8625f8997ff0bef"
+        }
+      }
+    },
+    {
+      "case": "F1-distal",
+      "seconds": 2.6,
+      "views": {
+        "front": {
+          "file": "F1-distal-3-front.png",
+          "sha256": "63c2d309ab79c93d302dd75791cedd040ca65394d6813a404cd8bec3fc15efc3"
+        },
+        "oblique": {
+          "file": "F1-distal-3-oblique.png",
+          "sha256": "9d65e66cee5a7a01f62c37bacb0b3b2b383d5e10f4b85e336f6d674e10d6cc1f"
+        },
+        "side": {
+          "file": "F1-distal-3-side.png",
+          "sha256": "f62570de989934d362593845540a44ecebe81ca8fbb628ec99011811b9c32743"
+        },
+        "reverse": {
+          "file": "F1-distal-3-reverse.png",
+          "sha256": "7c631b62a6a3ab05a3445b5d19e23b4fb53bf666c5b2751fe9a27d8655d46874"
+        },
+        "back": {
+          "file": "F1-distal-3-back.png",
+          "sha256": "c0cb1697488bd316e9efb504907d115d6d33229ec479381c89d020475e4f2b1f"
+        },
+        "top": {
+          "file": "F1-distal-3-top.png",
+          "sha256": "d97d7858a8dcbf6cb5826c01d8899a8cdeaa6e573ae4b6d696efa56e555a68eb"
+        }
+      }
+    },
+    {
+      "case": "F2-distal",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "F2-distal-0-front.png",
+          "sha256": "cb81fded79f3fef306632d0e2161feba3772e007268d2013ef3b28b5d6afa436"
+        },
+        "oblique": {
+          "file": "F2-distal-0-oblique.png",
+          "sha256": "c25f91b785d10ac0fbab7ca13fefe5acf656ba46dda49164b7f3f2fcf9d2edd9"
+        },
+        "side": {
+          "file": "F2-distal-0-side.png",
+          "sha256": "f2b466e6c40b7944915363d661da6e61758ad8b9324ad87fd8de210d38702d7f"
+        },
+        "reverse": {
+          "file": "F2-distal-0-reverse.png",
+          "sha256": "719dbbaf7bcd17fff5eb2bb2bf7b8b5564bff4700569b9bdee19a384da113653"
+        },
+        "back": {
+          "file": "F2-distal-0-back.png",
+          "sha256": "4ad3241b1836cd28996731d9cbb831609900b2ab2468e1c695ff7cbb2438d39d"
+        },
+        "top": {
+          "file": "F2-distal-0-top.png",
+          "sha256": "63e4b5c644c5f881ee955c9f26af33573cdb1f2ac7ebc27c48e2b444bf0da24f"
+        }
+      }
+    },
+    {
+      "case": "F2-distal",
+      "seconds": 1.83,
+      "views": {
+        "front": {
+          "file": "F2-distal-1-front.png",
+          "sha256": "19c03ef5ddfbf5a157db0aaf86eea0a156048f648290ad6c513dc0d66640ef83"
+        },
+        "oblique": {
+          "file": "F2-distal-1-oblique.png",
+          "sha256": "5dc197822ef35f43aec0986a151361586987be74e163019f0f3d33bcb126b2d5"
+        },
+        "side": {
+          "file": "F2-distal-1-side.png",
+          "sha256": "97afbf68571b784fd403156f268092ae85778e21074e2fc15d3e973e58333d2b"
+        },
+        "reverse": {
+          "file": "F2-distal-1-reverse.png",
+          "sha256": "47fc5b56126f4185a4e772ace41bccfe2287dc459136d3fb9118b023924785d4"
+        },
+        "back": {
+          "file": "F2-distal-1-back.png",
+          "sha256": "bf064bb6f7e20aee031573c2a8d2bffb10f49e08c7590aedadcf155e62d1306c"
+        },
+        "top": {
+          "file": "F2-distal-1-top.png",
+          "sha256": "e2db0eb92bc52daa2bb954ea43e3c63fe52d5c4060a1cbd511e9bdd71e006f2a"
+        }
+      }
+    },
+    {
+      "case": "F2-distal",
+      "seconds": 2.02,
+      "views": {
+        "front": {
+          "file": "F2-distal-2-front.png",
+          "sha256": "6c4a8444e95e7a1abc76d21ac18e3c01d484a7179c6e127b70794dc9d3d5d517"
+        },
+        "oblique": {
+          "file": "F2-distal-2-oblique.png",
+          "sha256": "31fd37d5bbc9ebb89242edec3f65d93a374c29f2c584b2735166137c78b5a587"
+        },
+        "side": {
+          "file": "F2-distal-2-side.png",
+          "sha256": "6c091056e9c0e5ba22af8565bafc5e0b59e82942052929f6763950e510882c06"
+        },
+        "reverse": {
+          "file": "F2-distal-2-reverse.png",
+          "sha256": "aa8bb249bd9711b6a459b2bcea9de359ea345b768c5772a65d4f12f7dba76f6a"
+        },
+        "back": {
+          "file": "F2-distal-2-back.png",
+          "sha256": "ee2a5d4a873c53c35c6a2b85d7050b37b2d8ea11845a3275638890c8d97ba1ab"
+        },
+        "top": {
+          "file": "F2-distal-2-top.png",
+          "sha256": "fe4b0a074d9e68f0c68326aadb26ba62c84641f390e0c42bcb66321d40a027a8"
+        }
+      }
+    },
+    {
+      "case": "F2-distal",
+      "seconds": 2.6,
+      "views": {
+        "front": {
+          "file": "F2-distal-3-front.png",
+          "sha256": "0873fefb3b2a3887da5d0decdb5eabd34c38d91b3a932f5ab03eb59997925b1d"
+        },
+        "oblique": {
+          "file": "F2-distal-3-oblique.png",
+          "sha256": "359687912d92d0e98e70ed3bcd9d46a4e6bf2c901248fa6fb62b8b491732e21f"
+        },
+        "side": {
+          "file": "F2-distal-3-side.png",
+          "sha256": "9500523bacaae1edafe16917af635bf9f327bd06698b33497565c80991e7d270"
+        },
+        "reverse": {
+          "file": "F2-distal-3-reverse.png",
+          "sha256": "5564975787442bf06cd97bbc22714dd8be54d46decf5396a025c242388958019"
+        },
+        "back": {
+          "file": "F2-distal-3-back.png",
+          "sha256": "a1c06b194ac9d8903e889088001cd452fb8ffa6f1ba9aefb8a2ed2964c5ba7e8"
+        },
+        "top": {
+          "file": "F2-distal-3-top.png",
+          "sha256": "b04afa57b6723657e3b375fb05084a15aab9932bd275acb32a3c482e166cc2a1"
+        }
+      }
+    },
+    {
+      "case": "F3-distal",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "F3-distal-0-front.png",
+          "sha256": "58e53c1d8fab758cbffabc5347da87b356bbb3dbf838f25eed582b094370053a"
+        },
+        "oblique": {
+          "file": "F3-distal-0-oblique.png",
+          "sha256": "e0a8ae2c2f3cba56b250939a61105957be5031735c1def81c393a08c74734647"
+        },
+        "side": {
+          "file": "F3-distal-0-side.png",
+          "sha256": "88f6f987c4fbe7cb9fb5e0113952e0e2cba96e7adf7fc894c252a8e0e6b4f186"
+        },
+        "reverse": {
+          "file": "F3-distal-0-reverse.png",
+          "sha256": "873ee61196f22dd8ead98f2884e839cbab1b1fe80f4b6800aad2e47b6a964d09"
+        },
+        "back": {
+          "file": "F3-distal-0-back.png",
+          "sha256": "1a02331c316b57d08a82de7364e66eafd78c5bb61ccd1d02d299135ed58bcbe2"
+        },
+        "top": {
+          "file": "F3-distal-0-top.png",
+          "sha256": "99368d81617013e7ad8125327d56b2e1b7511658efe354f4aa14b6e2bb718665"
+        }
+      }
+    },
+    {
+      "case": "F3-distal",
+      "seconds": 1.83,
+      "views": {
+        "front": {
+          "file": "F3-distal-1-front.png",
+          "sha256": "ae176deb821f42322fa9cc35ab2f32bc9ab58fb9ef5e545c647774143115ce78"
+        },
+        "oblique": {
+          "file": "F3-distal-1-oblique.png",
+          "sha256": "d69fa79595edbfaefc284f733016065c7f594908c8a20b3d3470f4b02dd5fa5e"
+        },
+        "side": {
+          "file": "F3-distal-1-side.png",
+          "sha256": "b8dd311c4663bdb6e7b9fc7e3165849f78028fb5a44c72bc631ab2d6651fbc4a"
+        },
+        "reverse": {
+          "file": "F3-distal-1-reverse.png",
+          "sha256": "a3af400912ab504e4edbff6e09c863c6e9bb341bf2015688f99180364622f80f"
+        },
+        "back": {
+          "file": "F3-distal-1-back.png",
+          "sha256": "1c4d70d5853af69dc7d2b253e3de673ccbbc15d1a887102c68c7ae98ebf65a6f"
+        },
+        "top": {
+          "file": "F3-distal-1-top.png",
+          "sha256": "90deecf4694a6206ca73e9b55b832b6325b45f0f4b115638e24bc83b07abc515"
+        }
+      }
+    },
+    {
+      "case": "F3-distal",
+      "seconds": 2.02,
+      "views": {
+        "front": {
+          "file": "F3-distal-2-front.png",
+          "sha256": "a4dd702758c663a367a3d9a9a638c11dbcb2974433afc7fdcb7cb358cc719b8b"
+        },
+        "oblique": {
+          "file": "F3-distal-2-oblique.png",
+          "sha256": "017afe468cbe893e16d9145fa0206c898aafa0ed792247d27cc68feb59039589"
+        },
+        "side": {
+          "file": "F3-distal-2-side.png",
+          "sha256": "1d8bbe8e88d8d73728df0b20335410a5a87897eaa87681a73b24b232615c2181"
+        },
+        "reverse": {
+          "file": "F3-distal-2-reverse.png",
+          "sha256": "4fdff7b533bbb58bd1bbad70cc29874e8ba8d49b256eeb4988469f2196a5cdd8"
+        },
+        "back": {
+          "file": "F3-distal-2-back.png",
+          "sha256": "6d5abf9a438539427928a01bc0c132cdc8f5d8a632aaec2c47276f14e6e01243"
+        },
+        "top": {
+          "file": "F3-distal-2-top.png",
+          "sha256": "deea9362dbfa42f8da993d99e8c225e4cb51aafc3b996d45d9fc4be6f58cb509"
+        }
+      }
+    },
+    {
+      "case": "F3-distal",
+      "seconds": 2.6,
+      "views": {
+        "front": {
+          "file": "F3-distal-3-front.png",
+          "sha256": "734dfe7677ee7a9062adb1127d7f6ab5eac82ed391e1666011a90190e191994b"
+        },
+        "oblique": {
+          "file": "F3-distal-3-oblique.png",
+          "sha256": "a874ac42c2a09efadee064551d2a78d0f5600aa94670697ed37ee166e49863e2"
+        },
+        "side": {
+          "file": "F3-distal-3-side.png",
+          "sha256": "308235744a28f1b29f536548c387673db077d4db707ad00d2a923a9db033f835"
+        },
+        "reverse": {
+          "file": "F3-distal-3-reverse.png",
+          "sha256": "b35c8eb94d94d95bd48d339cfd174aaf493372e0311d5238f8c2c390e342819f"
+        },
+        "back": {
+          "file": "F3-distal-3-back.png",
+          "sha256": "d52346d6f31d6eb5ab4f19c9f4ae739cc8b8da4284bc17236a775ca0c53f9797"
+        },
+        "top": {
+          "file": "F3-distal-3-top.png",
+          "sha256": "c1de2336419e1e521da3c95e2d4e904e51079773023c43bc2657ac0c2c9516a6"
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 0.0,
+      "case": "F1-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.78265055140579,
+      "headingDegrees": -21.8903138087346,
+      "support": 0.09369166609255399,
+      "floorResidual": 1.6653345369377348e-16,
+      "shaftLength": 0.56,
+      "seconds": 2.02,
+      "case": "F1-distal",
+      "hand": [
+        0.047724015647672535,
+        -0.8975821878710221,
+        0.33521243261779726
+      ],
+      "nativeError": 2.5089710176118274e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          -0.3691052496433258,
+          -1.4605255126953125,
+          -0.2863088846206665
+        ],
+        [
+          0.10821984708309174,
+          -0.8073281049728394,
+          0.4383702874183655
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -33.92222498589431,
+      "headingDegrees": -3.5429613773639383,
+      "support": 0.09369166609255399,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 1.5,
+      "case": "F1-distal",
+      "hand": [
+        0.790936689627798,
+        -0.30696138274832313,
+        0.39298925506673593
+      ],
+      "nativeError": 5.456859262231717e-07,
+      "actualFloorResidual": 3.3527612686157227e-08,
+      "bounds": [
+        [
+          0.5139974355697632,
+          -0.7983884811401367,
+          -0.2733458876609802
+        ],
+        [
+          1.0169588327407837,
+          -0.22114646434783936,
+          0.5015330910682678
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.32717180584255,
+      "headingDegrees": -19.990984990046574,
+      "support": 0.09369166609255399,
+      "floorResidual": -1.1102230246251565e-16,
+      "shaftLength": 0.56,
+      "seconds": 1.83,
+      "case": "F1-distal",
+      "hand": [
+        0.1474412697681442,
+        -0.8744467578203822,
+        0.33847132644690503
+      ],
+      "nativeError": 4.312205513778977e-07,
+      "actualFloorResidual": -2.9802322387695312e-08,
+      "bounds": [
+        [
+          -0.25048592686653137,
+          -1.4192397594451904,
+          -0.2863089144229889
+        ],
+        [
+          0.23057416081428528,
+          -0.7839357852935791,
+          0.4420333206653595
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -41.05917667807765,
+      "headingDegrees": -19.89203775846041,
+      "support": 0.09369166609255399,
+      "floorResidual": -5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 2.3,
+      "case": "F1-distal",
+      "hand": [
+        0.1394830805632571,
+        -0.874956688685724,
+        0.3383586496172825
+      ],
+      "nativeError": 6.669967038686053e-07,
+      "actualFloorResidual": -5.075708031654358e-08,
+      "bounds": [
+        [
+          -0.2660108208656311,
+          -1.442076325416565,
+          -0.2811650335788727
+        ],
+        [
+          0.21617959439754486,
+          -0.7835996747016907,
+          0.4412674307823181
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -38.182528037607405,
+      "headingDegrees": -7.595080008873572,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.6,
+      "case": "F1-distal",
+      "hand": [
+        0.641950470546068,
+        -0.5147584679647264,
+        0.3692245507798
+      ],
+      "nativeError": 4.1900310143727637e-07,
+      "actualFloorResidual": 7.82310962677002e-08,
+      "bounds": [
+        [
+          0.3310203552246094,
+          -1.0503427982330322,
+          -0.27036625146865845
+        ],
+        [
+          0.8315014243125916,
+          -0.42381441593170166,
+          0.4746021032333374
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.94,
+      "case": "F1-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 0.0,
+      "case": "F2-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.78265055140579,
+      "headingDegrees": -51.67123097639818,
+      "support": 0.09369166609255399,
+      "floorResidual": 1.6653345369377348e-16,
+      "shaftLength": 0.56,
+      "seconds": 2.02,
+      "case": "F2-distal",
+      "hand": [
+        0.047724015647672535,
+        -0.8975821878710221,
+        0.33521243261779726
+      ],
+      "nativeError": 2.3889391631559675e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          -0.4962252676486969,
+          -1.4011121988296509,
+          -0.2863088846206665
+        ],
+        [
+          0.12942852079868317,
+          -0.8262941837310791,
+          0.4383702874183655
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -33.92222498589431,
+      "headingDegrees": -6.071205559831399,
+      "support": 0.09369166609255399,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 1.5,
+      "case": "F2-distal",
+      "hand": [
+        0.790936689627798,
+        -0.30696138274832313,
+        0.39298925506673593
+      ],
+      "nativeError": 5.550548602961669e-07,
+      "actualFloorResidual": 3.3527612686157227e-08,
+      "bounds": [
+        [
+          0.49647727608680725,
+          -0.7987666130065918,
+          -0.2733458876609802
+        ],
+        [
+          0.9982522130012512,
+          -0.22132788598537445,
+          0.5015330910682678
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.32717180584255,
+      "headingDegrees": -45.891475274012635,
+      "support": 0.09369166609255399,
+      "floorResidual": -1.1102230246251565e-16,
+      "shaftLength": 0.56,
+      "seconds": 1.83,
+      "case": "F2-distal",
+      "hand": [
+        0.1474412697681442,
+        -0.8744467578203822,
+        0.33847132644690503
+      ],
+      "nativeError": 4.2496275876047207e-07,
+      "actualFloorResidual": -2.9802322387695312e-08,
+      "bounds": [
+        [
+          -0.36875924468040466,
+          -1.3856658935546875,
+          -0.2863089144229889
+        ],
+        [
+          0.22451217472553253,
+          -0.7987082600593567,
+          0.4420333206653595
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -41.05917667807765,
+      "headingDegrees": -46.25139678441561,
+      "support": 0.09369166609255399,
+      "floorResidual": -5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 2.3,
+      "case": "F2-distal",
+      "hand": [
+        0.1394830805632571,
+        -0.874956688685724,
+        0.3383586496172825
+      ],
+      "nativeError": 5.437385361961589e-07,
+      "actualFloorResidual": -5.075708031654358e-08,
+      "bounds": [
+        [
+          -0.3950568437576294,
+          -1.4017611742019653,
+          -0.2811650335788727
+        ],
+        [
+          0.2174995243549347,
+          -0.7988405227661133,
+          0.4412674307823181
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -38.182528037607405,
+      "headingDegrees": -16.63209574497663,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.6,
+      "case": "F2-distal",
+      "hand": [
+        0.641950470546068,
+        -0.5147584679647264,
+        0.3692245507798
+      ],
+      "nativeError": 4.073712438490418e-07,
+      "actualFloorResidual": 7.82310962677002e-08,
+      "bounds": [
+        [
+          0.26671648025512695,
+          -1.0556185245513916,
+          -0.27036625146865845
+        ],
+        [
+          0.7554854154586792,
+          -0.42565566301345825,
+          0.4746021032333374
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.94,
+      "case": "F2-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 0.0,
+      "case": "F3-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.78265055140579,
+      "headingDegrees": 7.890603358928975,
+      "support": 0.09369166609255399,
+      "floorResidual": 1.6653345369377348e-16,
+      "shaftLength": 0.56,
+      "seconds": 2.02,
+      "case": "F3-distal",
+      "hand": [
+        0.047724015647672535,
+        -0.8975821878710221,
+        0.33521243261779726
+      ],
+      "nativeError": 2.6526103336088624e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          -0.13623671233654022,
+          -1.4532461166381836,
+          -0.2863088846206665
+        ],
+        [
+          0.36389583349227905,
+          -0.8036020398139954,
+          0.4383702874183655
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -33.92222498589431,
+      "headingDegrees": -1.0147171948964777,
+      "support": 0.09369166609255399,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 1.5,
+      "case": "F3-distal",
+      "hand": [
+        0.790936689627798,
+        -0.30696138274832313,
+        0.39298925506673593
+      ],
+      "nativeError": 5.385006673908066e-07,
+      "actualFloorResidual": 3.3527612686157227e-08,
+      "bounds": [
+        [
+          0.5320566892623901,
+          -0.7970535755157471,
+          -0.2733458876609802
+        ],
+        [
+          1.0352253913879395,
+          -0.22099560499191284,
+          0.5015330910682678
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -40.32717180584255,
+      "headingDegrees": 5.909505293919491,
+      "support": 0.09369166609255399,
+      "floorResidual": -1.1102230246251565e-16,
+      "shaftLength": 0.56,
+      "seconds": 1.83,
+      "case": "F3-distal",
+      "hand": [
+        0.1474412697681442,
+        -0.8744467578203822,
+        0.33847132644690503
+      ],
+      "nativeError": 4.317121164998383e-07,
+      "actualFloorResidual": -2.9802322387695312e-08,
+      "bounds": [
+        [
+          -0.055831849575042725,
+          -1.4102129936218262,
+          -0.2863089144229889
+        ],
+        [
+          0.4459201395511627,
+          -0.7807932496070862,
+          0.4420333206653595
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -41.05917667807765,
+      "headingDegrees": 6.467321267494789,
+      "support": 0.09369166609255399,
+      "floorResidual": -5.551115123125783e-17,
+      "shaftLength": 0.56,
+      "seconds": 2.3,
+      "case": "F3-distal",
+      "hand": [
+        0.1394830805632571,
+        -0.874956688685724,
+        0.3383586496172825
+      ],
+      "nativeError": 6.830957208769917e-07,
+      "actualFloorResidual": -5.075708031654358e-08,
+      "bounds": [
+        [
+          -0.05638076364994049,
+          -1.4342098236083984,
+          -0.2811650335788727
+        ],
+        [
+          0.44496214389801025,
+          -0.7805055379867554,
+          0.4412674307823181
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -38.182528037607405,
+      "headingDegrees": 1.4419357272294855,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.6,
+      "case": "F3-distal",
+      "hand": [
+        0.641950470546068,
+        -0.5147584679647264,
+        0.3692245507798
+      ],
+      "nativeError": 4.2692735469085363e-07,
+      "actualFloorResidual": 7.82310962677002e-08,
+      "bounds": [
+        [
+          0.40191447734832764,
+          -1.04825758934021,
+          -0.27036625146865845
+        ],
+        [
+          0.9050965309143066,
+          -0.4233500361442566,
+          0.4746021032333374
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -35.5869271081891,
+      "headingDegrees": 0.0,
+      "support": 0.09369166609255399,
+      "floorResidual": 0.0,
+      "shaftLength": 0.56,
+      "seconds": 2.94,
+      "case": "F3-distal",
+      "hand": [
+        0.8295422316062288,
+        -0.12906332955955296,
+        0.37000663749888163
+      ],
+      "nativeError": 4.040223868795323e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.5780544281005859,
+          -0.6358903646469116,
+          -0.2863088846206665
+        ],
+        [
+          1.0810307264328003,
+          -0.04089313745498657,
+          0.477383553981781
+        ]
+      ]
+    }
+  ],
+  "method": "Exact native poses; coarse nearest-surface clearance followed by parity-ray finalists; arm overlap permitted only on actual distal material q>=0.80",
+  "handPositions": [
+    {
+      "seconds": 0.0,
+      "positions": {
+        "0.78": [
+          0.8223356439170775,
+          -0.1250750676335764,
+          0.3848910334662264
+        ],
+        "0.84": [
+          0.8295422316062288,
+          -0.12906332955955296,
+          0.37000663749888163
+        ],
+        "0.9": [
+          0.8355080343836503,
+          -0.1325025096785822,
+          0.35717144244008786
+        ]
+      }
+    },
+    {
+      "seconds": 2.02,
+      "positions": {
+        "0.78": [
+          0.05524075853413549,
+          -0.8905724891888097,
+          0.3487678239693978
+        ],
+        "0.84": [
+          0.047724015647672535,
+          -0.8975821878710221,
+          0.33521243261779726
+        ],
+        "0.9": [
+          0.041161689898378845,
+          -0.9033991095545195,
+          0.3235822993216755
+        ]
+      }
+    },
+    {
+      "seconds": 1.5,
+      "positions": {
+        "0.78": [
+          0.7844325928460985,
+          -0.3008705307844237,
+          0.40748015178248215
+        ],
+        "0.84": [
+          0.790936689627798,
+          -0.30696138274832313,
+          0.39298925506673593
+        ],
+        "0.9": [
+          0.7963033068380195,
+          -0.31215739160847605,
+          0.38048477667412883
+        ]
+      }
+    },
+    {
+      "seconds": 1.83,
+      "positions": {
+        "0.78": [
+          0.1533401890830649,
+          -0.8665332005333235,
+          0.3523265082260658
+        ],
+        "0.84": [
+          0.1474412697681442,
+          -0.8744467578203822,
+          0.33847132644690503
+        ],
+        "0.9": [
+          0.14224550563940327,
+          -0.8810533468100092,
+          0.3265752400711572
+        ]
+      }
+    },
+    {
+      "seconds": 2.3,
+      "positions": {
+        "0.78": [
+          0.14552954318879666,
+          -0.8671036533925726,
+          0.3521845716561003
+        ],
+        "0.84": [
+          0.1394830805632571,
+          -0.874956688685724,
+          0.3383586496172825
+        ],
+        "0.9": [
+          0.13416212032453048,
+          -0.8815102694417647,
+          0.32648870427545595
+        ]
+      }
+    },
+    {
+      "seconds": 2.6,
+      "positions": {
+        "0.78": [
+          0.6386198617750396,
+          -0.5068289301861292,
+          0.3839016176992645
+        ],
+        "0.84": [
+          0.641950470546068,
+          -0.5147584679647264,
+          0.3692245507798
+        ],
+        "0.9": [
+          0.6445980042004756,
+          -0.5214903748435654,
+          0.35658210844730587
+        ]
+      }
+    },
+    {
+      "seconds": 2.94,
+      "positions": {
+        "0.78": [
+          0.8223356439170775,
+          -0.1250750676335764,
+          0.3848910334662264
+        ],
+        "0.84": [
+          0.8295422316062288,
+          -0.12906332955955296,
+          0.37000663749888163
+        ],
+        "0.9": [
+          0.8355080343836503,
+          -0.1325025096785822,
+          0.35717144244008786
+        ]
+      }
+    }
+  ],
+  "scripts": {
+    "pilot03.py": "b9d8e633e79a5b5019793b63368d8300838d8e77b6982a63c15b7d04ad2bab7c",
+    "native.py": "a1ac722e10d6b1616d8d5f4d1e1266d087341e236775eed62c4f1bd48111f192",
+    "broom_math.py": "724823b2189df4e7b23070ca9cec07589353523fc945f9033d9bb797d71c917b",
+    "clearance.py": "c8afc4474973a9e722c39c19bb3976628ae9502f01d2fa7704d766740dfbe493"
+  },
+  "initialCandidates": 864,
+  "coarseHistory": [
+    {
+      "seconds": 0.0,
+      "remaining": 292
+    },
+    {
+      "seconds": 2.02,
+      "remaining": 188
+    },
+    {
+      "seconds": 1.5,
+      "remaining": 188
+    },
+    {
+      "seconds": 1.83,
+      "remaining": 188
+    },
+    {
+      "seconds": 2.3,
+      "remaining": 188
+    },
+    {
+      "seconds": 2.6,
+      "remaining": 188
+    },
+    {
+      "seconds": 2.94,
+      "remaining": 188
+    }
+  ],
+  "ranked": [
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018587125261547044,
+      "worstArm": null,
+      "cost": 0.24000000000000005,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.015822699206182733,
+      "worstArm": null,
+      "cost": 0.2800000000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.016970496770227328,
+      "worstArm": null,
+      "cost": 0.32333333333333336
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.025290315999882296,
+      "worstArm": null,
+      "cost": 0.35999999999999993
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.025417852462851442,
+      "worstArm": null,
+      "cost": 0.36000000000000015
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.015066937427036464,
+      "worstArm": null,
+      "cost": 0.3633333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.032388744883064646,
+      "worstArm": null,
+      "cost": 0.39625000000000005
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.013707598012842936,
+      "worstArm": null,
+      "cost": 0.39625000000000005
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01484155031357659,
+      "worstArm": null,
+      "cost": 0.39999999999999997
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.023578322987305,
+      "worstArm": null,
+      "cost": 0.4000000000000002
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03991728578694165,
+      "worstArm": null,
+      "cost": 0.40666666666666673,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.014104944659266039,
+      "worstArm": null,
+      "cost": 0.40666666666666673,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0334212837042287,
+      "worstArm": null,
+      "cost": 0.4362500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01133410623697273,
+      "worstArm": null,
+      "cost": 0.4362500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02070066228043288,
+      "worstArm": null,
+      "cost": 0.44333333333333325
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.024610394008050207,
+      "worstArm": null,
+      "cost": 0.44333333333333347
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.037570507964119315,
+      "worstArm": null,
+      "cost": 0.44666666666666677
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.011708480971719837,
+      "worstArm": null,
+      "cost": 0.44666666666666677
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.032253833167487755,
+      "worstArm": null,
+      "cost": 0.47958333333333336
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.012056800067512086,
+      "worstArm": null,
+      "cost": 0.47958333333333336
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03037000167387305,
+      "worstArm": null,
+      "cost": 0.48000000000000004
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.013925881430623122,
+      "worstArm": null,
+      "cost": 0.4833333333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02273083147156285,
+      "worstArm": null,
+      "cost": 0.4833333333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03689481393666938,
+      "worstArm": null,
+      "cost": 0.49000000000000005
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01155838925842545,
+      "worstArm": null,
+      "cost": 0.49000000000000005
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.020242334623617353,
+      "worstArm": null,
+      "cost": 0.5162499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04229889562702738,
+      "worstArm": null,
+      "cost": 0.5162500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.021082594168547075,
+      "worstArm": null,
+      "cost": 0.5162500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03107601689407602,
+      "worstArm": null,
+      "cost": 0.5195833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.008798380455118604,
+      "worstArm": null,
+      "cost": 0.5195833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02297783199173864,
+      "worstArm": null,
+      "cost": 0.52
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04441617667907849,
+      "worstArm": null,
+      "cost": 0.5266666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.020616931604308775,
+      "worstArm": null,
+      "cost": 0.5266666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04602361813886091,
+      "worstArm": null,
+      "cost": 0.5266666666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.021528606077481527,
+      "worstArm": null,
+      "cost": 0.5266666666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03609600191703066,
+      "worstArm": null,
+      "cost": 0.5300000000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.00881714223214658,
+      "worstArm": null,
+      "cost": 0.5300000000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03201746361446567,
+      "worstArm": null,
+      "cost": 0.5562499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.00807583891764807,
+      "worstArm": null,
+      "cost": 0.5562499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04013763045077212,
+      "worstArm": null,
+      "cost": 0.5562500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018409411357424688,
+      "worstArm": null,
+      "cost": 0.5562500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.032388744883064646,
+      "worstArm": null,
+      "cost": 0.5629166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.017173337371787056,
+      "worstArm": null,
+      "cost": 0.5629166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02063593579805456,
+      "worstArm": null,
+      "cost": 0.5629166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02091993903650291,
+      "worstArm": null,
+      "cost": 0.5629166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.027021249436074868,
+      "worstArm": null,
+      "cost": 0.5633333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03647045878460631,
+      "worstArm": null,
+      "cost": 0.5666666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.00850104765049764,
+      "worstArm": null,
+      "cost": 0.5666666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.044308001815807074,
+      "worstArm": null,
+      "cost": 0.5666666666666669
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018891604500822723,
+      "worstArm": null,
+      "cost": 0.5666666666666669
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06782759935595095,
+      "worstArm": null,
+      "cost": 0.5733333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.027797204711532686,
+      "worstArm": null,
+      "cost": 0.5995833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01650271805920056,
+      "worstArm": null,
+      "cost": 0.5995833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.039229250920470804,
+      "worstArm": null,
+      "cost": 0.5995833333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.019582312264901702,
+      "worstArm": null,
+      "cost": 0.5995833333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06380095635540783,
+      "worstArm": null,
+      "cost": 0.6029166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01423762846388854,
+      "worstArm": null,
+      "cost": 0.6029166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01814457385626156,
+      "worstArm": null,
+      "cost": 0.6029166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01826791546614004,
+      "worstArm": null,
+      "cost": 0.6029166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02137941245746333,
+      "worstArm": null,
+      "cost": 0.6033333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03963750024558976,
+      "worstArm": null,
+      "cost": 0.61
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.016020893475797493,
+      "worstArm": null,
+      "cost": 0.61
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.043882803118322045,
+      "worstArm": null,
+      "cost": 0.6100000000000002
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.019506949829519726,
+      "worstArm": null,
+      "cost": 0.6100000000000002
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06925595691427588,
+      "worstArm": null,
+      "cost": 0.6133333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.025745443817868363,
+      "worstArm": null,
+      "cost": 0.63625
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.030886897875461727,
+      "worstArm": null,
+      "cost": 0.6395833333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03870188060682267,
+      "worstArm": null,
+      "cost": 0.6395833333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.016150721348822117,
+      "worstArm": null,
+      "cost": 0.6395833333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06558793009025976,
+      "worstArm": null,
+      "cost": 0.6462500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.014556815891410224,
+      "worstArm": null,
+      "cost": 0.6462500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01916346366488142,
+      "worstArm": null,
+      "cost": 0.6462500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018872696743983397,
+      "worstArm": null,
+      "cost": 0.6462500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0499351613689214,
+      "worstArm": null,
+      "cost": 0.6466666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.026195977283350658,
+      "worstArm": null,
+      "cost": 0.6466666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.036128311534412205,
+      "worstArm": null,
+      "cost": 0.65
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0436589727178216,
+      "worstArm": null,
+      "cost": 0.6500000000000002
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.016237502446529106,
+      "worstArm": null,
+      "cost": 0.6500000000000002
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07023546542041004,
+      "worstArm": null,
+      "cost": 0.6566666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0392325758584775,
+      "worstArm": null,
+      "cost": 0.67625
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.015708967479440616,
+      "worstArm": null,
+      "cost": 0.67625
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.026881663769017905,
+      "worstArm": null,
+      "cost": 0.6829166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.027252888705334044,
+      "worstArm": null,
+      "cost": 0.6829166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05177551550150383,
+      "worstArm": null,
+      "cost": 0.6829166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02404458996898029,
+      "worstArm": null,
+      "cost": 0.6829166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02745723472617101,
+      "worstArm": null,
+      "cost": 0.6829166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.028111603356459236,
+      "worstArm": null,
+      "cost": 0.6829166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06619486340787262,
+      "worstArm": null,
+      "cost": 0.6862500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.013493577578628901,
+      "worstArm": null,
+      "cost": 0.6862500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01672580542799551,
+      "worstArm": null,
+      "cost": 0.6862500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01652041603063026,
+      "worstArm": null,
+      "cost": 0.6862500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04369569837581366,
+      "worstArm": null,
+      "cost": 0.6866666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.016179988756448438,
+      "worstArm": null,
+      "cost": 0.6866666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06651734799379483,
+      "worstArm": null,
+      "cost": 0.6933333333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07518728310242295,
+      "worstArm": null,
+      "cost": 0.6933333333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0712288124486804,
+      "worstArm": null,
+      "cost": 0.6966666666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04149222621344961,
+      "worstArm": null,
+      "cost": 0.7195833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02281665262853494,
+      "worstArm": null,
+      "cost": 0.7195833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06495305267162621,
+      "worstArm": null,
+      "cost": 0.7229166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.013064809478237294,
+      "worstArm": null,
+      "cost": 0.7229166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.017336249526124448,
+      "worstArm": null,
+      "cost": 0.7229166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01733790437604199,
+      "worstArm": null,
+      "cost": 0.7229166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0713369456352666,
+      "worstArm": null,
+      "cost": 0.7229166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02202820491947932,
+      "worstArm": null,
+      "cost": 0.7229166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.025855742263956927,
+      "worstArm": null,
+      "cost": 0.7229166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.026427016121033375,
+      "worstArm": null,
+      "cost": 0.7229166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.032388744883064646,
+      "worstArm": null,
+      "cost": 0.7295833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.044015226303599775,
+      "worstArm": null,
+      "cost": 0.7295833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04560406808741391,
+      "worstArm": null,
+      "cost": 0.7300000000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.022366269458871102,
+      "worstArm": null,
+      "cost": 0.7300000000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07059812836814672,
+      "worstArm": null,
+      "cost": 0.7333333333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07687278708908707,
+      "worstArm": null,
+      "cost": 0.7333333333333335
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.039005768368951976,
+      "worstArm": null,
+      "cost": 0.7595833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01427866539961542,
+      "worstArm": null,
+      "cost": 0.7595833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.027797204711532686,
+      "worstArm": null,
+      "cost": 0.7662499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018615929475345183,
+      "worstArm": null,
+      "cost": 0.7662499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02347195077163633,
+      "worstArm": null,
+      "cost": 0.7662499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.024274532290291972,
+      "worstArm": null,
+      "cost": 0.7662499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07250126625876874,
+      "worstArm": null,
+      "cost": 0.7662500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02236589035601355,
+      "worstArm": null,
+      "cost": 0.7662500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02602722453593742,
+      "worstArm": null,
+      "cost": 0.7662500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.026124567847546132,
+      "worstArm": null,
+      "cost": 0.7662500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10044213861692697,
+      "worstArm": null,
+      "cost": 0.7695833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04219252138864249,
+      "worstArm": null,
+      "cost": 0.7695833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.044142482336610556,
+      "worstArm": null,
+      "cost": 0.77
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.01436852822189394,
+      "worstArm": null,
+      "cost": 0.77
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06934829335659742,
+      "worstArm": null,
+      "cost": 0.7766666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07728142442647368,
+      "worstArm": null,
+      "cost": 0.7766666666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03207532805390656,
+      "worstArm": null,
+      "cost": 0.8029166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03280237039853606,
+      "worstArm": null,
+      "cost": 0.8029166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.06695316650439054,
+      "worstArm": null,
+      "cost": 0.8062499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.011393239132303279,
+      "worstArm": null,
+      "cost": 0.8062499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.015753967680211645,
+      "worstArm": null,
+      "cost": 0.8062499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.015693344839064594,
+      "worstArm": null,
+      "cost": 0.8062499999999999
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0734186420449987,
+      "worstArm": null,
+      "cost": 0.8062500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.020897525930195116,
+      "worstArm": null,
+      "cost": 0.8062500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.024386647739447653,
+      "worstArm": null,
+      "cost": 0.8062500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02465755602770514,
+      "worstArm": null,
+      "cost": 0.8062500000000001
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.09746985672973096,
+      "worstArm": null,
+      "cost": 0.8129166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04202027275459841,
+      "worstArm": null,
+      "cost": 0.8129166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07352306914981455,
+      "worstArm": null,
+      "cost": 0.8133333333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0722302378853783,
+      "worstArm": null,
+      "cost": 0.8166666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07853766856715083,
+      "worstArm": null,
+      "cost": 0.8166666666666669
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07271277788095176,
+      "worstArm": null,
+      "cost": 0.8429166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.020279167205444537,
+      "worstArm": null,
+      "cost": 0.8429166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02568822276953142,
+      "worstArm": null,
+      "cost": 0.8429166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02615236734283144,
+      "worstArm": null,
+      "cost": 0.8429166666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.008512423220963683,
+      "worstArm": null,
+      "cost": 0.8495833333333331
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0477886111184489,
+      "worstArm": null,
+      "cost": 0.8495833333333331
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05177551550150383,
+      "worstArm": null,
+      "cost": 0.8495833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05020368652185425,
+      "worstArm": null,
+      "cost": 0.8495833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10039805620908737,
+      "worstArm": null,
+      "cost": 0.8529166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0416029705083929,
+      "worstArm": null,
+      "cost": 0.8529166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07844050892163068,
+      "worstArm": null,
+      "cost": 0.8533333333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05049770436016843,
+      "worstArm": null,
+      "cost": 0.88625
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02492294392141048,
+      "worstArm": null,
+      "cost": 0.88625
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.029848036443581805,
+      "worstArm": null,
+      "cost": 0.88625
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03005493967248185,
+      "worstArm": null,
+      "cost": 0.88625
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.09155742102302611,
+      "worstArm": null,
+      "cost": 0.8895833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10273783269803971,
+      "worstArm": null,
+      "cost": 0.8895833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04143818287411705,
+      "worstArm": null,
+      "cost": 0.8895833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10785309423226863,
+      "worstArm": null,
+      "cost": 0.8895833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04895462578861043,
+      "worstArm": null,
+      "cost": 0.8895833333333334
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07610843691509217,
+      "worstArm": null,
+      "cost": 0.8966666666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0744266192195937,
+      "worstArm": null,
+      "cost": 0.92625
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018878526825574227,
+      "worstArm": null,
+      "cost": 0.92625
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.024024644910241477,
+      "worstArm": null,
+      "cost": 0.92625
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.02442705118437516,
+      "worstArm": null,
+      "cost": 0.92625
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.08706560963764787,
+      "worstArm": null,
+      "cost": 0.9329166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.027797204711532686,
+      "worstArm": null,
+      "cost": 0.9329166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.044104161905124784,
+      "worstArm": null,
+      "cost": 0.9329166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10521960526239127,
+      "worstArm": null,
+      "cost": 0.9329166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.049039852747228,
+      "worstArm": null,
+      "cost": 0.9329166666666667
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 0.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.07972127187531441,
+      "worstArm": null,
+      "cost": 0.9366666666666666
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05335730913793668,
+      "worstArm": null,
+      "cost": 0.9695833333333332
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.0917790139792487,
+      "worstArm": null,
+      "cost": 0.9729166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10252912505529821,
+      "worstArm": null,
+      "cost": 0.9729166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04186476406175643,
+      "worstArm": null,
+      "cost": 0.9729166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.10811655304860324,
+      "worstArm": null,
+      "cost": 0.9729166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.8,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04906212899368256,
+      "worstArm": null,
+      "cost": 0.9729166666666668
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.09432351554278284,
+      "worstArm": null,
+      "cost": 1.009583333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.11022821406368166,
+      "worstArm": null,
+      "cost": 1.0095833333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04863144311821088,
+      "worstArm": null,
+      "cost": 1.0095833333333333
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.05049770436016843,
+      "worstArm": null,
+      "cost": 1.0529166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.68,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.050185575790237635,
+      "worstArm": null,
+      "cost": 1.0529166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.78,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.09383082366548479,
+      "worstArm": null,
+      "cost": 1.0929166666666663
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": -25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.11025533592328429,
+      "worstArm": null,
+      "cost": 1.0929166666666665
+    },
+    {
+      "values": {
+        "Lower reach": 0.86,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 25.0,
+        "Heading offset": 25.0,
+        "Heading travel": -60.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.9,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.04979631211608648,
+      "worstArm": null,
+      "cost": 1.0929166666666665
+    }
+  ],
+  "selected": [
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 0.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.018587125261547044,
+      "worstArm": null,
+      "cost": 0.24000000000000005,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": -30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.03991728578694165,
+      "worstArm": null,
+      "cost": 0.40666666666666673,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    },
+    {
+      "values": {
+        "Lower reach": 0.74,
+        "Upper handle": 0.12,
+        "Fan width": 0.51,
+        "Fan depth": 0.19,
+        "Fan height": 0.3,
+        "Shaft radius": 0.034,
+        "Fan turn": 0.0,
+        "Heading offset": 0.0,
+        "Heading travel": 30.0,
+        "Bristle response": 0.018,
+        "Grip region": 0.84,
+        "Design on": 1.0
+      },
+      "checked": 7,
+      "worstBody": 0.014104944659266039,
+      "worstArm": null,
+      "cost": 0.40666666666666673,
+      "exact": [
+        {
+          "seconds": 0.0,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.02,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.5,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 1.83,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.3,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.6,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        },
+        {
+          "seconds": 2.94,
+          "bodyInside": 0,
+          "proximalArmInside": 0,
+          "handOverlap": 96,
+          "bodyIndices": [],
+          "proximalArmIndices": []
+        }
+      ]
+    }
+  ],
+  "status": "PILOT_COMPLETE_PENDING_VISUAL"
+}

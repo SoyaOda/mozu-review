@@ -1,0 +1,2269 @@
+{
+  "sourceSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "cases": {
+    "D-diagonal": {
+      "Lower reach": 0.83,
+      "Upper handle": 0.27,
+      "Fan width": 0.51,
+      "Fan depth": 0.19,
+      "Fan height": 0.3,
+      "Shaft radius": 0.034,
+      "Fan turn": 30.0,
+      "Heading offset": -55.0,
+      "Heading travel": 0.0,
+      "Bristle response": 0.018,
+      "Design on": 1.0
+    },
+    "E-transverse": {
+      "Lower reach": 0.83,
+      "Upper handle": 0.3,
+      "Fan width": 0.51,
+      "Fan depth": 0.19,
+      "Fan height": 0.3,
+      "Shaft radius": 0.034,
+      "Fan turn": 40.0,
+      "Heading offset": -80.0,
+      "Heading travel": 10.0,
+      "Bristle response": 0.018,
+      "Design on": 1.0
+    }
+  },
+  "rows": [
+    {
+      "tiltDegrees": -44.31126019248477,
+      "headingDegrees": -55.0,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 0.0,
+      "case": "D-diagonal",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 9.768299948920145e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.1309901475906372,
+          -0.5972243547439575,
+          -0.2863088846206665
+        ],
+        [
+          0.9785462617874146,
+          0.012154988944530487,
+          0.6181092262268066
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -43.221147498219175,
+      "headingDegrees": -58.54296137736393,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 1.5,
+      "case": "D-diagonal",
+      "hand": [
+        0.771031846615676,
+        -0.28893339868407253,
+        0.43538891858335277
+      ],
+      "nativeError": 5.986564420856766e-07,
+      "actualFloorResidual": -8.568167686462402e-08,
+      "bounds": [
+        [
+          0.09111541509628296,
+          -0.7412475347518921,
+          -0.2733460068702698
+        ],
+        [
+          0.9449057579040527,
+          -0.17007605731487274,
+          0.6429135799407959
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -48.28715796863879,
+      "headingDegrees": -74.99098499004657,
+      "support": 0.15172047942980899,
+      "floorResidual": 0.0,
+      "shaftLength": 0.8,
+      "seconds": 1.83,
+      "case": "D-diagonal",
+      "hand": [
+        0.1643168622402593,
+        -0.8505100483082051,
+        0.37922887327767163
+      ],
+      "nativeError": 6.537395351724484e-07,
+      "actualFloorResidual": 5.960464477539063e-08,
+      "bounds": [
+        [
+          -0.5625345706939697,
+          -1.2060545682907104,
+          -0.28630882501602173
+        ],
+        [
+          0.37007439136505127,
+          -0.7712631821632385,
+          0.5721755623817444
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -48.73886283802292,
+      "headingDegrees": -76.8903138087346,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 2.02,
+      "case": "D-diagonal",
+      "hand": [
+        0.06943756985261319,
+        -0.8762544565610054,
+        0.37511947886686486
+      ],
+      "nativeError": 5.769972888369779e-07,
+      "actualFloorResidual": -2.9802322387695312e-08,
+      "bounds": [
+        [
+          -0.6740928292274475,
+          -1.221023678779602,
+          -0.2863089144229889
+        ],
+        [
+          0.27772021293640137,
+          -0.8023003339767456,
+          0.5666915774345398
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -48.87314390833771,
+      "headingDegrees": -74.89203775846042,
+      "support": 0.15172047942980899,
+      "floorResidual": 0.0,
+      "shaftLength": 0.8,
+      "seconds": 2.3,
+      "case": "D-diagonal",
+      "hand": [
+        0.1567978727957052,
+        -0.8511942481653588,
+        0.3790338172714174
+      ],
+      "nativeError": 5.508062956849358e-07,
+      "actualFloorResidual": 6.845220923423767e-08,
+      "bounds": [
+        [
+          -0.5909389853477478,
+          -1.2136515378952026,
+          -0.28116491436958313
+        ],
+        [
+          0.36397814750671387,
+          -0.7712538242340088,
+          0.570194661617279
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -46.35833823415021,
+      "headingDegrees": -62.59508000887358,
+      "support": 0.15172047942980899,
+      "floorResidual": -5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 2.6,
+      "case": "D-diagonal",
+      "hand": [
+        0.631398211219996,
+        -0.49117120984161783,
+        0.412250387188052
+      ],
+      "nativeError": 3.997160666902033e-07,
+      "actualFloorResidual": -1.1175870895385742e-08,
+      "bounds": [
+        [
+          -0.0852576494216919,
+          -0.9362896680831909,
+          -0.2703663408756256
+        ],
+        [
+          0.819037139415741,
+          -0.37839528918266296,
+          0.6109314560890198
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -44.31126019248477,
+      "headingDegrees": -55.0,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 2.94,
+      "case": "D-diagonal",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 9.768299948920145e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.1309901475906372,
+          -0.5972243547439575,
+          -0.2863088846206665
+        ],
+        [
+          0.9785462617874146,
+          0.012154988944530487,
+          0.6181092262268066
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -44.31126019248477,
+      "headingDegrees": -55.0,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 3.2,
+      "case": "D-diagonal",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 9.768299948920145e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.1309901475906372,
+          -0.5972243547439575,
+          -0.2863088846206665
+        ],
+        [
+          0.9785462617874146,
+          0.012154988944530487,
+          0.6181092262268066
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -44.31126019248477,
+      "headingDegrees": -55.0,
+      "support": 0.15172047942980899,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8,
+      "seconds": 4.0,
+      "case": "D-diagonal",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 9.768299948920145e-07,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.1309901475906372,
+          -0.5972243547439575,
+          -0.2863088846206665
+        ],
+        [
+          0.9785462617874146,
+          0.012154988944530487,
+          0.6181092262268066
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -46.50146184978409,
+      "headingDegrees": -80.0,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 0.0,
+      "case": "E-transverse",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 1.0548289808287592e-06,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.0648297667503357,
+          -0.40559086203575134,
+          -0.2863088846206665
+        ],
+        [
+          1.032950758934021,
+          -0.0374680757522583,
+          0.6321572661399841
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -45.43196702736754,
+      "headingDegrees": -82.70021331654145,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 1.5,
+      "case": "E-transverse",
+      "hand": [
+        0.771031846615676,
+        -0.28893339868407253,
+        0.43538891858335277
+      ],
+      "nativeError": 6.333685433901337e-07,
+      "actualFloorResidual": -8.568167686462402e-08,
+      "bounds": [
+        [
+          0.040893614292144775,
+          -0.5531158447265625,
+          -0.2733460068702698
+        ],
+        [
+          0.9943477511405945,
+          -0.1747616082429886,
+          0.6574474573135376
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -50.41080876324823,
+      "headingDegrees": -91.35748822872455,
+      "support": 0.17725222861060996,
+      "floorResidual": 0.0,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 1.83,
+      "case": "E-transverse",
+      "hand": [
+        0.1643168622402593,
+        -0.8505100483082051,
+        0.37922887327767163
+      ],
+      "nativeError": 6.828032632633096e-07,
+      "actualFloorResidual": -5.960464477539063e-08,
+      "bounds": [
+        [
+          -0.5681544542312622,
+          -1.0414061546325684,
+          -0.2863089442253113
+        ],
+        [
+          0.4040113091468811,
+          -0.6300927996635437,
+          0.584403932094574
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -50.85568938243946,
+      "headingDegrees": -91.96334141951341,
+      "support": 0.17725222861060996,
+      "floorResidual": 1.6653345369377348e-16,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 2.02,
+      "case": "E-transverse",
+      "hand": [
+        0.06943756985261319,
+        -0.8762544565610054,
+        0.37511947886686486
+      ],
+      "nativeError": 6.125984666205397e-07,
+      "actualFloorResidual": -2.9802322387695312e-08,
+      "bounds": [
+        [
+          -0.6791576743125916,
+          -1.060815453529358,
+          -0.2863089144229889
+        ],
+        [
+          0.31033647060394287,
+          -0.6477127075195312,
+          0.5787087678909302
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -50.98796734000166,
+      "headingDegrees": -91.10558474980868,
+      "support": 0.17725222861060996,
+      "floorResidual": 0.0,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 2.3,
+      "case": "E-transverse",
+      "hand": [
+        0.1567978727957052,
+        -0.8511942481653588,
+        0.3790338172714174
+      ],
+      "nativeError": 5.01307091615999e-07,
+      "actualFloorResidual": 6.845220923423767e-08,
+      "bounds": [
+        [
+          -0.5973432660102844,
+          -1.0439841747283936,
+          -0.28116491436958313
+        ],
+        [
+          0.3981144428253174,
+          -0.6334975361824036,
+          0.5821489095687866
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -48.51272516880191,
+      "headingDegrees": -84.58274143017255,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 2.6,
+      "case": "E-transverse",
+      "hand": [
+        0.631398211219996,
+        -0.49117120984161783,
+        0.412250387188052
+      ],
+      "nativeError": 4.185979345372459e-07,
+      "actualFloorResidual": -1.1175870895385742e-08,
+      "bounds": [
+        [
+          -0.12165164947509766,
+          -0.7435296773910522,
+          -0.2703663408756256
+        ],
+        [
+          0.8648391962051392,
+          -0.3565371036529541,
+          0.624051570892334
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -46.50146184978409,
+      "headingDegrees": -80.0,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 2.94,
+      "case": "E-transverse",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 1.0548289808287592e-06,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.0648297667503357,
+          -0.40559086203575134,
+          -0.2863088846206665
+        ],
+        [
+          1.032950758934021,
+          -0.0374680757522583,
+          0.6321572661399841
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -46.50146184978409,
+      "headingDegrees": -80.0,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 3.2,
+      "case": "E-transverse",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 1.0548289808287592e-06,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.0648297667503357,
+          -0.40559086203575134,
+          -0.2863088846206665
+        ],
+        [
+          1.032950758934021,
+          -0.0374680757522583,
+          0.6321572661399841
+        ]
+      ]
+    },
+    {
+      "tiltDegrees": -46.50146184978409,
+      "headingDegrees": -80.0,
+      "support": 0.17725222861060996,
+      "floorResidual": 5.551115123125783e-17,
+      "shaftLength": 0.8300000000000001,
+      "seconds": 4.0,
+      "case": "E-transverse",
+      "hand": [
+        0.8075584046087277,
+        -0.11738590228096406,
+        0.4135873888186888
+      ],
+      "nativeError": 1.0548289808287592e-06,
+      "actualFloorResidual": 0.0,
+      "bounds": [
+        [
+          0.0648297667503357,
+          -0.40559086203575134,
+          -0.2863088846206665
+        ],
+        [
+          1.032950758934021,
+          -0.0374680757522583,
+          0.6321572661399841
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "case": "D-diagonal",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "D-diagonal-0-front.png",
+          "sha256": "527d6e8b72a225287dbb250a34dd21228be80253ab410b632cc3e0e0353e1701"
+        },
+        "oblique": {
+          "file": "D-diagonal-0-oblique.png",
+          "sha256": "ba54da7776c8b9520caa5886bca418eacd379733588a5aca12278e145e92d763"
+        },
+        "side": {
+          "file": "D-diagonal-0-side.png",
+          "sha256": "96f1664474c2b9ec86f3838b3e056dc82b9287e4f1bb497d2daee2d46d473703"
+        },
+        "reverse": {
+          "file": "D-diagonal-0-reverse.png",
+          "sha256": "1c3eec44d50dc1cff2c17da08bbe5a994ee3edd394ad83bcc5347c225ee6ffd9"
+        },
+        "back": {
+          "file": "D-diagonal-0-back.png",
+          "sha256": "22b0bc4193cd054e45347a7fdf0e28497eaca41474440542a1893adbac39b206"
+        },
+        "top": {
+          "file": "D-diagonal-0-top.png",
+          "sha256": "d2ecd37f37bc6c87d5502f1bab3edb56b86873d33a4cadf6806aeb04ec6c175e"
+        }
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 1.83,
+      "views": {
+        "front": {
+          "file": "D-diagonal-1-front.png",
+          "sha256": "d81726263cdb5ff455d8549640452e87bdb2bb6516bc3256b6cd99c5385739d6"
+        },
+        "oblique": {
+          "file": "D-diagonal-1-oblique.png",
+          "sha256": "8159819b62f8ad4395f683ea580dcdd0bd608a2ea88e4a4c86c23951e8c81cb4"
+        },
+        "side": {
+          "file": "D-diagonal-1-side.png",
+          "sha256": "256ee96223a7e3444e2802a0465f550f98985ba730ad386f905298c94577eb18"
+        },
+        "reverse": {
+          "file": "D-diagonal-1-reverse.png",
+          "sha256": "5b91f7d2e910840231c0d1ba7815e388c65d0161915d9656b465a776b06524b8"
+        },
+        "back": {
+          "file": "D-diagonal-1-back.png",
+          "sha256": "991fa6d133ad86cb611b7695f897e0e719048444c87d6063ddbbc86b0400af4e"
+        },
+        "top": {
+          "file": "D-diagonal-1-top.png",
+          "sha256": "85261fa8025a3fb30b7737e0331aabad686a6854aa5044c2d4e7f172bc387f9d"
+        }
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 2.02,
+      "views": {
+        "front": {
+          "file": "D-diagonal-2-front.png",
+          "sha256": "75a08983362c03025943d8e0bb6feda20aec0ac61646a8e65ad809405d56bb2c"
+        },
+        "oblique": {
+          "file": "D-diagonal-2-oblique.png",
+          "sha256": "e425daf21edcc9d7c2229619c12c534f8a7b5c5b26b6be7c7e4cb65e46a48199"
+        },
+        "side": {
+          "file": "D-diagonal-2-side.png",
+          "sha256": "5068b8590589357c29b3bfa8512a71778c1c54aa27a3f775d36408abbc9ba651"
+        },
+        "reverse": {
+          "file": "D-diagonal-2-reverse.png",
+          "sha256": "c5f4fe28d751b9b7163b7cf47ec36c722255e88c160059a5b0549e26910c292e"
+        },
+        "back": {
+          "file": "D-diagonal-2-back.png",
+          "sha256": "34f7d6a46bef961ea71ba6413116790bc22fd322c16e2b838adc2fc6df6a578f"
+        },
+        "top": {
+          "file": "D-diagonal-2-top.png",
+          "sha256": "66c1f19aa5b759db62c8c4eff078f8b9f5775ed15e378400d9671d0ca39c0468"
+        }
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 2.6,
+      "views": {
+        "front": {
+          "file": "D-diagonal-3-front.png",
+          "sha256": "dcb731a870391c6d258a9c818c9b0c4c1be9cd1cc8fd5ca464ab5c7bb5d69697"
+        },
+        "oblique": {
+          "file": "D-diagonal-3-oblique.png",
+          "sha256": "2ba3727bffdd41d951b426ccbb1ec2e6bd96ec3cf7627f93be53328dbe90928c"
+        },
+        "side": {
+          "file": "D-diagonal-3-side.png",
+          "sha256": "fb05c575ca92b76648ef1ccd93fbf977647f23028ded99841283d23bc4bbf63b"
+        },
+        "reverse": {
+          "file": "D-diagonal-3-reverse.png",
+          "sha256": "a52bdd5fa02a02e016c65065b355d807d959c13d1421a0a26e1f57026b804893"
+        },
+        "back": {
+          "file": "D-diagonal-3-back.png",
+          "sha256": "74115d615bb493ae97228c69b126d42e994fc663b39737ef973163ebf4ba752c"
+        },
+        "top": {
+          "file": "D-diagonal-3-top.png",
+          "sha256": "dd39dee60a7203533f696effd41aa3c984f1b9f36824b97eb8311b203208b422"
+        }
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "E-transverse-0-front.png",
+          "sha256": "0ca2f115b8d554e54d42af34f31558831403847873ab613a72fef8a497e024f0"
+        },
+        "oblique": {
+          "file": "E-transverse-0-oblique.png",
+          "sha256": "128aabbca9c117650fe3096932d5fc015df8fc7653caeabe7ab5ba0d8b377236"
+        },
+        "side": {
+          "file": "E-transverse-0-side.png",
+          "sha256": "a275f8d9ce1fb3e79cca1abb16af4755fee10e64d9bd428eb336bb48f6f6d4b0"
+        },
+        "reverse": {
+          "file": "E-transverse-0-reverse.png",
+          "sha256": "857406905294d46374b6d253781e7bd44031c37e8f1b148f75b79f8d83851918"
+        },
+        "back": {
+          "file": "E-transverse-0-back.png",
+          "sha256": "86bdd666b09b1f265c32e2baf2ba50b1cec7d80bd30bb19151d9773231a13c94"
+        },
+        "top": {
+          "file": "E-transverse-0-top.png",
+          "sha256": "aa44cf3df108470ee8d69bb554fbe3b8d538f9af3a41f40784d832fe7f0deb6b"
+        }
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 1.83,
+      "views": {
+        "front": {
+          "file": "E-transverse-1-front.png",
+          "sha256": "a122f31179f714807e91b5ae7045e9fec386347d7111e8db3ca7dffe69d89e62"
+        },
+        "oblique": {
+          "file": "E-transverse-1-oblique.png",
+          "sha256": "4c3e6c018e615b579c43216bdd36e85c1417ee47a0658e5a86f37270dac098ca"
+        },
+        "side": {
+          "file": "E-transverse-1-side.png",
+          "sha256": "cb4892f084123faa736aca0a67600e1b433848d081b472465ef5e25904f3abf4"
+        },
+        "reverse": {
+          "file": "E-transverse-1-reverse.png",
+          "sha256": "0625b5d6b00b04799a9eafce702b35acd0df3bfcca560adf8b37609e9abb2ec5"
+        },
+        "back": {
+          "file": "E-transverse-1-back.png",
+          "sha256": "87fe8e2825e0b04a614cd25398141e3ee1274f6a766eafca026b6d6fd6dd704c"
+        },
+        "top": {
+          "file": "E-transverse-1-top.png",
+          "sha256": "736b76ab650a223ae2c6a9e7d8c951aa6e12189e2dd30e84577dcce31c39e2cb"
+        }
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 2.02,
+      "views": {
+        "front": {
+          "file": "E-transverse-2-front.png",
+          "sha256": "e4652cde9c7120de308b8e27456b22e43b18a0ddc8139a372e986df07d5d1f1d"
+        },
+        "oblique": {
+          "file": "E-transverse-2-oblique.png",
+          "sha256": "4da13dcbdf4ce3f1ebb9349e0335e3ce2d3c021f729567165c20cd0d47bba211"
+        },
+        "side": {
+          "file": "E-transverse-2-side.png",
+          "sha256": "060a679c4e67013ad42e69e042ae45718687645f5484cf9313383765dcbb865e"
+        },
+        "reverse": {
+          "file": "E-transverse-2-reverse.png",
+          "sha256": "bf01a0e797e90d6609e5d41f1096615d79a37400ca96ee22bd85c75b7a716df2"
+        },
+        "back": {
+          "file": "E-transverse-2-back.png",
+          "sha256": "5975349b53421869769a6118f5c2a12b7beb097918ecbb3546921d109cbc68d1"
+        },
+        "top": {
+          "file": "E-transverse-2-top.png",
+          "sha256": "862f992cf1fb24106db6d1e5550723f8703aef14651a3713fd2d975eed80b526"
+        }
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 2.6,
+      "views": {
+        "front": {
+          "file": "E-transverse-3-front.png",
+          "sha256": "c4a6276c88079bd54d7af32812722286a94fc8b0463fb74673e048cad852afa7"
+        },
+        "oblique": {
+          "file": "E-transverse-3-oblique.png",
+          "sha256": "f9a000e732a68da9a6098b24ee2619760d6ae7be3951a363e484751bc4f0d152"
+        },
+        "side": {
+          "file": "E-transverse-3-side.png",
+          "sha256": "b5e5ea53d8103d3e0cf9fec491aaeb8a39c4494bcf95ce8e0696f86c4721d76e"
+        },
+        "reverse": {
+          "file": "E-transverse-3-reverse.png",
+          "sha256": "49642344ba85216c15097e4e9ee436afaf23854f1d301115422121fdf194bdb4"
+        },
+        "back": {
+          "file": "E-transverse-3-back.png",
+          "sha256": "03baaafaa085e31e6f0f20e3a10993b989da8e1692cc5c56296da0b9f8402352"
+        },
+        "top": {
+          "file": "E-transverse-3-top.png",
+          "sha256": "b077f48da6b729ed04a6b0dda23ac5796c724ebc0c6724d94c6fb45fcd0d1fa9"
+        }
+      }
+    }
+  ],
+  "clearance": [
+    {
+      "case": "A-compact",
+      "seconds": 0.0,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.17834891378879547
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1024,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.3937138617038727
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 1.1273750066757202
+        },
+        "gripExclusion": {
+          "center": [
+            0.8075584046087277,
+            -0.11738590228096406,
+            0.4135873888186888
+          ],
+          "radius": 0.24456503849976868,
+          "excludedVertices": 96,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "A-compact",
+      "seconds": 1.83,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 66,
+          "insideIndices": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.001358387409709394
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1024,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.3960646390914917
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.8239285945892334
+        },
+        "gripExclusion": {
+          "center": [
+            0.1643168622402593,
+            -0.8505100483082051,
+            0.37922887327767163
+          ],
+          "radius": 0.2445645655182837,
+          "excludedVertices": 96,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "A-compact",
+      "seconds": 2.02,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 88,
+          "insideIndices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.0007200794643722475
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1024,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.3938426673412323
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.7718445062637329
+        },
+        "gripExclusion": {
+          "center": [
+            0.06943756985261319,
+            -0.8762544565610054,
+            0.37511947886686486
+          ],
+          "radius": 0.24456407585477005,
+          "excludedVertices": 96,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "A-compact",
+      "seconds": 2.6,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.09323832392692566
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1024,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.39943182468414307
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 1.0412647724151611
+        },
+        "gripExclusion": {
+          "center": [
+            0.631398211219996,
+            -0.49117120984161783,
+            0.412250387188052
+          ],
+          "radius": 0.24456535365585966,
+          "excludedVertices": 96,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 0.0,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 76,
+          "insideIndices": [
+            182,
+            183,
+            184,
+            185,
+            224,
+            225,
+            370,
+            371,
+            372,
+            373,
+            374,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440,
+            496,
+            497,
+            498,
+            499,
+            500,
+            501,
+            502,
+            503,
+            504,
+            559,
+            560,
+            561,
+            562,
+            563,
+            564,
+            569,
+            623,
+            624,
+            625,
+            626,
+            627,
+            634,
+            635,
+            688,
+            689,
+            690,
+            691,
+            697,
+            698,
+            699,
+            700,
+            701,
+            754,
+            755,
+            756,
+            759,
+            760,
+            761,
+            762,
+            763,
+            764,
+            765,
+            766,
+            822,
+            823,
+            824,
+            825,
+            826,
+            827,
+            828,
+            829,
+            830,
+            889,
+            890,
+            891,
+            892,
+            893
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 2.236141517641954e-05
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1088,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.06051492318511009
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.8539130687713623
+        },
+        "gripExclusion": {
+          "center": [
+            0.8075584046087277,
+            -0.11738590228096406,
+            0.4135873888186888
+          ],
+          "radius": 0.24456503849976868,
+          "excludedVertices": 32,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 1.83,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.07855106145143509
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1088,
+          "inside": 48,
+          "insideIndices": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.0001118923319154419
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.8115337491035461
+        },
+        "gripExclusion": {
+          "center": [
+            0.1643168622402593,
+            -0.8505100483082051,
+            0.37922887327767163
+          ],
+          "radius": 0.2445645655182837,
+          "excludedVertices": 32,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 2.02,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.046021390706300735
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1088,
+          "inside": 64,
+          "insideIndices": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.008824924007058144
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.8022552132606506
+        },
+        "gripExclusion": {
+          "center": [
+            0.06943756985261319,
+            -0.8762544565610054,
+            0.37511947886686486
+          ],
+          "radius": 0.24456407585477005,
+          "excludedVertices": 32,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "D-diagonal",
+      "seconds": 2.6,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.191849485039711
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1088,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.036962687969207764
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.8384575843811035
+        },
+        "gripExclusion": {
+          "center": [
+            0.631398211219996,
+            -0.49117120984161783,
+            0.412250387188052
+          ],
+          "radius": 0.24456535365585966,
+          "excludedVertices": 32,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 0.0,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 628,
+          "insideIndices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            128,
+            129,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304,
+            312,
+            322,
+            323,
+            324,
+            325,
+            358,
+            359,
+            360,
+            361,
+            362,
+            363,
+            364,
+            365,
+            378,
+            379,
+            380,
+            381,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390,
+            391,
+            392,
+            393,
+            420,
+            421,
+            422,
+            423,
+            424,
+            425,
+            426,
+            427,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449,
+            450,
+            451,
+            452,
+            453,
+            454,
+            455,
+            456,
+            457,
+            458,
+            459,
+            482,
+            483,
+            484,
+            485,
+            486,
+            487,
+            488,
+            489,
+            506,
+            507,
+            508,
+            509,
+            510,
+            511,
+            512,
+            513,
+            514,
+            515,
+            516,
+            517,
+            518,
+            519,
+            520,
+            521,
+            522,
+            523,
+            524,
+            525,
+            526,
+            544,
+            545,
+            546,
+            547,
+            548,
+            549,
+            550,
+            551,
+            571,
+            572,
+            573,
+            574,
+            575,
+            576,
+            577,
+            578,
+            579,
+            580,
+            581,
+            582,
+            583,
+            584,
+            585,
+            586,
+            587,
+            588,
+            589,
+            590,
+            591,
+            592,
+            593,
+            605,
+            606,
+            607,
+            608,
+            609,
+            610,
+            611,
+            635,
+            636,
+            637,
+            638,
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646,
+            647,
+            648,
+            649,
+            650,
+            651,
+            652,
+            653,
+            654,
+            655,
+            656,
+            657,
+            658,
+            659,
+            663,
+            664,
+            665,
+            666,
+            667,
+            668,
+            669,
+            670,
+            671,
+            672,
+            700,
+            701,
+            702,
+            703,
+            704,
+            705,
+            706,
+            707,
+            708,
+            709,
+            710,
+            711,
+            712,
+            713,
+            714,
+            715,
+            716,
+            717,
+            718,
+            719,
+            720,
+            721,
+            722,
+            723,
+            724,
+            725,
+            726,
+            727,
+            728,
+            729,
+            730,
+            731,
+            732,
+            733,
+            734,
+            735,
+            763,
+            764,
+            765,
+            766,
+            767,
+            768,
+            769,
+            770,
+            771,
+            772,
+            773,
+            774,
+            775,
+            776,
+            777,
+            778,
+            779,
+            780,
+            781,
+            782,
+            783,
+            784,
+            785,
+            786,
+            787,
+            788,
+            789,
+            790,
+            791,
+            827,
+            828,
+            829,
+            830,
+            831,
+            832,
+            833,
+            834,
+            835,
+            836,
+            837,
+            838,
+            839,
+            840,
+            841,
+            842,
+            843,
+            844,
+            845,
+            846,
+            847,
+            848,
+            849,
+            850,
+            851,
+            852,
+            853,
+            854,
+            855,
+            856,
+            857,
+            889,
+            890,
+            891,
+            892,
+            893,
+            894,
+            895,
+            896,
+            897,
+            898,
+            899,
+            900,
+            901,
+            902,
+            903,
+            904,
+            905,
+            906,
+            907,
+            908,
+            909,
+            910,
+            911,
+            912,
+            913,
+            914,
+            915,
+            916,
+            917,
+            918,
+            919,
+            920,
+            921,
+            922,
+            923,
+            924,
+            928,
+            950,
+            951,
+            952,
+            953,
+            954,
+            955,
+            956,
+            957,
+            958,
+            959,
+            960,
+            961,
+            962,
+            963,
+            964,
+            965,
+            966,
+            967,
+            968,
+            969,
+            970,
+            971,
+            972,
+            973,
+            974,
+            975,
+            976,
+            977,
+            978,
+            979,
+            980,
+            981,
+            982,
+            983,
+            984,
+            985,
+            986,
+            987,
+            988,
+            989,
+            990,
+            991,
+            992,
+            993,
+            994,
+            995,
+            996,
+            997,
+            998,
+            999,
+            1008,
+            1009,
+            1010,
+            1011,
+            1012,
+            1013,
+            1014,
+            1015,
+            1016,
+            1017,
+            1018,
+            1019,
+            1020,
+            1021,
+            1022,
+            1023,
+            1024,
+            1025,
+            1026,
+            1027,
+            1028,
+            1029,
+            1030,
+            1031,
+            1032,
+            1033,
+            1034,
+            1035,
+            1036,
+            1037,
+            1038,
+            1039,
+            1040,
+            1041,
+            1042,
+            1043,
+            1044,
+            1045,
+            1046,
+            1047,
+            1048,
+            1049,
+            1050,
+            1051,
+            1052,
+            1053,
+            1054,
+            1055,
+            1056,
+            1057,
+            1058,
+            1059,
+            1060,
+            1061,
+            1062,
+            1063,
+            1064,
+            1065,
+            1066,
+            1067,
+            1068,
+            1069,
+            1070,
+            1071,
+            1072,
+            1073,
+            1074,
+            1075,
+            1076,
+            1077,
+            1078,
+            1079,
+            1080,
+            1081,
+            1082,
+            1083,
+            1084,
+            1085,
+            1086,
+            1087,
+            1088,
+            1089,
+            1090,
+            1091,
+            1092,
+            1093,
+            1094,
+            1095,
+            1096,
+            1097,
+            1098,
+            1099,
+            1100,
+            1101,
+            1102,
+            1103,
+            1104,
+            1105,
+            1106,
+            1107,
+            1108,
+            1109,
+            1110,
+            1111,
+            1112,
+            1113,
+            1114,
+            1115,
+            1116,
+            1117,
+            1118,
+            1119
+          ],
+          "nearBoundary": 1,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 1.6843350749695674e-05
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.08449765294790268
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.7035577893257141
+        },
+        "gripExclusion": {
+          "center": [
+            0.8075584046087277,
+            -0.11738590228096406,
+            0.4135873888186888
+          ],
+          "radius": 0.24456503849976868,
+          "excludedVertices": 0,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 1.83,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.14292730391025543
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.0014761164784431458
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.6376906037330627
+        },
+        "gripExclusion": {
+          "center": [
+            0.1643168622402593,
+            -0.8505100483082051,
+            0.37922887327767163
+          ],
+          "radius": 0.2445645655182837,
+          "excludedVertices": 0,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 2.02,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.1049787774682045
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1120,
+          "inside": 12,
+          "insideIndices": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.00046302517876029015
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.638078510761261
+        },
+        "gripExclusion": {
+          "center": [
+            0.06943756985261319,
+            -0.8762544565610054,
+            0.37511947886686486
+          ],
+          "radius": 0.24456407585477005,
+          "excludedVertices": 0,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    },
+    {
+      "case": "E-transverse",
+      "seconds": 2.6,
+      "result": {
+        "bodyAndPaws": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.04785551503300667
+        },
+        "holdingArmOutsideGrip": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.06898701190948486
+        },
+        "freeArm": {
+          "points": 1120,
+          "inside": 0,
+          "insideIndices": [],
+          "nearBoundary": 0,
+          "disputedRays": 0,
+          "minimumSurfaceDistance": 0.6431522369384766
+        },
+        "gripExclusion": {
+          "center": [
+            0.631398211219996,
+            -0.49117120984161783,
+            0.412250387188052
+          ],
+          "radius": 0.24456535365585966,
+          "excludedVertices": 0,
+          "source": "Actual original distal material-grip envelope plus0.012 shaft tolerance"
+        },
+        "method": "Actual closed-mesh two-ray parity, third ray on disagreement; vertices only, not a swept surface certificate"
+      }
+    }
+  ],
+  "scripts": {
+    "pilot02.py": "2935425bb06f8d0c300e0f5cf9e5ce3c475e101d85f83884f7d285ae707b665e",
+    "native.py": "52c72eb25dc350e2d0e6221f86b365cbf1514dcf6045bf195a01a74619340d16",
+    "broom_math.py": "96f377ff15de43aa1368df709214267c06de7d4d5b42ee04d03696e535322230",
+    "clearance.py": "c8afc4474973a9e722c39c19bb3976628ae9502f01d2fa7704d766740dfbe493"
+  },
+  "status": "PILOT_COMPLETE_PENDING_VISUAL"
+}

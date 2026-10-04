@@ -1,0 +1,37 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep34 / PLAN</title><style>body{max-width:1000px;margin:32px auto;padding:0 20px;background:#f5f3ed;color:#263b34;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#345f4e}</style><a href="./">Back to comparison</a><pre># Sweep34 broom affordance study
+
+Owner request: make broom length, shape and holding direction look natural across viewing angles.
+Input: immutable Sweep33 supported-reach22, SHA256 ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10.
+Scope: broom scaffold, fixed material grip, native floor/contact orientation and useful prop controls. Character geometry, motion, face, hands and the source video stay fixed for causal comparison.
+
+Observed baseline: grip is1.09units above the fan bottom in local material space, but only about0.66–0.79above the floor. The floor solver therefore lays the shaft far forward. Fan thickness0.11 versus width0.58 produces a thin slab in some views. The upper handle is only0.165beyond the grip.
+
+Hypothesis: an approximately0.83lower reach, a visibly rounded fan and a coherent short upper handle will read as a usable small broom. Compare upper-handle length and sweep-plane direction; reject shaft/body penetration or a fan that hides the contact action. These are shape hypotheses, not inferred real-world dimensions.
+
+## Experiment
+
+- Keep the same4s/60fps action and original cameras. Add reverse oblique/back and a360degree orbit at rest and working extrema.
+- Use one editable normalized scaffold and ordinary Geometry Nodes. The initial pilot keeps the original material grip; the third experiment below narrows its distal region without changing character vertices. Solve tilt from actual fan-bottom support, not a nominal bounding box or floor clamp.
+- Compare baseline and three coherent prop designs. The selected result is saved separately only after pilot review; no release overwrite.
+- Verify independent pure-math geometry versus evaluated native vertices, floor/lift residual, original character parity, control edit/reset and save/reopen. Test the full240time sequence and an angular orbit, plus shaded close views.
+- Review real-size and enlarged flat renders in all directions. Smooth contact and grasp readability must both hold. Sampled clearance is not a general collision certificate.
+- Deliver a browser comparison and editable native source. Main-agent review only; inherited15issue/11gate release qualification remains open. No automatic adoption.
+
+## First pilot review
+
+The96images at4poses and6views confirm the shorter lower reach and rounded fan read better. All165 native/math contacts pass and36character-pose comparisons are byte-identical. A hides the upper shaft; B/C reveal isolated shaft-tip pixels through the forearm in side/back views. The first three cases are not selected.
+
+Second hypothesis: orient the shaft more transversely to the hand/forearm. D compares a55degree outward contact-plane direction; E tests80degrees with a10degree stroke change. Actual mesh parity-ray checks distinguish a hidden handle from body or proximal-arm intersections. Both retain the same character action.
+
+## Second pilot review and material-grip search
+
+D/E are rejected: the fan enters the feet at rest, and the long upper shaft still crosses the arm at work. The actual body/paw parity test also detects A&#x27;s upper shaft inside the torso during the sweep. These are shape/attachment failures despite exact floor and native/math parity.
+
+The original grip uses the centroid of material q&gt;=0.69134172, covering the distal30.9percent of the arm. The third experiment allows a narrower, fixed distal grip region while preserving every arm vertex and its motion. A joint864-case search covers grip region, lower/upper length and one continuous heading response. Coarse nearest-surface rejection is followed by actual parity-ray finalist checks. Shaft overlap is allowed only in the actual distal hand region q&gt;=0.80; an enclosing sphere is no longer used to exempt proximal-arm intersections.
+
+## Third pilot: select F2 for full verification
+
+The joint864-case search leaves188coarse-feasible candidates over7native poses. Three diverse finalists pass independent geometry parity and contained-vertex checks. All72six-view pilot images were reviewed. F2 is selected for full validation: fixed distal grip q&gt;0.84, lower reach0.74, upper handle0.12, fan0.51wide by0.19deep, heading response-30degrees at full stroke. F1 keeps a narrower side profile; F3 returns the fan toward the holding side. F2 gives a clear fan in both front and side work views and carries it farther across the non-holding foot.
+
+The short upper handle stays within the actual hand. The native grip position shifts about0.05units from the old broad distal-region average; arm vertices and arm motion do not change. Next: triangle-surface checks, native save/reopen and control edits, the full240frame action, and paired360degree orbits. No adoption.
+</pre></html>

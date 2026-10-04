@@ -1,0 +1,41 @@
+{
+  "decision": "PASS_PILOT_PENDING_FULL_SEQUENCE",
+  "selectedCase": "F2-distal",
+  "values": {
+    "Lower reach": 0.74,
+    "Upper handle": 0.12,
+    "Fan width": 0.51,
+    "Fan depth": 0.19,
+    "Fan height": 0.3,
+    "Shaft radius": 0.034,
+    "Fan turn": 0.0,
+    "Heading offset": 0.0,
+    "Heading travel": -30.0,
+    "Bristle response": 0.018,
+    "Grip region": 0.84,
+    "Design on": 1.0
+  },
+  "sourceSHA256": "ad2edb651a5465fbc7cb94f9c27df193243423cdf5eb3474b975190ecbd5be10",
+  "pilotSHA256": "1506d50db1b4785a5468ed579da89bf16b86ae0d41b53ab572fd0d62bc9dde5b",
+  "reviewer": "main agent; not independent",
+  "imagesReviewed": 72,
+  "views": [
+    "front",
+    "oblique",
+    "side",
+    "reverse",
+    "back",
+    "top"
+  ],
+  "findings": [
+    "All three distal-grip variants avoid the detached upper-shaft spots seen in the first two rounds.",
+    "F2 retains readable front and side bristle width and reaches farther across the non-holding foot than F1. F3 turns the fan back toward the holding side.",
+    "The shaft is held near its rounded end; the short upper segment stays in the distal hand region. The grip is no longer centered on a broad forearm region.",
+    "The72pilot images show no visible isolated shaft patch or penetrated fan. Exact seven-pose vertex-parity candidates pass; triangle surface intersections and continuous motion remain required."
+  ],
+  "limits": [
+    "Vertex checks alone do not prove surface clearance.",
+    "Top/back occlusion by the original character is expected and is not a shape transformation.",
+    "No independent sign-off or adoption."
+  ]
+}

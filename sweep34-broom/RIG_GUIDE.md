@@ -1,0 +1,40 @@
+# Sweep34 editable broom
+
+Open `sweep34-broom.blend` in Blender5.2. Select `Sweep34 | Broom design`. The four-second action occupies frames1–240 at60fps; frame241 is the identical quiet endpoint. Save edits as a new candidate.
+
+The selected design is a compact hand broom. A shorter lower shaft, a rounded bristle fan and a fixed distal holding region let the original hand/arm action hold it without crossing the torso. The short upper handle seats inside the hand. The body, face, feet, tail and arm performance are inherited unchanged from Sweep33.
+
+| Property | Selected | Function |
+| --- | --- | --- |
+| Lower reach | 0.74 | Local grip-to-bristle-bottom distance |
+| Upper handle | 0.12 | Shaft extension above the grip |
+| Fan width | 0.51 | Left-to-right bristle span |
+| Fan depth | 0.19 | Rounded fan thickness |
+| Fan height | 0.30 | Bristle length |
+| Shaft radius | 0.034 | Handle thickness |
+| Fan turn | 0degrees | Local fan/shaft twist |
+| Heading offset | 0degrees | Fixed horizontal direction offset |
+| Heading travel | -30degrees | Additional direction change at full Stroke |
+| Bristle response | 0.018 | Small horizontal tip trail scaled by the existing drag curve |
+| Grip region | 0.84 | Lower normalized material-coordinate bound for the holding-paw mean |
+| Design on | 1 | New broom;0 restores the complete original Sweep33 broom |
+
+Distances are native scene units, not inferred centimeters. The property ranges are construction aids; only the selected action and recorded individual edit/reset probes are verified. Combining arbitrary edits can cause intersections or move the requested floor contact outside the shaft's reachable domain.
+
+## Geometry and contact ownership
+
+`Sweep34 | Editable broom scaffold` stores one normalized mesh with1120vertices and990closed faces. Stable point attributes define shaft, collar and fan coordinates. Dimensions rebuild the coordinates inside the original holding-arm Geometry Nodes group. Separate closed regions preserve material boundaries. The rounded fan has genuine depth, visible in the side/rear and shaded close views.
+
+The holding point is the mean of the actual evaluated arm vertices with fixed material q>0.84. This uses the distal16percent of the arm instead of the old broad distal30.9percent. It shifts the attachment approximately0.05units without moving, scaling or deforming the character differently. There is no separately animated hand-position trajectory.
+
+Let L be lower reach, w the largest fan-bottom local Y after the fan twist, and h the hand height minus the floor height and the authored unloading lift. The contact tilt is `-acos(h / sqrt(L*L+w*w)) - atan2(w,L)`. The entire shaft and fan share that rotation. Heading combines the inherited common turn and `Heading travel * Stroke`. Only the bristle tips receive the small horizontal trailing offset. Floor contact is solved from the real fan support; no floor clamp conceals errors.
+
+The contact solver assumes the chosen dimensions reach the required floor/lift height and that the bristle bottom remains the lowest surface. Both conditions are verified for the selected action and probe edits. Out-of-domain combined edits require new checks.
+
+## Editing and delivery
+
+The underlying action remains on `Sweep33 | Supported action and world attention`. Work posture, Stroke, Unloaded lift and Bristle drag are ordinary saved animation curves. The broom uses standard Geometry Nodes and simple drivers, with no custom Python namespace, frame handler, external geometry cache, linked libraries or unpacked images. Playback and dimensional edits work from the complete native alone.
+
+The included extension scripts document construction and verification. Rebuilding from them needs the Mozu repository and the preserved Sweep33 input; the ZIP is not a standalone from-scratch model generator. `Design on=0` provides the original broom inside the same native, while the separately frozen original remains unchanged.
+
+The action starts with the broom already held. Fingers, pickup/release, stepping, physical force balance, arbitrary control combinations and skeletal runtime export are outside this review. Main-agent review only; no independent sign-off or automatic adoption.
