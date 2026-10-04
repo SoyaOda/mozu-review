@@ -1,0 +1,1055 @@
+{
+  "complete": true,
+  "native": {
+    "file": "mozu-siteat212-complete-meal-r02.blend",
+    "sha256": "7c5495f9702efe7c7f92d6aeeae3459f4b687919c59173353f73fb371adfb439",
+    "bytes": 222019735
+  },
+  "frames": 1329,
+  "views": [
+    "front",
+    "oblique",
+    "side"
+  ],
+  "reviewer": "Main agent",
+  "method": "Chronological inspection of every delivered movie frame in consecutive36-frame sheets; native pilot and continuous playback separately recorded",
+  "reviewedSheets": [
+    {
+      "file": "meal-front-sheet-01.jpg",
+      "sha256": "2a14d0402635e037adc5c600fa4288e7e198c68fe644d9f62e69e19ae6034e3f",
+      "view": "front",
+      "page": 1,
+      "firstFrame": 1,
+      "lastFrame": 36
+    },
+    {
+      "file": "meal-oblique-sheet-01.jpg",
+      "sha256": "0fa4d39de3e14b557a1d6dc49829c556fb9c7829b355c2fde1d55ab6fedb8936",
+      "view": "oblique",
+      "page": 1,
+      "firstFrame": 1,
+      "lastFrame": 36
+    },
+    {
+      "file": "meal-side-sheet-01.jpg",
+      "sha256": "ad3e621951bc07e8fcb97d02b7705c9ff61122449fca75a70a88ccb5eaf8d3cc",
+      "view": "side",
+      "page": 1,
+      "firstFrame": 1,
+      "lastFrame": 36
+    },
+    {
+      "file": "meal-front-sheet-02.jpg",
+      "sha256": "99046e100eaf84873b5082c44944cdd508756bf1c20a6d55cf5d4d30076a6766",
+      "view": "front",
+      "page": 2,
+      "firstFrame": 37,
+      "lastFrame": 72
+    },
+    {
+      "file": "meal-oblique-sheet-02.jpg",
+      "sha256": "1d276407be18c9415cc0a3d568152a716abca5be8c1c3355b3c3dc84f608b069",
+      "view": "oblique",
+      "page": 2,
+      "firstFrame": 37,
+      "lastFrame": 72
+    },
+    {
+      "file": "meal-side-sheet-02.jpg",
+      "sha256": "85a6c746592a7a80b1723c304aab1267ac1433444b4ec22c59d3f2f2e059b698",
+      "view": "side",
+      "page": 2,
+      "firstFrame": 37,
+      "lastFrame": 72
+    },
+    {
+      "file": "meal-front-sheet-03.jpg",
+      "sha256": "56683c93dd8528fc9841fbae256a9963de4ab874a7a99d77d6570cf3b3e7efde",
+      "view": "front",
+      "page": 3,
+      "firstFrame": 73,
+      "lastFrame": 108
+    },
+    {
+      "file": "meal-oblique-sheet-03.jpg",
+      "sha256": "84ed3bf36ee92f9f4e17c61862baec95a2aaadd70ef4f70ce5b42376f05b8ca9",
+      "view": "oblique",
+      "page": 3,
+      "firstFrame": 73,
+      "lastFrame": 108
+    },
+    {
+      "file": "meal-side-sheet-03.jpg",
+      "sha256": "8e5e23116e4a992dda16b7c519aae7a59cce89a546522bc361a1d49db5b60dc3",
+      "view": "side",
+      "page": 3,
+      "firstFrame": 73,
+      "lastFrame": 108
+    },
+    {
+      "file": "meal-front-sheet-04.jpg",
+      "sha256": "9ee729906c45035f0a8e6116fd20eeef5d497ad9818eb1f73b4d2730bd3256c0",
+      "view": "front",
+      "page": 4,
+      "firstFrame": 109,
+      "lastFrame": 144
+    },
+    {
+      "file": "meal-oblique-sheet-04.jpg",
+      "sha256": "f33e7ac4417f7a3244a267df9ff5c1b3ab96906a795d1c97bd74e178238c254b",
+      "view": "oblique",
+      "page": 4,
+      "firstFrame": 109,
+      "lastFrame": 144
+    },
+    {
+      "file": "meal-side-sheet-04.jpg",
+      "sha256": "bc5829c5b8bf382c40a6bfb0ddead53e436d75002a697d15b6f8bfe4c10dad2c",
+      "view": "side",
+      "page": 4,
+      "firstFrame": 109,
+      "lastFrame": 144
+    },
+    {
+      "file": "meal-front-sheet-05.jpg",
+      "sha256": "ff25611a79970c31ee328d4f06a5fa798047f746a176306bd9a80140aa76759c",
+      "view": "front",
+      "page": 5,
+      "firstFrame": 145,
+      "lastFrame": 180
+    },
+    {
+      "file": "meal-oblique-sheet-05.jpg",
+      "sha256": "78da1a51b870c8390b1c96f26d11d9afaa45bbbe4b8007014056f5defa44b1e6",
+      "view": "oblique",
+      "page": 5,
+      "firstFrame": 145,
+      "lastFrame": 180
+    },
+    {
+      "file": "meal-side-sheet-05.jpg",
+      "sha256": "7ebd8798c8e935b531fa3568a34feeacba9f2d46e2d8d8ba32eedec66631f6f1",
+      "view": "side",
+      "page": 5,
+      "firstFrame": 145,
+      "lastFrame": 180
+    },
+    {
+      "file": "meal-front-sheet-06.jpg",
+      "sha256": "65f7595b3bf804466061dda360f171dceeb2462f467c79d724689e3c09020c44",
+      "view": "front",
+      "page": 6,
+      "firstFrame": 181,
+      "lastFrame": 216
+    },
+    {
+      "file": "meal-oblique-sheet-06.jpg",
+      "sha256": "133e182ea9434494f209802994ea851744d42f24a4cb2854be8351fe271dacf2",
+      "view": "oblique",
+      "page": 6,
+      "firstFrame": 181,
+      "lastFrame": 216
+    },
+    {
+      "file": "meal-side-sheet-06.jpg",
+      "sha256": "b2f5494d2c2906d5434ee8bf2d3a0da66e63f175b62c98883e3eb3df0aa0b9e1",
+      "view": "side",
+      "page": 6,
+      "firstFrame": 181,
+      "lastFrame": 216
+    },
+    {
+      "file": "meal-front-sheet-07.jpg",
+      "sha256": "c6a2f9ed17eacc0310c6de284a48b60d2ab4d417ef34993d392c6d4c53e0fb0f",
+      "view": "front",
+      "page": 7,
+      "firstFrame": 217,
+      "lastFrame": 252
+    },
+    {
+      "file": "meal-oblique-sheet-07.jpg",
+      "sha256": "75f134e706342ceb461c39131603d35816f2ba3b8e4e3b67344a241b5e9d4ea2",
+      "view": "oblique",
+      "page": 7,
+      "firstFrame": 217,
+      "lastFrame": 252
+    },
+    {
+      "file": "meal-side-sheet-07.jpg",
+      "sha256": "377edff57bd7613faf74ed1b8034444cbab72684ed23aeabc9e7ec320485b30a",
+      "view": "side",
+      "page": 7,
+      "firstFrame": 217,
+      "lastFrame": 252
+    },
+    {
+      "file": "meal-front-sheet-08.jpg",
+      "sha256": "03ffd4c9740a0776d2df22b6b7850481b4e380fc1e8ecee46b9411ab4ff553a9",
+      "view": "front",
+      "page": 8,
+      "firstFrame": 253,
+      "lastFrame": 288
+    },
+    {
+      "file": "meal-oblique-sheet-08.jpg",
+      "sha256": "ef4de7b72be8d770002566fc308290dbca1349e278b695907e010b10b55d7b89",
+      "view": "oblique",
+      "page": 8,
+      "firstFrame": 253,
+      "lastFrame": 288
+    },
+    {
+      "file": "meal-side-sheet-08.jpg",
+      "sha256": "939cd030c48944a71d805d26767508fa1eed4b11109f72a52bb9fb516aaea9b4",
+      "view": "side",
+      "page": 8,
+      "firstFrame": 253,
+      "lastFrame": 288
+    },
+    {
+      "file": "meal-front-sheet-09.jpg",
+      "sha256": "42e6d0b36772c421e161f299c3f1a1e650e83af5cbcb79a347f41c871d5af923",
+      "view": "front",
+      "page": 9,
+      "firstFrame": 289,
+      "lastFrame": 324
+    },
+    {
+      "file": "meal-oblique-sheet-09.jpg",
+      "sha256": "2a9cd55096da46929d47b5f298d5a393cb62c5c6ca74ec9ac2ebc739071224ff",
+      "view": "oblique",
+      "page": 9,
+      "firstFrame": 289,
+      "lastFrame": 324
+    },
+    {
+      "file": "meal-side-sheet-09.jpg",
+      "sha256": "b410a54e7b274f000c84629d9767c27ede3a8e913c78ceeb6479cfda3fc08398",
+      "view": "side",
+      "page": 9,
+      "firstFrame": 289,
+      "lastFrame": 324
+    },
+    {
+      "file": "meal-front-sheet-10.jpg",
+      "sha256": "ffeb6f561b63c567af830eab039a88e7be8c38a9b141fa50a4697ba9dc8e974d",
+      "view": "front",
+      "page": 10,
+      "firstFrame": 325,
+      "lastFrame": 360
+    },
+    {
+      "file": "meal-oblique-sheet-10.jpg",
+      "sha256": "dec5c59c8a8154dd80ece484be5498f8a0015c7a4d7e8cbac2b6fdb9bb78e93c",
+      "view": "oblique",
+      "page": 10,
+      "firstFrame": 325,
+      "lastFrame": 360
+    },
+    {
+      "file": "meal-side-sheet-10.jpg",
+      "sha256": "f08841f41e822f073874a4a8232cec10a634434f8e3994b938e3a235d06171b9",
+      "view": "side",
+      "page": 10,
+      "firstFrame": 325,
+      "lastFrame": 360
+    },
+    {
+      "file": "meal-front-sheet-11.jpg",
+      "sha256": "4b3c4037cf4a1d03e0f745b63d69f6940dac1bf0811388a3cb93421a2db9286d",
+      "view": "front",
+      "page": 11,
+      "firstFrame": 361,
+      "lastFrame": 396
+    },
+    {
+      "file": "meal-oblique-sheet-11.jpg",
+      "sha256": "9ba6c345715c0cbd71ab35aa68605e4299ed6d29b257e373955b969dd790ca03",
+      "view": "oblique",
+      "page": 11,
+      "firstFrame": 361,
+      "lastFrame": 396
+    },
+    {
+      "file": "meal-side-sheet-11.jpg",
+      "sha256": "cbeed62ac47351d07d59bde1b6a2b9bef01d1ae282ac83db4c75c5f5d8673eef",
+      "view": "side",
+      "page": 11,
+      "firstFrame": 361,
+      "lastFrame": 396
+    },
+    {
+      "file": "meal-front-sheet-12.jpg",
+      "sha256": "87cab4cc9e5b3846363d0608478ea0d0b93b1ad886efd1cb6cdc15aec4b00dc3",
+      "view": "front",
+      "page": 12,
+      "firstFrame": 397,
+      "lastFrame": 432
+    },
+    {
+      "file": "meal-oblique-sheet-12.jpg",
+      "sha256": "80453a7879e355a35bf16dc18d8499d83fde3d8c49cba3a58047d52bfdb37eff",
+      "view": "oblique",
+      "page": 12,
+      "firstFrame": 397,
+      "lastFrame": 432
+    },
+    {
+      "file": "meal-side-sheet-12.jpg",
+      "sha256": "62209e6bc822eb444d1ee8cf0a27520a9fb73baba7d68535d50828d506e70167",
+      "view": "side",
+      "page": 12,
+      "firstFrame": 397,
+      "lastFrame": 432
+    },
+    {
+      "file": "meal-front-sheet-13.jpg",
+      "sha256": "22fc43df6986bd4ce5da08cafa35d93c35ca3c35dd00cbe964481fb90ee71dad",
+      "view": "front",
+      "page": 13,
+      "firstFrame": 433,
+      "lastFrame": 468
+    },
+    {
+      "file": "meal-oblique-sheet-13.jpg",
+      "sha256": "0f1d5b6d28b9d81b2199abaeea35261dcba74b2c1a06dcbe39bd01028e96c4fb",
+      "view": "oblique",
+      "page": 13,
+      "firstFrame": 433,
+      "lastFrame": 468
+    },
+    {
+      "file": "meal-side-sheet-13.jpg",
+      "sha256": "6b487da5bf2135d0d5234fffe4ab7267b55b857d5b4828edae88ed56455901e5",
+      "view": "side",
+      "page": 13,
+      "firstFrame": 433,
+      "lastFrame": 468
+    },
+    {
+      "file": "meal-front-sheet-14.jpg",
+      "sha256": "a30b360bab2ce048c77a1b68e143028c58dc970fd2a0d59ca500bd3fec7be5f2",
+      "view": "front",
+      "page": 14,
+      "firstFrame": 469,
+      "lastFrame": 504
+    },
+    {
+      "file": "meal-oblique-sheet-14.jpg",
+      "sha256": "e7d4ec5c6308eef5e55d4ce65a0a95d10d25cb6fd8b3fa3b018efc46c0d32372",
+      "view": "oblique",
+      "page": 14,
+      "firstFrame": 469,
+      "lastFrame": 504
+    },
+    {
+      "file": "meal-side-sheet-14.jpg",
+      "sha256": "a09d8565bc8ad689edf25c4ca2d9db9e1c53e37af043f8005b5538e625b23841",
+      "view": "side",
+      "page": 14,
+      "firstFrame": 469,
+      "lastFrame": 504
+    },
+    {
+      "file": "meal-front-sheet-15.jpg",
+      "sha256": "3c93d84d687ed566ca73a1b77bb9a9538bef6deacad4d4d70db1a46d7d3a3fed",
+      "view": "front",
+      "page": 15,
+      "firstFrame": 505,
+      "lastFrame": 540
+    },
+    {
+      "file": "meal-oblique-sheet-15.jpg",
+      "sha256": "76874ab775abbac1cdfc04777ebc5d353d758d43edb21c60492c6e24389ea4b8",
+      "view": "oblique",
+      "page": 15,
+      "firstFrame": 505,
+      "lastFrame": 540
+    },
+    {
+      "file": "meal-side-sheet-15.jpg",
+      "sha256": "fb7f06cbaa976134860edcdf5750f3f043054379118cbe21133767cdf57b8aae",
+      "view": "side",
+      "page": 15,
+      "firstFrame": 505,
+      "lastFrame": 540
+    },
+    {
+      "file": "meal-front-sheet-16.jpg",
+      "sha256": "e2cd17f82cf991a9679bd70b4a03a64c1a93798ac892fb43831ffe35c5922992",
+      "view": "front",
+      "page": 16,
+      "firstFrame": 541,
+      "lastFrame": 576
+    },
+    {
+      "file": "meal-oblique-sheet-16.jpg",
+      "sha256": "7d81f09f40214dacaec40eb21939b9425083700ecf75040871308a1336bdd534",
+      "view": "oblique",
+      "page": 16,
+      "firstFrame": 541,
+      "lastFrame": 576
+    },
+    {
+      "file": "meal-side-sheet-16.jpg",
+      "sha256": "3e468673f301cab68caf9763304de879621db7e0b3ffd489357f86e6084c318d",
+      "view": "side",
+      "page": 16,
+      "firstFrame": 541,
+      "lastFrame": 576
+    },
+    {
+      "file": "meal-front-sheet-17.jpg",
+      "sha256": "da0794b8b6e3e2700d1b5953b71f4371fddb11f6c13053cf8ec65615d11ea90c",
+      "view": "front",
+      "page": 17,
+      "firstFrame": 577,
+      "lastFrame": 612
+    },
+    {
+      "file": "meal-oblique-sheet-17.jpg",
+      "sha256": "d0e8aaedaa50e56365d0350fec9663e341395858f989c7358848d6471bd95a31",
+      "view": "oblique",
+      "page": 17,
+      "firstFrame": 577,
+      "lastFrame": 612
+    },
+    {
+      "file": "meal-side-sheet-17.jpg",
+      "sha256": "c2e1ac4d23fc646b22c833cbf55a4926e0128f29a13ac1409b098cd84e812b9e",
+      "view": "side",
+      "page": 17,
+      "firstFrame": 577,
+      "lastFrame": 612
+    },
+    {
+      "file": "meal-front-sheet-18.jpg",
+      "sha256": "016d7fbcaf5d39afac975540c9a413f49b9e530df942d7ea287e2cb5f7a9532e",
+      "view": "front",
+      "page": 18,
+      "firstFrame": 613,
+      "lastFrame": 648
+    },
+    {
+      "file": "meal-oblique-sheet-18.jpg",
+      "sha256": "bb5ec94b4f9a67559789b1901706f806c0fde41cdb0e4f20abf9270c0e78ae1f",
+      "view": "oblique",
+      "page": 18,
+      "firstFrame": 613,
+      "lastFrame": 648
+    },
+    {
+      "file": "meal-side-sheet-18.jpg",
+      "sha256": "95edd7ca87d0c713316558eccb2cc78c73e363c63a62f1b409bb4274a2dadb09",
+      "view": "side",
+      "page": 18,
+      "firstFrame": 613,
+      "lastFrame": 648
+    },
+    {
+      "file": "meal-front-sheet-19.jpg",
+      "sha256": "805b7eb467bcc95115532531a94572a1521e2238f0207688eb66832d4df4841a",
+      "view": "front",
+      "page": 19,
+      "firstFrame": 649,
+      "lastFrame": 684
+    },
+    {
+      "file": "meal-oblique-sheet-19.jpg",
+      "sha256": "fff651c34470f1d0a780a24aad1c5e0dfab898dbea4cb52b61dd8e464f1f1a69",
+      "view": "oblique",
+      "page": 19,
+      "firstFrame": 649,
+      "lastFrame": 684
+    },
+    {
+      "file": "meal-side-sheet-19.jpg",
+      "sha256": "f56dedf481f19d3edc53e0497658c5df58a07892925b03e0e4f1f00a67802089",
+      "view": "side",
+      "page": 19,
+      "firstFrame": 649,
+      "lastFrame": 684
+    },
+    {
+      "file": "meal-front-sheet-20.jpg",
+      "sha256": "4af6b217dc917f635cb27e6b606d9473bfad72d6283d6153658460a9a05d0d4a",
+      "view": "front",
+      "page": 20,
+      "firstFrame": 685,
+      "lastFrame": 720
+    },
+    {
+      "file": "meal-oblique-sheet-20.jpg",
+      "sha256": "71c70750e9438ef314d054b1de9238cd139cdbc543deb30cdfc88ca589e7e529",
+      "view": "oblique",
+      "page": 20,
+      "firstFrame": 685,
+      "lastFrame": 720
+    },
+    {
+      "file": "meal-side-sheet-20.jpg",
+      "sha256": "d0c495d44508260b9d87273ebc979b5af9e92e30b3d2bcacadfcd5379be158f0",
+      "view": "side",
+      "page": 20,
+      "firstFrame": 685,
+      "lastFrame": 720
+    },
+    {
+      "file": "meal-front-sheet-21.jpg",
+      "sha256": "c99cd027b334e92f6c8f30a1253d8c01f062576f8af9af179b638f85b02159ff",
+      "view": "front",
+      "page": 21,
+      "firstFrame": 721,
+      "lastFrame": 756
+    },
+    {
+      "file": "meal-oblique-sheet-21.jpg",
+      "sha256": "aff05e26bf43a1fec1286874a6cf2351056f8ad4e0a7d66016e0addf59fcefa3",
+      "view": "oblique",
+      "page": 21,
+      "firstFrame": 721,
+      "lastFrame": 756
+    },
+    {
+      "file": "meal-side-sheet-21.jpg",
+      "sha256": "8f6243833c90d4002a3b9c7a06876f5ea267148554bd0458735ee7c4ba7ffe9f",
+      "view": "side",
+      "page": 21,
+      "firstFrame": 721,
+      "lastFrame": 756
+    },
+    {
+      "file": "meal-front-sheet-22.jpg",
+      "sha256": "cb7a43a483f3683e91bc8903a74ca9253aeb3e801e2573f36cb96a6740a2af61",
+      "view": "front",
+      "page": 22,
+      "firstFrame": 757,
+      "lastFrame": 792
+    },
+    {
+      "file": "meal-oblique-sheet-22.jpg",
+      "sha256": "a9d1ede2f6f2072bfa4c4560f05431413d558e01d77be86bfc7e4b6cff52605b",
+      "view": "oblique",
+      "page": 22,
+      "firstFrame": 757,
+      "lastFrame": 792
+    },
+    {
+      "file": "meal-side-sheet-22.jpg",
+      "sha256": "d61124813892d0af945e3cbc7c40b9460749fda2cfa9a5c3826a69977f4b5628",
+      "view": "side",
+      "page": 22,
+      "firstFrame": 757,
+      "lastFrame": 792
+    },
+    {
+      "file": "meal-front-sheet-23.jpg",
+      "sha256": "ded507b6da77aaaea4d93a8a753ab2a532775f8f799385dbc55927b809e59ee4",
+      "view": "front",
+      "page": 23,
+      "firstFrame": 793,
+      "lastFrame": 828
+    },
+    {
+      "file": "meal-oblique-sheet-23.jpg",
+      "sha256": "eacbfaeeebf2b1c221e1995e46d4e530d0baf4dce6098f5492396fa22a2d36f8",
+      "view": "oblique",
+      "page": 23,
+      "firstFrame": 793,
+      "lastFrame": 828
+    },
+    {
+      "file": "meal-side-sheet-23.jpg",
+      "sha256": "6cca967aa1a14f696e4ebf638e6199e7a2db80f43de7302540d775307b6c7000",
+      "view": "side",
+      "page": 23,
+      "firstFrame": 793,
+      "lastFrame": 828
+    },
+    {
+      "file": "meal-front-sheet-24.jpg",
+      "sha256": "cb42a12c2b44c28277944901c4783dddba4124b6c1f45bba27ba5d21315594b0",
+      "view": "front",
+      "page": 24,
+      "firstFrame": 829,
+      "lastFrame": 864
+    },
+    {
+      "file": "meal-oblique-sheet-24.jpg",
+      "sha256": "ff3d07eea5e3fdeaca87d7004e417f6afb9633796216f7c0847fa15e0fe297b9",
+      "view": "oblique",
+      "page": 24,
+      "firstFrame": 829,
+      "lastFrame": 864
+    },
+    {
+      "file": "meal-side-sheet-24.jpg",
+      "sha256": "45745ba0d917a9dc5071acd1558bab5da9acf9f95fd7bd95253336e82b1b4a3e",
+      "view": "side",
+      "page": 24,
+      "firstFrame": 829,
+      "lastFrame": 864
+    },
+    {
+      "file": "meal-front-sheet-25.jpg",
+      "sha256": "2a3ff19fdc083466339593b5ef4dba3f0d4e18ae81448abffa6d1adbc98f79af",
+      "view": "front",
+      "page": 25,
+      "firstFrame": 865,
+      "lastFrame": 900
+    },
+    {
+      "file": "meal-oblique-sheet-25.jpg",
+      "sha256": "3c91e349b8d253f6a7e0e9059fe5705a66ff8fb2d64d207927d3e09fa0053993",
+      "view": "oblique",
+      "page": 25,
+      "firstFrame": 865,
+      "lastFrame": 900
+    },
+    {
+      "file": "meal-side-sheet-25.jpg",
+      "sha256": "5a125871ca3fa30b48ba9b7dd09bd4be2bee0d06402275aa787e6626d0a76e6f",
+      "view": "side",
+      "page": 25,
+      "firstFrame": 865,
+      "lastFrame": 900
+    },
+    {
+      "file": "meal-front-sheet-26.jpg",
+      "sha256": "1650620c3d9966f2c9fed544eebebc94aba8c4a2564799a0313f9992a52a3a5d",
+      "view": "front",
+      "page": 26,
+      "firstFrame": 901,
+      "lastFrame": 936
+    },
+    {
+      "file": "meal-oblique-sheet-26.jpg",
+      "sha256": "4e48ea6aa585f028d900fbd054a7c24308664c276466e20564db6e96acff5900",
+      "view": "oblique",
+      "page": 26,
+      "firstFrame": 901,
+      "lastFrame": 936
+    },
+    {
+      "file": "meal-side-sheet-26.jpg",
+      "sha256": "8c9b0215b05f91d26045aea928163f0caa520a3dda88415410de31be2f55653c",
+      "view": "side",
+      "page": 26,
+      "firstFrame": 901,
+      "lastFrame": 936
+    },
+    {
+      "file": "meal-front-sheet-27.jpg",
+      "sha256": "70cbe9653aac1d0bd66ece8c6692a38150762a39d10fb869ebdb1f5fbce8e53b",
+      "view": "front",
+      "page": 27,
+      "firstFrame": 937,
+      "lastFrame": 972
+    },
+    {
+      "file": "meal-oblique-sheet-27.jpg",
+      "sha256": "f77f7e1078792ef4fc19a9107ca56b5700a9026a3e91520926245504c59ecc45",
+      "view": "oblique",
+      "page": 27,
+      "firstFrame": 937,
+      "lastFrame": 972
+    },
+    {
+      "file": "meal-side-sheet-27.jpg",
+      "sha256": "ac1123eaf6b3e94aa4394605b560e23c848382b7ba88ff44a0e31ee6a9161033",
+      "view": "side",
+      "page": 27,
+      "firstFrame": 937,
+      "lastFrame": 972
+    },
+    {
+      "file": "meal-front-sheet-28.jpg",
+      "sha256": "144f02929c403a59728952f4d3f6c537d940fa2b60054a2dc4e97dfbafbd496e",
+      "view": "front",
+      "page": 28,
+      "firstFrame": 973,
+      "lastFrame": 1008
+    },
+    {
+      "file": "meal-oblique-sheet-28.jpg",
+      "sha256": "db7ed0b72f1249c2ad8ab3112509500d463c818d9719ef461e76d5d101d12517",
+      "view": "oblique",
+      "page": 28,
+      "firstFrame": 973,
+      "lastFrame": 1008
+    },
+    {
+      "file": "meal-side-sheet-28.jpg",
+      "sha256": "a53e2b6b9d70932ae0b06490755d08054a3627c589157d7fa0390ba43aab544d",
+      "view": "side",
+      "page": 28,
+      "firstFrame": 973,
+      "lastFrame": 1008
+    },
+    {
+      "file": "meal-front-sheet-29.jpg",
+      "sha256": "83f15315e39bd553eddec5265da581ec6fef868643b802bc946da696ebb15e7b",
+      "view": "front",
+      "page": 29,
+      "firstFrame": 1009,
+      "lastFrame": 1044
+    },
+    {
+      "file": "meal-oblique-sheet-29.jpg",
+      "sha256": "96e15e2f0c523dc4920bacdaf07bb90fbafdf614195e43efb63a5725231a106a",
+      "view": "oblique",
+      "page": 29,
+      "firstFrame": 1009,
+      "lastFrame": 1044
+    },
+    {
+      "file": "meal-side-sheet-29.jpg",
+      "sha256": "23cd7d104bb0077a0d95c6af0442a2c62ba5516a3b20f5040a553e2506bbd47d",
+      "view": "side",
+      "page": 29,
+      "firstFrame": 1009,
+      "lastFrame": 1044
+    },
+    {
+      "file": "meal-front-sheet-30.jpg",
+      "sha256": "5eecbafa647385856f62f7fd3d55d4c0dc8a2dcb4f30493f4efadfe5a6342b5b",
+      "view": "front",
+      "page": 30,
+      "firstFrame": 1045,
+      "lastFrame": 1080
+    },
+    {
+      "file": "meal-oblique-sheet-30.jpg",
+      "sha256": "f20ad5cbaf758c7cac4f37c7bdcd8b841c3c85e1ff0c1d1bf7bb7a5d669d833e",
+      "view": "oblique",
+      "page": 30,
+      "firstFrame": 1045,
+      "lastFrame": 1080
+    },
+    {
+      "file": "meal-side-sheet-30.jpg",
+      "sha256": "da18a0421f4a8e2c18f38b3ab9bffa6722f6914132932f954c31758153f942f4",
+      "view": "side",
+      "page": 30,
+      "firstFrame": 1045,
+      "lastFrame": 1080
+    },
+    {
+      "file": "meal-front-sheet-31.jpg",
+      "sha256": "18d09fd542192524fda6637c4ce27b40a351a50550312f3bb176cac6ba161464",
+      "view": "front",
+      "page": 31,
+      "firstFrame": 1081,
+      "lastFrame": 1116
+    },
+    {
+      "file": "meal-oblique-sheet-31.jpg",
+      "sha256": "857e27971c405c58078f8b56c7b4c406fe2b5975130e006b67dbb603c69af7f9",
+      "view": "oblique",
+      "page": 31,
+      "firstFrame": 1081,
+      "lastFrame": 1116
+    },
+    {
+      "file": "meal-side-sheet-31.jpg",
+      "sha256": "c4d4e8ca61f3d216c34025a48bf72d641286748084802e4ff546f70e1227f447",
+      "view": "side",
+      "page": 31,
+      "firstFrame": 1081,
+      "lastFrame": 1116
+    },
+    {
+      "file": "meal-front-sheet-32.jpg",
+      "sha256": "a359f08b3f0c09c3be2ab53c917365cdfe1ee776ed686e37a13f9a82cae17357",
+      "view": "front",
+      "page": 32,
+      "firstFrame": 1117,
+      "lastFrame": 1152
+    },
+    {
+      "file": "meal-oblique-sheet-32.jpg",
+      "sha256": "2a7c0c3e6df2b5d9e2d3eff26b9a63abfdb439d814af65e0dd44846c377fec45",
+      "view": "oblique",
+      "page": 32,
+      "firstFrame": 1117,
+      "lastFrame": 1152
+    },
+    {
+      "file": "meal-side-sheet-32.jpg",
+      "sha256": "842506109c61389679576c0c2374913c16452faa0c355f5c210ee35d9eacb88d",
+      "view": "side",
+      "page": 32,
+      "firstFrame": 1117,
+      "lastFrame": 1152
+    },
+    {
+      "file": "meal-front-sheet-33.jpg",
+      "sha256": "71d1e39bb83b8837b48e4e46935a58452a4786731c88971a904e69837e5172e7",
+      "view": "front",
+      "page": 33,
+      "firstFrame": 1153,
+      "lastFrame": 1188
+    },
+    {
+      "file": "meal-oblique-sheet-33.jpg",
+      "sha256": "9b68e94b5e8c1a28dbd5171b30cc3d7629fb71d3ec4373a1a83e2b803b69d5ed",
+      "view": "oblique",
+      "page": 33,
+      "firstFrame": 1153,
+      "lastFrame": 1188
+    },
+    {
+      "file": "meal-side-sheet-33.jpg",
+      "sha256": "d66bf0833e1f403f7f511a7f03e3e691cdefea228cd4311865b9500e0d2abcb6",
+      "view": "side",
+      "page": 33,
+      "firstFrame": 1153,
+      "lastFrame": 1188
+    },
+    {
+      "file": "meal-front-sheet-34.jpg",
+      "sha256": "27aa0ba2f0f40f2927d5d3fd295fe8d0ba4f1162856cd953718d3cd90a3b6633",
+      "view": "front",
+      "page": 34,
+      "firstFrame": 1189,
+      "lastFrame": 1224
+    },
+    {
+      "file": "meal-oblique-sheet-34.jpg",
+      "sha256": "4322e84fccbfe4aaf8712e827222d48b76c3e47eaa0dcd0dd526cae5527a4347",
+      "view": "oblique",
+      "page": 34,
+      "firstFrame": 1189,
+      "lastFrame": 1224
+    },
+    {
+      "file": "meal-side-sheet-34.jpg",
+      "sha256": "ea415b27f22abe25003ece4b848a4e1d92b0e727dc83ab1322c77c997a7fac8c",
+      "view": "side",
+      "page": 34,
+      "firstFrame": 1189,
+      "lastFrame": 1224
+    },
+    {
+      "file": "meal-front-sheet-35.jpg",
+      "sha256": "1f18ac95eebcea8afb534e13ffec43f1ca018cf5c51a534c3cbe7837fe74a2d8",
+      "view": "front",
+      "page": 35,
+      "firstFrame": 1225,
+      "lastFrame": 1260
+    },
+    {
+      "file": "meal-oblique-sheet-35.jpg",
+      "sha256": "a8a8d3e4708af469f07daf2310e39561c66c9c530a733258b24880eb4d0999ce",
+      "view": "oblique",
+      "page": 35,
+      "firstFrame": 1225,
+      "lastFrame": 1260
+    },
+    {
+      "file": "meal-side-sheet-35.jpg",
+      "sha256": "9b9f24606ed15dd80a0afbab054cd04481d170624f3ff622a547dc585a3660e6",
+      "view": "side",
+      "page": 35,
+      "firstFrame": 1225,
+      "lastFrame": 1260
+    },
+    {
+      "file": "meal-front-sheet-36.jpg",
+      "sha256": "af460ff0968eabdc6cb2efbe0a21d2cccb101e54f7486d8bb02a332f5d162d07",
+      "view": "front",
+      "page": 36,
+      "firstFrame": 1261,
+      "lastFrame": 1296
+    },
+    {
+      "file": "meal-oblique-sheet-36.jpg",
+      "sha256": "77c6fea6db7b503d91a91628670748b9ef8ed6705fe0e3bcaabec6857a3501c4",
+      "view": "oblique",
+      "page": 36,
+      "firstFrame": 1261,
+      "lastFrame": 1296
+    },
+    {
+      "file": "meal-side-sheet-36.jpg",
+      "sha256": "c130fe3cac34acb38d1b1ad615e3a000d493fabb5216c309f47f14c9f9c33d82",
+      "view": "side",
+      "page": 36,
+      "firstFrame": 1261,
+      "lastFrame": 1296
+    },
+    {
+      "file": "meal-front-sheet-37.jpg",
+      "sha256": "c5a96f782eb7af7cc00df69a90448936a9d4f22aca1dbf5316b9f2aefceb06a6",
+      "view": "front",
+      "page": 37,
+      "firstFrame": 1297,
+      "lastFrame": 1329
+    },
+    {
+      "file": "meal-oblique-sheet-37.jpg",
+      "sha256": "a0a129b56fea3d81f33d63182dc99aea22bfd08e5730c5ca263032672dbab3bc",
+      "view": "oblique",
+      "page": 37,
+      "firstFrame": 1297,
+      "lastFrame": 1329
+    },
+    {
+      "file": "meal-side-sheet-37.jpg",
+      "sha256": "910aa9cb2539cf2bd3c40c61c837a785d356b8b14b01cf2c67987db271d983e6",
+      "view": "side",
+      "page": 37,
+      "firstFrame": 1297,
+      "lastFrame": 1329
+    }
+  ],
+  "segments": [
+    {
+      "pages": [
+        1,
+        2
+      ],
+      "observation": "Frames1-72: standing anticipation, counterbalance and descent remain coherent in all three views. Feet roll forward into sitting; arms open and begin to settle. No new arm detachment or mask loss is visible. Inherited seated belly/thigh silhouette is retained."
+    },
+    {
+      "pages": [
+        3,
+        4
+      ],
+      "observation": "Frames73-144: arm settling, the existing normal blink and quiet seated hold are continuous across all three views. Both arms retain their rounded resting shape; the eye mask remains present through the blink. No new visible opening defect was found."
+    },
+    {
+      "pages": [
+        5,
+        6
+      ],
+      "observation": "Frames145-216: the hands open, lift and gather before the inherited food appearance at174-175. The new meal joins at177 without a visible arm discontinuity; the mouth opens before first contact. The first mouth approach is clear in front/oblique; side view retains expected far-arm/food occlusion. No new visible break is found."
+    },
+    {
+      "pages": [
+        7,
+        8
+      ],
+      "observation": "First mouth contact transitions into a visibly smaller rice piece and lowered paired hands; shoulder and elbow silhouettes remain connected in all views. Chewing and head recovery progress without a discontinuity. Side view hides much of the rice behind the hands, consistent with the pilot."
+    },
+    {
+      "pages": [
+        9,
+        10
+      ],
+      "observation": "Low hand hold remains steady during chewing. Eyes reopen gradually around334..340 and mouth returns to rest. No food reappearance, arm break or lower-body drift is visible."
+    },
+    {
+      "pages": [
+        11,
+        12
+      ],
+      "observation": "Second approach turns the food diagonally with coordinated unequal hand heights. Mouth opens before contact401; food is reduced by410 and withdrawal follows. Continuous arm silhouettes and preserved face mask are visible in all three views."
+    },
+    {
+      "pages": [
+        13,
+        14
+      ],
+      "observation": "Second chewing interval retains the diagonal food grip and settles both arms smoothly into the low hold. The rice remnant stays present between the paws and does not jump position; no new silhouette or face-mask break is visible."
+    },
+    {
+      "pages": [
+        15,
+        16
+      ],
+      "observation": "Eyes reopen and the third approach reverses the hand-height bias. The reduced food follows the paired hands into the mouth at575; the near forearm occludes the food in oblique/side views, while the front view keeps contact readable. No hand detachment is visible."
+    },
+    {
+      "pages": [
+        17,
+        18
+      ],
+      "observation": "Third bite584 leaves a small compact piece between the paws. Mouth closure precedes lower hand recovery and quiet chewing. The front view confirms remaining food and alternating grip; side silhouette remains connected and the feet and tail stay planted."
+    },
+    {
+      "pages": [
+        19,
+        20
+      ],
+      "observation": "Third chewing interval ends with gradual eye reopening and a calm pause. The start of fourth approach at711 is continuous with the prior low grip; there is no visible food or arm snap across the recipe boundary."
+    },
+    {
+      "pages": [
+        21,
+        22
+      ],
+      "observation": "Fourth centered grip brings a shallow rice remnant to the open mouth. Bite758 removes another portion; hands then move down together while the mouth chews. The small remnant is difficult to distinguish from the pale belly in the front hold, but remains visible over the dark hands in oblique view."
+    },
+    {
+      "pages": [
+        23,
+        24
+      ],
+      "observation": "Fourth chewing hold and eye reopening remain continuous. Small pale flecks of the remaining rice show above the dark overlapping hands in oblique view; side/front visibility is limited by occlusion. This is a readability limit, with no detached moving piece or geometry explosion visible."
+    },
+    {
+      "pages": [
+        25,
+        26
+      ],
+      "observation": "Fifth approach rotates the mostly seaweed-covered remnant upright. Contact911 and bite920 leave a narrow dark strip with a pale rice edge, held continuously between the paws. It can resemble a thin stalk at thumbnail scale; front and oblique views still show it following the grip. Withdrawal begins after mouth closure."
+    },
+    {
+      "pages": [
+        27,
+        28
+      ],
+      "observation": "Fifth chewing recovery keeps the narrow final remnant steady between the hands. Eyes reopen around993..1000. Arm roots, face markings and planted lower body remain stable without a visible discontinuity."
+    },
+    {
+      "pages": [
+        29,
+        30
+      ],
+      "observation": "Final approach retains the remnant until mouth contact1061. With hands held at the mouth, the last piece advances and becomes progressively smaller through1080; the mouth stays open during intake. No premature hand withdrawal is visible, resolving the rejected r01 staging issue."
+    },
+    {
+      "pages": [
+        31,
+        32
+      ],
+      "observation": "Final food is absent by1083. The mouth closes while both hands stay near the mouth through1088, then the empty hands descend. Chewing continues with a clear gap between the paws; no rice or seaweed returns. Eye reopening starts near1150."
+    },
+    {
+      "pages": [
+        33,
+        34
+      ],
+      "observation": "Chewing ends and empty hands separate outward after1159, then both arms ease toward the seated resting pose. The belly is revealed naturally as the arms move aside; a soft blink accompanies the settling. No food reappears or arm-root gap is visible."
+    },
+    {
+      "pages": [
+        35,
+        36,
+        37
+      ],
+      "observation": "The empty hands settle beside the seated body and remain there through1329. Food remains absent. The final front, oblique and side silhouettes are continuous, with stable face markings and no new root gap or ending jump visible."
+    }
+  ],
+  "viewFramesReviewed": 3987,
+  "reviewDate": "2026-10-04",
+  "scope": "Main-agent complete chronological frame inspection and browser playback; candidate review, no independent score or owner adoption",
+  "playback": {
+    "normalSpeed": "All three22.15second videos reached1329, ended=true, paused=true and no media error",
+    "earlyPrefixes": "Separate260/610/1088-frame oblique continuous playback receipts retained",
+    "finalContact": "r02 holds hands at lips during final ingestion before empty-hand withdrawal"
+  },
+  "findings": {
+    "blockingVisibleDefects": [],
+    "readabilityLimits": [
+      "Small rice remnant partly occluded by paws or pale belly after the fourth mouthful.",
+      "Seaweed-heavy narrow final remnant can resemble a stalk at thumbnail scale."
+    ],
+    "inheritedLimits": [
+      "Authored visible mouth contact; closed-head cage is not a simulated mouth cavity.",
+      "Inherited seated belly contour and paw/body relationship unchanged."
+    ]
+  },
+  "mediaManifestSha256": "d95e51bc94a8036392646157f25916438ff5cbff2491726da3c7e44560eb8e41"
+}

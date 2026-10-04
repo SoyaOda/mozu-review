@@ -1,0 +1,95 @@
+# SE212 complete meal — reviewed candidate
+
+The 22.15-second performance now eats the entire onigiri in six mouthfuls,
+finishes chewing, opens the empty hands and lowers the arms into seated rest.
+Every movie contains 1,329 actual native frames at 60 fps. Front, oblique and side
+share the same timeline. The earlier F sitting passage and old three-bite
+review remain available; no adopted release has been replaced.
+
+## Performance construction
+
+The shoulder transports the hand; a broad local elbow bend supports the lift.
+Original rounded arm/hand volume and body-bound shoulder attachment are retained.
+The hands rotate and regrip the progressively smaller food between mouthfuls.
+Mouth opening precedes contact, then jaw closure, withdrawal and closed-mouth
+chewing follow. The final contact holds until the food has entered the mouth.
+Five closed boolean bite volumes remove actual rice/nori geometry. The final
+small remainder feeds along the food axis while a closed ingestion half-space
+removes the entering edge. Food scale and opacity do not implement consumption.
+Hands release at frame 1159, reach the preserved rest shape at 1279, then remain
+at rest through 1329. Head, eyes and chewing use the existing expression rig.
+
+| Mouthful | Contact | Jaw closure | Withdrawn | Chewing finished |
+|---|---|---|---|---|
+| 1 | 215 | 224 | 256 | 343 |
+| 2 | 401 | 410 | 442 | 517 |
+| 3 | 575 | 584 | 616 | 691 |
+| 4 | 749 | 758 | 790 | 853 |
+| 5 | 911 | 920 | 952 | 1003 |
+| 6 | 1061 | 1088 | 1114 | 1159 |
+
+## Verified scope
+
+- Eighteen opening arm/body arrays and nine opening color images match F exactly.
+- Both final arm arrays match the original F seated rest, with zero maximum error.
+- Five save/reopen geometry probes are exact; seven reopened control edit/reset
+  tests pass. Elbow, wrist, paw roll and lateral food regrip visibly change geometry
+  and return to the saved state.
+- The three native action owners pass continuous-curve C1 checks. At 24 task poses,
+  both evaluated arms are finite closed manifolds with the recorded fold margin.
+- All 72 key-pose color images and 15 shaded images were reviewed. All 3,987 movie
+  view-frames were then inspected in 111 consecutive frame sheets. The final food
+  is empty and stays empty throughout the release and quiet hold.
+- All three movies fully decode to 1,329 frames with uniform 60 fps timestamps.
+  The media manifest binds each video, poster and complete frame sheet by SHA256.
+- The renderer reuses six exact static food-cut states in a disposable scene.
+  Character motion, the hand-owned grip and final ingestion remain live. Twenty
+  food-geometry states and sixty images match direct-native pilot output exactly;
+  all copied material fields are checked. Face and arm meshes use the established
+  full-layer extraction, preserving projected eye masks. The native is never
+  saved with this optimization. The earlier failed object-info food cache is not used.
+
+## Editable native and control owners
+
+Windows source: C:/mozu/se212/repo/output/rig_candidates/siteat212_20260925/meal_complete_20261004/mozu-siteat212-complete-meal-r02.blend
+
+Native SHA256: 7c5495f9702efe7c7f92d6aeeae3459f4b687919c59173353f73fb371adfb439
+Size: 222,019,735 bytes. Blender: 5.2.0 LTS.
+Parent SHA256: 6e279ed197f052fcf3956437968092ee39c689800f78e24a86304d69b3ebf1c8 (unchanged).
+
+Open at frame 139; the scene range is 1–1329 at 60 fps. Three actions belong together:
+SE212M | Sit and finish the meal, and SE212M | Complete meal arm L/R. The two
+arm actions animate the native GN extension inputs: Swing, Elbow, dRaise,
+dBend, dForward, kStretch, Wrist and Paw roll. These actions own the evaluated
+meal arms. Action-channel arm values are the authoring source used by build.py;
+changing only those channel values after the build does not regenerate arm keys.
+Food follows the actual evaluated two-hand tip frame. The food channels are
+bites, ingestion, propPitch, propUp and propSide. Existing face controls own
+mouth opening, chewing, jaw, cheek puff and eye closure.
+
+To edit keys, use the native Action Editor on the corresponding owner. For a
+temporary unkeyed control check, detach its action, change the GN input, restore
+the value and reattach the same action/slot. To regenerate a revised performance,
+copy to a new version identity, edit recipes.py/performance.py/food.py and run
+build.py followed by audit.py and the full capture/media workflow through the
+Windows queue. Do not overwrite any earlier native or reviewed package.
+Use the preserved parent file for its earlier task actions; this candidate is
+dedicated to the complete meal. The native and raw PNGs remain on Windows.
+
+## Practical limits
+
+This is an authored performance with main-agent visual review. It is not a new
+source-video fit, an independent reviewer sign-off or an owner adoption. The
+existing closed-head cage intersects the food slightly at several contacts;
+the scoped check is visible mouth-contact staging, not a simulated mouth cavity
+or collision-free eating. There are no independent fingers or physical food
+simulation. The broader 15-issue/11-group native-release qualification, inherited
+body/paw relationships and real-time runtime export remain outside this delivery.
+At the fourth and fifth holds, the small rice remainder is partly hidden by the
+paws or blends into the pale belly. After the fifth bite, the seaweed-heavy strip
+can look like a thin stalk at thumbnail scale. The three views retain the grip
+and consumption continuity; these are recorded readability limits.
+
+Source: scripts/research/siteat212_20260925/meal_complete_20261004/.
+Evidence: build-r02.json, native-pilot-r02/report.json,
+full-r02-fast/capture.json, fast-snapshot-proof.json, review/media.json and visual-review.json.

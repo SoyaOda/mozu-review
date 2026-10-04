@@ -1,0 +1,621 @@
+{
+  "url": "https://soyaoda.github.io/mozu-review/sit-eat-complete-meal/",
+  "native": {
+    "file": "mozu-siteat212-complete-meal-r02.blend",
+    "sha256": "7c5495f9702efe7c7f92d6aeeae3459f4b687919c59173353f73fb371adfb439",
+    "bytes": 222019735
+  },
+  "files": [
+    {
+      "file": "REPORT.html",
+      "sha256": "4f031c4b89bd70923da991ab126de2fb72acd6803661b4198164bb4a180b5927",
+      "bytes": 6184
+    },
+    {
+      "file": "REPORT.md",
+      "sha256": "7945e49bd507f87310302ccabab3681ba78f366fe05847cfe4e473087ec80be7",
+      "bytes": 5756
+    },
+    {
+      "file": "index.html",
+      "sha256": "04758aa8d35e6bde3804da57bfcb5baf796e95f319a6e573254a591a2e273284",
+      "bytes": 11811
+    },
+    {
+      "file": "meal-front-sheet-01.jpg",
+      "sha256": "2a14d0402635e037adc5c600fa4288e7e198c68fe644d9f62e69e19ae6034e3f",
+      "bytes": 396420
+    },
+    {
+      "file": "meal-front-sheet-02.jpg",
+      "sha256": "99046e100eaf84873b5082c44944cdd508756bf1c20a6d55cf5d4d30076a6766",
+      "bytes": 394609
+    },
+    {
+      "file": "meal-front-sheet-03.jpg",
+      "sha256": "56683c93dd8528fc9841fbae256a9963de4ab874a7a99d77d6570cf3b3e7efde",
+      "bytes": 389499
+    },
+    {
+      "file": "meal-front-sheet-04.jpg",
+      "sha256": "9ee729906c45035f0a8e6116fd20eeef5d497ad9818eb1f73b4d2730bd3256c0",
+      "bytes": 389036
+    },
+    {
+      "file": "meal-front-sheet-05.jpg",
+      "sha256": "ff25611a79970c31ee328d4f06a5fa798047f746a176306bd9a80140aa76759c",
+      "bytes": 397735
+    },
+    {
+      "file": "meal-front-sheet-06.jpg",
+      "sha256": "65f7595b3bf804466061dda360f171dceeb2462f467c79d724689e3c09020c44",
+      "bytes": 406673
+    },
+    {
+      "file": "meal-front-sheet-07.jpg",
+      "sha256": "c6a2f9ed17eacc0310c6de284a48b60d2ab4d417ef34993d392c6d4c53e0fb0f",
+      "bytes": 396565
+    },
+    {
+      "file": "meal-front-sheet-08.jpg",
+      "sha256": "03ffd4c9740a0776d2df22b6b7850481b4e380fc1e8ecee46b9411ab4ff553a9",
+      "bytes": 400414
+    },
+    {
+      "file": "meal-front-sheet-09.jpg",
+      "sha256": "42e6d0b36772c421e161f299c3f1a1e650e83af5cbcb79a347f41c871d5af923",
+      "bytes": 400152
+    },
+    {
+      "file": "meal-front-sheet-10.jpg",
+      "sha256": "ffeb6f561b63c567af830eab039a88e7be8c38a9b141fa50a4697ba9dc8e974d",
+      "bytes": 404420
+    },
+    {
+      "file": "meal-front-sheet-11.jpg",
+      "sha256": "4b3c4037cf4a1d03e0f745b63d69f6940dac1bf0811388a3cb93421a2db9286d",
+      "bytes": 408989
+    },
+    {
+      "file": "meal-front-sheet-12.jpg",
+      "sha256": "87cab4cc9e5b3846363d0608478ea0d0b93b1ad886efd1cb6cdc15aec4b00dc3",
+      "bytes": 398891
+    },
+    {
+      "file": "meal-front-sheet-13.jpg",
+      "sha256": "22fc43df6986bd4ce5da08cafa35d93c35ca3c35dd00cbe964481fb90ee71dad",
+      "bytes": 404953
+    },
+    {
+      "file": "meal-front-sheet-14.jpg",
+      "sha256": "a30b360bab2ce048c77a1b68e143028c58dc970fd2a0d59ca500bd3fec7be5f2",
+      "bytes": 404785
+    },
+    {
+      "file": "meal-front-sheet-15.jpg",
+      "sha256": "3c93d84d687ed566ca73a1b77bb9a9538bef6deacad4d4d70db1a46d7d3a3fed",
+      "bytes": 408704
+    },
+    {
+      "file": "meal-front-sheet-16.jpg",
+      "sha256": "e2cd17f82cf991a9679bd70b4a03a64c1a93798ac892fb43831ffe35c5922992",
+      "bytes": 406177
+    },
+    {
+      "file": "meal-front-sheet-17.jpg",
+      "sha256": "da0794b8b6e3e2700d1b5953b71f4371fddb11f6c13053cf8ec65615d11ea90c",
+      "bytes": 395896
+    },
+    {
+      "file": "meal-front-sheet-18.jpg",
+      "sha256": "016d7fbcaf5d39afac975540c9a413f49b9e530df942d7ea287e2cb5f7a9532e",
+      "bytes": 402501
+    },
+    {
+      "file": "meal-front-sheet-19.jpg",
+      "sha256": "805b7eb467bcc95115532531a94572a1521e2238f0207688eb66832d4df4841a",
+      "bytes": 402335
+    },
+    {
+      "file": "meal-front-sheet-20.jpg",
+      "sha256": "4af6b217dc917f635cb27e6b606d9473bfad72d6283d6153658460a9a05d0d4a",
+      "bytes": 407364
+    },
+    {
+      "file": "meal-front-sheet-21.jpg",
+      "sha256": "c99cd027b334e92f6c8f30a1253d8c01f062576f8af9af179b638f85b02159ff",
+      "bytes": 400098
+    },
+    {
+      "file": "meal-front-sheet-22.jpg",
+      "sha256": "cb7a43a483f3683e91bc8903a74ca9253aeb3e801e2573f36cb96a6740a2af61",
+      "bytes": 392467
+    },
+    {
+      "file": "meal-front-sheet-23.jpg",
+      "sha256": "ded507b6da77aaaea4d93a8a753ab2a532775f8f799385dbc55927b809e59ee4",
+      "bytes": 398307
+    },
+    {
+      "file": "meal-front-sheet-24.jpg",
+      "sha256": "cb42a12c2b44c28277944901c4783dddba4124b6c1f45bba27ba5d21315594b0",
+      "bytes": 401211
+    },
+    {
+      "file": "meal-front-sheet-25.jpg",
+      "sha256": "2a3ff19fdc083466339593b5ef4dba3f0d4e18ae81448abffa6d1adbc98f79af",
+      "bytes": 404236
+    },
+    {
+      "file": "meal-front-sheet-26.jpg",
+      "sha256": "1650620c3d9966f2c9fed544eebebc94aba8c4a2564799a0313f9992a52a3a5d",
+      "bytes": 393491
+    },
+    {
+      "file": "meal-front-sheet-27.jpg",
+      "sha256": "70cbe9653aac1d0bd66ece8c6692a38150762a39d10fb869ebdb1f5fbce8e53b",
+      "bytes": 398474
+    },
+    {
+      "file": "meal-front-sheet-28.jpg",
+      "sha256": "144f02929c403a59728952f4d3f6c537d940fa2b60054a2dc4e97dfbafbd496e",
+      "bytes": 400761
+    },
+    {
+      "file": "meal-front-sheet-29.jpg",
+      "sha256": "83f15315e39bd553eddec5265da581ec6fef868643b802bc946da696ebb15e7b",
+      "bytes": 402522
+    },
+    {
+      "file": "meal-front-sheet-30.jpg",
+      "sha256": "5eecbafa647385856f62f7fd3d55d4c0dc8a2dcb4f30493f4efadfe5a6342b5b",
+      "bytes": 392622
+    },
+    {
+      "file": "meal-front-sheet-31.jpg",
+      "sha256": "18d09fd542192524fda6637c4ce27b40a351a50550312f3bb176cac6ba161464",
+      "bytes": 389717
+    },
+    {
+      "file": "meal-front-sheet-32.jpg",
+      "sha256": "a359f08b3f0c09c3be2ab53c917365cdfe1ee776ed686e37a13f9a82cae17357",
+      "bytes": 395677
+    },
+    {
+      "file": "meal-front-sheet-33.jpg",
+      "sha256": "71d1e39bb83b8837b48e4e46935a58452a4786731c88971a904e69837e5172e7",
+      "bytes": 404538
+    },
+    {
+      "file": "meal-front-sheet-34.jpg",
+      "sha256": "27aa0ba2f0f40f2927d5d3fd295fe8d0ba4f1162856cd953718d3cd90a3b6633",
+      "bytes": 411499
+    },
+    {
+      "file": "meal-front-sheet-35.jpg",
+      "sha256": "1f18ac95eebcea8afb534e13ffec43f1ca018cf5c51a534c3cbe7837fe74a2d8",
+      "bytes": 404140
+    },
+    {
+      "file": "meal-front-sheet-36.jpg",
+      "sha256": "af460ff0968eabdc6cb2efbe0a21d2cccb101e54f7486d8bb02a332f5d162d07",
+      "bytes": 392830
+    },
+    {
+      "file": "meal-front-sheet-37.jpg",
+      "sha256": "c5a96f782eb7af7cc00df69a90448936a9d4f22aca1dbf5316b9f2aefceb06a6",
+      "bytes": 364747
+    },
+    {
+      "file": "meal-front.mp4",
+      "sha256": "6b08a881b5ecd12b10b7eff9a8387932a20459d64a75cde4b335c15427af4aba",
+      "bytes": 970502
+    },
+    {
+      "file": "meal-oblique-sheet-01.jpg",
+      "sha256": "0fa4d39de3e14b557a1d6dc49829c556fb9c7829b355c2fde1d55ab6fedb8936",
+      "bytes": 349958
+    },
+    {
+      "file": "meal-oblique-sheet-02.jpg",
+      "sha256": "1d276407be18c9415cc0a3d568152a716abca5be8c1c3355b3c3dc84f608b069",
+      "bytes": 369118
+    },
+    {
+      "file": "meal-oblique-sheet-03.jpg",
+      "sha256": "84ed3bf36ee92f9f4e17c61862baec95a2aaadd70ef4f70ce5b42376f05b8ca9",
+      "bytes": 367974
+    },
+    {
+      "file": "meal-oblique-sheet-04.jpg",
+      "sha256": "f33e7ac4417f7a3244a267df9ff5c1b3ab96906a795d1c97bd74e178238c254b",
+      "bytes": 369126
+    },
+    {
+      "file": "meal-oblique-sheet-05.jpg",
+      "sha256": "78da1a51b870c8390b1c96f26d11d9afaa45bbbe4b8007014056f5defa44b1e6",
+      "bytes": 379526
+    },
+    {
+      "file": "meal-oblique-sheet-06.jpg",
+      "sha256": "133e182ea9434494f209802994ea851744d42f24a4cb2854be8351fe271dacf2",
+      "bytes": 381942
+    },
+    {
+      "file": "meal-oblique-sheet-07.jpg",
+      "sha256": "75f134e706342ceb461c39131603d35816f2ba3b8e4e3b67344a241b5e9d4ea2",
+      "bytes": 377845
+    },
+    {
+      "file": "meal-oblique-sheet-08.jpg",
+      "sha256": "ef4de7b72be8d770002566fc308290dbca1349e278b695907e010b10b55d7b89",
+      "bytes": 378099
+    },
+    {
+      "file": "meal-oblique-sheet-09.jpg",
+      "sha256": "2a9cd55096da46929d47b5f298d5a393cb62c5c6ca74ec9ac2ebc739071224ff",
+      "bytes": 377828
+    },
+    {
+      "file": "meal-oblique-sheet-10.jpg",
+      "sha256": "dec5c59c8a8154dd80ece484be5498f8a0015c7a4d7e8cbac2b6fdb9bb78e93c",
+      "bytes": 379597
+    },
+    {
+      "file": "meal-oblique-sheet-11.jpg",
+      "sha256": "9ba6c345715c0cbd71ab35aa68605e4299ed6d29b257e373955b969dd790ca03",
+      "bytes": 384601
+    },
+    {
+      "file": "meal-oblique-sheet-12.jpg",
+      "sha256": "80453a7879e355a35bf16dc18d8499d83fde3d8c49cba3a58047d52bfdb37eff",
+      "bytes": 382264
+    },
+    {
+      "file": "meal-oblique-sheet-13.jpg",
+      "sha256": "0f1d5b6d28b9d81b2199abaeea35261dcba74b2c1a06dcbe39bd01028e96c4fb",
+      "bytes": 384152
+    },
+    {
+      "file": "meal-oblique-sheet-14.jpg",
+      "sha256": "e7d4ec5c6308eef5e55d4ce65a0a95d10d25cb6fd8b3fa3b018efc46c0d32372",
+      "bytes": 384566
+    },
+    {
+      "file": "meal-oblique-sheet-15.jpg",
+      "sha256": "76874ab775abbac1cdfc04777ebc5d353d758d43edb21c60492c6e24389ea4b8",
+      "bytes": 385457
+    },
+    {
+      "file": "meal-oblique-sheet-16.jpg",
+      "sha256": "7d81f09f40214dacaec40eb21939b9425083700ecf75040871308a1336bdd534",
+      "bytes": 378826
+    },
+    {
+      "file": "meal-oblique-sheet-17.jpg",
+      "sha256": "d0e8aaedaa50e56365d0350fec9663e341395858f989c7358848d6471bd95a31",
+      "bytes": 375715
+    },
+    {
+      "file": "meal-oblique-sheet-18.jpg",
+      "sha256": "bb5ec94b4f9a67559789b1901706f806c0fde41cdb0e4f20abf9270c0e78ae1f",
+      "bytes": 376030
+    },
+    {
+      "file": "meal-oblique-sheet-19.jpg",
+      "sha256": "fff651c34470f1d0a780a24aad1c5e0dfab898dbea4cb52b61dd8e464f1f1a69",
+      "bytes": 375731
+    },
+    {
+      "file": "meal-oblique-sheet-20.jpg",
+      "sha256": "71c70750e9438ef314d054b1de9238cd139cdbc543deb30cdfc88ca589e7e529",
+      "bytes": 378515
+    },
+    {
+      "file": "meal-oblique-sheet-21.jpg",
+      "sha256": "aff05e26bf43a1fec1286874a6cf2351056f8ad4e0a7d66016e0addf59fcefa3",
+      "bytes": 381116
+    },
+    {
+      "file": "meal-oblique-sheet-22.jpg",
+      "sha256": "a9d1ede2f6f2072bfa4c4560f05431413d558e01d77be86bfc7e4b6cff52605b",
+      "bytes": 376773
+    },
+    {
+      "file": "meal-oblique-sheet-23.jpg",
+      "sha256": "eacbfaeeebf2b1c221e1995e46d4e530d0baf4dce6098f5492396fa22a2d36f8",
+      "bytes": 379180
+    },
+    {
+      "file": "meal-oblique-sheet-24.jpg",
+      "sha256": "ff3d07eea5e3fdeaca87d7004e417f6afb9633796216f7c0847fa15e0fe297b9",
+      "bytes": 380333
+    },
+    {
+      "file": "meal-oblique-sheet-25.jpg",
+      "sha256": "3c91e349b8d253f6a7e0e9059fe5705a66ff8fb2d64d207927d3e09fa0053993",
+      "bytes": 382804
+    },
+    {
+      "file": "meal-oblique-sheet-26.jpg",
+      "sha256": "4e48ea6aa585f028d900fbd054a7c24308664c276466e20564db6e96acff5900",
+      "bytes": 376199
+    },
+    {
+      "file": "meal-oblique-sheet-27.jpg",
+      "sha256": "f77f7e1078792ef4fc19a9107ca56b5700a9026a3e91520926245504c59ecc45",
+      "bytes": 380520
+    },
+    {
+      "file": "meal-oblique-sheet-28.jpg",
+      "sha256": "db7ed0b72f1249c2ad8ab3112509500d463c818d9719ef461e76d5d101d12517",
+      "bytes": 381922
+    },
+    {
+      "file": "meal-oblique-sheet-29.jpg",
+      "sha256": "96e15e2f0c523dc4920bacdaf07bb90fbafdf614195e43efb63a5725231a106a",
+      "bytes": 382475
+    },
+    {
+      "file": "meal-oblique-sheet-30.jpg",
+      "sha256": "f20ad5cbaf758c7cac4f37c7bdcd8b841c3c85e1ff0c1d1bf7bb7a5d669d833e",
+      "bytes": 376583
+    },
+    {
+      "file": "meal-oblique-sheet-31.jpg",
+      "sha256": "857e27971c405c58078f8b56c7b4c406fe2b5975130e006b67dbb603c69af7f9",
+      "bytes": 373565
+    },
+    {
+      "file": "meal-oblique-sheet-32.jpg",
+      "sha256": "2a7c0c3e6df2b5d9e2d3eff26b9a63abfdb439d814af65e0dd44846c377fec45",
+      "bytes": 376987
+    },
+    {
+      "file": "meal-oblique-sheet-33.jpg",
+      "sha256": "9b68e94b5e8c1a28dbd5171b30cc3d7629fb71d3ec4373a1a83e2b803b69d5ed",
+      "bytes": 383231
+    },
+    {
+      "file": "meal-oblique-sheet-34.jpg",
+      "sha256": "4322e84fccbfe4aaf8712e827222d48b76c3e47eaa0dcd0dd526cae5527a4347",
+      "bytes": 378159
+    },
+    {
+      "file": "meal-oblique-sheet-35.jpg",
+      "sha256": "a8a8d3e4708af469f07daf2310e39561c66c9c530a733258b24880eb4d0999ce",
+      "bytes": 373720
+    },
+    {
+      "file": "meal-oblique-sheet-36.jpg",
+      "sha256": "77c6fea6db7b503d91a91628670748b9ef8ed6705fe0e3bcaabec6857a3501c4",
+      "bytes": 370027
+    },
+    {
+      "file": "meal-oblique-sheet-37.jpg",
+      "sha256": "a0a129b56fea3d81f33d63182dc99aea22bfd08e5730c5ca263032672dbab3bc",
+      "bytes": 343645
+    },
+    {
+      "file": "meal-oblique.mp4",
+      "sha256": "1c251a2b3d53e643258897d962b11631d1bcd7b07941a14316bc2fc2e9c37a80",
+      "bytes": 908487
+    },
+    {
+      "file": "meal-side-sheet-01.jpg",
+      "sha256": "ad3e621951bc07e8fcb97d02b7705c9ff61122449fca75a70a88ccb5eaf8d3cc",
+      "bytes": 291511
+    },
+    {
+      "file": "meal-side-sheet-02.jpg",
+      "sha256": "85a6c746592a7a80b1723c304aab1267ac1433444b4ec22c59d3f2f2e059b698",
+      "bytes": 292072
+    },
+    {
+      "file": "meal-side-sheet-03.jpg",
+      "sha256": "8e5e23116e4a992dda16b7c519aae7a59cce89a546522bc361a1d49db5b60dc3",
+      "bytes": 295030
+    },
+    {
+      "file": "meal-side-sheet-04.jpg",
+      "sha256": "bc5829c5b8bf382c40a6bfb0ddead53e436d75002a697d15b6f8bfe4c10dad2c",
+      "bytes": 296005
+    },
+    {
+      "file": "meal-side-sheet-05.jpg",
+      "sha256": "7ebd8798c8e935b531fa3568a34feeacba9f2d46e2d8d8ba32eedec66631f6f1",
+      "bytes": 296180
+    },
+    {
+      "file": "meal-side-sheet-06.jpg",
+      "sha256": "b2f5494d2c2906d5434ee8bf2d3a0da66e63f175b62c98883e3eb3df0aa0b9e1",
+      "bytes": 298932
+    },
+    {
+      "file": "meal-side-sheet-07.jpg",
+      "sha256": "377edff57bd7613faf74ed1b8034444cbab72684ed23aeabc9e7ec320485b30a",
+      "bytes": 297903
+    },
+    {
+      "file": "meal-side-sheet-08.jpg",
+      "sha256": "939cd030c48944a71d805d26767508fa1eed4b11109f72a52bb9fb516aaea9b4",
+      "bytes": 294583
+    },
+    {
+      "file": "meal-side-sheet-09.jpg",
+      "sha256": "b410a54e7b274f000c84629d9767c27ede3a8e913c78ceeb6479cfda3fc08398",
+      "bytes": 294239
+    },
+    {
+      "file": "meal-side-sheet-10.jpg",
+      "sha256": "f08841f41e822f073874a4a8232cec10a634434f8e3994b938e3a235d06171b9",
+      "bytes": 295590
+    },
+    {
+      "file": "meal-side-sheet-11.jpg",
+      "sha256": "cbeed62ac47351d07d59bde1b6a2b9bef01d1ae282ac83db4c75c5f5d8673eef",
+      "bytes": 302955
+    },
+    {
+      "file": "meal-side-sheet-12.jpg",
+      "sha256": "62209e6bc822eb444d1ee8cf0a27520a9fb73baba7d68535d50828d506e70167",
+      "bytes": 303798
+    },
+    {
+      "file": "meal-side-sheet-13.jpg",
+      "sha256": "6b487da5bf2135d0d5234fffe4ab7267b55b857d5b4828edae88ed56455901e5",
+      "bytes": 305974
+    },
+    {
+      "file": "meal-side-sheet-14.jpg",
+      "sha256": "a09d8565bc8ad689edf25c4ca2d9db9e1c53e37af043f8005b5538e625b23841",
+      "bytes": 306087
+    },
+    {
+      "file": "meal-side-sheet-15.jpg",
+      "sha256": "fb7f06cbaa976134860edcdf5750f3f043054379118cbe21133767cdf57b8aae",
+      "bytes": 306732
+    },
+    {
+      "file": "meal-side-sheet-16.jpg",
+      "sha256": "3e468673f301cab68caf9763304de879621db7e0b3ffd489357f86e6084c318d",
+      "bytes": 300203
+    },
+    {
+      "file": "meal-side-sheet-17.jpg",
+      "sha256": "c2e1ac4d23fc646b22c833cbf55a4926e0128f29a13ac1409b098cd84e812b9e",
+      "bytes": 299616
+    },
+    {
+      "file": "meal-side-sheet-18.jpg",
+      "sha256": "95edd7ca87d0c713316558eccb2cc78c73e363c63a62f1b409bb4274a2dadb09",
+      "bytes": 298265
+    },
+    {
+      "file": "meal-side-sheet-19.jpg",
+      "sha256": "f56dedf481f19d3edc53e0497658c5df58a07892925b03e0e4f1f00a67802089",
+      "bytes": 298449
+    },
+    {
+      "file": "meal-side-sheet-20.jpg",
+      "sha256": "d0c495d44508260b9d87273ebc979b5af9e92e30b3d2bcacadfcd5379be158f0",
+      "bytes": 299417
+    },
+    {
+      "file": "meal-side-sheet-21.jpg",
+      "sha256": "8f6243833c90d4002a3b9c7a06876f5ea267148554bd0458735ee7c4ba7ffe9f",
+      "bytes": 299541
+    },
+    {
+      "file": "meal-side-sheet-22.jpg",
+      "sha256": "d61124813892d0af945e3cbc7c40b9460749fda2cfa9a5c3826a69977f4b5628",
+      "bytes": 296668
+    },
+    {
+      "file": "meal-side-sheet-23.jpg",
+      "sha256": "6cca967aa1a14f696e4ebf638e6199e7a2db80f43de7302540d775307b6c7000",
+      "bytes": 298011
+    },
+    {
+      "file": "meal-side-sheet-24.jpg",
+      "sha256": "45745ba0d917a9dc5071acd1558bab5da9acf9f95fd7bd95253336e82b1b4a3e",
+      "bytes": 299420
+    },
+    {
+      "file": "meal-side-sheet-25.jpg",
+      "sha256": "5a125871ca3fa30b48ba9b7dd09bd4be2bee0d06402275aa787e6626d0a76e6f",
+      "bytes": 300056
+    },
+    {
+      "file": "meal-side-sheet-26.jpg",
+      "sha256": "8c9b0215b05f91d26045aea928163f0caa520a3dda88415410de31be2f55653c",
+      "bytes": 296919
+    },
+    {
+      "file": "meal-side-sheet-27.jpg",
+      "sha256": "ac1123eaf6b3e94aa4394605b560e23c848382b7ba88ff44a0e31ee6a9161033",
+      "bytes": 299052
+    },
+    {
+      "file": "meal-side-sheet-28.jpg",
+      "sha256": "a53e2b6b9d70932ae0b06490755d08054a3627c589157d7fa0390ba43aab544d",
+      "bytes": 299737
+    },
+    {
+      "file": "meal-side-sheet-29.jpg",
+      "sha256": "23cd7d104bb0077a0d95c6af0442a2c62ba5516a3b20f5040a553e2506bbd47d",
+      "bytes": 299314
+    },
+    {
+      "file": "meal-side-sheet-30.jpg",
+      "sha256": "da18a0421f4a8e2c18f38b3ab9bffa6722f6914132932f954c31758153f942f4",
+      "bytes": 296211
+    },
+    {
+      "file": "meal-side-sheet-31.jpg",
+      "sha256": "c4d4e8ca61f3d216c34025a48bf72d641286748084802e4ff546f70e1227f447",
+      "bytes": 295684
+    },
+    {
+      "file": "meal-side-sheet-32.jpg",
+      "sha256": "842506109c61389679576c0c2374913c16452faa0c355f5c210ee35d9eacb88d",
+      "bytes": 297999
+    },
+    {
+      "file": "meal-side-sheet-33.jpg",
+      "sha256": "d66bf0833e1f403f7f511a7f03e3e691cdefea228cd4311865b9500e0d2abcb6",
+      "bytes": 298695
+    },
+    {
+      "file": "meal-side-sheet-34.jpg",
+      "sha256": "ea415b27f22abe25003ece4b848a4e1d92b0e727dc83ab1322c77c997a7fac8c",
+      "bytes": 297948
+    },
+    {
+      "file": "meal-side-sheet-35.jpg",
+      "sha256": "9b9f24606ed15dd80a0afbab054cd04481d170624f3ff622a547dc585a3660e6",
+      "bytes": 296472
+    },
+    {
+      "file": "meal-side-sheet-36.jpg",
+      "sha256": "c130fe3cac34acb38d1b1ad615e3a000d493fabb5216c309f47f14c9f9c33d82",
+      "bytes": 297740
+    },
+    {
+      "file": "meal-side-sheet-37.jpg",
+      "sha256": "910aa9cb2539cf2bd3c40c61c837a785d356b8b14b01cf2c67987db271d983e6",
+      "bytes": 277267
+    },
+    {
+      "file": "meal-side.mp4",
+      "sha256": "468e2c25e65f9810af2f5ddc741dd316a534061aa3a19330a93a0592c68fb973",
+      "bytes": 611613
+    },
+    {
+      "file": "media.json",
+      "sha256": "d95e51bc94a8036392646157f25916438ff5cbff2491726da3c7e44560eb8e41",
+      "bytes": 201358
+    },
+    {
+      "file": "poster-front.jpg",
+      "sha256": "d1c6a1c2f38e97783933c51b087bde69d9f89901a758eff34e45e18eaebcd415",
+      "bytes": 32557
+    },
+    {
+      "file": "poster-oblique.jpg",
+      "sha256": "1c0f221e813cd46bc8b088e06f5d4c72ddacb9e9a20b7782a77a246332fece9a",
+      "bytes": 30345
+    },
+    {
+      "file": "poster-side.jpg",
+      "sha256": "25c96faf84b3ef96c65acf00bae01436dcd49c520dba6aec596dade19c62277d",
+      "bytes": 25429
+    },
+    {
+      "file": "visual-review.json",
+      "sha256": "00a74a537da98396408860d93941b5e5428dec99de33e95f50d1e98e13f448a4",
+      "bytes": 33023
+    }
+  ],
+  "scope": "1329 frames /60fps, six complete mouthfuls and empty-hand rest; editable native remains on Windows"
+}
