@@ -1,0 +1,1269 @@
+{
+  "referenceFrame": 61,
+  "comparison": "Stationary screen-space foot appearance hypothesis; no image warp or native fit.",
+  "largestMismatchDistancePx": 3.596893310546875,
+  "largestChangedPixelCount": 20,
+  "minimumCommonPixels": 7673,
+  "rows": [
+    {
+      "frame": 0,
+      "commonClassifiablePixels": 8188,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 1,
+      "commonClassifiablePixels": 8164,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 2,
+      "commonClassifiablePixels": 8164,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 3,
+      "commonClassifiablePixels": 8161,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 4,
+      "commonClassifiablePixels": 8164,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 5,
+      "commonClassifiablePixels": 8165,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 6,
+      "commonClassifiablePixels": 8167,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 7,
+      "commonClassifiablePixels": 8209,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 8,
+      "commonClassifiablePixels": 8176,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 9,
+      "commonClassifiablePixels": 8106,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 10,
+      "commonClassifiablePixels": 8105,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 11,
+      "commonClassifiablePixels": 8184,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 12,
+      "commonClassifiablePixels": 8184,
+      "changedClassPixels": 4,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 13,
+      "commonClassifiablePixels": 8184,
+      "changedClassPixels": 4,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 14,
+      "commonClassifiablePixels": 8258,
+      "changedClassPixels": 4,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 15,
+      "commonClassifiablePixels": 8255,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 16,
+      "commonClassifiablePixels": 8109,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 17,
+      "commonClassifiablePixels": 8125,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 18,
+      "commonClassifiablePixels": 8110,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 19,
+      "commonClassifiablePixels": 8182,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 20,
+      "commonClassifiablePixels": 8185,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 21,
+      "commonClassifiablePixels": 8128,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 22,
+      "commonClassifiablePixels": 8126,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 23,
+      "commonClassifiablePixels": 8177,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 24,
+      "commonClassifiablePixels": 8157,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 25,
+      "commonClassifiablePixels": 8233,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 26,
+      "commonClassifiablePixels": 8173,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 27,
+      "commonClassifiablePixels": 8172,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 28,
+      "commonClassifiablePixels": 8131,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 29,
+      "commonClassifiablePixels": 8204,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 30,
+      "commonClassifiablePixels": 8204,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 31,
+      "commonClassifiablePixels": 8218,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 32,
+      "commonClassifiablePixels": 8188,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 33,
+      "commonClassifiablePixels": 8197,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 34,
+      "commonClassifiablePixels": 8440,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 35,
+      "commonClassifiablePixels": 8569,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 36,
+      "commonClassifiablePixels": 8698,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 37,
+      "commonClassifiablePixels": 9177,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 38,
+      "commonClassifiablePixels": 9765,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 39,
+      "commonClassifiablePixels": 10710,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 40,
+      "commonClassifiablePixels": 10937,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 41,
+      "commonClassifiablePixels": 11046,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 42,
+      "commonClassifiablePixels": 11211,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 43,
+      "commonClassifiablePixels": 11363,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 44,
+      "commonClassifiablePixels": 11398,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 45,
+      "commonClassifiablePixels": 11377,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 46,
+      "commonClassifiablePixels": 11400,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 47,
+      "commonClassifiablePixels": 11472,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 48,
+      "commonClassifiablePixels": 11652,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 49,
+      "commonClassifiablePixels": 11738,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 50,
+      "commonClassifiablePixels": 11751,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 51,
+      "commonClassifiablePixels": 11756,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 52,
+      "commonClassifiablePixels": 11761,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 53,
+      "commonClassifiablePixels": 11765,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 54,
+      "commonClassifiablePixels": 11767,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 55,
+      "commonClassifiablePixels": 11764,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 56,
+      "commonClassifiablePixels": 11765,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 57,
+      "commonClassifiablePixels": 11770,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 58,
+      "commonClassifiablePixels": 11767,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 59,
+      "commonClassifiablePixels": 11768,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 60,
+      "commonClassifiablePixels": 11773,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 61,
+      "commonClassifiablePixels": 11786,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 62,
+      "commonClassifiablePixels": 11689,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 63,
+      "commonClassifiablePixels": 11599,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 64,
+      "commonClassifiablePixels": 10836,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 65,
+      "commonClassifiablePixels": 10279,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 66,
+      "commonClassifiablePixels": 9714,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 67,
+      "commonClassifiablePixels": 8971,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 68,
+      "commonClassifiablePixels": 8396,
+      "changedClassPixels": 5,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 69,
+      "commonClassifiablePixels": 7927,
+      "changedClassPixels": 5,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 70,
+      "commonClassifiablePixels": 7754,
+      "changedClassPixels": 10,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 71,
+      "commonClassifiablePixels": 7858,
+      "changedClassPixels": 12,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 72,
+      "commonClassifiablePixels": 8029,
+      "changedClassPixels": 12,
+      "maxChangeDistancePx": 3.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 73,
+      "commonClassifiablePixels": 8129,
+      "changedClassPixels": 18,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 74,
+      "commonClassifiablePixels": 8316,
+      "changedClassPixels": 20,
+      "maxChangeDistancePx": 3.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 75,
+      "commonClassifiablePixels": 8078,
+      "changedClassPixels": 19,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 76,
+      "commonClassifiablePixels": 8174,
+      "changedClassPixels": 20,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 77,
+      "commonClassifiablePixels": 8191,
+      "changedClassPixels": 19,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 78,
+      "commonClassifiablePixels": 8268,
+      "changedClassPixels": 15,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 79,
+      "commonClassifiablePixels": 8290,
+      "changedClassPixels": 16,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 80,
+      "commonClassifiablePixels": 8301,
+      "changedClassPixels": 11,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 81,
+      "commonClassifiablePixels": 8542,
+      "changedClassPixels": 9,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 82,
+      "commonClassifiablePixels": 9229,
+      "changedClassPixels": 5,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 83,
+      "commonClassifiablePixels": 10640,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 84,
+      "commonClassifiablePixels": 10979,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 85,
+      "commonClassifiablePixels": 11253,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 86,
+      "commonClassifiablePixels": 11598,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 87,
+      "commonClassifiablePixels": 11695,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 88,
+      "commonClassifiablePixels": 11763,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 89,
+      "commonClassifiablePixels": 11763,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 90,
+      "commonClassifiablePixels": 11760,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 91,
+      "commonClassifiablePixels": 11765,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 92,
+      "commonClassifiablePixels": 11581,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 93,
+      "commonClassifiablePixels": 10853,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 94,
+      "commonClassifiablePixels": 10540,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 95,
+      "commonClassifiablePixels": 10224,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 96,
+      "commonClassifiablePixels": 9471,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 97,
+      "commonClassifiablePixels": 8769,
+      "changedClassPixels": 5,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 98,
+      "commonClassifiablePixels": 7762,
+      "changedClassPixels": 10,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 99,
+      "commonClassifiablePixels": 7673,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 100,
+      "commonClassifiablePixels": 7750,
+      "changedClassPixels": 16,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 101,
+      "commonClassifiablePixels": 7976,
+      "changedClassPixels": 19,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 102,
+      "commonClassifiablePixels": 8132,
+      "changedClassPixels": 19,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 103,
+      "commonClassifiablePixels": 8187,
+      "changedClassPixels": 19,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 104,
+      "commonClassifiablePixels": 8195,
+      "changedClassPixels": 20,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 105,
+      "commonClassifiablePixels": 8225,
+      "changedClassPixels": 20,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 106,
+      "commonClassifiablePixels": 8172,
+      "changedClassPixels": 11,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 107,
+      "commonClassifiablePixels": 8072,
+      "changedClassPixels": 16,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 108,
+      "commonClassifiablePixels": 7850,
+      "changedClassPixels": 12,
+      "maxChangeDistancePx": 3.596893310546875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 109,
+      "commonClassifiablePixels": 7902,
+      "changedClassPixels": 8,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 110,
+      "commonClassifiablePixels": 8027,
+      "changedClassPixels": 6,
+      "maxChangeDistancePx": 2.79998779296875,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 111,
+      "commonClassifiablePixels": 8307,
+      "changedClassPixels": 5,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 112,
+      "commonClassifiablePixels": 9093,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.1968994140625,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 113,
+      "commonClassifiablePixels": 10546,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 114,
+      "commonClassifiablePixels": 11042,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 115,
+      "commonClassifiablePixels": 11410,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 116,
+      "commonClassifiablePixels": 11553,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 117,
+      "commonClassifiablePixels": 11680,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 118,
+      "commonClassifiablePixels": 11750,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 119,
+      "commonClassifiablePixels": 11745,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 120,
+      "commonClassifiablePixels": 11745,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 121,
+      "commonClassifiablePixels": 11747,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 122,
+      "commonClassifiablePixels": 11746,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 123,
+      "commonClassifiablePixels": 11751,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 124,
+      "commonClassifiablePixels": 11747,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 125,
+      "commonClassifiablePixels": 11659,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 126,
+      "commonClassifiablePixels": 11253,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 127,
+      "commonClassifiablePixels": 10850,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 128,
+      "commonClassifiablePixels": 10366,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 129,
+      "commonClassifiablePixels": 9801,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 130,
+      "commonClassifiablePixels": 9376,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 131,
+      "commonClassifiablePixels": 9056,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 132,
+      "commonClassifiablePixels": 8783,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 133,
+      "commonClassifiablePixels": 8757,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 134,
+      "commonClassifiablePixels": 8780,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 135,
+      "commonClassifiablePixels": 8907,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 136,
+      "commonClassifiablePixels": 9054,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 137,
+      "commonClassifiablePixels": 8963,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 138,
+      "commonClassifiablePixels": 8915,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 139,
+      "commonClassifiablePixels": 8875,
+      "changedClassPixels": 0,
+      "maxChangeDistancePx": 0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 140,
+      "commonClassifiablePixels": 8671,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 141,
+      "commonClassifiablePixels": 8565,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 142,
+      "commonClassifiablePixels": 8168,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 143,
+      "commonClassifiablePixels": 8262,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 144,
+      "commonClassifiablePixels": 8148,
+      "changedClassPixels": 1,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 145,
+      "commonClassifiablePixels": 8222,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 146,
+      "commonClassifiablePixels": 8287,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 147,
+      "commonClassifiablePixels": 8285,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 148,
+      "commonClassifiablePixels": 8266,
+      "changedClassPixels": 3,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 149,
+      "commonClassifiablePixels": 8280,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 150,
+      "commonClassifiablePixels": 8277,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 151,
+      "commonClassifiablePixels": 8277,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 152,
+      "commonClassifiablePixels": 8277,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 153,
+      "commonClassifiablePixels": 8259,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 154,
+      "commonClassifiablePixels": 8278,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 155,
+      "commonClassifiablePixels": 8228,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 156,
+      "commonClassifiablePixels": 8227,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 157,
+      "commonClassifiablePixels": 8289,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 158,
+      "commonClassifiablePixels": 8158,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 159,
+      "commonClassifiablePixels": 8200,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 160,
+      "commonClassifiablePixels": 8173,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 161,
+      "commonClassifiablePixels": 8253,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 162,
+      "commonClassifiablePixels": 8253,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 163,
+      "commonClassifiablePixels": 8295,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 164,
+      "commonClassifiablePixels": 8252,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 165,
+      "commonClassifiablePixels": 8295,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 166,
+      "commonClassifiablePixels": 8253,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 167,
+      "commonClassifiablePixels": 8298,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 168,
+      "commonClassifiablePixels": 8250,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 169,
+      "commonClassifiablePixels": 8248,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 170,
+      "commonClassifiablePixels": 8249,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 171,
+      "commonClassifiablePixels": 8296,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 172,
+      "commonClassifiablePixels": 8249,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 173,
+      "commonClassifiablePixels": 8250,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 174,
+      "commonClassifiablePixels": 8248,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 175,
+      "commonClassifiablePixels": 8248,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 176,
+      "commonClassifiablePixels": 8297,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 177,
+      "commonClassifiablePixels": 8250,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 178,
+      "commonClassifiablePixels": 8246,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    },
+    {
+      "frame": 179,
+      "commonClassifiablePixels": 8173,
+      "changedClassPixels": 2,
+      "maxChangeDistancePx": 2.0,
+      "note": "Common visible foot/background pixels only; gray-body/tool boundaries and a4px margin excluded."
+    }
+  ]
+}

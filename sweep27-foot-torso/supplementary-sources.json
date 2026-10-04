@@ -1,0 +1,38 @@
+[
+  {
+    "case": "front-r03",
+    "path": "output/ssot_candidates/sweep25_multiview_20261003/front-r03/original/output.mp4",
+    "sha256": "6542abf3f1e26e0a2dff86ff39aa8fd8f021fd72b5f2560b168831125d92d138",
+    "frames": 180,
+    "fps": 30.0,
+    "size": [
+      960,
+      960
+    ],
+    "scope": "Independent generated action; no synchronized or calibrated reconstruction."
+  },
+  {
+    "case": "side-r02",
+    "path": "output/ssot_candidates/sweep25_multiview_20261003/side-r02/original/output.mp4",
+    "sha256": "41e4150a717764d45814e68febc8f9fbdf3764ef4decaaed6d4f186a57434740",
+    "frames": 180,
+    "fps": 30.0,
+    "size": [
+      960,
+      960
+    ],
+    "scope": "Independent generated action; no synchronized or calibrated reconstruction."
+  },
+  {
+    "case": "top-r03",
+    "path": "output/ssot_candidates/sweep25_multiview_20261003/top-r03/original/output.mp4",
+    "sha256": "80c03ecda2aeda250ca7dc70720e867e60be9e6413e44fdd384ce6df5f27edb9",
+    "frames": 180,
+    "fps": 30.0,
+    "size": [
+      960,
+      960
+    ],
+    "scope": "Independent generated action; no synchronized or calibrated reconstruction."
+  }
+]
