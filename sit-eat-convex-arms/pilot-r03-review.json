@@ -1,0 +1,94 @@
+{
+  "reviewPassed": true,
+  "stage": "native pilot and supplemental whole/isolated/clay views; qualified for full capture",
+  "native": {
+    "file": "mozu-siteat212-convex-arms-r03.blend",
+    "sha256": "eb2936306a35d9c5554626494e2f6cf8fa5a0bb6b766bdc2b059a59676d0033e",
+    "bytes": 222336730
+  },
+  "pilotSha256": "ef67e1962a50b1b30edbfd1f143f677724f118d347e5f4423f65c7d300e7e03b",
+  "imagesReviewed": 84,
+  "standaloneConvexShapePassed": true,
+  "assembledAttachmentPassed": true,
+  "views": [
+    "front",
+    "oblique",
+    "side"
+  ],
+  "frames": [
+    1,
+    43,
+    161,
+    215,
+    1061,
+    1194
+  ],
+  "notes": [
+    "All 36 native-rendered whole and isolated views were inspected in six contact sheets.",
+    "The oblique frame 1061 was also inspected at its full 640-pixel resolution.",
+    "The formerly exposed proximal lobe and neck are absent in these samples; the visible arm flows from the body to the preserved food grip.",
+    "Head/body occlusion remains intentional; the assembled visible mask is not claimed to be convex.",
+    "No full-motion visual acceptance, owner adoption or independent critic score is implied.",
+    "All 36 supplemental whole/isolated views and 12 shaded isolated views were inspected on seven additional sheets.",
+    "All 12 posed whole-character samples across front, oblique and side show a clean visible attachment without the prior separate root lobe; the shaded standalone arm shows no fold or crease.",
+    "262 live native times, 24 protected visible-scene comparisons and three other-mode bypasses pass."
+  ],
+  "boards": [
+    {
+      "file": "isolated-front.jpg",
+      "sha256": "189ca65cf36b7d8d362d84a3d66c7ce80a597ec3b1f5d038059e467e0c0a682d"
+    },
+    {
+      "file": "isolated-oblique.jpg",
+      "sha256": "cf9557f3aff9557ce19f342ad9ff96b83b32b451114f629e9488d83a9fc0b45f"
+    },
+    {
+      "file": "isolated-side.jpg",
+      "sha256": "313c2b73e37cfff2f59034692bc385255508d3f4d0fa5bd0b725df21cbab9980"
+    },
+    {
+      "file": "whole-front.jpg",
+      "sha256": "f8c7fec8aa776ff34c14fd6b9fd32a7741ba5f1727877f62e15d16f506181aba"
+    },
+    {
+      "file": "whole-oblique.jpg",
+      "sha256": "302cccf260703f2b163f52bb5b59601d3ec5782f3bc676dd50d23e268ad99829"
+    },
+    {
+      "file": "whole-side.jpg",
+      "sha256": "fdbe79e1f7e8c1fe1e25097cf5e034b612c7866a9f4a48ceabd479f5eaf80b87"
+    }
+  ],
+  "auditSha256": "185dee3deed392458e9fc4f502c5ff67e03e450147365fd892439449512922ef",
+  "auditImagesReviewed": 48,
+  "auditBoards": [
+    {
+      "file": "clay-all.jpg",
+      "sha256": "c65c37bf40edde6edbedcfebc5ecc1f41f62c2ffa8fb4d73fdd2f05895adb524"
+    },
+    {
+      "file": "isolated-front.jpg",
+      "sha256": "884c036d3f59af347c8b2a472c66fc4516884df4c8fcc7e2a52207f3255abe85"
+    },
+    {
+      "file": "isolated-oblique.jpg",
+      "sha256": "48d01b3c20c4ddc96e98c5ebcd53b747e86150ce4adb5eefcbf90d9ff8cd4da3"
+    },
+    {
+      "file": "isolated-side.jpg",
+      "sha256": "52db6726563413595fa14d897c77658cabda3ca3345536bc23df1806b8f4b5de"
+    },
+    {
+      "file": "whole-front.jpg",
+      "sha256": "89f3763454d9bebee0c6398da30f31b4a56fe682725bf6438f44153abca282dc"
+    },
+    {
+      "file": "whole-oblique.jpg",
+      "sha256": "7d5b95f3621577ee5d5ad681f6b733d91e535b71738a4a4b1c44d01ee8179a1d"
+    },
+    {
+      "file": "whole-side.jpg",
+      "sha256": "bb121d56b223ec95e942440b17e0c02d74b23a1ae7dcabf8a0c18d9393b6a3bb"
+    }
+  ]
+}

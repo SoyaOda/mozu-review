@@ -1,0 +1,25 @@
+{
+  "native": {
+    "file": "mozu-siteat212-convex-arms-r03.blend",
+    "sha256": "eb2936306a35d9c5554626494e2f6cf8fa5a0bb6b766bdc2b059a59676d0033e",
+    "bytes": 222336730
+  },
+  "pilotImages": 36,
+  "denseTimes": 262,
+  "protectedPoses": 24,
+  "reopenComparisons": 3,
+  "controlEditResets": 6,
+  "maximumNativeMathError": 4.3236435220972425e-07,
+  "minimumCapBodyClearance": 0.005896467848676701,
+  "maximumAffineResidual": 3.9818457864271295e-07,
+  "minimumAffineSingularValue": 0.9112642942071708,
+  "maximumPawFloorError": 5.960464477539063e-08,
+  "maximumSeatedPawDrift": 0,
+  "foodGeometryComparisons": 15,
+  "directCachePixelPairs": 15,
+  "fullCaptureDirectPixelPairs": 15,
+  "nativeFrames": 1329,
+  "viewFramesReviewed": 3987,
+  "mediaSha256": "a12d430b3fd51894164ed4b32c3051475437218364c52b0c1206431abc1014f1",
+  "visualReviewSha256": "343eacd98420e1ba7ce605c2dda2d27be1516dfb6714931e5de2ef9b2d3b4afa"
+}
