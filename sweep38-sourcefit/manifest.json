@@ -1,0 +1,261 @@
+{
+  "status": "INTERIM_SOURCE_AND_NATIVE_KEY_POSES_FULL_SEQUENCE_PENDING",
+  "nativeSHA256": "1506208bafef6e9a4b97712071d4af8d7190e5c2fc9ae512e301639b80b73370",
+  "files": [
+    {
+      "path": "baseline/back.mp4",
+      "bytes": 177737,
+      "sha256": "f6f73b191af60fcea05dbd663916cdc139911dac9d1283ae122e0188e6c34375"
+    },
+    {
+      "path": "baseline/front.mp4",
+      "bytes": 281032,
+      "sha256": "19e6f5079ad346ec611561cc625e84710151d9b2fec340731afcad76e70edac7"
+    },
+    {
+      "path": "baseline/oblique.mp4",
+      "bytes": 264099,
+      "sha256": "e51f542fad1ec536d6a6305ce6926937efd0d8b5a073660979a20d4563a6d06c"
+    },
+    {
+      "path": "baseline/reverse.mp4",
+      "bytes": 277528,
+      "sha256": "2e5cd8d40f5ecd552fd9baf1910c4927280ad32fe47a379bbc1f66020e4e368e"
+    },
+    {
+      "path": "baseline/side.mp4",
+      "bytes": 225836,
+      "sha256": "48ef183a7e153a6a483a163c42855079d9b5530384b63a373a168f93fc62cd9c"
+    },
+    {
+      "path": "baseline/top.mp4",
+      "bytes": 174867,
+      "sha256": "a030a83836d6c43546430c55176107a7aff906cba0461a5d5f7db308b65b9065"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5427,
+      "sha256": "daa17285254b9aab8302fc171136c00a7d4988ca34deab62ba4ce09876524af1"
+    },
+    {
+      "path": "media/pilot-clay.jpg",
+      "bytes": 206707,
+      "sha256": "4e98643840a0fa004ba10eb8b3527cc8fcfd79dace762959e09aae90faa4b2aa"
+    },
+    {
+      "path": "media/pilot-front.jpg",
+      "bytes": 215473,
+      "sha256": "505ad25d91eac27154448bdce3eee53cb7a29634d6a8e2c767f8f8575a5a67da"
+    },
+    {
+      "path": "media/pilot-oblique.jpg",
+      "bytes": 188237,
+      "sha256": "59f0f4a188e50de7c076ca5cf6650f5ab5e68575efffb79334de8857614848ee"
+    },
+    {
+      "path": "media/pilot-side.jpg",
+      "bytes": 174078,
+      "sha256": "32e98363266933735ee8d3b13bbe7eb8c0924b2bb3d8e857a2b3177bd279ceda"
+    },
+    {
+      "path": "pilot/gather1-front.png",
+      "bytes": 94694,
+      "sha256": "ee4ddea40b5601c75f24f99251dcf3f217dcd9a0864103d2d4cd0c099999ccc9"
+    },
+    {
+      "path": "pilot/gather1-oblique.png",
+      "bytes": 91996,
+      "sha256": "d023c9c9859c65423f4eb03a4f241c6811164fa4cfe0191d7d83c3d373f01a1a"
+    },
+    {
+      "path": "pilot/gather1-side.png",
+      "bytes": 90452,
+      "sha256": "58dee07a4364a56a0edd3073072b8566bb8ebb8da15a3594b547ba72e0cc98f1"
+    },
+    {
+      "path": "pilot/gather3-front.png",
+      "bytes": 94564,
+      "sha256": "80ad4932d623decb91e2809cd9754f9a9bea248479b565e0e4184a6b104f6b8e"
+    },
+    {
+      "path": "pilot/gather3-oblique.png",
+      "bytes": 92290,
+      "sha256": "1de38a56bd955f385ad2014dc2c9153d1d77a95a0fa7858f123cf546e762330f"
+    },
+    {
+      "path": "pilot/gather3-side.png",
+      "bytes": 90314,
+      "sha256": "34812b3b4da4ea7d5f60dee972e5a7ab5d1b10679689832b6997ae8471a6f54c"
+    },
+    {
+      "path": "pilot/hold-front.png",
+      "bytes": 95400,
+      "sha256": "10973d643b42e44eb4a8dd22a78e02b20c091e4bb92fdee0f01c68597e7703eb"
+    },
+    {
+      "path": "pilot/hold-oblique.png",
+      "bytes": 92883,
+      "sha256": "b51666eadaf320fb1141d70fe5b755440b591e5671c3b5a07eee62b5550313bc"
+    },
+    {
+      "path": "pilot/hold-side.png",
+      "bytes": 90484,
+      "sha256": "2a8aa99fca3af47332c141eb9bd96ce46a2c8f285af42617e5beb09a95329475"
+    },
+    {
+      "path": "pilot/holdEnd-front.png",
+      "bytes": 95400,
+      "sha256": "65ac9d59181b428836d3f77b24ae08bb5808098cd84697111283564b323b4f4d"
+    },
+    {
+      "path": "pilot/holdEnd-oblique.png",
+      "bytes": 92883,
+      "sha256": "5193060bc728e39f13b6a29b6966e2267e3331abd412ba94cd32750b2012701b"
+    },
+    {
+      "path": "pilot/holdEnd-side.png",
+      "bytes": 90484,
+      "sha256": "bd8a67dc55b0782f59e7445aa423dca78891a3c8f07322e486bf94e083585889"
+    },
+    {
+      "path": "pilot/pull1-front.png",
+      "bytes": 93334,
+      "sha256": "6abfc76a814aec463bd4e00e814b021f2da2468b87ce053b94161dc7fb903b77"
+    },
+    {
+      "path": "pilot/pull1-oblique.png",
+      "bytes": 91654,
+      "sha256": "184f58be617eee9ef04f0ceff2c84e6192c98e938ac60941af1ff68070e61f0b"
+    },
+    {
+      "path": "pilot/pull1-side.png",
+      "bytes": 89776,
+      "sha256": "8b446501daa1a0f08d98e10086dc9edc617563af5eb4b5809f04aa4e339bad6d"
+    },
+    {
+      "path": "pilot/pull2-front.png",
+      "bytes": 93419,
+      "sha256": "10e8a746ba3293361e12ff794777c25e20ea9cd85083b82f47f7eded75bef77f"
+    },
+    {
+      "path": "pilot/pull2-oblique.png",
+      "bytes": 91766,
+      "sha256": "22ab7298e4d5ad2d6d43064d884e237c8c2e2ad6f460e1530da7b1e9aca8ef48"
+    },
+    {
+      "path": "pilot/pull2-side.png",
+      "bytes": 89908,
+      "sha256": "c8f5dd0997f5f04e37bc0867b2cbee9e89a5d7af8228525f8d1563a977aa9e61"
+    },
+    {
+      "path": "pilot/pull3-front.png",
+      "bytes": 93636,
+      "sha256": "92e50a1ebacb3a747413173bebfbb7abdcbb59217db3bb98b879a3a31fb2a61d"
+    },
+    {
+      "path": "pilot/pull3-oblique.png",
+      "bytes": 91290,
+      "sha256": "a6e067c3bf6204042dd93cc57707cb9861d20e433f5d4736702f6142883b7480"
+    },
+    {
+      "path": "pilot/pull3-side.png",
+      "bytes": 90055,
+      "sha256": "39aedc55e0ddd9232445564bcda752705dbcad8281526267bffb8ee7ddf44bd8"
+    },
+    {
+      "path": "pilot/reach1-front.png",
+      "bytes": 93081,
+      "sha256": "fee98f9ef20867c0b3d80f1b79aee438a1f92daa78d27d4382156b21293e6eed"
+    },
+    {
+      "path": "pilot/reach1-oblique.png",
+      "bytes": 92032,
+      "sha256": "424dd1e500c2dd16b5950a890678a7a652a45a57a8583233d4ab7cf30afe4324"
+    },
+    {
+      "path": "pilot/reach1-side.png",
+      "bytes": 90368,
+      "sha256": "5267a59f24b69409ca41b694c0db25a32cba2e8eaff85e5eb371358880266074"
+    },
+    {
+      "path": "pilot/reach2-front.png",
+      "bytes": 93164,
+      "sha256": "7a5555632be793521cdf08862f37c00cafea2272ffc5a8e193d676b7130380be"
+    },
+    {
+      "path": "pilot/reach2-oblique.png",
+      "bytes": 91950,
+      "sha256": "e9dcc7617041deb25207dc59a845bee6819b70bb1ade82ad44e839766d9e8930"
+    },
+    {
+      "path": "pilot/reach2-side.png",
+      "bytes": 90339,
+      "sha256": "29852ed603965e053d3c21a42aff4679ef4460ba9c3822443c392d404f4b56e4"
+    },
+    {
+      "path": "pilot/reach3-front.png",
+      "bytes": 93178,
+      "sha256": "59ba986eb684ca695da2a20662c247cad96207505090f44e513bfeba12881e71"
+    },
+    {
+      "path": "pilot/reach3-oblique.png",
+      "bytes": 92092,
+      "sha256": "db061f6913b9cf0acc7e9f0706beb209a44a0a423d3d8fa1cd79a97195cf0d88"
+    },
+    {
+      "path": "pilot/reach3-side.png",
+      "bytes": 90301,
+      "sha256": "74e9b5748bd947aceb3ad8276cde2ad7252be2a231bfacda00f2c27ba6859f2d"
+    },
+    {
+      "path": "pilot/recover1-front.png",
+      "bytes": 93649,
+      "sha256": "7ad27b5f6c9567a6b3e058464a1098186e3abac2c78e0870d5ded05b09ec9505"
+    },
+    {
+      "path": "pilot/recover1-oblique.png",
+      "bytes": 91547,
+      "sha256": "da4686def516718dba407f427fd21ba76cf95b56a705fb2a45c725a42736dd3f"
+    },
+    {
+      "path": "pilot/recover1-side.png",
+      "bytes": 90426,
+      "sha256": "1f926534e7339f954bc9338c7e75bbbead454599180c13a42118d24e895e723d"
+    },
+    {
+      "path": "pilot/recover2-front.png",
+      "bytes": 93876,
+      "sha256": "5d3e268d097d18518dc93754fe8a9644432291a8ce3a45995060537d97eca3f8"
+    },
+    {
+      "path": "pilot/recover2-oblique.png",
+      "bytes": 91709,
+      "sha256": "9f7d19758001ff3c909d71f933e98d16ae8afec6b81936cebc88a7c89de518ce"
+    },
+    {
+      "path": "pilot/recover2-side.png",
+      "bytes": 90235,
+      "sha256": "a3fa9b73b014e00da352f19af4f4c482a1bf33445a62c670c0ba0593cfcc1081"
+    },
+    {
+      "path": "pilot/settle-front.png",
+      "bytes": 95023,
+      "sha256": "0896ba2f5b1c5ce4a0a7cd57e7e54c52f5aa9f6b3d09b89a5aaba8b686c7843d"
+    },
+    {
+      "path": "pilot/settle-oblique.png",
+      "bytes": 92456,
+      "sha256": "d11a44630247bb883d62e0468d151f9ea7e41495fa629464627b15bd278ac608"
+    },
+    {
+      "path": "pilot/settle-side.png",
+      "bytes": 90853,
+      "sha256": "12ee38c282773e1442f0c5942b2a73fe589526155dc6ebde1b41bde9c477b2c7"
+    },
+    {
+      "path": "source/oblique-original.mp4",
+      "bytes": 365775,
+      "sha256": "5304bbedaf7c540efe6734f4c142bee7be19f5633731e1c95d0c39e8b5520e15"
+    }
+  ]
+}

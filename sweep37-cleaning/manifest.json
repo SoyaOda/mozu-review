@@ -50,11 +50,6 @@
       "sha256": "856fbffab0f2a93467f103a7b26bef389216601f5edd4eb926b8f60557ff9e5a"
     },
     {
-      "path": "index.html",
-      "bytes": 15260,
-      "sha256": "d176f3be82a3a5be038a1ddc682aea41214c1ba222365a22032f4526e4298efe"
-    },
-    {
       "path": "media/back.mp4",
       "bytes": 177737,
       "sha256": "f6f73b191af60fcea05dbd663916cdc139911dac9d1283ae122e0188e6c34375"
@@ -1058,6 +1053,23 @@
       "path": "source/oblique-original.mp4",
       "bytes": 3378857,
       "sha256": "21f8a76609d8bbaa3a100592d7f38ece48f469d622f0130e4532f635bd318fd4"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15436,
+      "sha256": "fe122184ace9ddee2649ed46776e112d52ca64e148870a6185d07c4a34a1a6d4"
+    },
+    {
+      "path": "ACCEPTANCE.md",
+      "bytes": 765,
+      "sha256": "7476664d24ed2b6b3aaa9f9f41b6813059209e2cf304b276364c507f10f6a184"
     }
-  ]
+  ],
+  "adoption": {
+    "status": "owner-accepted-provisional",
+    "date": "2026-10-05",
+    "notice": "ACCEPTANCE.md",
+    "nativeUnchanged": true,
+    "historicalArchiveUnchanged": true
+  }
 }
