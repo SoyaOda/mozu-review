@@ -1,0 +1,40 @@
+{
+  "reviewer": "main agent",
+  "native": {
+    "file": "mozu-siteat212-original-arms-r04.blend",
+    "sha256": "8079f39c8283566ebdb23e24b66c11633b7b747ec3bf36a0ee5fbbf41079535b",
+    "bytes": 222273550
+  },
+  "pilotReportSha256": "dfb4f4c65edbaccd133ed9aea9db5940b83f9eb0be94f608a31c4462393de0d1",
+  "reviewPassed": true,
+  "stage": "pilot qualified for dense/holding audit; not a complete motion pass",
+  "imagesReviewed": 27,
+  "boardsReviewed": [
+    "pilot-r04/board-front.jpg",
+    "pilot-r04/board-oblique.jpg",
+    "pilot-r04/board-side.jpg"
+  ],
+  "observations": [
+    "Original arms retain their rounded continuous tapered silhouettes with no substituted shoulder bulge or local elbow notch.",
+    "All six mouthfuls present the remaining food toward the mouth; nose remains visible.",
+    "The late fifth-bite regrip defect is reduced: the piece is centered between the closer hands by952.",
+    "The final fragment and empty-hand pose remain readable across front/oblique/side.",
+    "Liked seated feet, body/head shapes and original shoulder locations remain intact in the images and native comparisons."
+  ],
+  "contactInterpretation": {
+    "scope": "Stylized visual hold/contact pilot; continuous grasp and physical mouth cavity are not certified",
+    "maxClosedHeadDepth": 0.05102194473147392,
+    "originalWorstClosedHeadDepth": 0.0492571183,
+    "fourthContactNote": "Fourth depth0.05102 slightly exceeds the predecessor worst0.04926; keep the raw comparison. Closed-head/graphic-mouth overlap remains a stylized bite limitation.",
+    "maximumClosestPawGap": 0.002916997764259577,
+    "bothHandsUnder005AtEveryContact": false,
+    "finalRightPawGap": 0.007697252556681633,
+    "finalGripNote": "Left paw contacts the small piece; right paw stays close but has0.00770surface gap. Do not label this exact two-handed physical grasp."
+  },
+  "nextRequired": [
+    "Dense fractional root/shape audit",
+    "Selected-native original-default pixel parity",
+    "Holding/regrip intermediate poses",
+    "All1329frames three-view render and visual review"
+  ]
+}

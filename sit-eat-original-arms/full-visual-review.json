@@ -1,0 +1,457 @@
+{
+  "complete": true,
+  "reviewPassed": true,
+  "reviewer": "main agent",
+  "native": {
+    "file": "mozu-siteat212-original-arms-r04.blend",
+    "sha256": "8079f39c8283566ebdb23e24b66c11633b7b747ec3bf36a0ee5fbbf41079535b",
+    "bytes": 222273550
+  },
+  "viewFramesReviewed": 3987,
+  "armDetailFramesReviewed": 1329,
+  "pixelSource": "lossless native capture",
+  "mediaSha256": "14cdb6e0d80dd751b2ca4fe1df627a191434509d6bb090b2213dab4ed46024fd",
+  "captureSha256": "925f330f18efd902873da78502a924c931e399f3c0ffceb8a8cc9e72e9e37fba",
+  "sourceSha256": "318f4eea335fea64dff973ac7fe7eea0baa37cefae4cf85460ca04f5ceecb4c1",
+  "batches": [
+    {
+      "receipt": "capture-review/batch-01.json",
+      "sha256": "85b7928bad5688481762d53e051afb859998857da41733c73eed549587ef5669",
+      "archiveSha256": "f4f48924fbe2f416fa929dfde08bb50ab244b37edcc6cb69d8288174c0cadab5",
+      "start": 1,
+      "end": 36,
+      "observations": [
+        "All36frames in front/oblique/side and36arm-detail crops inspected.",
+        "Original shoulder placement and rounded arm contour are stable through the preparation and early sitting descent.",
+        "Compact feet turn forward continuously; no detached arm or new contour notch appears."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-02.json",
+      "sha256": "83cbb0c84ac20cb292fce79241be1f06957537b9a2cc1b456483e7a41066c9d7",
+      "archiveSha256": "d72aba71ecc9d5cd2144e681373b09136d8d25cd0aa63ea9fb0224fdce714455",
+      "start": 37,
+      "end": 72,
+      "observations": [
+        "All36frames in three views and36arm-detail crops inspected.",
+        "Seated settling and the slight balancing arm swing retain rounded complete-arm contours; shoulder remains concealed at the original attachment.",
+        "Hands briefly overlap the feet in projection during descent; they separate cleanly by the settled pose with no contour notch or detached component."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-03.json",
+      "sha256": "ffe35760d0ee7c425817b3dba2fff7e6ef5c3f3dea30d79ba8ba191d620cce85",
+      "archiveSha256": "bd9b1efcf47dd02fdc1ddfe074b536f0542c9cbf0e15e457dda9b2a0dc1cb19e",
+      "start": 73,
+      "end": 108,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Seated settling returns the original arms toward rest; the original shoulder stays stable through the blink.",
+        "No new elbow indentation or local bulge; the feet remain stationary and the tail stays intact."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-04.json",
+      "sha256": "45730ac5d68411551431eb9f681429bb3dbdc222f3932d00b75f28ec40c09770",
+      "archiveSha256": "ed7f8615ea8c3fe7f2cd9abbdf9004b78d6665a9cc6eddae8fb93a22d20aff38",
+      "start": 109,
+      "end": 144,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Quiet seated hold remains stable in all cameras, then the hands begin their shoulder-led approach at the end of this interval.",
+        "Original arm outlines stay rounded and continuous without changing shoulder placement."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-05.json",
+      "sha256": "4db5bfe80a3ff2dc358a78eb389908568bd2648e001e708e7694ae6418bf8deb",
+      "archiveSha256": "c7e301405e18ea0d7d03a8c2b654eb06ec218f1a3c7dea2039589f9ba48afce8",
+      "start": 145,
+      "end": 180,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The original arms lift as complete smooth shapes; apparent kinks during early lift are overlapping feet, then separate cleanly.",
+        "Both hands gather symmetrically around the introduced rice ball. Its inherited short appearance transition is preserved; no physical pickup is authored.",
+        "Shoulders remain at the original body attachment and the feet stay fixed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-06.json",
+      "sha256": "47cb4c9c59edd342b16ab0b33155807fa9e426a5c56de139656bf2f7612829de",
+      "archiveSha256": "4e10ee512d6da98af84ca34f0f8f52af0e0fe38733af7c3d3f02038316cc38f1",
+      "start": 181,
+      "end": 216,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "First mouthful approach is readable in front and oblique views; mouth opening and food approach are continuous.",
+        "Near arm is a rounded taper throughout the lift, with no replacement shoulder bulge or localized elbow deformation.",
+        "Food is partly hidden by the near hand in strict side view, while its placement remains readable in the other two cameras."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-07.json",
+      "sha256": "c92bfc9ddb248c0f2f42bd4795dbcff00d195ef41e582b85edd5f42394c7ad1b",
+      "archiveSha256": "e43c0691dfebeb82b7df417e19b0ad0a8fdc3058b6a942b7e4ba552948e9ac24",
+      "start": 217,
+      "end": 252,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The first bite removes the upper food portion while both hands retain the remaining piece.",
+        "Hands lower continuously into the chewing hold; the shoulder and smooth arm outline remain stable.",
+        "No detached hand, abrupt local arm contour change or new foot movement is visible in these frames."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-08.json",
+      "sha256": "ae6a5941c760d20a1b87d78f4932243b692589fc76ca0827db683a3e96882fbb",
+      "archiveSha256": "fed4f981d282eec8e14ba42ea138d84eb4b80dfbd71a6a42ba847551d763ac4b",
+      "start": 253,
+      "end": 288,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The first chewing hold preserves contact and smooth whole-arm silhouettes across every frame.",
+        "Subtle head and mouth motion does not disturb shoulder placement; settled paws remain fixed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-09.json",
+      "sha256": "8858b99b87fefbd7d3eb4e377176a96a212e33e8f1af0df6565efaeb96bfe8e9",
+      "archiveSha256": "0ee86df9eeccd3f6934a8ad85704cdf7d1e6450447317ceb5c26d5cc78044ddb",
+      "start": 289,
+      "end": 324,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Chewing hold through frame324 remains stable: the remaining food is supported and the arm contour has no flicker or sudden local shape change.",
+        "Original shoulders and settled feet remain visually consistent while the inherited facial chewing animation continues."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-10.json",
+      "sha256": "742451dc56b1b8b532a067a6388199790233e228269e5641319f9b96bfcacc02",
+      "archiveSha256": "d0445ca6e17c07e3c6a9a513a2d99d09fd57f50a60ae963cbfd44c1dd84f11bd",
+      "start": 325,
+      "end": 360,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The character finishes chewing and reopens the eyes while the hands continue a stable food hold.",
+        "No shoulder displacement, extra local arm bending or food separation is visible through frame360; original round taper remains consistent."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-11.json",
+      "sha256": "2bce9988a05033bcc418efa756401e24c04589286c79af4655cad380febeecb4",
+      "archiveSha256": "fa0277ff8c1d615e703a598ba5c85eafcba4a72161efafae57de741cef9bb1a4",
+      "start": 361,
+      "end": 396,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The second-mouthful lift remains continuous while the mouth opens; the original rounded arm tapers and shoulder contour remain intact.",
+        "The side camera partially occludes the held rice as expected; front and oblique views preserve readable food support."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-12.json",
+      "sha256": "931c90c4363e17720475bca7a57b050cc0a555d3050ae0b0fcbe26a48ac85a7b",
+      "archiveSha256": "49fefdc839cc5b47ee3d60f6204a61ca5abaa3b2353ddf52da9ee27010d5ebf5",
+      "start": 397,
+      "end": 432,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Second contact and withdrawal are continuous; the food reduction around frame421 occurs after contact as authored.",
+        "No abrupt shoulder displacement, wrist fold or free-floating food is visible; the empty near-side space increases smoothly as the hands lower."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-13.json",
+      "sha256": "a867d3908030b2e3a3c9c90c7a14cdd54fcfcbca729413f46ce2b7efec588336",
+      "archiveSha256": "5f4b8466814d6d4491d5ff836eb8841dc77ab6e2c55aaa0f0c2abdb4834b68f0",
+      "start": 433,
+      "end": 468,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The lowered hold settles while chewing continues; all three views retain the same seated feet and rounded arms.",
+        "The remaining rice stays within the visible cradle; shoulder and wrist contours remain smooth through frame468."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-14.json",
+      "sha256": "3b89318e508abe04c0944f3e899b56bd0cdfb197c33f904cbb955e4db295b926",
+      "archiveSha256": "2638312901b429b358a62f30d8ba130bf8b797d477aa1c40dae60f5de06fc306",
+      "start": 469,
+      "end": 504,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The second chewing hold remains stable through frame504; mouth animation continues without moving the supporting shoulder root.",
+        "No visible change in original arm thickness, shape break or floating rice appears in any view."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-15.json",
+      "sha256": "81c2a8600a462e61451d85ffe834e1680e6be7064192a98861c698b89768e344",
+      "archiveSha256": "bdeade2423a9dbf3e69f89692f4ab03989093e1282c1e9830ea46303e8f9ea0f",
+      "start": 505,
+      "end": 540,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The eyes reopen after chewing while the original arms keep a stable cradle.",
+        "No shoulder jump or arm-profile change is visible from frame505 through540; foot placement stays fixed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-16.json",
+      "sha256": "af2bb8241bbfb097fecf7ba4b00e1962dbdb488b99d316a0a8b40ead9319beb2",
+      "archiveSha256": "f4aec416a4bc7168b3ea5897494b8525956c15aacabef66abb76fbd767eaaeca",
+      "start": 541,
+      "end": 576,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The third-mouthful approach lifts the remnant continuously to the opening mouth.",
+        "Original arm tapers remain rounded throughout shoulder rotation; no elbow crease, shoulder relocation or food detachment is visible through contact frame575."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-17.json",
+      "sha256": "0349c9b93b467ef272f6b1be26bdd756efaeeba7e1474be33cebb602ce179c24",
+      "archiveSha256": "5960656232af501fbd372dc9afe521443d1c5236e2421c44344999229910e9a2",
+      "start": 577,
+      "end": 612,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Third contact, food reduction and withdrawal remain continuous; the lower remnant is visible between both original rounded paws.",
+        "No abrupt local arm deformation or shoulder shift appears through frame612, immediately before the longer food-turn interval."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-18.json",
+      "sha256": "929c4f6a87f24e996b2ab0a70519be7b5c2060b6466be471e5bbd425cc2becce",
+      "archiveSha256": "ee4e3a5538a661296192ddf89225d97a66d799f71046b293cd73f059f57864ee",
+      "start": 613,
+      "end": 648,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The lowered third-bite hold begins the gradual presentation turn; the remnant remains within the two-hand cradle.",
+        "No arm-shape discontinuity, shoulder shift or foot motion is visible through frame648."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-19.json",
+      "sha256": "382235740f91add4731d9787823908738c61785757a5c127a09478ce686235e0",
+      "archiveSha256": "0154679537da72fb6e577dbd8b8e742f2d4030f66c1d80663c16099a553bfc0b",
+      "start": 649,
+      "end": 684,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The food presentation continues rotating gradually within the stable lowered cradle through frame684.",
+        "The original arm remains a continuous rounded shape in the close crop; no visible detached shoulder or abrupt food jump appears in the three whole views."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-20.json",
+      "sha256": "0861885c6fc1218cb7fd01113487d22c906a100e266f32c5ebadb2184d92c9fc",
+      "archiveSha256": "9d601fbdb4ba3c597868975a138ed111867d97f70f5a7e57089bdf22f7e0baaf",
+      "start": 685,
+      "end": 720,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The longer presentation turn reaches its final portion without snapping or changing the original arm profile.",
+        "Frame710 front and oblique native-size images were inspected in addition to all sheets: the food reads as supported within the cradle. Known geometric gaps of0.00521/0.01010 remain unqualified physical contact, not an exact grasp claim."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-21.json",
+      "sha256": "6c440ae2f2646cca10ef4cdd7c51160822e3fb75ff8c362dab4f94f115f2685b",
+      "archiveSha256": "a57b16ed47486065199913c6fb829456bc0f0e26d71893842fc0fda926d58084",
+      "start": 721,
+      "end": 756,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The presentation turn finishes before the fourth lift; approach and contact remain continuous through frame756.",
+        "Native-size frame749 front and oblique images also inspected: the food-to-mouth action is readable and the original arms keep rounded contours. Retain the known0.05102 closed-head depth as a physical limitation, not a mouth-cavity claim."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-22.json",
+      "sha256": "bb0575eda8e03ab32d2e66686cd627636df61453a5a2e417c82b9688d9d7c33e",
+      "archiveSha256": "6a0b9b461886d79ac863adfa7857bf60d2c7b5d22e4b564ae0fd9e2c2e14a464",
+      "start": 757,
+      "end": 792,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Fourth withdrawal and the smaller remnant remain continuous; the pair of arms settles toward the closer cradle after frame790.",
+        "No visible shoulder displacement, elbow fold or sudden local change of arm thickness occurs through frame792."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-23.json",
+      "sha256": "bbd3e56f63ae52b0b3a75007d7f7f17ab8d435fbd23228c48cce4b7076a86b97",
+      "archiveSha256": "f746a4f8aa516a5f6b57aa6adb594c35ef3bdab7e7f5ad70293a1185e430a707",
+      "start": 793,
+      "end": 828,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The fourth chewing hold stays composed with the smaller remnant centered between the gathered paws.",
+        "Whole views and arm crops retain the original rounded contour, unchanged shoulder placement and seated feet through frame828."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-24.json",
+      "sha256": "3adb2743d55cc679a192bd3bb0c1dbfe775f404eefa965cd20bc984b156b7e6d",
+      "archiveSha256": "360bf0c92ca9942d8efaaadb8acbfaeb1aca11fb9226c021a7391c58acbd2f0c",
+      "start": 829,
+      "end": 864,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "The smaller food hold remains stable while chewing ends and the eyes reopen.",
+        "Original shoulder attachment and arm contours remain continuous through frame864; no visible food drift or foot displacement appears."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-25.json",
+      "sha256": "4325cf9b5524168b034faef7362194ce844f04c30f24d223d9aef7ee4d5c5549",
+      "archiveSha256": "02ff3e83af65935274b7570962d7e3e39c164ac4044b9935f9ef3a2439a1ca98",
+      "start": 865,
+      "end": 900,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames in front, oblique, side and arm-detail boards inspected. The fifth approach begins smoothly after stable chewing hold; mouth opening and shoulder rotation are continuous, no arm crease or shoulder separation observed. Seated feet remain stable; strict side partially occludes the food."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-26.json",
+      "sha256": "827d43d1e5fb33889c9b63896d168b51b144507d3f98588d05f92775680bade9",
+      "archiveSha256": "0d00067d19ffb06969df11fa1147619f9f0ecd3485b78b77fb0961d5ff9d4d4d",
+      "start": 901,
+      "end": 936,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across all four boards inspected. Fifth bite reaches the mouth; after the authored cut the smaller piece stays with the right support while the left hand regrips. This intentional one-hand phase is visible, consistent with the measured left gap at921 and930. No arm folding, shoulder break or seated-foot motion observed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-27.json",
+      "sha256": "b0009f21a55e2ce755eef332fb65e0a67b4525869d4d065ae21d1f91820f4e2b",
+      "archiveSha256": "38813acc51d384e6da8d6b8185bf434a101c8ccb7a1fa1b9c842022b59036aa0",
+      "start": 937,
+      "end": 972,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames and all four boards inspected. The left regrip finishes by952 and the small fragment settles into the lowered cradle. Smooth shoulder rotation with no arm crease, root separation or foot drift. Frames965\u2013967 across the execution recovery are visually continuous."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-28.json",
+      "sha256": "bd133ab4b4ed8b5f79178a4cc8caa205c69da7da1792ca7c0a1897d7c0ca13c0",
+      "archiveSha256": "7607e930bb13d9ec174f0169c1bbb5944daafbdbc16d3d18a976f8181dfad5e5",
+      "start": 973,
+      "end": 1008,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Lowered final-fragment hold is stable through chewing and eye reopening. Original tapered arm contours and shoulders remain continuous, with stable seated feet. The fragment is small and partly occluded in side view; exact bilateral physical grip is not inferred."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-29.json",
+      "sha256": "a48bbf3985ae4290819a2595c1ffeea25285b9a70c1501fbb6393ceecece1102",
+      "archiveSha256": "505bb13217535a75b64cf802fa0962407ac2c7452d96fe594e5fc5e65c6ec4a0",
+      "start": 1009,
+      "end": 1044,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames in four boards inspected. The final chewing hold remains steady, followed by a gradual mouth opening and final approach beginning near1039. No arm edge ripple, shoulder discontinuity or foot shift appears."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-30.json",
+      "sha256": "9e3f42cf12a5fbba19c90faa074a55e713ce0c32cc312c4ad641704e3b3900d0",
+      "archiveSha256": "41d8bcca4b1cb33c5a5987f4dfb4e649775abb400b200d2464ed187762342f94",
+      "start": 1045,
+      "end": 1080,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Final approach,1061contact and ingestion read continuously; the remaining white/seaweed fragment recedes into the mouth while the hands stay rounded. No new arm crease or shoulder break appears. The measured final right-hand gap and stylized mouth overlap remain documented, not treated as physical contact proof."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-31.json",
+      "sha256": "aed3f547b572b7841c199db26fb2abc2e1bfa5dc71cb8909dc17c49ec46ce70f",
+      "archiveSha256": "2b1579cb42806ebe585f6412d941d51e9e46606cb35f1745e2335131f7bd18ef",
+      "start": 1081,
+      "end": 1116,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Food is visually absent as the final mouth closure completes, then the empty hands withdraw smoothly. Arm surfaces remain rounded and shoulder-connected; body and seated feet stay stable. Mouth/hand silhouette overlap during the contact exit is stylized and continuous."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-32.json",
+      "sha256": "3e0ee5455e048fb94b4aea0b8e1a3bf6742f6c889afc4752ae966d151da36946",
+      "archiveSha256": "f535c0a5da2cc68c8cbacc5c2954ced705ad1fa0ea05512bc1a9d1f1b7008320",
+      "start": 1117,
+      "end": 1152,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Empty-hand chewing hold is stable, with no food remnant and no arm/shoulder discontinuity. Eye opening near the end remains consistent with the inherited face performance. Seated support stays fixed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-33.json",
+      "sha256": "874b4d8cd9391e444548de341956759b95db668977039489748704e36a22bb5e",
+      "archiveSha256": "8d593c9c7e03c1ebd637307a1d5eff8978ce19a580cf4a658907e61001fe98c8",
+      "start": 1153,
+      "end": 1188,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Final chewing stops; empty-hand lowering begins around1183. Arm rotation accelerates over the last rows without shape creasing or shoulder disconnection; review the release tempo during final playback. Feet remain stable and the food stays absent."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-34.json",
+      "sha256": "603fd37c9020e3737ee17236e53ba38b7f43366dd7ce7337dcc9692b65df9406",
+      "archiveSha256": "1c106912bc17394f560f71a763732a8eb3d9da471868d58100946d29d50f3a4c",
+      "start": 1189,
+      "end": 1224,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Lowering continues into seated rest; hands briefly overlap the same-colored fixed paws in front/side before separating. The isolated arm contour stays smooth, so the merged silhouette is occlusion rather than an elbow fold. No shoulder separation, foot displacement or food remnant observed."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-35.json",
+      "sha256": "37a30a0cc7467a4e76aabc8a1cb71dfc583077aaa165a63eb65d619bee8f5ead",
+      "archiveSha256": "cd86b48412b6390d83be77838d856d0b270ced3aae0120c6407ac254c366e40d",
+      "start": 1225,
+      "end": 1260,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "All36frames across four boards inspected. Hands settle beside the body with the original rounded default profile. The arm/paw separation becomes clear in oblique and side views. No contour pulse, root jump, foot drift or food remnant appears."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-36.json",
+      "sha256": "3f7d2ca00a0f47b7a56f5f826abbe4aedef597d5f4381ae04b0510f8ae46f4ce",
+      "archiveSha256": "06889d9ed2632ec4edd21a7ebc8c6885a848ca85cc1bbe735f8b7dafd73858d1",
+      "start": 1261,
+      "end": 1296,
+      "observations": [
+        "All36frames in three views and matching arm-detail crops inspected.",
+        "Final settling is continuous and the original default shape stabilizes by frame1279. Rounded arm contours stay clean with no root jump; feet remain fixed and food remains absent."
+      ]
+    },
+    {
+      "receipt": "capture-review/batch-37.json",
+      "sha256": "0c1f233ae6ad0282bbb899c00470781b9d146175de86ac3f3fcf1bde9170b78e",
+      "archiveSha256": "c9633ce02638fac479a03df85ac0e7346b05f4b94db49646cd28e1026696039b",
+      "start": 1297,
+      "end": 1329,
+      "observations": [
+        "All33frames in three views and matching arm-detail crops inspected.",
+        "The last33frames hold the original rounded default arms without shape or shoulder drift. All three views remain stable; liked seated feet stay fixed and food is absent."
+      ]
+    }
+  ],
+  "scope": "Manual chronological appearance review; browser playback is recorded separately.",
+  "limitations": [
+    "No independent critic or owner adoption.",
+    "Stylized food contact; exact continuous two-handed grasp is unqualified."
+  ]
+}

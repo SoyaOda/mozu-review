@@ -1,0 +1,32 @@
+{
+  "native": {
+    "file": "mozu-siteat212-original-arms-r04.blend",
+    "sha256": "8079f39c8283566ebdb23e24b66c11633b7b747ec3bf36a0ee5fbbf41079535b",
+    "bytes": 222273550
+  },
+  "denseTimes": 252,
+  "maximumOriginalShapeError": 2.0655741606034894e-07,
+  "maximumOriginalShoulderError": 0.0,
+  "defaultPixelComparisons": 3,
+  "maximumDefaultPixelError": 0.0,
+  "reopenedOrientationEdits": 6,
+  "reopenedFoodEdit": {
+    "control": "propForward",
+    "delta": 0.03,
+    "translationError": 2.8610229491077277e-08,
+    "armsUnchanged": true,
+    "resetExact": true
+  },
+  "otherModeChecks": 6,
+  "maximumPawFloorError": 5.960464477539063e-08,
+  "maximumSeatedPawDrift": 0,
+  "foodGeometryComparisons": 15,
+  "directCachePixelPairs": 18,
+  "fullCaptureDirectPixelPairs": 18,
+  "nativeFrames": 1329,
+  "viewFramesReviewed": 3987,
+  "mediaSha256": "14cdb6e0d80dd751b2ca4fe1df627a191434509d6bb090b2213dab4ed46024fd",
+  "visualReviewSha256": "aaf0210b4a2940a2ce6fbbac20587a0a2e2973d6938fbac9ca6118b52225879e",
+  "reviewPixelSource": "lossless native capture",
+  "holdingProbes": 24
+}
