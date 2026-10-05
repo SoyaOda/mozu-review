@@ -1,0 +1,69 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep36 / RIG_GUIDE</title><style>body{max-width:1000px;margin:32px auto;padding:0 20px;background:#f5f3ed;color:#263b34;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#345f4e}</style><a href="./">Back to comparison</a><pre># Sweep36 editable supported sweep
+
+Open `sweep36-supported.blend` in Blender5.2. Playback and editing use native
+Geometry Nodes, ordinary drivers and animation curves. No external geometry
+cache, custom playback handler or Python execution is required.
+
+Select `Sweep36 | Constructive supported action`. Play frames1–240 at60fps;
+frame241 is the exact four-second endpoint. `Body contribution` is the public
+control:0 removes the added body participation,0.5 reduces it and1 restores the
+selected supported sweep. Its0–1range is one coupled family. Turn, travel,
+rotation and lowering are driven together; six helper values are outputs rather
+than independent certified controls. The original feet remain fixed throughout.
+
+At1, the family uses nominal10degree turn,0.070forward travel,0.012lowering,
+9degree pitch and−0.010lateral travel. Native curves multiply those amplitudes;
+they are not all simultaneously reached. Do not interpret the material pivot as
+a recovered physical center of pressure. The movement uses authored constraints,
+not measured forces or a complete source-motion reconstruction.
+
+## Shape ownership
+
+The original `C164 | Body-owned convex core` receives rigid placement before
+composition, preserving its exact shape. Both original independent180 upper
+thigh tasks receive their own transformed hip and fixed ankle. The198 analytic
+lower ellipse/taper and currentG endpoint finish each thigh. The existing0.12
+constant-width hip union combines those source parts. No height-weighted final
+surface warp remains. The original shoulders, analytic arms, tail and neck
+attachment use the same rigid body transform; head attention stays independent.
+
+Original transverse thigh scales, material topology, ellipse/taper parameters,
+arm material length and section profiles remain the source. The lower attachment
+is not globally convex even at rest; the documented guarantees are positive
+sections, retained radius behavior and bounded sampled centerline curvature.
+Both hidden ankle closures and actual composed contours are checked separately.
+
+The original arms embed part of their medial surfaces inside the Body. This
+candidate retains that relationship and tests it for increased penetration at
+the same local arm articulation. It does not claim zero arm/body intersections.
+The broom has a separate clearance test outside the intended hand grip.
+
+## Editable scope
+
+Change Body contribution, inspect the whole action, then return to1. Native
+verification changed0.25,0.75and0, restored exactly, saved/reopened with scripts
+disabled and repeated an edit/reset. The visual package also includes actual
+0/0.5/1renders. Values outside0–1, independently disconnected helper drivers,
+other inherited pose controls, different steps or different arm trajectories
+need new profile, attachment, contact and visual checks.
+
+The source geometry and profile tasks remain editable. Do not sculpt evaluated
+output and expect its material ownership to update. Original named attributes
+encode material rows, radius profiles, hidden closure and pigment ownership;
+changing their source topology requires regenerating or transferring that data.
+
+The extension sources are included for audit and rebuilding inside the Mozu
+repository. They import preserved ancestor scripts and source assets and are
+not a standalone Blender addon. The saved native itself is self-contained.
+Windows pilot/source replicas retired after verified Mac backup must be restored
+before rebuilding; `replica-backups.json` gives the exact paths and SHA256 values.
+
+## Limits
+
+This is an owner-review candidate. No adopted model/motion registry is replaced.
+The fifteen architecture issues and eleven full-motion release gates remain
+open at their original scope. Main-agent implementation and review do not
+constitute independent sign-off. Runtime export, arbitrary combined controls,
+physical load recovery, stepping, pickup/release and new hand/finger design are
+outside this change. See REPORT.md and the bound evidence for the checked domain.
+</pre></html>

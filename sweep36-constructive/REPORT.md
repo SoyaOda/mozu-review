@@ -1,0 +1,135 @@
+# Sweep36 constructive supported sweep
+
+Status: scoped native construction, full capture and complete visual review passed.
+The candidate remains unadopted. Publication/browser evidence is recorded separately
+in PUBLICATION.md; this report describes the versioned native and visual package.
+
+Sweep36 removes the height-weighted warp that distorted Sweep34's lower abdomen
+and thighs. The original Body shape now moves rigidly. Each original thigh
+construction receives its own moved hip and fixed ankle before the existing
+bounded hip composition. The two feet remain planted. This is a separate
+editable candidate; accepted originals and prior candidates remain preserved.
+
+## What changed
+
+The original profile owners determine the moving surfaces. Body, shoulders,
+local analytic arms, neck attachment and tail share one rigid transform. The
+original180 upper ellipsoid and198 lower taper reconstruct each thigh, ending
+at the currentG paw attachment. No per-frame mesh correction follows the union.
+The mathematical guarantees are narrower and more useful than a blanket visual
+PASS: exact Body isometry, positive upper affine/ellipse construction, unchanged
+transverse scales and positive monotone concave scalar taper. The actual lower
+attachment and composed groin are not globally convex even at rest.
+
+The whole action was revised within those shapes. Three6/10/14degree turn cases
+were paired with coherent forward travel, lowering and pitch. All75pilot views
+were inspected; the middle10degree supported case retained a readable sweep
+without the larger hip demand of14degrees. Its single `Body contribution`0–1
+control drives the combination. The six helper amplitudes are driven outputs.
+This is a coordinated performance choice, not a pixel-only fit of the original
+front video or an arbitrary skin warp. The broom proportions and local arm
+articulation are retained from Sweep34; their world motion follows the new Body.
+
+## Evidence completed before full capture
+
+- The independent source-profile model reproduces the actual neutral thighs
+  within5.48e-7scene units. Three native whole-action pilots match the independent
+  moving construction within2.43e-6. Neutral composition remains within4e-6.
+- The public coupled family was sampled at17contributions and489times, giving
+  16,626part evaluations. Upper segment ratios span0.967384–1.029728; the normalized
+  lower centerline acceleration gauge never exceeds its neutral0.566782value.
+- Nineteen final native time/contribution probes and two reopened probes pass;
+  maximum native-versus-math error is3.021e-6. At these detailed samples, all11,463
+  concealed cap vertices on each side are enclosed, with zero cap/paw triangle
+  crossings. Source meshes are closed and manifold, with no nonadjacent triangle
+  intersections in the recorded topology sample. These are sampled guarantees.
+- Three public-control edits return exactly to the default. Saving and reopening
+  with scripts disabled preserves the rest geometry; edit/reset and the four-second
+  endpoint also match exactly. Five helper-binding parity times preserve the chosen
+  pilot's geometry exactly. The complete native has an exact durable Mac backup.
+- The selected render snapshot matches the original full-data renderer at three
+  poses and three views with exactly identical decoded RGB values. It preserves
+  evaluated geometry and required shader attributes, freezes evaluated shader
+  driver values on disposable copies and leaves the original native untouched.
+
+The earlier field audit measured local stretches up to2.1485under the discarded
+warp. Those infinitesimal field stretches differ from an entire constructive
+segment's length ratio; this report does not equate the two measurements or
+reduce visual acceptance to either number. The original Body distance preservation
+and actual moving contours are the relevant new evidence.
+
+## Existing arm embedding
+
+The original club arms embed their medial surfaces in the Body, including some
+material beyond0.5of the arm length. A blanket no-arm/body-intersection assertion
+therefore rejected the neutral source itself. A read-only seven-event audit and
+an independent convex-hull calculation confirmed the geometry. This was not
+resolved by hiding the measurement or labelling the whole region a shoulder.
+
+The current check compares every sampled distal material vertex with the same
+local arm articulation against the original neutral composition. Body-core depth
+must remain rigidly identical within2e-5. Composition depth may increase by at most
+0.0007, one tenth of the original0.007remesh grid. The final-native probes showed
+at most0.000214increase. Absolute depths and triangle-pair counts remain visible
+in the evidence. This is a non-regression check on an inherited interface, not a
+zero-collision or arbitrary-control certificate. Broom surfaces are independently
+checked for crossings and contained vertices outside their intended distal grip.
+
+## Finite object-driver precision
+
+The full capture exposed a7.717526e-5ideal head-matrix residual near rest, equal
+to an authored0.004422degree pitch. An empty-scene fixture reproduced positive
+driver outputs below1e-4 becoming exactly zero. Copy Rotation itself preserves
+tiny angles. The same behavior affects tiny positive carrier pitches near the
+start/end. The native remains unchanged. Raw ideal residuals are retained; a
+separate input check admits only this reproduced zero-snap case, and the actual
+neck/head transform must still match those evaluated inputs within5e-6. All
+source-shape, head-rigidity and contact checks retain their original strict
+criteria. Six critical native times pass with this explicit distinction. See
+CONSTRUCTION.md and the precision fixture/audit/preflight evidence.
+
+## Complete action and visual review
+
+All240native action times and116between-frame samples passed source construction,
+fixed-paw, cap, tool-contact and interface checks. The maximum source-math error
+was3.277e-6; both paw errors were exactly zero. Actual broom-floor error was at
+most9.500e-8. Concealed cap triangles had no paw-surface crossings. Maximum arm
+composition-depth increase was0.000236, below the documented0.0007remesh tolerance.
+The four-second endpoint is exact. The full capture contains98distinct complete
+geometry/shader states; image reuse required exact state equality.
+
+All1,440six-view sequence images,144new orbit images,28body-only images and9public
+control images were visually inspected. The earlier lower-body wedge is absent
+through the turn, sweep and return. Rounded side/quarter contours, planted feet,
+visible attachments and facial appearance remain coherent. The75pilot views are
+retained for the three whole-action hypotheses. This is main-agent visual review,
+not independent sign-off or owner acceptance.
+
+The first22times had inherited a render-only shared-shader error from an earlier
+capture method. Their132old images were preserved, and all22actual native render
+states were re-evaluated before replacing pixels from an exactly equal verified
+state. The native and original geometry/contact probes remain unchanged. The
+corrected complete sequence was re-inspected. All1,621final PNGs were transferred
+with exact SHA256 verification; six240frame60fps movies passed complete decoding
+and framing checks. Capturing and prefix-repair queue jobs finished successfully.
+
+The comparison offers synchronized before/after playback, six views, frame stepping,
+three speeds, two complete72angle orbits, trial sheets and the editable native ZIP.
+Results and limits travel with the archive. The former Sweep34 media are reused
+byte-for-byte; prior originals and adopted releases remain unchanged.
+
+## Scope and reproducibility
+
+Native: `final/sweep36-supported.blend`,221222462bytes, SHA256
+`fe4a51d47aebf9f5eadbfb8f0bf2eaca9905f2c71c16f9cdba06c6a7b2c123c7`.
+Evidence root: `output/rig_candidates/chores214_20260925/v2/sweep36_constructive/`.
+Source: `scripts/research/chores214_20260925/sweep36_constructive/`.
+Read CONSTRUCTION.md for equations, source ownership, failed assertions, capture
+repairs and exact-replica retirement. RIG_GUIDE.md describes editing and restoration.
+
+Body contribution0–1 is one sampled coupled family. General independent control
+combinations, physical force/balance recovery, stepping, pickup/release and a
+skeletal runtime export remain outside this change. The heavy source-composition
+node graph is not a real-time runtime certificate. Owner adoption and the inherited
+fifteen-issue/eleven-gate full-motion qualification remain open. Implementation and
+review were performed by the main agent; no independent sign-off is claimed.

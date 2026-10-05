@@ -1,0 +1,279 @@
+{
+  "decision": "PASS_SCOPED_PREVIEW",
+  "reviewer": "Main agent; no independent sign-off",
+  "nativeSHA256": "fe4a51d47aebf9f5eadbfb8f0bf2eaca9905f2c71c16f9cdba06c6a7b2c123c7",
+  "sourceSHA256": "595b8d9a66f21cfd45e9726162a0a96a97d0be419b2dfa8dece04d27135d8c49",
+  "pilotSHA256": "5fb6261fd1108bf9e1ae71a0755635619e68bf574d1e64136c757afb7d736d71",
+  "evidence": {
+    "final/native.json": "2ba56cf798c77258eba7a467468a00693c7e3d1198f1bbb0895c6743d66c6578",
+    "final/capture.json": "a8fa54507b5278c8833d893815b4786ae0b644a841901bd27058ee4019ecb5eb",
+    "final/media.json": "6f2d162a003f7bb68c049e009f7f41dfdeb9a7839f60a6b387b95febd5c41020",
+    "final/prefix-repair.json": "cc4bfdde08475e03846557f2f8d4ddca45893d171606e7722e78ff99406a6308",
+    "partial-visual-review.json": "90364cb7d1e7e1b73ee7e97b6e535159cc555cc7180bef44bf7b7613159bfcf6",
+    "transfer-media.json": "95112e5a6a4ecba0e955902ee087f8741e62f5d4673542e54ebb6a817ef6a1c6",
+    "native-preservation.json": "ad3d1f1c54f815946a5a27c9ce524dc5638a493297273161af4c8ddf552dc7f6"
+  },
+  "coverage": {
+    "sequenceFrames": 240,
+    "views": 6,
+    "sequenceImages": 1440,
+    "orbitImages": 144,
+    "bodyOnlyImages": 28,
+    "controlImages": 9,
+    "pilotImages": 75
+  },
+  "reviewedSheets": [
+    {
+      "file": "media/sheet-after-front-0.jpg",
+      "sha256": "913b6eefb278252d0ebe76c27538cdda24b95c8d58578abdfd83d3b45a8cb171",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-front-1.jpg",
+      "sha256": "8df3651a0742bb5b2bd8b52fb4987517548903e48d14602b2bcfaa54c2195477",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-front-2.jpg",
+      "sha256": "f7822449d327695a143cbf38d47a5d26da4d8bfe8cf1bd00a6bd2227706ed64c",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-front-3.jpg",
+      "sha256": "f9d4cfc6e01f5154331cd306a2728469d7929c755aac69ff965669c44ebf58ca",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-oblique-0.jpg",
+      "sha256": "6142b5137cdd0eddef1ee30518f9f21d79b6498e00722bd084aaa51c2784b992",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-oblique-1.jpg",
+      "sha256": "4382b49850b0f4adad341ddc61cd4df01b1fe2e65b0c1564e14931a66145b700",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-oblique-2.jpg",
+      "sha256": "24a2542c94bfe52989e4c04a50183d039f6424ce52ff8d49796da2cf41f1b802",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-oblique-3.jpg",
+      "sha256": "bc0ce55dafb5142432c01e4afa003b87504915a1d10280645e306d7f457a3796",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-side-0.jpg",
+      "sha256": "ac978994defa59d821179a6b1a1b1ca7b10daab5c2ef41731791482d9529c785",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-side-1.jpg",
+      "sha256": "b31ff21f10ea2310f3aa2c8db6d36ac73428276e3955c372944f198b303cad07",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-side-2.jpg",
+      "sha256": "8c8e4f565fcb2105ae7a81f3e861e437976f8120c315237a712f21af25bcef57",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-side-3.jpg",
+      "sha256": "fa6514ffd0e75973efaca7f9d65f24e5afa64696a95fd9841f2c5673debf9f0a",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-reverse-0.jpg",
+      "sha256": "98290bcd03924879b0366b647ceccfaee93a07a82f7091e534891e918b1600cb",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-reverse-1.jpg",
+      "sha256": "5e6f4ffa6c11758565f296ea6032c691958dc01701866d00cf685e86a012f8e7",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-reverse-2.jpg",
+      "sha256": "08c1815c7e3b402225807a965aa8ed5a7735a711ad254035d15240f5b4442883",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-reverse-3.jpg",
+      "sha256": "8347e744040af78a0e9b43150e4969d23fa9c4456f07d92d07661960cbab9171",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-back-0.jpg",
+      "sha256": "de3d916395e408634a6a9d6037ecd19ffd6e5a0b5986a7e9aebfba5dc9ed3527",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-back-1.jpg",
+      "sha256": "481ac7c95372630887cf332af57f72ffc94cad3560905a01efde9a63b847f9b2",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-back-2.jpg",
+      "sha256": "70b2d018145963356cf9c3ba0b4429a6ebff38ea5b977f3a54f81dbc80dbecc0",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-back-3.jpg",
+      "sha256": "f5b06e43b8ec8ab3c1dd6142544b325dea75b6a63af9339a22336c071f936904",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-top-0.jpg",
+      "sha256": "a3535eba99897f8c98ffa58b0247b65f4f776607163df102a9a90462593045a2",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-top-1.jpg",
+      "sha256": "678d0942bd75697cabf6137edd7aa641d3afa94779961aa2d8783ef899b444bf",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-top-2.jpg",
+      "sha256": "7681379c309fa85f078ea7c3924cc764e7466929342c029abbc72112233da765",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-top-3.jpg",
+      "sha256": "2aed37a37c3930af31d7047ff15633e53483851e14e2b048d6fa48e728938f4f",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-orbit-hold.jpg",
+      "sha256": "9d7bbfaa58f26ccb2bb72ff14b9bf14e949338a5c8c95cb45862340381d28783",
+      "count": 72
+    },
+    {
+      "file": "media/sheet-orbit-work.jpg",
+      "sha256": "76654409dec33b937f19f2cf60026b9f1398056c1a8f0558ae88f139ca02c5c1",
+      "count": 72
+    },
+    {
+      "file": "media/sheet-clay.jpg",
+      "sha256": "41932045ce5193b70163efc0d105c54ceddb83826369e881d2d74d8b27371dbf",
+      "count": 28
+    },
+    {
+      "file": "media/sheet-edits.jpg",
+      "sha256": "d0f334e81f06057c3f74d00450796546a9a75b08a3a9eb4f94f878f6c073dc3d",
+      "count": 9
+    }
+  ],
+  "observations": [
+    "The Side body retains a rounded lower contour through preparation and the outward sweep; no prior forward wedge.",
+    "Both paws remain planted; thigh connections stay continuous in visible silhouettes.",
+    "Front and opposite oblique retain clear broom contact and consistent local arm shape.",
+    "Back and top show a smaller coherent body turn without abrupt shape or pigment jumps.",
+    "Full return keeps the rounded lower-body profile in Side and both obliques, without a transient wedge or visible attachment gap.",
+    "Back/top turn and return remain coherent; the final sixty-frame hold has consistent body, paw, broom and face appearance.",
+    "The repaired numerical attention check at frame176 does not introduce a visible image jump.",
+    "All144 orbit angles,28 body-only views and9 Body contribution appearance views inspected. Rounded side/quarter body preserved throughout both orbits; no wedge, ankle exposure or head/neck gaps observed. Body-clay groin and lower contours remain rounded; control changes are coherent. This review does not certify arbitrary-control aesthetics or global physical balance.",
+    "Corrected frames0\u201359 in all six views inspected: original facial pigment retained, no frame21/22 appearance jump, no missing surfaces or cropping. All prior sheets60\u2013239 and supplemental sheets remain SHA-identical to the reviewed images."
+  ],
+  "limitations": [
+    "Owner adoption remains open.",
+    "Inherited medial arm embedding is retained and measured for non-regression, not certified collision-free.",
+    "Global convexity, arbitrary-control performance, physical balance and complete architecture qualification are not certified."
+  ]
+}

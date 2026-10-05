@@ -1,0 +1,205 @@
+{
+  "status": "PASS_SAMPLED_COUPLED_PROFILE_DOMAIN",
+  "selectedCase": "supported",
+  "contributionRange": [
+    0.0,
+    1.0
+  ],
+  "contributions": [
+    0.0,
+    0.0625,
+    0.125,
+    0.1875,
+    0.25,
+    0.3125,
+    0.375,
+    0.4375,
+    0.5,
+    0.5625,
+    0.625,
+    0.6875,
+    0.75,
+    0.8125,
+    0.875,
+    0.9375,
+    1.0
+  ],
+  "timeSamples": 489,
+  "partEvaluations": 16626,
+  "neutral": {
+    "L": {
+      "hip": [
+        -0.335,
+        0.015,
+        0.32
+      ],
+      "segmentLengthRatio": 1.0,
+      "axisInclination": 0.0,
+      "sourceAffineSingular": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "centerAcceleration": [
+        -0.07982911257122072,
+        -0.13983285725865066,
+        0.0
+      ],
+      "accelerationGauge": 0.5667811913893802,
+      "radiusConcavityMinimum": 0.2944000000000001,
+      "allDirectionConvexMargin": -0.2723811913893801,
+      "topCenter": [
+        -0.33660802058339556,
+        0.0012928750595432889,
+        0.18680394053977653
+      ],
+      "endpoint": [
+        -0.37652258,
+        -0.06862355,
+        -0.145
+      ],
+      "tangent": [
+        -3.1309940733951743e-09,
+        3.5697820357544666e-09,
+        -0.3318039405397765
+      ],
+      "ellipse": [
+        [
+          0.06499157712784182,
+          0.0
+        ],
+        [
+          0.0,
+          0.08760922126156684
+        ]
+      ],
+      "upperHeight": 0.42800661064782686
+    },
+    "R": {
+      "hip": [
+        0.335,
+        0.015,
+        0.32
+      ],
+      "segmentLengthRatio": 1.0,
+      "axisInclination": 0.0,
+      "sourceAffineSingular": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "centerAcceleration": [
+        0.0798291397817551,
+        -0.13983285800417206,
+        0.0
+      ],
+      "accelerationGauge": 0.5667812524581156,
+      "radiusConcavityMinimum": 0.2944000000000001,
+      "allDirectionConvexMargin": -0.2723812524581155,
+      "topCenter": [
+        0.33660800724136225,
+        0.0012928754255225872,
+        0.18680394095751612
+      ],
+      "endpoint": [
+        0.37652258,
+        -0.06862355,
+        -0.145
+      ],
+      "tangent": [
+        2.8677601951201883e-09,
+        3.5765634348242332e-09,
+        -0.3318039409575161
+      ],
+      "ellipse": [
+        [
+          0.06499157712784182,
+          0.0
+        ],
+        [
+          0.0,
+          0.08760922126156684
+        ]
+      ],
+      "upperHeight": 0.42800661064782686
+    }
+  },
+  "extrema": {
+    "segmentLengthRatio": {
+      "minimum": {
+        "value": 0.967384286829829,
+        "side": "L",
+        "seconds": 1.7,
+        "contribution": 1.0
+      },
+      "maximum": {
+        "value": 1.0297279420358563,
+        "side": "R",
+        "seconds": 1.9416666666666667,
+        "contribution": 1.0
+      }
+    },
+    "axisInclination": {
+      "minimum": {
+        "value": 0.0,
+        "side": "L",
+        "seconds": 0.0,
+        "contribution": 0.0
+      },
+      "maximum": {
+        "value": 20.08190756987497,
+        "side": "R",
+        "seconds": 1.9416666666666667,
+        "contribution": 1.0
+      }
+    },
+    "accelerationGauge": {
+      "minimum": {
+        "value": 0.45745077268591683,
+        "side": "R",
+        "seconds": 1.94,
+        "contribution": 1.0
+      },
+      "maximum": {
+        "value": 0.5667812524614045,
+        "side": "R",
+        "seconds": 1.35,
+        "contribution": 1.0
+      }
+    },
+    "upperHeight": {
+      "minimum": {
+        "value": 0.41398963060267446,
+        "side": "L",
+        "seconds": 1.7,
+        "contribution": 1.0
+      },
+      "maximum": {
+        "value": 0.42800661064782686,
+        "side": "L",
+        "seconds": 0.0,
+        "contribution": 0.0
+      }
+    }
+  },
+  "invariants": [
+    "Rigid Body source placement",
+    "Unchanged transverse upper-thigh scales",
+    "Positive affine segment and ellipse",
+    "Original positive monotone concave scalar radius",
+    "Quadratic centerline acceleration gauge does not exceed neutral",
+    "Fixed separate paw task"
+  ],
+  "limits": [
+    "Sampled contribution/time domain; not interval arithmetic or arbitrary-control proof.",
+    "Neutral lower taper is not globally convex. Final composed contours, caps and clearances require native verification."
+  ],
+  "bindings": {
+    "scripts/research/chores214_20260925/sweep36_constructive/domain.py": "7765c6ecd170809c2e6a682d9e91fca4392c3c34a75ce12e6db71b059f291b53",
+    "scripts/research/chores214_20260925/sweep36_constructive/model.py": "15c4110b688d33e547caca0a943b5a74a334d6eea844816efa4a0dd485564689",
+    "scripts/research/chores214_20260925/sweep32_support/support_math.py": "1fb351b11089f6953afd820e71ece6f119b0beddd72c83cad54d820157be6d4d",
+    "output/rig_candidates/chores214_20260925/v2/sweep36_constructive/inventory/inventory.json": "bc734a136cda3a1e4792f3f7137b7133bd12c05bc649ae717938cf27d37c43ed",
+    "output/rig_candidates/chores214_20260925/v2/sweep36_constructive/inventory/parts.npz": "de27dfb396a3cacf287bc6c0b7ab2d86e7908f9d4aace1a2f55f3b9a72bbba5e",
+    "output/rig_candidates/primitive178_20260922/source-model.json": "11e0397e881a0642524c5c7ccfd9d827e4a5067c175f6538e3875bf49dc3be15"
+  }
+}

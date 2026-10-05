@@ -1,0 +1,1458 @@
+{
+  "nativeSHA256": "fe4a51d47aebf9f5eadbfb8f0bf2eaca9905f2c71c16f9cdba06c6a7b2c123c7",
+  "captureSHA256": "a8fa54507b5278c8833d893815b4786ae0b644a841901bd27058ee4019ecb5eb",
+  "media": [
+    {
+      "case": "after",
+      "view": "front",
+      "file": "media/after-front.mp4",
+      "sha256": "dfb2a29ad37daea15e13b599c662321f5a03a275db48bed04ad22ac1feb93f65",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "case": "after",
+      "view": "oblique",
+      "file": "media/after-oblique.mp4",
+      "sha256": "b1a813cb6266f93f26fb83f76926a802a880f62fdeca7b1213e11e48c59fd812",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "case": "after",
+      "view": "side",
+      "file": "media/after-side.mp4",
+      "sha256": "ebbd27c10efd243b7b325e2c6343d0cda0ffd9db4272a90558951718ebc476bf",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "case": "after",
+      "view": "reverse",
+      "file": "media/after-reverse.mp4",
+      "sha256": "f92498d14c2efafc925788d586b27a9d68993ca0cb109bc8a362cefced3f52fb",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "case": "after",
+      "view": "back",
+      "file": "media/after-back.mp4",
+      "sha256": "2fbadfe98999acb67d2864f9423bbb34060ac1c52e842af46c69d164ea7ad7b2",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 55
+    },
+    {
+      "case": "after",
+      "view": "top",
+      "file": "media/after-top.mp4",
+      "sha256": "6d77a4d3f5ad073598a8f8db1d78f2b443ee63ff327165e8213d55ec45529e3e",
+      "frames": 240,
+      "fps": 60.0,
+      "minimumMargin": 36
+    }
+  ],
+  "sheets": [
+    {
+      "file": "media/sheet-after-front-0.jpg",
+      "sha256": "913b6eefb278252d0ebe76c27538cdda24b95c8d58578abdfd83d3b45a8cb171",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-front-1.jpg",
+      "sha256": "8df3651a0742bb5b2bd8b52fb4987517548903e48d14602b2bcfaa54c2195477",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-front-2.jpg",
+      "sha256": "f7822449d327695a143cbf38d47a5d26da4d8bfe8cf1bd00a6bd2227706ed64c",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-front-3.jpg",
+      "sha256": "f9d4cfc6e01f5154331cd306a2728469d7929c755aac69ff965669c44ebf58ca",
+      "count": 60,
+      "case": "after",
+      "view": "front",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-oblique-0.jpg",
+      "sha256": "6142b5137cdd0eddef1ee30518f9f21d79b6498e00722bd084aaa51c2784b992",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-oblique-1.jpg",
+      "sha256": "4382b49850b0f4adad341ddc61cd4df01b1fe2e65b0c1564e14931a66145b700",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-oblique-2.jpg",
+      "sha256": "24a2542c94bfe52989e4c04a50183d039f6424ce52ff8d49796da2cf41f1b802",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-oblique-3.jpg",
+      "sha256": "bc0ce55dafb5142432c01e4afa003b87504915a1d10280645e306d7f457a3796",
+      "count": 60,
+      "case": "after",
+      "view": "oblique",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-side-0.jpg",
+      "sha256": "ac978994defa59d821179a6b1a1b1ca7b10daab5c2ef41731791482d9529c785",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-side-1.jpg",
+      "sha256": "b31ff21f10ea2310f3aa2c8db6d36ac73428276e3955c372944f198b303cad07",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-side-2.jpg",
+      "sha256": "8c8e4f565fcb2105ae7a81f3e861e437976f8120c315237a712f21af25bcef57",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-side-3.jpg",
+      "sha256": "fa6514ffd0e75973efaca7f9d65f24e5afa64696a95fd9841f2c5673debf9f0a",
+      "count": 60,
+      "case": "after",
+      "view": "side",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-reverse-0.jpg",
+      "sha256": "98290bcd03924879b0366b647ceccfaee93a07a82f7091e534891e918b1600cb",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-reverse-1.jpg",
+      "sha256": "5e6f4ffa6c11758565f296ea6032c691958dc01701866d00cf685e86a012f8e7",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-reverse-2.jpg",
+      "sha256": "08c1815c7e3b402225807a965aa8ed5a7735a711ad254035d15240f5b4442883",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-reverse-3.jpg",
+      "sha256": "8347e744040af78a0e9b43150e4969d23fa9c4456f07d92d07661960cbab9171",
+      "count": 60,
+      "case": "after",
+      "view": "reverse",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-back-0.jpg",
+      "sha256": "de3d916395e408634a6a9d6037ecd19ffd6e5a0b5986a7e9aebfba5dc9ed3527",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-back-1.jpg",
+      "sha256": "481ac7c95372630887cf332af57f72ffc94cad3560905a01efde9a63b847f9b2",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-back-2.jpg",
+      "sha256": "70b2d018145963356cf9c3ba0b4429a6ebff38ea5b977f3a54f81dbc80dbecc0",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-back-3.jpg",
+      "sha256": "f5b06e43b8ec8ab3c1dd6142544b325dea75b6a63af9339a22336c071f936904",
+      "count": 60,
+      "case": "after",
+      "view": "back",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-after-top-0.jpg",
+      "sha256": "a3535eba99897f8c98ffa58b0247b65f4f776607163df102a9a90462593045a2",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-after-top-1.jpg",
+      "sha256": "678d0942bd75697cabf6137edd7aa641d3afa94779961aa2d8783ef899b444bf",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-after-top-2.jpg",
+      "sha256": "7681379c309fa85f078ea7c3924cc764e7466929342c029abbc72112233da765",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-after-top-3.jpg",
+      "sha256": "2aed37a37c3930af31d7047ff15633e53483851e14e2b048d6fa48e728938f4f",
+      "count": 60,
+      "case": "after",
+      "view": "top",
+      "first": 180,
+      "last": 239
+    }
+  ],
+  "orbit": [
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 0,
+      "file": "orbit/hold-after-000.jpg",
+      "sha256": "ba6c40823578fd94c7b1a550f0a690f0c4b7827209388dc8da54d4e1ccefada9"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 5,
+      "file": "orbit/hold-after-001.jpg",
+      "sha256": "bd37a47f6a6e6052e20616d8c08a894d41d97978dc5499b349c47005bddab15b"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 10,
+      "file": "orbit/hold-after-002.jpg",
+      "sha256": "2404e545567d7161e9cf622be44ded0b6849950d4d3b33aeb97bd60d7bd4a286"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 15,
+      "file": "orbit/hold-after-003.jpg",
+      "sha256": "6a88970c590550e184dc5344c894ca7733187bc5489fc5753ed91b06f2601ab4"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 20,
+      "file": "orbit/hold-after-004.jpg",
+      "sha256": "9f8e08f1fd3e4dffcd049baaad3ad975a60bdbe0ed4b4a8b622a0ad7af0d7db7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 25,
+      "file": "orbit/hold-after-005.jpg",
+      "sha256": "896890346a8b9efd08cb855b72165c3f2a1c7d30a35cfca3538877298509523d"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 30,
+      "file": "orbit/hold-after-006.jpg",
+      "sha256": "6cade03a19e7df0400b3dd332313c8313c371700511a472ba8ebb0e346ed51ca"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 35,
+      "file": "orbit/hold-after-007.jpg",
+      "sha256": "c2851806c92991b051223f7c29aaeda7b1b529b03354d3b4fb8f16deda4dae4a"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 40,
+      "file": "orbit/hold-after-008.jpg",
+      "sha256": "c5adcf5fe376259cfc55ae4e58c5f3acebda1da2897710522b595e2347e622b7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 45,
+      "file": "orbit/hold-after-009.jpg",
+      "sha256": "e3b24e84f312ef8d9f2ef07691160c4adce2d748388c7ac1d78b65ef2cc80d41"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 50,
+      "file": "orbit/hold-after-010.jpg",
+      "sha256": "eba942243cb3bc4542eff3dde57d9a8e5cbb04b4cb9aa9d85ad0312130a9c7f6"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 55,
+      "file": "orbit/hold-after-011.jpg",
+      "sha256": "0e680cc113c098796d30e09cc030cfd515051ccf8bcac1d57035f577dae1b5f7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 60,
+      "file": "orbit/hold-after-012.jpg",
+      "sha256": "cfe934c25649ebb1b518fe7554a5537afeb06f25e6e950c76202eb2b86b21e90"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 65,
+      "file": "orbit/hold-after-013.jpg",
+      "sha256": "bf3dc8440e1bb910cad7e95c404c3c985018b2a1598ef0e3edd59c5b720940c0"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 70,
+      "file": "orbit/hold-after-014.jpg",
+      "sha256": "6382893d1193d411284f1c6534729e6b9fde12c45f8194b5f39e3b1f7d97563b"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 75,
+      "file": "orbit/hold-after-015.jpg",
+      "sha256": "3d1dd3d76b965b25624b2388b8fdd1fb8a037c2c6d93158f07e2af4556635c32"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 80,
+      "file": "orbit/hold-after-016.jpg",
+      "sha256": "78d383ce2aa72e898028d6b0faecd8056d168fd1097f1308d38dd026f4998758"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 85,
+      "file": "orbit/hold-after-017.jpg",
+      "sha256": "3d702599537b955d91d75ca6d8d31c57b9106209759b1a0091e515a153bd4ef7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 90,
+      "file": "orbit/hold-after-018.jpg",
+      "sha256": "5036704d1def0485439ef3c3d329585fcd5defd8e272c57c07c6d2428a1a9513"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 95,
+      "file": "orbit/hold-after-019.jpg",
+      "sha256": "b2b9ae5fe06b2b8c144d94be49746ea932a46e078b283176180ad77d4318d882"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 100,
+      "file": "orbit/hold-after-020.jpg",
+      "sha256": "45d1381face7340198960a4334389b1b3c57b09d7ba024191b475334fac81440"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 105,
+      "file": "orbit/hold-after-021.jpg",
+      "sha256": "4adc2b88b4c1b4c8b6bd000532fcc1c068d103d92cc96e7227e5d7bda148e2f3"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 110,
+      "file": "orbit/hold-after-022.jpg",
+      "sha256": "16a2707e720733d2e14ac12b7d2a723cfbe3cc09649c4905f3cf1e90a87240ff"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 115,
+      "file": "orbit/hold-after-023.jpg",
+      "sha256": "1443f9830a9986d5d6889fd20c9f4db3095c1c56ec842bef1be508812e2cf060"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 120,
+      "file": "orbit/hold-after-024.jpg",
+      "sha256": "82d7f6b3512d60593ca164d3afd90e2c79feced53d0a1b5b61caa23c8aabf0e7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 125,
+      "file": "orbit/hold-after-025.jpg",
+      "sha256": "40e7880aeabb6c003679bde54919aecd450cb8d87c0a5dc1dd8aeaa403479ffa"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 130,
+      "file": "orbit/hold-after-026.jpg",
+      "sha256": "26e928a8f488689399f404d2974d93cc856b969bc36ddc772fd6564be79e16c7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 135,
+      "file": "orbit/hold-after-027.jpg",
+      "sha256": "b65972e753c684b44f14f097e2a3e85df3c3d9539c4d93211a96d0677c6bbbd1"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 140,
+      "file": "orbit/hold-after-028.jpg",
+      "sha256": "cc5f84673dcd05107de84e1cfcf057de30e4b356672c8c4263ac2c06b64425b9"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 145,
+      "file": "orbit/hold-after-029.jpg",
+      "sha256": "065138502fcc7c17918eb8b1c2eaab2635612922d505ddb8131ce5fc23918597"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 150,
+      "file": "orbit/hold-after-030.jpg",
+      "sha256": "448f588125d38a1008a1b4cb98f5d23e690f524306b626fbb9daf7892fe9a874"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 155,
+      "file": "orbit/hold-after-031.jpg",
+      "sha256": "23661db13f6786a33fcd4306e7eeb26f17e36de474fbaecc4aa9bd827be21aed"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 160,
+      "file": "orbit/hold-after-032.jpg",
+      "sha256": "2f1b6bd1f1f34774d34dab39a70296ac98008e1d894daa766526c7bdff1bb27c"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 165,
+      "file": "orbit/hold-after-033.jpg",
+      "sha256": "7c9b6a9e503fefbec8accc80fd916847b22d79a605b8b9a48baad52df6205c9d"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 170,
+      "file": "orbit/hold-after-034.jpg",
+      "sha256": "d9c2a84bae86460fc18ffb40bdc5409e7e2d65d3478765ed492929a984a62c2e"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 175,
+      "file": "orbit/hold-after-035.jpg",
+      "sha256": "3a734c35706c3c5e8ffa17b97fb32a7653d46a9926e4d0a329d280c0f9b00f0f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 180,
+      "file": "orbit/hold-after-036.jpg",
+      "sha256": "f281acb4edf476a482fef2a4aa071643c77c65ed8f007ada73cead92a924cba7"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 185,
+      "file": "orbit/hold-after-037.jpg",
+      "sha256": "c392efa2ef4868226f1b7500e888058bac188f77c8beeda2c79a91477f340896"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 190,
+      "file": "orbit/hold-after-038.jpg",
+      "sha256": "e550b00b2903a3ad3cda68bc48a919a717590e1122399571e8f6430cacc500c0"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 195,
+      "file": "orbit/hold-after-039.jpg",
+      "sha256": "7641a496bafa1b1b15eacd925431d38d7264817565edc156a1c2a3d26193cfc6"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 200,
+      "file": "orbit/hold-after-040.jpg",
+      "sha256": "0f7af5b151ee7f52a681a2c4f1b23a7b3e59aadab51448f1c905f2f569df4801"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 205,
+      "file": "orbit/hold-after-041.jpg",
+      "sha256": "74cd5162c48f041aa7aee73bf919077e85c1f8b1ee66f4be2783bb746cbafb46"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 210,
+      "file": "orbit/hold-after-042.jpg",
+      "sha256": "3abad97e28554118928b3c24b3cb895cf07a72cbaacf28726824da1def29b67f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 215,
+      "file": "orbit/hold-after-043.jpg",
+      "sha256": "75fceaf162557e153aac45dd46ebbdff9be120d52ffcf3fb112c450d937fec94"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 220,
+      "file": "orbit/hold-after-044.jpg",
+      "sha256": "08fd5f9e1c1011de09b94da5138b6c2b1114f2ed7a3ffc425fcb6581db09b5a3"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 225,
+      "file": "orbit/hold-after-045.jpg",
+      "sha256": "406b2d645c8650a60b96aa89670f04f4d8b7f89585a6dcf89309b17e79efbb7f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 230,
+      "file": "orbit/hold-after-046.jpg",
+      "sha256": "a6540e9dcfa152d2f9f36f0c789a181eaeacad39136bb9fdab717f933059ff14"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 235,
+      "file": "orbit/hold-after-047.jpg",
+      "sha256": "99999b20c1fcf507cfe1cc4351d21301033da29c2201cb2b5d85850b0523de61"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 240,
+      "file": "orbit/hold-after-048.jpg",
+      "sha256": "85f1f3b04aead002bc1aca3d22bbb7259cc46bf495d960440a323630a78f4d5f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 245,
+      "file": "orbit/hold-after-049.jpg",
+      "sha256": "78fd4674c433da5b5066bd45caf88e164366780b1574702ae3f50848a426a4dc"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 250,
+      "file": "orbit/hold-after-050.jpg",
+      "sha256": "76e628addf78b03be993442c1aadbcea9aa59d1f312d542505fee790ac985dc3"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 255,
+      "file": "orbit/hold-after-051.jpg",
+      "sha256": "ea422437a21392bbd5452e3b912445331c34b09260adeda4d04be646005c0b3b"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 260,
+      "file": "orbit/hold-after-052.jpg",
+      "sha256": "58242a27d6ac42df08a4acede785c0c90086992ea467bdb14d07b966e29bac52"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 265,
+      "file": "orbit/hold-after-053.jpg",
+      "sha256": "74c7cf93f2c866dc1b80f6703577bb330894fbb8d6feb58cf73305d3d6c0d393"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 270,
+      "file": "orbit/hold-after-054.jpg",
+      "sha256": "52000504a0f668f87b92b0ae8a23d0c44ede5743a883f1d011f26e33d2ab11fa"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 275,
+      "file": "orbit/hold-after-055.jpg",
+      "sha256": "c9d5640bc59e0af3566d9237dc3adb73edb90c4ff3a4462716c729aa192c8a0d"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 280,
+      "file": "orbit/hold-after-056.jpg",
+      "sha256": "eae62304bfc6367e7b2e2863e1547be977148cc3abc778d6498e22eb062d850f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 285,
+      "file": "orbit/hold-after-057.jpg",
+      "sha256": "66f2abc6f4386bf9b04e99c7b4d9942c212e2b0e6f9de6f095c1004ad08a1764"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 290,
+      "file": "orbit/hold-after-058.jpg",
+      "sha256": "dd77cc96d373ccbbf71a32e5a5f4451cd7766cdaa3cc2c41417579ad4e7218c8"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 295,
+      "file": "orbit/hold-after-059.jpg",
+      "sha256": "d08d5d5b73ea631f8ac277c27097df233be18f2cd1a6f4b232d9b634d58c34c9"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 300,
+      "file": "orbit/hold-after-060.jpg",
+      "sha256": "3bc77e6df0683f342e9e50cefdef28d14f50cfc32f30eeb797ad46b260e3799d"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 305,
+      "file": "orbit/hold-after-061.jpg",
+      "sha256": "1f24eaa3f4cacd4671cfa30bf3bf3761c70bcf41353a8a2e54fb2255f1e41814"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 310,
+      "file": "orbit/hold-after-062.jpg",
+      "sha256": "fa07e606c689a10b96257cb9dcbedfdfb5de834e25659d84e530d03126eda398"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 315,
+      "file": "orbit/hold-after-063.jpg",
+      "sha256": "d563c20414f75853598799ed1e2c66042dde2b5724bef08a0ffec6c9d0d6960a"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 320,
+      "file": "orbit/hold-after-064.jpg",
+      "sha256": "c5038792836be315e25e0bf6c882cdb710209ad72dcd6619198e14700c6e84c1"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 325,
+      "file": "orbit/hold-after-065.jpg",
+      "sha256": "363879c25bce778bf1f3d152274cc00fc5125a90dd477942ac937b17ec1ef17f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 330,
+      "file": "orbit/hold-after-066.jpg",
+      "sha256": "b7076e6c0948461d30f9278490484a2e88362511b081753ac4aa78fea7cbe50f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 335,
+      "file": "orbit/hold-after-067.jpg",
+      "sha256": "d3628226a4c8f2d0dfc9f50d0fcb66f7105f40c0a5d6d09a3a10dca8e3008339"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 340,
+      "file": "orbit/hold-after-068.jpg",
+      "sha256": "c356309d06e7badf03aafd58e149f2316cd6b78c511811dc0ffac82eb3b50372"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 345,
+      "file": "orbit/hold-after-069.jpg",
+      "sha256": "f1c9cabe74118fe28da58258bd0120c4d9817f04d603c8f0ef9508ad19bb6957"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 350,
+      "file": "orbit/hold-after-070.jpg",
+      "sha256": "c7f967566c80d2b10ebe2e0018467d0468527af22bb330130d357f6da71c130f"
+    },
+    {
+      "pose": "hold",
+      "seconds": 0.0,
+      "case": "after",
+      "angle": 355,
+      "file": "orbit/hold-after-071.jpg",
+      "sha256": "2bdfb0d35fbaabc653dff7e520042f1fd614cacff14fb04fbb03a757de516d30"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 0,
+      "file": "orbit/work-after-000.jpg",
+      "sha256": "bfa4dde1c64ae3f5379efd035266e144a3d0ac46179a2f25c796bcff833c9581"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 5,
+      "file": "orbit/work-after-001.jpg",
+      "sha256": "590961cf5c5ad9e16028367571e645df3934ef986af5a8d42a237fd508b32c27"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 10,
+      "file": "orbit/work-after-002.jpg",
+      "sha256": "ab23ae36a487e58387109ab9e91dfb6d1d60974c52179f9acac805ee42f3292c"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 15,
+      "file": "orbit/work-after-003.jpg",
+      "sha256": "af57bb8f9d660687da9385382e66403e36c6887c254459d1e37771f46839e3ab"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 20,
+      "file": "orbit/work-after-004.jpg",
+      "sha256": "161e14f8fa3ce89d3d41ea6d09bd5697d283002d39502b2c47d12e2b71554d17"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 25,
+      "file": "orbit/work-after-005.jpg",
+      "sha256": "3b4ac754bdaae707b5f3db5f97167bd2622b5324c047490420c3ed65640f3521"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 30,
+      "file": "orbit/work-after-006.jpg",
+      "sha256": "40da025d92d03bfd98f76ed7d653df93b2f7fb22d10b160f36c40a88f82d95f7"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 35,
+      "file": "orbit/work-after-007.jpg",
+      "sha256": "3092fd53ed409b508cc7dfc08aca2514a5ba9006ad2b57e8d7de481b28eab1b3"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 40,
+      "file": "orbit/work-after-008.jpg",
+      "sha256": "9950450ff13b9afec242a99d52da839e955cfcbcd498561442d797aa8e72282f"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 45,
+      "file": "orbit/work-after-009.jpg",
+      "sha256": "ed4e3a4af2ad5bca3f7b339f6cc27a58a2d4e14fcc99883a9b2fcd1559e31ef2"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 50,
+      "file": "orbit/work-after-010.jpg",
+      "sha256": "578be2c4ec64f09942b3e38f5c423f1e2670530075eb2ac12c872a3500ed574a"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 55,
+      "file": "orbit/work-after-011.jpg",
+      "sha256": "3d6cd6f95b806855e6bc4e408c36ac82214eda22b571500fe52d8614bb033e29"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 60,
+      "file": "orbit/work-after-012.jpg",
+      "sha256": "d0cb5711104e91873239b60b5229f019bc16f88a4c1d1763a50f4e913eefe3c7"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 65,
+      "file": "orbit/work-after-013.jpg",
+      "sha256": "1afad070926a651b9c324f42e927a0574904dcfdab07b52b608dd0dde9ab3d2e"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 70,
+      "file": "orbit/work-after-014.jpg",
+      "sha256": "f4e942008b7b7e7f37e74bc099c879af644737906eb94f5875a9adcdd3ae1c9e"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 75,
+      "file": "orbit/work-after-015.jpg",
+      "sha256": "f7e415a849c880f743ea443460a9dbf40312a207ef2b0b88db8627bcdac3c356"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 80,
+      "file": "orbit/work-after-016.jpg",
+      "sha256": "c795bb8b5117020459c5a2cde0a747f238dea2795f8a3fbcc61b2987949990a5"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 85,
+      "file": "orbit/work-after-017.jpg",
+      "sha256": "eca292355eae6426d2bb384c56e97c731fb603895a2da3e2c718a5c74eb76a2c"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 90,
+      "file": "orbit/work-after-018.jpg",
+      "sha256": "c65435d0560449846dd938bdc7f439a8427377556e6c1ad6224cc967ad5f98fc"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 95,
+      "file": "orbit/work-after-019.jpg",
+      "sha256": "68806fc2777003c4d8eace734649ecce38db27be36c7662cce3a83b5621975cd"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 100,
+      "file": "orbit/work-after-020.jpg",
+      "sha256": "8d6396c630117494dbd4ef46cfff1d77c6ad4d11b0d8aec83697ff8bb1f1def2"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 105,
+      "file": "orbit/work-after-021.jpg",
+      "sha256": "4e221664ef9e3e9b03d34e29785743851eed12c9b93ffd84c7bc80d066401d9a"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 110,
+      "file": "orbit/work-after-022.jpg",
+      "sha256": "8313360e51a9a54873738794ef1da2991c799576272c54f97466fc364c6f5a7f"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 115,
+      "file": "orbit/work-after-023.jpg",
+      "sha256": "fa54ccaa23a1d2359528c2bf82318a3195a6e6f3542a5da8493f6a8314b24d27"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 120,
+      "file": "orbit/work-after-024.jpg",
+      "sha256": "58e199ba3268be62038ef186bfe8a4508fddb56e3327d32441f8e491688f7439"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 125,
+      "file": "orbit/work-after-025.jpg",
+      "sha256": "b6f4799aa1deb9c4ee0c2f968dcef1676476d5744cab491b9aa47ca17848a0a3"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 130,
+      "file": "orbit/work-after-026.jpg",
+      "sha256": "2e38e40d2f2fb7a687a9133946f8408db64e7f188fccaf85d406c164b7bab815"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 135,
+      "file": "orbit/work-after-027.jpg",
+      "sha256": "e96beff7d0cfa9f9f7407ab40bf355359ff365f57cbbbaeb95f3641b19b524cb"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 140,
+      "file": "orbit/work-after-028.jpg",
+      "sha256": "12dbcbf1e940353c837b85d3e5a5ffbbcdd67bf718074a136bd16591dccb0368"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 145,
+      "file": "orbit/work-after-029.jpg",
+      "sha256": "e01e796d2a67f93f2dfc2a16b97a25f7e01b09c88b78c339cdb92b87b2d7a79c"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 150,
+      "file": "orbit/work-after-030.jpg",
+      "sha256": "eaf4ac121bcfbc62f369fc3cc8256ebff9e4493510eddaa6fc744ba5a59ea395"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 155,
+      "file": "orbit/work-after-031.jpg",
+      "sha256": "e8bc7e01892a022a44d102af452f55708f81e4878f8388d64fe446bfa47e18f6"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 160,
+      "file": "orbit/work-after-032.jpg",
+      "sha256": "52a765014964f74b17efa236ab277e3410632e1df459d0912ecd1d5e6c9a7a91"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 165,
+      "file": "orbit/work-after-033.jpg",
+      "sha256": "5ac430290bff4091d81167ef1cfc4a266f976837039064624f760e55fe72e1bb"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 170,
+      "file": "orbit/work-after-034.jpg",
+      "sha256": "251092587ccfcfa3dbfaa0d6904abbe4beb6e9bdcedac03e9c63da273f6b89cb"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 175,
+      "file": "orbit/work-after-035.jpg",
+      "sha256": "ee89d1a95f3fb6728ec75ca1896595960e151263dbf70516af5e2d5de5033f28"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 180,
+      "file": "orbit/work-after-036.jpg",
+      "sha256": "4d58da3258b5d3f3e57db0943e9adda97beeacc84c6d346de90c67bbe2afe69d"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 185,
+      "file": "orbit/work-after-037.jpg",
+      "sha256": "3a08281324f31bd61899f5c74a78d9bdac5c59e2725723b9abe4b51c2636aa83"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 190,
+      "file": "orbit/work-after-038.jpg",
+      "sha256": "966e98a602b7054b72907b86d19451e5972aeb5d064a62cda0c00c46ee667789"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 195,
+      "file": "orbit/work-after-039.jpg",
+      "sha256": "6c02af18f60a0cce3a68353310efa5c631f33ebb9f51bfaecb7b5dd2fd64bfb2"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 200,
+      "file": "orbit/work-after-040.jpg",
+      "sha256": "d00baf629381b7acfec62ce9621cb18ac9b8e75058688e14f5e72b03c299e3f7"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 205,
+      "file": "orbit/work-after-041.jpg",
+      "sha256": "31019c833c93939e9db589d2391f3455838b4234da57d80a6eaf00eecb52b6f3"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 210,
+      "file": "orbit/work-after-042.jpg",
+      "sha256": "b7114383a141c5cec9cd3214f349850728027cb2d6f263e8c24a96d2bc43702e"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 215,
+      "file": "orbit/work-after-043.jpg",
+      "sha256": "9296d86813f756c7f75b736942a2e733d2ef55696ed5756edd3e615977bfb8fc"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 220,
+      "file": "orbit/work-after-044.jpg",
+      "sha256": "9979db481b7d5c6a2746426409eb25391b16047ae60003764b806e5c9bc591c9"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 225,
+      "file": "orbit/work-after-045.jpg",
+      "sha256": "01ea978d0778a67bdcc6f5c2025c4d282efba0ab5b73f1c4b80a7c7c1bc3037c"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 230,
+      "file": "orbit/work-after-046.jpg",
+      "sha256": "17f2285c4e383615ae8f2446553d59be86a35566d9866bd725086206868e7929"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 235,
+      "file": "orbit/work-after-047.jpg",
+      "sha256": "ab5b94e03ae8486d448cb8f0b526ef8b7617973589520d107aec7e3ba615c5d4"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 240,
+      "file": "orbit/work-after-048.jpg",
+      "sha256": "ebb06c4b95be59ca2ea1dc3900b71cb055c76320eb31a9fecf9fae5cfac10e01"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 245,
+      "file": "orbit/work-after-049.jpg",
+      "sha256": "b9a3aadcc4a9e92aa53eea5bf5ce0b87847ac261ca8ab52708d3f55c7b71be64"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 250,
+      "file": "orbit/work-after-050.jpg",
+      "sha256": "3ff794d0f2834c2d30bfff8942fbe3550f1e2b9bf89137bab39d9431a44daa77"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 255,
+      "file": "orbit/work-after-051.jpg",
+      "sha256": "e2586800433c3c6bd9bbf0840ffeba71f31b3de547a67a3f2d7e5291b7054ec3"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 260,
+      "file": "orbit/work-after-052.jpg",
+      "sha256": "19439547e4cfc5cad772266d67ac2ff56bc45931b49604092d6055951bf64007"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 265,
+      "file": "orbit/work-after-053.jpg",
+      "sha256": "5f7c94be18162272a7c1858ef5b80a178d6a497d47d174ca35ec05cb035df5ea"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 270,
+      "file": "orbit/work-after-054.jpg",
+      "sha256": "660243f08f929d90d8ca460baf224d94e66f4c442e965b07b9b42c22e113fefb"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 275,
+      "file": "orbit/work-after-055.jpg",
+      "sha256": "db2861502c000f1a99acb541ebd28e11b21d64692a200aad83f56c75a88d751d"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 280,
+      "file": "orbit/work-after-056.jpg",
+      "sha256": "0bfe9197adf1bcf2eec03a4e3112d21f9c470e64441bd77374ba370a1ea31c77"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 285,
+      "file": "orbit/work-after-057.jpg",
+      "sha256": "5f53da3d0b953dbf1e10f6fc9cfd8ea9c7f46adaa91d5b2003140dbb66db6a1a"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 290,
+      "file": "orbit/work-after-058.jpg",
+      "sha256": "193f32ddd5a937c397e4a28d3e3464a9390d4c78c22824a732022de4240036d7"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 295,
+      "file": "orbit/work-after-059.jpg",
+      "sha256": "4a50b6cf699f7b496e362440ac38f29dae688ae8683e18da030d91b1fd1f9583"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 300,
+      "file": "orbit/work-after-060.jpg",
+      "sha256": "c6d3fdbdb0d9c848c03c40e6918de93d9f99d284304c099fa3d9ca0f4402ffb3"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 305,
+      "file": "orbit/work-after-061.jpg",
+      "sha256": "07a9c13cd1ace0f0406947fe7082267dc9d1ecf1fc99f9d42df9b3a11d9b4bc5"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 310,
+      "file": "orbit/work-after-062.jpg",
+      "sha256": "e3c6bdc8e4cd43c0c6f09c70844f58c84d23e97f81dfb32e1ff40977536a4929"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 315,
+      "file": "orbit/work-after-063.jpg",
+      "sha256": "3947ffa7ff78cc670c135ab17a36410a3df4cac5133d0f3af905945b2af4089d"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 320,
+      "file": "orbit/work-after-064.jpg",
+      "sha256": "ba6f16cd7f101e061053180e01fddda198924e5a27069192e26c0793cd343d0a"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 325,
+      "file": "orbit/work-after-065.jpg",
+      "sha256": "27f2ca98ad95aa47374ea9201b542d66c08025ba8a858bb8394c933c643b3a7d"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 330,
+      "file": "orbit/work-after-066.jpg",
+      "sha256": "0577b4d3a8c9c298cedbc78f5e337ef4b99d47b12ba4d43ccfc0d0f13d77cc77"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 335,
+      "file": "orbit/work-after-067.jpg",
+      "sha256": "35e36c9a0e040c025fcf3657556e1fcc70a813af5786d5e4ea10014911558313"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 340,
+      "file": "orbit/work-after-068.jpg",
+      "sha256": "c16545e6a36179920fd934df813c9d75353d96c506ffc03965b0ff07bca08f83"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 345,
+      "file": "orbit/work-after-069.jpg",
+      "sha256": "ab84e2f789ebeaa5249bce756763cef54e384bc68c1ae558ce5e21b41f868174"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 350,
+      "file": "orbit/work-after-070.jpg",
+      "sha256": "1b656fa20dac288532297b91fadf87d7a139f29328a5694fe040efa9b1e244f9"
+    },
+    {
+      "pose": "work",
+      "seconds": 2.02,
+      "case": "after",
+      "angle": 355,
+      "file": "orbit/work-after-071.jpg",
+      "sha256": "0717e5e9c497d832a0f25647780d2292eba777783382018f6a67e023bbd6bc74"
+    }
+  ],
+  "orbitSheets": [
+    {
+      "file": "media/sheet-orbit-hold.jpg",
+      "sha256": "9d7bbfaa58f26ccb2bb72ff14b9bf14e949338a5c8c95cb45862340381d28783",
+      "count": 72
+    },
+    {
+      "file": "media/sheet-orbit-work.jpg",
+      "sha256": "76654409dec33b937f19f2cf60026b9f1398056c1a8f0558ae88f139ca02c5c1",
+      "count": 72
+    }
+  ],
+  "claySheets": [
+    {
+      "file": "media/sheet-clay.jpg",
+      "sha256": "41932045ce5193b70163efc0d105c54ceddb83826369e881d2d74d8b27371dbf",
+      "count": 28
+    }
+  ],
+  "editSheets": [
+    {
+      "file": "media/sheet-edits.jpg",
+      "sha256": "d0f334e81f06057c3f74d00450796546a9a75b08a3a9eb4f94f878f6c073dc3d",
+      "count": 9
+    }
+  ]
+}
