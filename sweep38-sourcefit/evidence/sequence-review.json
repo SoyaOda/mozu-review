@@ -1,0 +1,536 @@
+{
+  "decision": "PASS_SCOPED_PREVIEW",
+  "reviewer": "Main agent under the active instruction; no independent sign-off claimed.",
+  "nativeSHA256": "1506208bafef6e9a4b97712071d4af8d7190e5c2fc9ae512e301639b80b73370",
+  "captureSHA256": "7ee4f4b3ff24e6c03aba75294619d2ee0c29d759fa83cf3d52cab8f2fed22c03",
+  "mediaSHA256": "f96729afce09efd2cfa99334a2ffaa7f435c40e9b15e7d1c7f897b26c5673bda",
+  "pilotReviewSHA256": "ebe05dcda3e2d10481ca32854fb06064beaf8231ebbc86c54a81e4a635aa7ddd",
+  "progressReviewSHA256": "dc3488dbed138862dbe1cabd6272cbd688720e6e1e6d42bd8140c69cf96b58fb",
+  "coverage": {
+    "sequenceTimes": 480,
+    "sequenceViews": 6,
+    "sequenceViewFrames": 2880,
+    "orbitImages": 144,
+    "controlImages": 9,
+    "pilotImages": 39,
+    "bodyClayImages": 24
+  },
+  "sequenceSheets": [
+    {
+      "reviewedProgressFile": "progress/front-0.jpg",
+      "finalFile": "media/sheet-front-0.jpg",
+      "sha256": "86d3917f420491e54cbce6d06bd5e6beaf91425d653f0d5226e7868c54cb226c",
+      "first": 0,
+      "last": 59,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-1.jpg",
+      "finalFile": "media/sheet-front-1.jpg",
+      "sha256": "66cd310e3a7296dc9526b1652db86a59a22db357f204e7e0557b95355d84f68a",
+      "first": 60,
+      "last": 119,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-2.jpg",
+      "finalFile": "media/sheet-front-2.jpg",
+      "sha256": "fce8c2e8c96c93788605c5f90fc2726c0a00416a0980f4b956a6289e3355dfda",
+      "first": 120,
+      "last": 179,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-3.jpg",
+      "finalFile": "media/sheet-front-3.jpg",
+      "sha256": "9f5535ee5fce0e7a14b17bdad8ae2a753dadee9f6004e19bc82ec37ad6068775",
+      "first": 180,
+      "last": 239,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-4.jpg",
+      "finalFile": "media/sheet-front-4.jpg",
+      "sha256": "499693dd3135df4c862209c4481e4166ede4c9d0535512939103f554b9444ffb",
+      "first": 240,
+      "last": 299,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-5.jpg",
+      "finalFile": "media/sheet-front-5.jpg",
+      "sha256": "b4a2e5a450e9bd4dc1b1627429e52ee677e14b3a8217da10ae38d1575f50bd4b",
+      "first": 300,
+      "last": 359,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-6.jpg",
+      "finalFile": "media/sheet-front-6.jpg",
+      "sha256": "0349b23486caca7bdf31ffa74ef0df840fe992524526d5bd4613e8cb1a8f72f9",
+      "first": 360,
+      "last": 419,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/front-7.jpg",
+      "finalFile": "media/sheet-front-7.jpg",
+      "sha256": "def0467327bcc8bbf454a3c3afc656e1fa35e1a576d7be4074f3c3a71d37d87e",
+      "first": 420,
+      "last": 479,
+      "view": "front"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-0.jpg",
+      "finalFile": "media/sheet-oblique-0.jpg",
+      "sha256": "ca4da5aa304f710094efc1f669202ad43267f731a96bc07431badabe56e27756",
+      "first": 0,
+      "last": 59,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-1.jpg",
+      "finalFile": "media/sheet-oblique-1.jpg",
+      "sha256": "48cc6ab77798fc1673fdc9b74f980c65678438787b0c3fc282773fb4ac035629",
+      "first": 60,
+      "last": 119,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-2.jpg",
+      "finalFile": "media/sheet-oblique-2.jpg",
+      "sha256": "6b95fe2a80c8a2f832d383a50869b571e0585265e95be2fb674acb6206a10ad1",
+      "first": 120,
+      "last": 179,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-3.jpg",
+      "finalFile": "media/sheet-oblique-3.jpg",
+      "sha256": "f5a85ba03303d552b651ca696c509a2e8b7b7379ef642d1a754acf175210ad96",
+      "first": 180,
+      "last": 239,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-4.jpg",
+      "finalFile": "media/sheet-oblique-4.jpg",
+      "sha256": "82dc36682803aa320852bf803d48351c02e6b1b10ac823da46834cd41b69925a",
+      "first": 240,
+      "last": 299,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-5.jpg",
+      "finalFile": "media/sheet-oblique-5.jpg",
+      "sha256": "e1fbc590ff8422d1b0baae23d50a0d3fd84efcef3096ad38176905f1d2bab9d0",
+      "first": 300,
+      "last": 359,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-6.jpg",
+      "finalFile": "media/sheet-oblique-6.jpg",
+      "sha256": "31f154de16419184b92449a22e1da6b5cc8e77b561cd2d0830e66a2b0087bd7b",
+      "first": 360,
+      "last": 419,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/oblique-7.jpg",
+      "finalFile": "media/sheet-oblique-7.jpg",
+      "sha256": "4e2b0c0d3bc8925a5e54aea36d3aa05aebe15f9c90977d9b4350f207989c6c66",
+      "first": 420,
+      "last": 479,
+      "view": "oblique"
+    },
+    {
+      "reviewedProgressFile": "progress/side-0.jpg",
+      "finalFile": "media/sheet-side-0.jpg",
+      "sha256": "252fcc632b226ccd3e19de7c195ded0df571df2751eab9bf68ae9085f99f0578",
+      "first": 0,
+      "last": 59,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-1.jpg",
+      "finalFile": "media/sheet-side-1.jpg",
+      "sha256": "5b944faf93fed672d9a651de0d498072c422ab90a4520eeca9629ed46160617d",
+      "first": 60,
+      "last": 119,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-2.jpg",
+      "finalFile": "media/sheet-side-2.jpg",
+      "sha256": "2c7e034eab502c30e94a0cd683388864420268b6ba98beeca45da17031a2c0d1",
+      "first": 120,
+      "last": 179,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-3.jpg",
+      "finalFile": "media/sheet-side-3.jpg",
+      "sha256": "ee778c2298faae6acb7dcf2ee2a5895792833fc22a6868d269297caa04b2b4f0",
+      "first": 180,
+      "last": 239,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-4.jpg",
+      "finalFile": "media/sheet-side-4.jpg",
+      "sha256": "04a6c30b02ef2bb06dc591b62f9727edcec201a4c6ac0da5aa37dd21b4287a27",
+      "first": 240,
+      "last": 299,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-5.jpg",
+      "finalFile": "media/sheet-side-5.jpg",
+      "sha256": "ab5b7a018bedc85d0c60fd5333418d2d3f807e5bc70ddd878d4daeb63f52f09a",
+      "first": 300,
+      "last": 359,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-6.jpg",
+      "finalFile": "media/sheet-side-6.jpg",
+      "sha256": "d4668f1ad42e351f39145979375ff4df5e77343862ab677f6a5c24587b9837ff",
+      "first": 360,
+      "last": 419,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/side-7.jpg",
+      "finalFile": "media/sheet-side-7.jpg",
+      "sha256": "ef71d8aaf430690c16cf8ff61cb420d2a070235b53261217cb09f1a79961b8be",
+      "first": 420,
+      "last": 479,
+      "view": "side"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-0.jpg",
+      "finalFile": "media/sheet-reverse-0.jpg",
+      "sha256": "fe8ffe829f1f4a5007b8c0401b91252594a14233a9e34620f5ad029db838b7e0",
+      "first": 0,
+      "last": 59,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-1.jpg",
+      "finalFile": "media/sheet-reverse-1.jpg",
+      "sha256": "6d014193245443caa8d572465706661c59b14d5f30e599112f5c5d4c3021daf2",
+      "first": 60,
+      "last": 119,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-2.jpg",
+      "finalFile": "media/sheet-reverse-2.jpg",
+      "sha256": "1ce7dcb4b0a44172e7dc67f0bb7c1fd05b93e8dc8e270357270c6d24fc57ef88",
+      "first": 120,
+      "last": 179,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-3.jpg",
+      "finalFile": "media/sheet-reverse-3.jpg",
+      "sha256": "2d94ddbcd0cbc28fa725996823b11bd92afc76a64439d0dea8fdb14eab0f5c20",
+      "first": 180,
+      "last": 239,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-4.jpg",
+      "finalFile": "media/sheet-reverse-4.jpg",
+      "sha256": "9daac997739d339be88ef253b9859ab596c305d95f3bc04a0d67ddc10278f90b",
+      "first": 240,
+      "last": 299,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-5.jpg",
+      "finalFile": "media/sheet-reverse-5.jpg",
+      "sha256": "1bdd00a1652bd1a9919b5602bc77da6566415b3315585b4b5cb374ba951375b8",
+      "first": 300,
+      "last": 359,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-6.jpg",
+      "finalFile": "media/sheet-reverse-6.jpg",
+      "sha256": "6fdc7d99daffd01a386088215feb8b5fa18b6fcd25eb67bc48ed9a31887c747f",
+      "first": 360,
+      "last": 419,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/reverse-7.jpg",
+      "finalFile": "media/sheet-reverse-7.jpg",
+      "sha256": "dd826db85faabd45ab207679a189d25cc3fad95f1fc462f6fed6c47b7b170473",
+      "first": 420,
+      "last": 479,
+      "view": "reverse"
+    },
+    {
+      "reviewedProgressFile": "progress/back-0.jpg",
+      "finalFile": "media/sheet-back-0.jpg",
+      "sha256": "8cb0620bc72424bb40e167fe4dba225685ef37ae77da1899d5f1779cc5b77f3d",
+      "first": 0,
+      "last": 59,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-1.jpg",
+      "finalFile": "media/sheet-back-1.jpg",
+      "sha256": "e3ec7899eb65d92442934288ae2870c399be183ad71b5e2e14ed02d4f5245cdd",
+      "first": 60,
+      "last": 119,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-2.jpg",
+      "finalFile": "media/sheet-back-2.jpg",
+      "sha256": "bb3ff5c4cde81c7b35fd7abf5870068a230930fef608995d63dec2ac923bdc15",
+      "first": 120,
+      "last": 179,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-3.jpg",
+      "finalFile": "media/sheet-back-3.jpg",
+      "sha256": "93de3477029004e21c7d2ba18253bc8b2af829350d75365b6c2da3f55d438f99",
+      "first": 180,
+      "last": 239,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-4.jpg",
+      "finalFile": "media/sheet-back-4.jpg",
+      "sha256": "5b94fd3e694884309a4665f868eb1eb51da12d931b4d4a3db219d865264bbc7e",
+      "first": 240,
+      "last": 299,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-5.jpg",
+      "finalFile": "media/sheet-back-5.jpg",
+      "sha256": "3bb21933fe27aca5a0e7b8af24407bc4583ab8501161efa391ae3739e974a173",
+      "first": 300,
+      "last": 359,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-6.jpg",
+      "finalFile": "media/sheet-back-6.jpg",
+      "sha256": "1c7fdded8b6081abce4cd83957f93a640cafd3d65715c37c61ab879780c6279e",
+      "first": 360,
+      "last": 419,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/back-7.jpg",
+      "finalFile": "media/sheet-back-7.jpg",
+      "sha256": "b111a29e762c4aedce926c02766be33109c2e91fccb2cec56a0fb611e3f17c19",
+      "first": 420,
+      "last": 479,
+      "view": "back"
+    },
+    {
+      "reviewedProgressFile": "progress/top-0.jpg",
+      "finalFile": "media/sheet-top-0.jpg",
+      "sha256": "a89cf166dd79f8a636543a85948fe6b33b8224dc427565361a7c0d9a61b8c47c",
+      "first": 0,
+      "last": 59,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-1.jpg",
+      "finalFile": "media/sheet-top-1.jpg",
+      "sha256": "6339b72f1224d54541bd8ed3f2b7ba139d723512f3913eb3b510d918df9449b8",
+      "first": 60,
+      "last": 119,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-2.jpg",
+      "finalFile": "media/sheet-top-2.jpg",
+      "sha256": "dc631b5424e053b7ef8aed5b8db9e2d9aa364bdb3bd7578fa2cce43485360f4c",
+      "first": 120,
+      "last": 179,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-3.jpg",
+      "finalFile": "media/sheet-top-3.jpg",
+      "sha256": "4334448043ae73a00f3b2fd5da7900d502f93ca85fca68e48223637d7edd3527",
+      "first": 180,
+      "last": 239,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-4.jpg",
+      "finalFile": "media/sheet-top-4.jpg",
+      "sha256": "184405628f3fec5f2db47156f7912d64f96ee5e4118024b5357d8ce71d82b25f",
+      "first": 240,
+      "last": 299,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-5.jpg",
+      "finalFile": "media/sheet-top-5.jpg",
+      "sha256": "6c99a42bad9b1bc975aaac161a7d785b10fd607d86fb80f6da79bb60bb9b0317",
+      "first": 300,
+      "last": 359,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-6.jpg",
+      "finalFile": "media/sheet-top-6.jpg",
+      "sha256": "5f32651bbf93c7291047989178771cbb4e6005ff7520c3bc31f4fbf4ab69bbee",
+      "first": 360,
+      "last": 419,
+      "view": "top"
+    },
+    {
+      "reviewedProgressFile": "progress/top-7.jpg",
+      "finalFile": "media/sheet-top-7.jpg",
+      "sha256": "641a9391f0a31f3d0c5e6488bdc278925bd4724242b9e1e8b8ed3f98d838547b",
+      "first": 420,
+      "last": 479,
+      "view": "top"
+    }
+  ],
+  "additionalSheets": [
+    {
+      "file": "media/sheet-orbit-hold.jpg",
+      "sha256": "9d7bbfaa58f26ccb2bb72ff14b9bf14e949338a5c8c95cb45862340381d28783",
+      "count": 72
+    },
+    {
+      "file": "media/sheet-orbit-work.jpg",
+      "sha256": "4aa8170e79833860c8cef15cee3197afd6eb0c715664720dfe72e602c6c9daa4",
+      "count": 72
+    },
+    {
+      "file": "media/sheet-control.jpg",
+      "sha256": "fca61ab3ca67522e98d089a8273507650568d578ca31d2caf4ee87e961e0af41",
+      "count": 9
+    }
+  ],
+  "sequenceObservations": [
+    {
+      "first": 0,
+      "last": 59,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected: stationary hold, unloaded outward placement, forward task attention and small free-arm counterbalance develop continuously. Original body contours remain rounded; planted feet remain aligned; no visible clipping, surface breakup or persistent bristle-colored floor streak. Full playback and later intervals remain pending."
+    },
+    {
+      "first": 60,
+      "last": 119,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. Loaded inward pulling develops continuously across the six perspectives; the fan stays at the floor while the wrist/body recover toward the gather. Original body/thigh contours and planted feet remain stable, with smooth original-arm articulation and sustained floor attention. Projection overlap of the fan with the near paw is visible in oblique; actual protected intersections are checked separately and remain zero. No visible shape pop, streak or broken attachment."
+    },
+    {
+      "first": 120,
+      "last": 179,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. The first pull decelerates into a gathered pose, then the bristle fan visibly lifts and reaches outward for the next pull. Side and oblique views show the floor gap and continuous tool/arm movement; opposite oblique shows restrained free-arm balance. Floor attention remains sustained. Body/thigh contours, feet and attachments stay visually stable without popping or a bristle-colored floor trail. Head occlusion limits the top view as expected; geometry predicates cover hidden contacts separately."
+    },
+    {
+      "first": 180,
+      "last": 239,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. The second loaded pull draws the broom toward the fixed stance with continuous arm orientation and coordinated torso recovery. The fan remains visibly at floor level while its shape and orientation change smoothly. Original rounded contours, planted feet, grip and neck/head attachment remain stable. No visible shape jump, floor streak or clipping; expected tool/foot projection overlap is checked from alternate views and geometric predicates."
+    },
+    {
+      "first": 240,
+      "last": 299,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. The second inward pull settles before the fan visibly rises for the second outward return. Side/oblique show the lifted path relative to the stationary paws; reverse view shows the modest original free-arm balance. The head continues attending to the floor. No visible abrupt change in rounded body/thigh contours, grip, attachment, pigments or foot placement; no persistent floor streak. The end of this return continues in the next reviewed interval."
+    },
+    {
+      "first": 300,
+      "last": 359,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. The second lifted return lowers into the third loaded inward pull. Tool, wrist and torso change continuously through the contact transition; floor attention and restrained free-arm balance remain coherent. Original rounded side and quarter contours and planted paws stay stable. No visible floor trail, contact pop, shape jump, missing pigment or broken grip. The rest of the third pull and authored settle continue in the next intervals."
+    },
+    {
+      "first": 360,
+      "last": 419,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. The final loaded pull gathers smoothly and transitions after6.55seconds into the authored settle. Body turn and forward lean begin easing back while the broom remains held and the paws stay planted. Original body/thigh and shoulder contours remain coherent from all six directions; no visible abrupt head, grip, tool or contour change across the generated-source ending. Final closure remains in the last interval."
+    },
+    {
+      "first": 420,
+      "last": 479,
+      "views": [
+        "front",
+        "oblique",
+        "side",
+        "reverse",
+        "back",
+        "top"
+      ],
+      "result": "All360viewframes inspected. Final head, torso and free-arm recovery eases into the original held-tool stance continuously. The rounded body and thigh contours, feet, grip and pigments remain stable through the last frames, without a late pop or visible clip. Exact endpoint geometry is checked separately at8seconds."
+    }
+  ],
+  "orbitObservations": [
+    "Both complete72-angle hold/work orbits inspected. Original rounded body, attached thighs/paws, head identity, complete broom and all pigments remain coherent. No framing clip, exposed joint cap or old forward body wedge observed.",
+    "Inherited medial arm embedding remains visible in some near-side angles. Its increased depth is measured separately; globally collision-free arms are not claimed."
+  ],
+  "controlObservations": "All nine Body contribution0/0.5/1 views at3.68seconds inspected. Front, side and oblique show the same original profile family with progressive supported inclination and no visible collapse, attachment break or pigment change.",
+  "mediaDecode": "All six complete480-frame60fps movies fully decoded with foreground/framing checks; minimum margins36..56pixels.",
+  "browserPlayback": "Pending local and public browser checks recorded separately in browser-local.json, browser-public.json and PUBLICATION.md.",
+  "scope": "Complete held-broom three-pull cleaning candidate fitted to source semantics; new source/native owner review and full15issue/11gate release qualification remain open.",
+  "transferSHA256": "9c6f7bffec968b4d38df54997157bec7e6abc96b0780d60a255aceec925cc9ee"
+}

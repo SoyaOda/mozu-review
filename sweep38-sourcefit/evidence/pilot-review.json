@@ -1,0 +1,293 @@
+{
+  "status": "PASS_KEY_EVENT_VISUAL_REVIEW",
+  "nativeSHA256": "1506208bafef6e9a4b97712071d4af8d7190e5c2fc9ae512e301639b80b73370",
+  "nativeEvidenceSHA256": "5ef0d0f848e84c83e09e9890a68c33bd212e1d44930f3635112bff54508bbd96",
+  "method": "Main-agent inspection of all39whole-character event views and24body-clay views on complete sheets; enlarged reach1side/front,pull1oblique,recover1oblique,gather1front,settleside and source-shape clay views.",
+  "reviewedImages": [
+    {
+      "file": "pilot/hold-front.png",
+      "sha256": "10973d643b42e44eb4a8dd22a78e02b20c091e4bb92fdee0f01c68597e7703eb"
+    },
+    {
+      "file": "pilot/hold-side.png",
+      "sha256": "2a8aa99fca3af47332c141eb9bd96ce46a2c8f285af42617e5beb09a95329475"
+    },
+    {
+      "file": "pilot/hold-oblique.png",
+      "sha256": "b51666eadaf320fb1141d70fe5b755440b591e5671c3b5a07eee62b5550313bc"
+    },
+    {
+      "file": "pilot/reach1-front.png",
+      "sha256": "fee98f9ef20867c0b3d80f1b79aee438a1f92daa78d27d4382156b21293e6eed"
+    },
+    {
+      "file": "pilot/reach1-side.png",
+      "sha256": "5267a59f24b69409ca41b694c0db25a32cba2e8eaff85e5eb371358880266074"
+    },
+    {
+      "file": "pilot/reach1-oblique.png",
+      "sha256": "424dd1e500c2dd16b5950a890678a7a652a45a57a8583233d4ab7cf30afe4324"
+    },
+    {
+      "file": "pilot/pull1-front.png",
+      "sha256": "6abfc76a814aec463bd4e00e814b021f2da2468b87ce053b94161dc7fb903b77"
+    },
+    {
+      "file": "pilot/pull1-side.png",
+      "sha256": "8b446501daa1a0f08d98e10086dc9edc617563af5eb4b5809f04aa4e339bad6d"
+    },
+    {
+      "file": "pilot/pull1-oblique.png",
+      "sha256": "184f58be617eee9ef04f0ceff2c84e6192c98e938ac60941af1ff68070e61f0b"
+    },
+    {
+      "file": "pilot/gather1-front.png",
+      "sha256": "ee4ddea40b5601c75f24f99251dcf3f217dcd9a0864103d2d4cd0c099999ccc9"
+    },
+    {
+      "file": "pilot/gather1-side.png",
+      "sha256": "58dee07a4364a56a0edd3073072b8566bb8ebb8da15a3594b547ba72e0cc98f1"
+    },
+    {
+      "file": "pilot/gather1-oblique.png",
+      "sha256": "d023c9c9859c65423f4eb03a4f241c6811164fa4cfe0191d7d83c3d373f01a1a"
+    },
+    {
+      "file": "pilot/recover1-front.png",
+      "sha256": "7ad27b5f6c9567a6b3e058464a1098186e3abac2c78e0870d5ded05b09ec9505"
+    },
+    {
+      "file": "pilot/recover1-side.png",
+      "sha256": "1f926534e7339f954bc9338c7e75bbbead454599180c13a42118d24e895e723d"
+    },
+    {
+      "file": "pilot/recover1-oblique.png",
+      "sha256": "da4686def516718dba407f427fd21ba76cf95b56a705fb2a45c725a42736dd3f"
+    },
+    {
+      "file": "pilot/reach2-front.png",
+      "sha256": "7a5555632be793521cdf08862f37c00cafea2272ffc5a8e193d676b7130380be"
+    },
+    {
+      "file": "pilot/reach2-side.png",
+      "sha256": "29852ed603965e053d3c21a42aff4679ef4460ba9c3822443c392d404f4b56e4"
+    },
+    {
+      "file": "pilot/reach2-oblique.png",
+      "sha256": "e9dcc7617041deb25207dc59a845bee6819b70bb1ade82ad44e839766d9e8930"
+    },
+    {
+      "file": "pilot/pull2-front.png",
+      "sha256": "10e8a746ba3293361e12ff794777c25e20ea9cd85083b82f47f7eded75bef77f"
+    },
+    {
+      "file": "pilot/pull2-side.png",
+      "sha256": "c8f5dd0997f5f04e37bc0867b2cbee9e89a5d7af8228525f8d1563a977aa9e61"
+    },
+    {
+      "file": "pilot/pull2-oblique.png",
+      "sha256": "22ab7298e4d5ad2d6d43064d884e237c8c2e2ad6f460e1530da7b1e9aca8ef48"
+    },
+    {
+      "file": "pilot/recover2-front.png",
+      "sha256": "5d3e268d097d18518dc93754fe8a9644432291a8ce3a45995060537d97eca3f8"
+    },
+    {
+      "file": "pilot/recover2-side.png",
+      "sha256": "a3fa9b73b014e00da352f19af4f4c482a1bf33445a62c670c0ba0593cfcc1081"
+    },
+    {
+      "file": "pilot/recover2-oblique.png",
+      "sha256": "9f7d19758001ff3c909d71f933e98d16ae8afec6b81936cebc88a7c89de518ce"
+    },
+    {
+      "file": "pilot/reach3-front.png",
+      "sha256": "59ba986eb684ca695da2a20662c247cad96207505090f44e513bfeba12881e71"
+    },
+    {
+      "file": "pilot/reach3-side.png",
+      "sha256": "74e9b5748bd947aceb3ad8276cde2ad7252be2a231bfacda00f2c27ba6859f2d"
+    },
+    {
+      "file": "pilot/reach3-oblique.png",
+      "sha256": "db061f6913b9cf0acc7e9f0706beb209a44a0a423d3d8fa1cd79a97195cf0d88"
+    },
+    {
+      "file": "pilot/pull3-front.png",
+      "sha256": "92e50a1ebacb3a747413173bebfbb7abdcbb59217db3bb98b879a3a31fb2a61d"
+    },
+    {
+      "file": "pilot/pull3-side.png",
+      "sha256": "39aedc55e0ddd9232445564bcda752705dbcad8281526267bffb8ee7ddf44bd8"
+    },
+    {
+      "file": "pilot/pull3-oblique.png",
+      "sha256": "a6e067c3bf6204042dd93cc57707cb9861d20e433f5d4736702f6142883b7480"
+    },
+    {
+      "file": "pilot/gather3-front.png",
+      "sha256": "80ad4932d623decb91e2809cd9754f9a9bea248479b565e0e4184a6b104f6b8e"
+    },
+    {
+      "file": "pilot/gather3-side.png",
+      "sha256": "34812b3b4da4ea7d5f60dee972e5a7ab5d1b10679689832b6997ae8471a6f54c"
+    },
+    {
+      "file": "pilot/gather3-oblique.png",
+      "sha256": "1de38a56bd955f385ad2014dc2c9153d1d77a95a0fa7858f123cf546e762330f"
+    },
+    {
+      "file": "pilot/settle-front.png",
+      "sha256": "0896ba2f5b1c5ce4a0a7cd57e7e54c52f5aa9f6b3d09b89a5aaba8b686c7843d"
+    },
+    {
+      "file": "pilot/settle-side.png",
+      "sha256": "12ee38c282773e1442f0c5942b2a73fe589526155dc6ebde1b41bde9c477b2c7"
+    },
+    {
+      "file": "pilot/settle-oblique.png",
+      "sha256": "d11a44630247bb883d62e0468d151f9ea7e41495fa629464627b15bd278ac608"
+    },
+    {
+      "file": "pilot/holdEnd-front.png",
+      "sha256": "65ac9d59181b428836d3f77b24ae08bb5808098cd84697111283564b323b4f4d"
+    },
+    {
+      "file": "pilot/holdEnd-side.png",
+      "sha256": "bd8a67dc55b0782f59e7445aa423dca78891a3c8f07322e486bf94e083585889"
+    },
+    {
+      "file": "pilot/holdEnd-oblique.png",
+      "sha256": "5193060bc728e39f13b6a29b6966e2267e3331abd412ba94cd32750b2012701b"
+    },
+    {
+      "file": "pilot/clay-hold-front.png",
+      "sha256": "75a9d176e56088cda8fa59bcf225359f1e3b6831da931123f999039b3ba3fb9f"
+    },
+    {
+      "file": "pilot/clay-hold-oblique.png",
+      "sha256": "ad25e673db6f7d4add3c8c35d71dbe27039d1d0e6a2719de3ca22863770b0508"
+    },
+    {
+      "file": "pilot/clay-hold-side.png",
+      "sha256": "bd693ebb88e4ecbbc45a6ba8a6ff6229d5022c6c3575e84fe31dce1333babb1e"
+    },
+    {
+      "file": "pilot/clay-hold-back.png",
+      "sha256": "b9049b03f66190298f438421774f975cee30f20ef8e83c01b10819ff3cdfa706"
+    },
+    {
+      "file": "pilot/clay-pull1-front.png",
+      "sha256": "b5de2fb3f29373612dcd5d1b0275e0daa606deeae5dd4745b33a555705d567c4"
+    },
+    {
+      "file": "pilot/clay-pull1-oblique.png",
+      "sha256": "aa6f6d1cb4911432a3e4c6f5f3eafef801be898566e83088597fd9f327e14ae7"
+    },
+    {
+      "file": "pilot/clay-pull1-side.png",
+      "sha256": "592864437d149110973dbf32e71928a0713b2370746b3fd2f5d67d0713530f23"
+    },
+    {
+      "file": "pilot/clay-pull1-back.png",
+      "sha256": "50df61a8304f396d16f676ae0b7e44dfa05b6458a2caf2bdd9dd455811ba3250"
+    },
+    {
+      "file": "pilot/clay-gather1-front.png",
+      "sha256": "2444282bbd24aad7a739426802c3b163cea017891bd0bb655a95ff8d2f358217"
+    },
+    {
+      "file": "pilot/clay-gather1-oblique.png",
+      "sha256": "09e5368e20fd0264939edb61d4fa4a00c05b77da4a047d6bc4e62d1105627467"
+    },
+    {
+      "file": "pilot/clay-gather1-side.png",
+      "sha256": "afef8e4721b443b5d0f6bcd3c915471ac26f629191abdae686f7e53ab7f8029f"
+    },
+    {
+      "file": "pilot/clay-gather1-back.png",
+      "sha256": "a8c374e7e06a14e5f1daf464404e272ac1d827eea660b2a6d6236b7010b41f87"
+    },
+    {
+      "file": "pilot/clay-recover1-front.png",
+      "sha256": "e65f8d1833f0dde35c08aace9a3f433c4d45044488a1eba12cfc7045c5f3cb2f"
+    },
+    {
+      "file": "pilot/clay-recover1-oblique.png",
+      "sha256": "ac7cc8b498e3bcedcde429c022efa7db4285b069a05f1dbf9df87bda656e67fd"
+    },
+    {
+      "file": "pilot/clay-recover1-side.png",
+      "sha256": "56affc3780fc2db2b653f7044e53a799cfc076f797d601617c4c6f2e6fa2d4f6"
+    },
+    {
+      "file": "pilot/clay-recover1-back.png",
+      "sha256": "739411343966870f695149711ec995cdbbd871386b6a8c1e55eefd1ee2fa0ff6"
+    },
+    {
+      "file": "pilot/clay-reach2-front.png",
+      "sha256": "de7c54667e641c2157a1067808689e036967baa8b74da6b43c421ea74ea8aa70"
+    },
+    {
+      "file": "pilot/clay-reach2-oblique.png",
+      "sha256": "fd5412421153e316a81907addb19c3a5cbe3391abc214053794ca90fff0fe114"
+    },
+    {
+      "file": "pilot/clay-reach2-side.png",
+      "sha256": "955c34e6685a6379f0aef975c9ba2608d8b5853c41848b7b40a14bcd4dc36e50"
+    },
+    {
+      "file": "pilot/clay-reach2-back.png",
+      "sha256": "ded1fff6e7a4dc29a41021ca3bac3a7c204bec7ba420e4e8992350e1030ccee0"
+    },
+    {
+      "file": "pilot/clay-pull2-front.png",
+      "sha256": "4eb288b72d8c731ce7fd5764b81d8cbbf45c0ce028ff89781e87bb8da483f24e"
+    },
+    {
+      "file": "pilot/clay-pull2-oblique.png",
+      "sha256": "f63e4c6a6b384bd1ac02a876c692787855f4fe4c06e59b2d467e2ef56542fb67"
+    },
+    {
+      "file": "pilot/clay-pull2-side.png",
+      "sha256": "21e3000aba75e9a23883bf9b88a998915a9f7ff5a3fc31441341b6fd97f016bf"
+    },
+    {
+      "file": "pilot/clay-pull2-back.png",
+      "sha256": "9863e0ccea38108ea228194120e090908717422bc1e8fce5f9457b28896f9853"
+    }
+  ],
+  "sheets": [
+    {
+      "file": "media/pilot-front.jpg",
+      "sha256": "505ad25d91eac27154448bdce3eee53cb7a29634d6a8e2c767f8f8575a5a67da",
+      "count": 13
+    },
+    {
+      "file": "media/pilot-side.jpg",
+      "sha256": "32e98363266933735ee8d3b13bbe7eb8c0924b2bb3d8e857a2b3177bd279ceda",
+      "count": 13
+    },
+    {
+      "file": "media/pilot-oblique.jpg",
+      "sha256": "59f0f4a188e50de7c076ca5cf6650f5ab5e68575efffb79334de8857614848ee",
+      "count": 13
+    },
+    {
+      "file": "media/pilot-clay.jpg",
+      "sha256": "4e98643840a0fa004ba10eb8b3527cc8fcfd79dace762959e09aae90faa4b2aa",
+      "count": 24
+    }
+  ],
+  "observations": [
+    "Original rounded Body/thigh contours remain clean through reach,pull,return and settle; no historical forward wedge.",
+    "The broom moves from reach to the near-side gather while supported. Raised return is visibly distinct in side/oblique.",
+    "Head attention stays directed toward the work area; free-arm balance is small and keeps the adopted arm silhouette.",
+    "Broom fan can project in front of a paw near gather without intersecting the actual native geometry; this is not a calibrated reproduction of the generated camera."
+  ],
+  "limitations": [
+    "Key events only; complete output/subframe checks and playback remain pending.",
+    "The source has larger generated limb/tool excursions and foot shifts; those shape/stance changes are intentionally excluded.",
+    "Inherited medial arm embedding remains; this is not a global collision-free certificate."
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "source": "assets/motion_inputs/cleaning-sweep/1.0.0/original/output.mp4",
+  "sourceSHA256": "5304bbedaf7c540efe6734f4c142bee7be19f5633731e1c95d0c39e8b5520e15",
+  "measured": {
+    "frames": 158,
+    "fps": 24,
+    "width": 768,
+    "height": 768,
+    "durationSeconds": 6.583333333333333
+  },
+  "method": "Whole chronological review, enlarged transitions and visible green binding diagnostics. Events are qualitative brackets, not calibrated 3D contact reconstruction.",
+  "correspondence": [
+    {
+      "role": "reach and place",
+      "sourceSeconds": [
+        0.17,
+        0.83
+      ],
+      "nativeSeconds": [
+        0.15,
+        0.82
+      ]
+    },
+    {
+      "role": "first loaded inward pull",
+      "sourceSeconds": [
+        0.83,
+        2.08
+      ],
+      "nativeSeconds": [
+        0.82,
+        2.08
+      ]
+    },
+    {
+      "role": "first lifted return",
+      "sourceSeconds": [
+        2.08,
+        3.0
+      ],
+      "nativeSeconds": [
+        2.08,
+        3.02
+      ]
+    },
+    {
+      "role": "second loaded inward pull",
+      "sourceSeconds": [
+        3.0,
+        4.25
+      ],
+      "nativeSeconds": [
+        3.02,
+        4.28
+      ]
+    },
+    {
+      "role": "second lifted return",
+      "sourceSeconds": [
+        4.25,
+        5.3
+      ],
+      "nativeSeconds": [
+        4.28,
+        5.28
+      ]
+    },
+    {
+      "role": "third loaded inward pull",
+      "sourceSeconds": [
+        5.3,
+        6.54
+      ],
+      "nativeSeconds": [
+        5.28,
+        6.55
+      ]
+    },
+    {
+      "role": "authored release and settle",
+      "sourceSeconds": null,
+      "nativeSeconds": [
+        6.55,
+        8.0
+      ]
+    }
+  ],
+  "retargeting": [
+    "Reverses the old working direction: the new loaded phase retracts Stroke from1 to0.08; reaching outward is explicitly unloaded.",
+    "Preserves the physical native floor and raises the tips0.075authoring units on returns; native geometry must verify it.",
+    "Uses sustained floor attention and shared constructive body movement, with a small18-degree maximum shoulder swing of the original free arm.",
+    "Maps choreography within the adopted proportions; excludes generated arm length, broom length, foot stance and scale drift."
+  ],
+  "limits": [
+    "The source supports semantic timing only, not calibrated forces, fixed viewpoints or unique3D reconstruction.",
+    "The eight-second native includes an authored settle; it is not an eight-second provider original."
+  ]
+}

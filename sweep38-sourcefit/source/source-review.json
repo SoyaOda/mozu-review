@@ -1,0 +1,20 @@
+{
+  "videoSHA256": "5304bbedaf7c540efe6734f4c142bee7be19f5633731e1c95d0c39e8b5520e15",
+  "decision": "pass-with-limitations",
+  "method": "All five chronological sheets and all158native frames inspected; frames18,38,52,61,74,102,114,128,148 enlarged. Actual localhost tab59 playback reached6.583333s at1x and0.5x without media errors; frame60 was sought for recovery inspection. Color-feature diagnostics assist event timing only.",
+  "reviewedFrameRanges": [
+    [
+      0,
+      157
+    ]
+  ],
+  "observedMotion": "Prompt forward reach from hold; first inward pull roughly0.83-2.08s, an airborne return roughly2.2-2.83s, second inward pull roughly3.0-4.25s, second airborne return roughly4.4-5.1s and third inward pull roughly5.3-6.54s. Head remains directed toward the broom, torso inclines on the reach and recovers through the pull, free arm balances behind, and the tail changes inclination with the action. No persistent floor-colored bristle smear as in the rejected Wan3 originals.",
+  "blockingIssues": [],
+  "limitations": [
+    "Generated broom proportions, individual bristle drawing, arm articulation and foot stance drift from the adopted native; none are shape authority.",
+    "The frame52/102/157 pull endpoints partly hide the broom fan at the near foot; exact contact and grip forces cannot be recovered from this single view.",
+    "The fixed-view intent is approximate: pose-dependent projection and small scale/heading changes are not calibrated 3D camera data.",
+    "The original contains158frames at24fps,768x768,approximately6.583seconds despite the requested6-second720p tier. No interpolation was performed.",
+    "The original ends during the third pull and does not return to its initial hold; native settling must be authored separately."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "PASS_SAMPLED_COUPLED_PROFILE_DOMAIN",
+  "score": {
+    "channels": 10,
+    "sourceSHA256": "5304bbedaf7c540efe6734f4c142bee7be19f5633731e1c95d0c39e8b5520e15",
+    "sourceFPS": 24,
+    "workIntervals": [
+      [
+        0.82,
+        2.08
+      ],
+      [
+        3.02,
+        4.28
+      ],
+      [
+        5.28,
+        6.55
+      ]
+    ],
+    "returnIntervals": [
+      [
+        2.08,
+        3.02
+      ],
+      [
+        4.28,
+        5.28
+      ]
+    ],
+    "duration": 8.0,
+    "fps": 60,
+    "interpolation": "C1 shape-preserving Hermite, shared tangent per knot",
+    "authoredExtension": "The source ends during the third inward pull;6.55..8s settles to the adopted neutral hold."
+  },
+  "times": 1035,
+  "contributions": 17,
+  "partEvaluations": 35190,
+  "extrema": {
+    "segmentLengthRatio": {
+      "minimum": {
+        "value": 0.9677225379252833,
+        "seconds": 5.691666666666666,
+        "contribution": 1.0,
+        "side": "L"
+      },
+      "maximum": {
+        "value": 1.029731731069751,
+        "seconds": 0.82,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    },
+    "axisInclination": {
+      "minimum": {
+        "value": 0.0,
+        "seconds": 0.0,
+        "contribution": 0.0,
+        "side": "L"
+      },
+      "maximum": {
+        "value": 20.082484239031697,
+        "seconds": 0.82,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    },
+    "accelerationGauge": {
+      "minimum": {
+        "value": 0.45746681318759563,
+        "seconds": 0.82,
+        "contribution": 1.0,
+        "side": "R"
+      },
+      "maximum": {
+        "value": 0.5667812524628327,
+        "seconds": 7.45,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    }
+  },
+  "limits": "Sampled time/contribution domain. Actual composition, caps, arms and tool require native probes; not arbitrary-control certification."
+}
