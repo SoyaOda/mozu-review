@@ -1,0 +1,110 @@
+{
+  "nativeSHA256": "9dfbaed464f1ea440d0443d96724ef9b9ec2d19a54ed6171d90e6ee18a4a558f",
+  "nativeBytes": 221235399,
+  "nativeKeyProbes": 9,
+  "nativeControlProbes": 2,
+  "reopenedProbes": 2,
+  "actualOutputTimes": 360,
+  "adaptiveTimes": 147,
+  "viewFrames": 2160,
+  "uniqueFrozenRenderStates": 182,
+  "orbitImages": 144,
+  "pilotFlatImages": 27,
+  "bodyClayImages": 24,
+  "controlImages": 9,
+  "maximumErrors": {
+    "derived turn": 0.0,
+    "derived forward": 2.98023217215615e-10,
+    "derived lower": 1.0430812810713341e-10,
+    "derived pitch": 0.0,
+    "derived roll": 0.0,
+    "derived lateral": 2.2351741811588166e-10,
+    "C164 | Body-owned convex core": 3.1905194597392494e-07,
+    "TAIL101 | Parametric envelope surface": 3.538050941109816e-07,
+    "S126 | Body-bound shoulders": 9.050354121686865e-08,
+    "thighL": 3.083187931851583e-06,
+    "pawL": 0.0,
+    "thighR": 3.3422147814876624e-06,
+    "pawR": 0.0,
+    "neckPosition": 9.191164788527328e-05,
+    "headRigidity": 3.8645646949220236e-07,
+    "worldAttention": 8.73465803894643e-05,
+    "armR": 1.3632486705050795e-06,
+    "armL": 2.2170523461539915e-07
+  },
+  "sourceModelMaximumError": 3.3422147814876624e-06,
+  "floorSupportMaximumError": 1.1490192264318466e-07,
+  "capTriangleCrossings": 0,
+  "maximumArmDepthIncrease": 0.00022475409787148237,
+  "maximumArmCoreDepthParity": 1.7508864402770996e-07,
+  "objectDriverPositiveTinyZeroSnaps": 4,
+  "evaluatedObjectDriverMaximumPositionError": 1.733693277827797e-07,
+  "evaluatedObjectDriverMaximumOrientationError": 9.521355237573914e-08,
+  "endpointExact": true,
+  "externalPlaybackDependencies": {
+    "libraries": [],
+    "unpackedImages": []
+  },
+  "media": [
+    {
+      "view": "front",
+      "file": "media/front.mp4",
+      "sha256": "19e6f5079ad346ec611561cc625e84710151d9b2fec340731afcad76e70edac7",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 55
+    },
+    {
+      "view": "oblique",
+      "file": "media/oblique.mp4",
+      "sha256": "e51f542fad1ec536d6a6305ce6926937efd0d8b5a073660979a20d4563a6d06c",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 55
+    },
+    {
+      "view": "side",
+      "file": "media/side.mp4",
+      "sha256": "48ef183a7e153a6a483a163c42855079d9b5530384b63a373a168f93fc62cd9c",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "view": "reverse",
+      "file": "media/reverse.mp4",
+      "sha256": "2e5cd8d40f5ecd552fd9baf1910c4927280ad32fe47a379bbc1f66020e4e368e",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "view": "back",
+      "file": "media/back.mp4",
+      "sha256": "f6f73b191af60fcea05dbd663916cdc139911dac9d1283ae122e0188e6c34375",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 55
+    },
+    {
+      "view": "top",
+      "file": "media/top.mp4",
+      "sha256": "a030a83836d6c43546430c55176107a7aff906cba0461a5d5f7db308b65b9065",
+      "frames": 360,
+      "fps": 60.0,
+      "minimumMargin": 36
+    }
+  ],
+  "evidenceSHA256": {
+    "native.json": "731ff05641337662fb7138f7ba012125a16d2e9245f975695c9c504ce35130d6",
+    "capture.json": "2a29b912e2b219da1e465a773474830ec7a3426d1a00050b36bad0f5e0f5d11f",
+    "media.json": "a749fdf2544ac909e3f6918be80a69e957cbfcd04d7b8c09061653a88fa24282"
+  },
+  "limits": [
+    "C1 score channels; changing composed surface topology is evaluated and visually reviewed, not vertex-correspondence certified.",
+    "Every output/subframe checks actual cap/paw triangle non-intersection plus enclosed-side witnesses. Detailed native pilot probes additionally test all cap vertices.",
+    "Known positive near-zero object-driver snapping is explicitly measured against evaluated inputs; source geometry tolerances are not enlarged.",
+    "Inherited medial arm embedding is compared to the same local articulation/neutral composition; not collision-free.",
+    "Owner adoption, arbitrary controls, global physical balance, stepping/tool pickup, runtime export and full15issue/11gate release qualification remain open."
+  ]
+}

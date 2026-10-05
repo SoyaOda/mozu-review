@@ -1,0 +1,4069 @@
+{
+  "status": "PASS_NATIVE_PENDING_PILOT_REVIEW",
+  "sourceSHA256": "fe4a51d47aebf9f5eadbfb8f0bf2eaca9905f2c71c16f9cdba06c6a7b2c123c7",
+  "score": {
+    "channels": 9,
+    "strokePeaks": [
+      1.98,
+      3.03,
+      4.08
+    ],
+    "interpolation": "C1 shape-preserving cubic Hermite; one shared tangent per knot",
+    "duration": 6.0,
+    "fps": 60
+  },
+  "curveMaximumErrors": {
+    "Work posture": 1.9952304652903763e-07,
+    "Stroke": 1.9645646343047218e-07,
+    "Unloaded lift": 2.7463453924209125e-08,
+    "Bristle drag": 3.089095248487439e-07,
+    "Look task": 2.2296494551154143e-07,
+    "Nod task": 1.6586228661493677e-07,
+    "Common yaw": 5.696422493262077e-06,
+    "Attention": 2.8950859309873067e-07,
+    "Head response": 2.555123846947893e-07
+  },
+  "neutralSourceExact": true,
+  "rows": [
+    {
+      "seconds": 0.0,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 1.3877787807814457e-17,
+        "TAIL101 | Parametric envelope surface": 5.551115123125783e-17,
+        "S126 | Body-bound shoulders": 0.0,
+        "thighL": 5.472636962489119e-07,
+        "pawL": 0.0,
+        "thighR": 2.797550995303766e-07,
+        "pawR": 0.0,
+        "neckPosition": 0.0,
+        "headRigidity": 0.0,
+        "worldAttention": 0.0,
+        "armR": 1.1868784266511057e-07,
+        "armL": 1.1284768619557184e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            -0.07982911257122072,
+            -0.13983285725865066,
+            0.0
+          ],
+          "accelerationGauge": 0.5667811913893802,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723811913893801,
+          "topCenter": [
+            -0.33660802058339556,
+            0.0012928750595432889,
+            0.18680394053977653
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            -3.1309940733951743e-09,
+            3.5697820357544666e-09,
+            -0.3318039405397765
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "R": {
+          "hip": [
+            0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.0798291397817551,
+            -0.13983285800417206,
+            0.0
+          ],
+          "accelerationGauge": 0.5667812524581156,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723812524581155,
+          "topCenter": [
+            0.33660800724136225,
+            0.0012928754255225872,
+            0.18680394095751612
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            2.8677601951201883e-09,
+            3.5765634348242332e-09,
+            -0.3318039409575161
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "armR": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 49.48500442504883,
+            "forward": 0.0,
+            "swing": -15.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          }
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741766422986984
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741762697696686
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              0.0,
+              0.014999999664723873,
+              0.31999996304512024
+            ],
+            "ideal": [
+              0.0,
+              0.015,
+              0.32
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ideal": [
+              0.0,
+              0.0,
+              -0.0
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ideal": [
+              0.0,
+              -0.0,
+              -0.0
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 3.695487982291468e-08,
+        "worldAttentionParity": 0.0
+      },
+      "broom": {
+        "tiltDegrees": -35.5869270894071,
+        "headingDegrees": 0.0,
+        "support": 0.09369166609255399,
+        "floorResidual": 1.1102230246251565e-16,
+        "shaftLength": 0.56,
+        "seconds": 0.0,
+        "case": "edit",
+        "hand": [
+          0.8295422317224171,
+          -0.12906332867180104,
+          0.37000663761507
+        ],
+        "nativeError": 4.039061984872916e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            0.5780544281005859,
+            -0.6358903646469116,
+            -0.2863088846206665
+          ],
+          [
+            1.0810307264328003,
+            -0.04089313745498657,
+            0.477383553981781
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.42549253822956623
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 374,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12128862738609314,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 160,
+          "verticesTested": 993,
+          "referenceContainedVertices": 36,
+          "currentContainedVertices": 36,
+          "referenceMaximumDepth": 0.04010578617453575,
+          "currentMaximumDepth": 0.04010578617453575,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 1.5,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.7450628148351086e-07,
+        "TAIL101 | Parametric envelope surface": 2.311387177211799e-07,
+        "S126 | Body-bound shoulders": 4.56197232212574e-08,
+        "thighL": 1.5845697642902223e-07,
+        "pawL": 0.0,
+        "thighR": 7.613054540667186e-07,
+        "pawR": 0.0,
+        "neckPosition": 7.029928750235115e-08,
+        "headRigidity": 8.31303252901705e-08,
+        "worldAttention": 2.9969950077202157e-08,
+        "armR": 1.0454784739044598e-06,
+        "armL": 1.6270770730741901e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33577729928556027,
+            0.014064818178109567,
+            0.3146
+          ],
+          "segmentLengthRatio": 0.9852111126327263,
+          "axisInclination": 0.19375370972028882,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            0.9852111126327263
+          ],
+          "centerAcceleration": [
+            -0.07974518457517467,
+            -0.13951577126295636,
+            0.0
+          ],
+          "accelerationGauge": 0.5657046686774052,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2713046686774051,
+          "topCenter": [
+            -0.3371002931031963,
+            0.0007011713780221508,
+            0.18333539389200143
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0004503053907836184,
+            0.00043316425345602336,
+            -0.3283353938920014
+          ],
+          "ellipse": [
+            [
+              0.06499176979968299,
+              2.489061029527653e-07
+            ],
+            [
+              2.489061029527653e-07,
+              0.08760952183978318
+            ]
+          ],
+          "upperHeight": 0.42167552068764397
+        },
+        "R": {
+          "hip": [
+            0.3341556091274777,
+            0.004583350715312162,
+            0.3146
+          ],
+          "segmentLengthRatio": 0.9856214535395199,
+          "axisInclination": 1.6646807998953914,
+          "sourceAffineSingular": [
+            1.0000000000000002,
+            1.0,
+            0.9856214535395199
+          ],
+          "centerAcceleration": [
+            0.07992038728806748,
+            -0.13630461939860472,
+            0.0
+          ],
+          "accelerationGauge": 0.5570147677403616,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2626147677403615,
+          "topCenter": [
+            0.33607365938457945,
+            -0.005292785012870794,
+            0.18298173983578214
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0004887269713868037,
+            0.004821544712173152,
+            -0.32798173983578216
+          ],
+          "ellipse": [
+            [
+              0.06499180453726688,
+              3.0125146031551274e-06
+            ],
+            [
+              3.0125146031551274e-06,
+              0.08764652861010584
+            ]
+          ],
+          "upperHeight": 0.42176196839599733
+        },
+        "armR": {
+          "jacobianMin": 0.9036853420048407,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 48.491624108883606,
+            "forward": 5.383859173890871,
+            "swing": -14.444704252932176,
+            "elbow": 5.783518311065783,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.02002342993657529
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032743193209171295
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.0327235609292984
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.0008108451147563756,
+              0.009324084036052227,
+              0.3145999610424042
+            ],
+            "ideal": [
+              -0.0008108450790413051,
+              0.009324084446710864,
+              0.3146
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.03301891312003136,
+              0.0,
+              -0.014151917770504951
+            ],
+            "ideal": [
+              0.033018913213445314,
+              0.0,
+              -0.014151916352864436
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.07618013024330139,
+              -0.0011720703914761543,
+              -0.030864519998431206
+            ],
+            "ideal": [
+              0.07618013119104848,
+              -0.001172070203746785,
+              -0.030864515365332003
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 3.138813076120073e-08,
+        "worldAttentionParity": 2.9330866846422055e-08
+      },
+      "broom": {
+        "tiltDegrees": -36.96463120386341,
+        "headingDegrees": -3.2433805530451636,
+        "support": 0.09369166609255399,
+        "floorResidual": 0.0,
+        "shaftLength": 0.56,
+        "seconds": 1.5,
+        "case": "edit",
+        "hand": [
+          0.8080434325145699,
+          -0.221254509414381,
+          0.36924696189385875
+        ],
+        "nativeError": 2.718789182676318e-07,
+        "actualFloorResidual": -3.725290298461914e-09,
+        "bounds": [
+          [
+            0.5313652753829956,
+            -0.742662250995636,
+            -0.27835696935653687
+          ],
+          [
+            1.0343701839447021,
+            -0.13147136569023132,
+            0.4755899906158447
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.416870264451603
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 376,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128865718841553,
+          "currentMaximumDepth": 0.12126166373491287,
+          "maximumDepthIncrease": 3.7461984902620316e-05,
+          "coreDepthParityError": 9.685754776000977e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 166,
+          "verticesTested": 993,
+          "referenceContainedVertices": 38,
+          "currentContainedVertices": 38,
+          "referenceMaximumDepth": 0.04245777800679207,
+          "currentMaximumDepth": 0.04247031360864639,
+          "maximumDepthIncrease": 2.1813437342643738e-05,
+          "coreDepthParityError": 1.0570511221885681e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 1.98,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.156390797036778e-07,
+        "TAIL101 | Parametric envelope surface": 2.9115858368733427e-07,
+        "S126 | Body-bound shoulders": 2.287176714688144e-08,
+        "thighL": 4.789520955394977e-07,
+        "pawL": 0.0,
+        "thighR": 6.369666318839506e-07,
+        "pawR": 0.0,
+        "neckPosition": 1.8929374068221705e-08,
+        "headRigidity": 1.2359384338189727e-07,
+        "worldAttention": 5.1325738437135726e-08,
+        "armR": 9.220427099609907e-07,
+        "armL": 1.5676340703318914e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33991059725908973,
+            0.003172139518421657,
+            0.30802889953418483
+          ],
+          "segmentLengthRatio": 0.967838674274156,
+          "axisInclination": 2.0775912786787236,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999998,
+            0.9678386742741559
+          ],
+          "centerAcceleration": [
+            -0.07920796221897376,
+            -0.13549217087980717,
+            0.0
+          ],
+          "accelerationGauge": 0.5530619021888447,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.25866190218884455,
+          "topCenter": [
+            -0.33971457106009156,
+            -0.006182375374671796,
+            0.17872057970800964
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0027959721695784523,
+            0.005304910814575372,
+            -0.3237205797080096
+          ],
+          "ellipse": [
+            [
+              0.06499938550325302,
+              2.0083083638549195e-05
+            ],
+            [
+              2.0083083638549195e-05,
+              0.08765732219166804
+            ]
+          ],
+          "upperHeight": 0.4141028193195149
+        },
+        "R": {
+          "hip": [
+            0.3199105972590897,
+            -0.11317213951842167,
+            0.30802889953418483
+          ],
+          "segmentLengthRatio": 1.0298060942268195,
+          "axisInclination": 20.080971615760408,
+          "sourceAffineSingular": [
+            1.0298060942268195,
+            1.0000000000000002,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.08141030252201407,
+            -0.09940643891630033,
+            0.0
+          ],
+          "accelerationGauge": 0.45749499602974397,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.16309499602974387,
+          "topCenter": [
+            0.32714495600956234,
+            -0.07901553581307634,
+            0.1746407613995186
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.008672472729430619,
+            0.0600952052712265,
+            -0.3196407613995186
+          ],
+          "ellipse": [
+            [
+              0.06506732005853866,
+              0.0006929696028448734
+            ],
+            [
+              0.0006929696028448734,
+              0.09358927112470217
+            ]
+          ],
+          "upperHeight": 0.4262182231829006
+        },
+        "armR": {
+          "jacobianMin": 0.8723990524589769,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472962952471818,
+            "forward": 29.980733643876786,
+            "swing": -40.01685806160781,
+            "elbow": 13.969655489105934,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.048365095929411926
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032740239053964615
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.02623731642961502
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.009999999776482582,
+              -0.054999999701976776,
+              0.3080288767814636
+            ],
+            "ideal": [
+              -0.01,
+              -0.05500000000000001,
+              0.30802889953418483
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.15694722533226013,
+              0.0,
+              -0.1745329201221466
+            ],
+            "ideal": [
+              0.15694722977323747,
+              0.0,
+              -0.17453292519943295
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.2149137556552887,
+              -0.010198299773037434,
+              -0.268555223941803
+            ],
+            "ideal": [
+              0.21491377410904514,
+              -0.010198299412432327,
+              -0.26855521786071795
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 1.290297704792387e-08,
+        "worldAttentionParity": 4.970872935494697e-08
+      },
+      "broom": {
+        "tiltDegrees": -39.669897506441735,
+        "headingDegrees": -40.000000178813934,
+        "support": 0.09369166609255399,
+        "floorResidual": 1.1102230246251565e-16,
+        "shaftLength": 0.56,
+        "seconds": 1.98,
+        "case": "edit",
+        "hand": [
+          0.22198801910319524,
+          -0.6637453939366295,
+          0.343104391592985
+        ],
+        "nativeError": 3.1236166475601124e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            -0.28102725744247437,
+            -1.1956515312194824,
+            -0.2863088846206665
+          ],
+          [
+            0.2938228249549866,
+            -0.584282398223877,
+            0.44723838567733765
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.4035319263973077
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 394,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126132845878601,
+          "maximumDepthIncrease": 0.00021327845752239227,
+          "coreDepthParityError": 1.1734664440155029e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 403,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502726078033447,
+          "currentMaximumDepth": 0.165021613240242,
+          "maximumDepthIncrease": 4.038214683532715e-05,
+          "coreDepthParityError": 8.940696716308594e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 2.52,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.0646842369131946e-07,
+        "TAIL101 | Parametric envelope surface": 3.182900629727925e-07,
+        "S126 | Body-bound shoulders": 3.780317692214652e-08,
+        "thighL": 9.192798582358108e-07,
+        "pawL": 0.0,
+        "thighR": 9.349516846279826e-07,
+        "pawR": 0.0,
+        "neckPosition": 5.8873897756939186e-08,
+        "headRigidity": 2.2856769010815015e-07,
+        "worldAttention": 2.539723242822589e-08,
+        "armR": 7.11655435969849e-07,
+        "armL": 1.4169236894900905e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33576734554311694,
+            0.014077330413613663,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.976259200856026,
+          "axisInclination": 0.19296011818050224,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999997,
+            0.9762592008560261
+          ],
+          "centerAcceleration": [
+            -0.07973932837394147,
+            -0.13950714223467045,
+            0.0
+          ],
+          "accelerationGauge": 0.5656677165616397,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2712677165616396,
+          "topCenter": [
+            -0.3370939648587351,
+            0.0007091275646811608,
+            0.18126049540208317
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00044104904570584547,
+            0.00042089355265405765,
+            -0.32626049540208313
+          ],
+          "ellipse": [
+            [
+              0.06499176632652669,
+              2.4360791718180764e-07
+            ],
+            [
+              2.4360791718180764e-07,
+              0.08760951390889042
+            ]
+          ],
+          "upperHeight": 0.41784408559870767
+        },
+        "R": {
+          "hip": [
+            0.3341673455431169,
+            0.004722669586386332,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.9766622968480697,
+          "axisInclination": 1.657474814205136,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            0.9766622968480697
+          ],
+          "centerAcceleration": [
+            0.07992662373601628,
+            -0.13620873779396508,
+            0.0
+          ],
+          "accelerationGauge": 0.5567627764245278,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.26236277642452766,
+          "topCenter": [
+            0.336081114891076,
+            -0.005204240082715275,
+            0.18090837190640996
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00047815324091585263,
+            0.004685058979697813,
+            -0.32590837190641
+          ],
+          "ellipse": [
+            [
+              0.06499179994473653,
+              2.945168788143781e-06
+            ],
+            [
+              2.945168788143781e-06,
+              0.08764554527359497
+            ]
+          ],
+          "upperHeight": 0.41793057221589286
+        },
+        "armR": {
+          "jacobianMin": 0.8927340794100721,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 49.8964262834483,
+            "forward": 7.538274973439151,
+            "swing": -12.504009398240743,
+            "elbow": 9.212783083166663,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.03189607202136781
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274331986904144
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03272474184632301
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.0007999999797903001,
+              0.009399999864399433,
+              0.3113325536251068
+            ],
+            "ideal": [
+              -0.0008,
+              0.009399999999999999,
+              0.3113325875398413
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.04787779971957207,
+              0.0,
+              -0.013962633907794952
+            ],
+            "ideal": [
+              0.04787779822709826,
+              0.0,
+              -0.013962634015954637
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.1558230072259903,
+              -0.002290731528773904,
+              -0.0603225976228714
+            ],
+            "ideal": [
+              0.15582299561805374,
+              -0.002290731750619651,
+              -0.06032260276631747
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 2.4920389751770244e-08,
+        "worldAttentionParity": 2.667306286951998e-08
+      },
+      "broom": {
+        "tiltDegrees": -35.71706538162696,
+        "headingDegrees": -3.199999931317109,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 2.52,
+        "case": "edit",
+        "hand": [
+          0.8155393201937685,
+          -0.23883466965738562,
+          0.37597072606663023
+        ],
+        "nativeError": 3.3841678148682774e-07,
+        "actualFloorResidual": 4.284083843231201e-08,
+        "bounds": [
+          [
+            0.5398502945899963,
+            -0.749545693397522,
+            -0.27953800559043884
+          ],
+          [
+            1.0428787469863892,
+            -0.15063399076461792,
+            0.48325270414352417
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.3935351497893299
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 378,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126108258962631,
+          "maximumDepthIncrease": 0.00010286737233400345,
+          "coreDepthParityError": 1.1920928955078125e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 135,
+          "verticesTested": 993,
+          "referenceContainedVertices": 27,
+          "currentContainedVertices": 27,
+          "referenceMaximumDepth": 0.033593110740184784,
+          "currentMaximumDepth": 0.033582381904125214,
+          "maximumDepthIncrease": 4.3528154492378235e-05,
+          "coreDepthParityError": 5.681067705154419e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 3.03,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.156390797036778e-07,
+        "TAIL101 | Parametric envelope surface": 2.9115858368733427e-07,
+        "S126 | Body-bound shoulders": 2.287176714688144e-08,
+        "thighL": 4.789520955394977e-07,
+        "pawL": 0.0,
+        "thighR": 6.369666318839506e-07,
+        "pawR": 0.0,
+        "neckPosition": 1.8929374068221705e-08,
+        "headRigidity": 1.390155217606548e-07,
+        "worldAttention": 7.497542597878493e-08,
+        "armR": 9.220427099609907e-07,
+        "armL": 1.5676340703318914e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33991059725908973,
+            0.003172139518421657,
+            0.30802889953418483
+          ],
+          "segmentLengthRatio": 0.967838674274156,
+          "axisInclination": 2.0775912786787236,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999998,
+            0.9678386742741559
+          ],
+          "centerAcceleration": [
+            -0.07920796221897376,
+            -0.13549217087980717,
+            0.0
+          ],
+          "accelerationGauge": 0.5530619021888447,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.25866190218884455,
+          "topCenter": [
+            -0.33971457106009156,
+            -0.006182375374671796,
+            0.17872057970800964
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0027959721695784523,
+            0.005304910814575372,
+            -0.3237205797080096
+          ],
+          "ellipse": [
+            [
+              0.06499938550325302,
+              2.0083083638549195e-05
+            ],
+            [
+              2.0083083638549195e-05,
+              0.08765732219166804
+            ]
+          ],
+          "upperHeight": 0.4141028193195149
+        },
+        "R": {
+          "hip": [
+            0.3199105972590897,
+            -0.11317213951842167,
+            0.30802889953418483
+          ],
+          "segmentLengthRatio": 1.0298060942268195,
+          "axisInclination": 20.080971615760408,
+          "sourceAffineSingular": [
+            1.0298060942268195,
+            1.0000000000000002,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.08141030252201407,
+            -0.09940643891630033,
+            0.0
+          ],
+          "accelerationGauge": 0.45749499602974397,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.16309499602974387,
+          "topCenter": [
+            0.32714495600956234,
+            -0.07901553581307634,
+            0.1746407613995186
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.008672472729430619,
+            0.0600952052712265,
+            -0.3196407613995186
+          ],
+          "ellipse": [
+            [
+              0.06506732005853866,
+              0.0006929696028448734
+            ],
+            [
+              0.0006929696028448734,
+              0.09358927112470217
+            ]
+          ],
+          "upperHeight": 0.4262182231829006
+        },
+        "armR": {
+          "jacobianMin": 0.8723990524589769,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472962952471818,
+            "forward": 29.980733643876786,
+            "swing": -40.01685806160781,
+            "elbow": 13.969655489105934,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.048365095929411926
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032740239053964615
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.02623731642961502
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.009999999776482582,
+              -0.054999999701976776,
+              0.3080288767814636
+            ],
+            "ideal": [
+              -0.01,
+              -0.05500000000000001,
+              0.30802889953418483
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.15694722533226013,
+              0.0,
+              -0.1745329201221466
+            ],
+            "ideal": [
+              0.15694722977323747,
+              0.0,
+              -0.17453292519943295
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.2149137556552887,
+              -0.01012497954070568,
+              -0.26662448048591614
+            ],
+            "ideal": [
+              0.21491377410904514,
+              -0.010124980426568874,
+              -0.2666244845663137
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 1.290297704792387e-08,
+        "worldAttentionParity": 7.606820906502776e-08
+      },
+      "broom": {
+        "tiltDegrees": -39.669897506441735,
+        "headingDegrees": -40.000000178813934,
+        "support": 0.09369166609255399,
+        "floorResidual": 1.1102230246251565e-16,
+        "shaftLength": 0.56,
+        "seconds": 3.03,
+        "case": "edit",
+        "hand": [
+          0.22198801910319524,
+          -0.6637453939366295,
+          0.343104391592985
+        ],
+        "nativeError": 3.1236166475601124e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            -0.28102725744247437,
+            -1.1956515312194824,
+            -0.2863088846206665
+          ],
+          [
+            0.2938228249549866,
+            -0.584282398223877,
+            0.44723838567733765
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.40353322249780066
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 394,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126132845878601,
+          "maximumDepthIncrease": 0.00021327845752239227,
+          "coreDepthParityError": 1.1734664440155029e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 403,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502726078033447,
+          "currentMaximumDepth": 0.165021613240242,
+          "maximumDepthIncrease": 4.038214683532715e-05,
+          "coreDepthParityError": 8.940696716308594e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 3.57,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.0646842369131946e-07,
+        "TAIL101 | Parametric envelope surface": 3.182900629727925e-07,
+        "S126 | Body-bound shoulders": 3.780317692214652e-08,
+        "thighL": 9.192798582358108e-07,
+        "pawL": 0.0,
+        "thighR": 9.349516846279826e-07,
+        "pawR": 0.0,
+        "neckPosition": 5.8873897756939186e-08,
+        "headRigidity": 2.2856769010815015e-07,
+        "worldAttention": 2.539723242822589e-08,
+        "armR": 7.11655435969849e-07,
+        "armL": 1.4169236894900905e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33576734554311694,
+            0.014077330413613663,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.976259200856026,
+          "axisInclination": 0.19296011818050224,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999997,
+            0.9762592008560261
+          ],
+          "centerAcceleration": [
+            -0.07973932837394147,
+            -0.13950714223467045,
+            0.0
+          ],
+          "accelerationGauge": 0.5656677165616397,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2712677165616396,
+          "topCenter": [
+            -0.3370939648587351,
+            0.0007091275646811608,
+            0.18126049540208317
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00044104904570584547,
+            0.00042089355265405765,
+            -0.32626049540208313
+          ],
+          "ellipse": [
+            [
+              0.06499176632652669,
+              2.4360791718180764e-07
+            ],
+            [
+              2.4360791718180764e-07,
+              0.08760951390889042
+            ]
+          ],
+          "upperHeight": 0.41784408559870767
+        },
+        "R": {
+          "hip": [
+            0.3341673455431169,
+            0.004722669586386332,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.9766622968480697,
+          "axisInclination": 1.657474814205136,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            0.9766622968480697
+          ],
+          "centerAcceleration": [
+            0.07992662373601628,
+            -0.13620873779396508,
+            0.0
+          ],
+          "accelerationGauge": 0.5567627764245278,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.26236277642452766,
+          "topCenter": [
+            0.336081114891076,
+            -0.005204240082715275,
+            0.18090837190640996
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00047815324091585263,
+            0.004685058979697813,
+            -0.32590837190641
+          ],
+          "ellipse": [
+            [
+              0.06499179994473653,
+              2.945168788143781e-06
+            ],
+            [
+              2.945168788143781e-06,
+              0.08764554527359497
+            ]
+          ],
+          "upperHeight": 0.41793057221589286
+        },
+        "armR": {
+          "jacobianMin": 0.8927340794100721,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 49.8964262834483,
+            "forward": 7.538274973439151,
+            "swing": -12.504009398240743,
+            "elbow": 9.212783083166663,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.03189607202136781
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274331986904144
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03272474184632301
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.0007999999797903001,
+              0.009399999864399433,
+              0.3113325536251068
+            ],
+            "ideal": [
+              -0.0008,
+              0.009399999999999999,
+              0.3113325875398413
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.04787779971957207,
+              0.0,
+              -0.013962633907794952
+            ],
+            "ideal": [
+              0.04787779822709826,
+              0.0,
+              -0.013962634015954637
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.1558230072259903,
+              -0.002290731528773904,
+              -0.0603225976228714
+            ],
+            "ideal": [
+              0.15582299561805374,
+              -0.002290731750619658,
+              -0.060322602766317665
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 2.4920389751770244e-08,
+        "worldAttentionParity": 2.667306286951998e-08
+      },
+      "broom": {
+        "tiltDegrees": -35.71706538162696,
+        "headingDegrees": -3.199999931317109,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 3.57,
+        "case": "edit",
+        "hand": [
+          0.8155393201937685,
+          -0.23883466965738562,
+          0.37597072606663023
+        ],
+        "nativeError": 3.3841678148682774e-07,
+        "actualFloorResidual": 4.284083843231201e-08,
+        "bounds": [
+          [
+            0.5398502945899963,
+            -0.749545693397522,
+            -0.27953800559043884
+          ],
+          [
+            1.0428787469863892,
+            -0.15063399076461792,
+            0.48325270414352417
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.3935351497893299
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 378,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126108258962631,
+          "maximumDepthIncrease": 0.00010286737233400345,
+          "coreDepthParityError": 1.1920928955078125e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 135,
+          "verticesTested": 993,
+          "referenceContainedVertices": 27,
+          "currentContainedVertices": 27,
+          "referenceMaximumDepth": 0.033593110740184784,
+          "currentMaximumDepth": 0.033582381904125214,
+          "maximumDepthIncrease": 4.3528154492378235e-05,
+          "coreDepthParityError": 5.681067705154419e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 4.08,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 1.8523179301510595e-07,
+        "TAIL101 | Parametric envelope surface": 3.420522549646421e-07,
+        "S126 | Body-bound shoulders": 4.4078348193643535e-08,
+        "thighL": 5.020566246072278e-07,
+        "pawL": 0.0,
+        "thighR": 4.997642445436767e-07,
+        "pawR": 0.0,
+        "neckPosition": 1.0092998325994529e-08,
+        "headRigidity": 1.4846060647499826e-07,
+        "worldAttention": 7.497542597878493e-08,
+        "armR": 9.860556585694624e-07,
+        "armL": 1.9198337974923874e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33991059725908973,
+            0.003172139518421657,
+            0.30803092839783786
+          ],
+          "segmentLengthRatio": 0.9678442291508274,
+          "axisInclination": 2.077579349255034,
+          "sourceAffineSingular": [
+            1.0000000000000002,
+            1.0000000000000002,
+            0.9678442291508276
+          ],
+          "centerAcceleration": [
+            -0.07920799130586216,
+            -0.13549227859801602,
+            0.0
+          ],
+          "accelerationGauge": 0.5530622674267036,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2586622674267035,
+          "topCenter": [
+            -0.33971457119863224,
+            -0.006182375792289629,
+            0.17872187095046085
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0027959868515633284,
+            0.0053049650912976275,
+            -0.32372187095046084
+          ],
+          "ellipse": [
+            [
+              0.06499938546824037,
+              2.008303048001205e-05
+            ],
+            [
+              2.008303048001205e-05,
+              0.08765732221549262
+            ]
+          ],
+          "upperHeight": 0.41410519610353425
+        },
+        "R": {
+          "hip": [
+            0.3199105972590897,
+            -0.11317213951842167,
+            0.30803092839783786
+          ],
+          "segmentLengthRatio": 1.0298113148468024,
+          "axisInclination": 20.080865431723264,
+          "sourceAffineSingular": [
+            1.0298113148468024,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.08141022894692096,
+            -0.09940736735642304,
+            0.0
+          ],
+          "accelerationGauge": 0.45749697440743675,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.16309697440743665,
+          "topCenter": [
+            0.3271449547602825,
+            -0.07901554716307067,
+            0.17464207249418717
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.008672510766257023,
+            0.06009568084128219,
+            -0.3196420724941872
+          ],
+          "ellipse": [
+            [
+              0.06506731964768392,
+              0.0006929667827778698
+            ],
+            [
+              0.0006929667827778698,
+              0.09358925954200181
+            ]
+          ],
+          "upperHeight": 0.4262204114893968
+        },
+        "armR": {
+          "jacobianMin": 0.8724089704600924,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472117592616396,
+            "forward": 29.979381068108108,
+            "swing": -40.018041565405404,
+            "elbow": 13.96752518227027,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.04835772047949146
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274020180106163
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.02623732015490532
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.009999999776482582,
+              -0.054999999701976776,
+              0.308030903339386
+            ],
+            "ideal": [
+              -0.01,
+              -0.05500000000000001,
+              0.30803092839783786
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.15693794190883636,
+              0.0,
+              -0.1745329201221466
+            ],
+            "ideal": [
+              0.15693793455614746,
+              0.0,
+              -0.17453292519943295
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.21513313055038452,
+              -0.01012497954070568,
+              -0.26662448048591614
+            ],
+            "ideal": [
+              0.21513314489767751,
+              -0.010124980426568881,
+              -0.2666244845663139
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 1.6032517757835762e-08,
+        "worldAttentionParity": 7.606820906502776e-08
+      },
+      "broom": {
+        "tiltDegrees": -39.66906946534787,
+        "headingDegrees": -40.000000178813934,
+        "support": 0.09369166609255399,
+        "floorResidual": 0.0,
+        "shaftLength": 0.56,
+        "seconds": 4.08,
+        "case": "edit",
+        "hand": [
+          0.22198705581428943,
+          -0.663745122171982,
+          0.3431101762644264
+        ],
+        "nativeError": 2.194382273668083e-07,
+        "actualFloorResidual": 2.9802322387695312e-08,
+        "bounds": [
+          [
+            -0.28102296590805054,
+            -1.1956450939178467,
+            -0.2863088548183441
+          ],
+          [
+            0.29382118582725525,
+            -0.5842828750610352,
+            0.4472450315952301
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.4034700310839834
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 394,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126133590936661,
+          "maximumDepthIncrease": 0.00021331943571567535,
+          "coreDepthParityError": 1.1548399925231934e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 403,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502641141414642,
+          "currentMaximumDepth": 0.16502077877521515,
+          "maximumDepthIncrease": 4.042685031890869e-05,
+          "coreDepthParityError": 9.685754776000977e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 4.55,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 1.778543121666587e-07,
+        "TAIL101 | Parametric envelope surface": 2.3214974564922386e-07,
+        "S126 | Body-bound shoulders": 9.493444030894693e-09,
+        "thighL": 3.9753294744926393e-07,
+        "pawL": 0.0,
+        "thighR": 1.9996901132746103e-06,
+        "pawR": 0.0,
+        "neckPosition": 9.108036791438678e-08,
+        "headRigidity": 7.353600040005404e-08,
+        "worldAttention": 4.8173622396729954e-08,
+        "armR": 8.845795502199216e-07,
+        "armL": 1.6021022553047715e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33848334771852107,
+            0.009748987276143213,
+            0.314619539870449
+          ],
+          "segmentLengthRatio": 0.9854102530824396,
+          "axisInclination": 1.0038471858673361,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999998,
+            0.9854102530824398
+          ],
+          "centerAcceleration": [
+            -0.07945295371342101,
+            -0.1380535072781992,
+            0.0
+          ],
+          "accelerationGauge": 0.5609114821109792,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2665114821109791,
+          "topCenter": [
+            -0.3388132113939658,
+            -0.0020282350426044683,
+            0.18317134981909694
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0020171082506763175,
+            0.002431438681704059,
+            -0.3281713498190969
+          ],
+          "ellipse": [
+            [
+              0.0649954465245702,
+              6.2634813701172025e-06
+            ],
+            [
+              6.2634813701172025e-06,
+              0.08761869914908794
+            ]
+          ],
+          "upperHeight": 0.4217267379723969
+        },
+        "R": {
+          "hip": [
+            0.329423909340986,
+            -0.04316505591888894,
+            0.314619539870449
+          ],
+          "segmentLengthRatio": 0.9981799160762982,
+          "axisInclination": 9.228885048453773,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            0.998179916076298
+          ],
+          "centerAcceleration": [
+            0.08041031226856074,
+            -0.12075560829053991,
+            0.0
+          ],
+          "accelerationGauge": 0.513892310725751,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.21949231072575093,
+          "topCenter": [
+            0.33309278149071375,
+            -0.035340933496543166,
+            0.1812338226089109
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0032246423750058708,
+            0.02709518764181312,
+            -0.3262338226089109
+          ],
+          "ellipse": [
+            [
+              0.0650015477805068,
+              0.00011188491400538264
+            ],
+            [
+              0.00011188491400538264,
+              0.0887860990819963
+            ]
+          ],
+          "upperHeight": 0.4243545729838181
+        },
+        "armR": {
+          "jacobianMin": 0.9024252110783562,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 33.607986057291555,
+            "forward": 13.5523556349893,
+            "swing": -26.356499661818056,
+            "elbow": 6.283643822456044,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.02175494137964554
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274669125676155
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.031631480902433395
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.004529718775302172,
+              -0.01670803874731064,
+              0.3146195113658905
+            ],
+            "ideal": [
+              -0.004529719188767551,
+              -0.016708034321372862,
+              0.314619539870449
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.07089974731206894,
+              0.0,
+              -0.07905852049589157
+            ],
+            "ideal": [
+              0.07089975115023316,
+              0.0,
+              -0.07905851403476032
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.12650413811206818,
+              -0.006383064202964306,
+              -0.16808734834194183
+            ],
+            "ideal": [
+              0.1265041447579909,
+              -0.006383064321353183,
+              -0.1680873604623005
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 6.31106358284228e-08,
+        "worldAttentionParity": 3.697990039186472e-08
+      },
+      "broom": {
+        "tiltDegrees": -43.0988648447704,
+        "headingDegrees": -18.118876964614515,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 4.55,
+        "case": "edit",
+        "hand": [
+          0.5825437374166114,
+          -0.4666379232388026,
+          0.33518402740272163
+        ],
+        "nativeError": 1.6088069143549433e-07,
+        "actualFloorResidual": 7.636845111846924e-08,
+        "bounds": [
+          [
+            0.1827368140220642,
+            -1.0517592430114746,
+            -0.2691617012023926
+          ],
+          [
+            0.6686484217643738,
+            -0.3724571466445923,
+            0.4361855983734131
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.44826350496777134
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 386,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126881629228592,
+          "maximumDepthIncrease": 8.091423660516739e-05,
+          "coreDepthParityError": 1.2665987014770508e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 351,
+          "verticesTested": 993,
+          "referenceContainedVertices": 143,
+          "currentContainedVertices": 143,
+          "referenceMaximumDepth": 0.1090582087635994,
+          "currentMaximumDepth": 0.10906154662370682,
+          "maximumDepthIncrease": 0.00020941253751516342,
+          "coreDepthParityError": 1.0058283805847168e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 5.1,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 1.3877787807814457e-17,
+        "TAIL101 | Parametric envelope surface": 5.551115123125783e-17,
+        "S126 | Body-bound shoulders": 0.0,
+        "thighL": 5.472636962489119e-07,
+        "pawL": 0.0,
+        "thighR": 2.797550995303766e-07,
+        "pawR": 0.0,
+        "neckPosition": 0.0,
+        "headRigidity": 0.0,
+        "worldAttention": 0.0,
+        "armR": 1.1868784266511057e-07,
+        "armL": 1.1284768619557184e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            -0.07982911257122072,
+            -0.13983285725865066,
+            0.0
+          ],
+          "accelerationGauge": 0.5667811913893802,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723811913893801,
+          "topCenter": [
+            -0.33660802058339556,
+            0.0012928750595432889,
+            0.18680394053977653
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            -3.1309940733951743e-09,
+            3.5697820357544666e-09,
+            -0.3318039405397765
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "R": {
+          "hip": [
+            0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.0798291397817551,
+            -0.13983285800417206,
+            0.0
+          ],
+          "accelerationGauge": 0.5667812524581156,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723812524581155,
+          "topCenter": [
+            0.33660800724136225,
+            0.0012928754255225872,
+            0.18680394095751612
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            2.8677601951201883e-09,
+            3.5765634348242332e-09,
+            -0.3318039409575161
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "armR": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 49.48500442504883,
+            "forward": 0.0,
+            "swing": -15.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          }
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741766422986984
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741762697696686
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              0.0,
+              0.014999999664723873,
+              0.31999996304512024
+            ],
+            "ideal": [
+              0.0,
+              0.015,
+              0.32
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ideal": [
+              0.0,
+              0.0,
+              0.0
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ideal": [
+              0.0,
+              -0.0,
+              -0.0
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 3.695487982291468e-08,
+        "worldAttentionParity": 0.0
+      },
+      "broom": {
+        "tiltDegrees": -35.5869270894071,
+        "headingDegrees": 0.0,
+        "support": 0.09369166609255399,
+        "floorResidual": 1.1102230246251565e-16,
+        "shaftLength": 0.56,
+        "seconds": 5.1,
+        "case": "edit",
+        "hand": [
+          0.8295422317224171,
+          -0.12906332867180104,
+          0.37000663761507
+        ],
+        "nativeError": 4.039061984872916e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            0.5780544281005859,
+            -0.6358903646469116,
+            -0.2863088846206665
+          ],
+          [
+            1.0810307264328003,
+            -0.04089313745498657,
+            0.477383553981781
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.42549253822956623
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 374,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12128862738609314,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 160,
+          "verticesTested": 993,
+          "referenceContainedVertices": 36,
+          "currentContainedVertices": 36,
+          "referenceMaximumDepth": 0.04010578617453575,
+          "currentMaximumDepth": 0.04010578617453575,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "event": "hold",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "pilot/hold-front.png",
+          "sha256": "cc1177db6a10c5f990b4efda71ef19aca382b922c61b429826e7ed8a16b7d495"
+        },
+        "side": {
+          "file": "pilot/hold-side.png",
+          "sha256": "9f9efa2ebafd508fd9408cb51cf1c1e500febd3665369532589ba474fb9fe4ad"
+        },
+        "oblique": {
+          "file": "pilot/hold-oblique.png",
+          "sha256": "c7f81ae1ec178f703a7e839d4dcef7632dc04d205c12414d37a8d7c13b371344"
+        }
+      }
+    },
+    {
+      "event": "prepare",
+      "seconds": 1.5,
+      "views": {
+        "front": {
+          "file": "pilot/prepare-front.png",
+          "sha256": "9ac033148774f0f1789142ccbceffc81587228078bb7bc6d80c47ba9437dc389"
+        },
+        "side": {
+          "file": "pilot/prepare-side.png",
+          "sha256": "162a47d3a5d5359920ed542736d238d50984ce4611ed75743fdfdbe41ed088f3"
+        },
+        "oblique": {
+          "file": "pilot/prepare-oblique.png",
+          "sha256": "bb15c42a5a4f39bbabb1b2fbbe592442037b38dc0db9f3c1a1bb69fdcc329ec7"
+        }
+      }
+    },
+    {
+      "event": "work1",
+      "seconds": 1.98,
+      "views": {
+        "front": {
+          "file": "pilot/work1-front.png",
+          "sha256": "f3aab392c1d9f4e3ee27b8ff570299b2aa8c7fe3ac10aa307ac0dd4e47a93baf"
+        },
+        "side": {
+          "file": "pilot/work1-side.png",
+          "sha256": "9de403ac255f42997f765e5403bfcf44a5256a8fb9ed08fa5b1a6eb93ff2313d"
+        },
+        "oblique": {
+          "file": "pilot/work1-oblique.png",
+          "sha256": "82bc8093a51f7a65aa085697265f3a10cbb85f94e8d152cc93467566cdc8d948"
+        }
+      }
+    },
+    {
+      "event": "recover1",
+      "seconds": 2.52,
+      "views": {
+        "front": {
+          "file": "pilot/recover1-front.png",
+          "sha256": "eb4a4afebaeebe2183dbf4d8997dcb8c66d4436e5f0f8467bccdacd6f6423745"
+        },
+        "side": {
+          "file": "pilot/recover1-side.png",
+          "sha256": "a67713b18f4c80ab5e4d50c7bc7af78de322f837ec8673862b3b6c62cc2ac914"
+        },
+        "oblique": {
+          "file": "pilot/recover1-oblique.png",
+          "sha256": "81a7a6ac968aa67c4fa32aac501d1382a65f646978c4d742e324b4399fb46ddf"
+        }
+      }
+    },
+    {
+      "event": "work2",
+      "seconds": 3.03,
+      "views": {
+        "front": {
+          "file": "pilot/work2-front.png",
+          "sha256": "9110e1a49c934fa7f0dd39b1bd699f35a03136c5dbcca238d2cdfc75b771a19b"
+        },
+        "side": {
+          "file": "pilot/work2-side.png",
+          "sha256": "d9247ca92dc2d6ffa1ed308f660f4de70ce14c310a1d0adfee8237ec658163f0"
+        },
+        "oblique": {
+          "file": "pilot/work2-oblique.png",
+          "sha256": "7b9c67680cc61fb69a8797105a4b097dfe8d830bf611d312e7cd798cf24261d9"
+        }
+      }
+    },
+    {
+      "event": "recover2",
+      "seconds": 3.57,
+      "views": {
+        "front": {
+          "file": "pilot/recover2-front.png",
+          "sha256": "6ad5202a451d9a24ded78ea97ed6e0bcb394e5197a352df3ff35e7303978f29e"
+        },
+        "side": {
+          "file": "pilot/recover2-side.png",
+          "sha256": "66f6ca8ed2cc8fc1e4d809fcd4c24c7901b3c54f24e53f789f5363ea0c890f42"
+        },
+        "oblique": {
+          "file": "pilot/recover2-oblique.png",
+          "sha256": "a5aebf2e5a206fd5203129474ca559064f6aaaece35d9b2b574eadbef091fd0b"
+        }
+      }
+    },
+    {
+      "event": "work3",
+      "seconds": 4.08,
+      "views": {
+        "front": {
+          "file": "pilot/work3-front.png",
+          "sha256": "e7d23a00855e68dcfd270c9cff88d3ad2d5b51e33fac100c26f9e671ba9076e6"
+        },
+        "side": {
+          "file": "pilot/work3-side.png",
+          "sha256": "de6e50b4c2acd3e2941ad82176a71f847d2d2e97e8a0e40d74f8b20d0b865e5c"
+        },
+        "oblique": {
+          "file": "pilot/work3-oblique.png",
+          "sha256": "a5dab418f3fb8b538c273eeb2932d8d1b9b20ced246b371ba7b6c91880c56648"
+        }
+      }
+    },
+    {
+      "event": "release",
+      "seconds": 4.55,
+      "views": {
+        "front": {
+          "file": "pilot/release-front.png",
+          "sha256": "4ac22a7067c8424a4240e56f22b081ec0892a7bc17b4ba1bf5e3089d9505ab6d"
+        },
+        "side": {
+          "file": "pilot/release-side.png",
+          "sha256": "8bbd1a3cfb5044397f83c44d7d3fe22fc795335475f5abca15531c503748c8dd"
+        },
+        "oblique": {
+          "file": "pilot/release-oblique.png",
+          "sha256": "1d5fee0b58f786566d8d6d58bc9aea543f8a7a074b2508a025bce3688208e67e"
+        }
+      }
+    },
+    {
+      "event": "settled",
+      "seconds": 5.1,
+      "views": {
+        "front": {
+          "file": "pilot/settled-front.png",
+          "sha256": "38e31af7909893aa9e8194e15da8d146e64a625a530faede8af35249a5807a4a"
+        },
+        "side": {
+          "file": "pilot/settled-side.png",
+          "sha256": "d6a5f73a3528e90a3cbba498192ac23c2f697189ad90162fee6171c17e64cb66"
+        },
+        "oblique": {
+          "file": "pilot/settled-oblique.png",
+          "sha256": "b0a945d1164e0943b8b46df3f40e010d81ec932ba7fa4bdd193d222d801b5570"
+        }
+      }
+    }
+  ],
+  "clay": [
+    {
+      "event": "hold",
+      "seconds": 0.0,
+      "views": {
+        "front": {
+          "file": "pilot/clay-hold-front.png",
+          "sha256": "f82cf070176008dab1d9f7f1c0811d3890b49d5e07fe6f733cc8960b510e1c2d"
+        },
+        "oblique": {
+          "file": "pilot/clay-hold-oblique.png",
+          "sha256": "edddc44b1b18e6e06d59e7678419e7082c6ddf3d1110fdb7c83a6700f278bab8"
+        },
+        "side": {
+          "file": "pilot/clay-hold-side.png",
+          "sha256": "d1fe96a94b7e00455e8edab07c6c2f7de5324b1a8c008a9e170ccb650c3baf87"
+        },
+        "back": {
+          "file": "pilot/clay-hold-back.png",
+          "sha256": "d396457c0efca04cf3374899f2d369fafe8ca65bc6058e8045822461d6fac5e7"
+        }
+      }
+    },
+    {
+      "event": "work1",
+      "seconds": 1.98,
+      "views": {
+        "front": {
+          "file": "pilot/clay-work1-front.png",
+          "sha256": "d49a735f0c663876e0bea8224eb5843318074a8bc36f697045f20db3e4d639d6"
+        },
+        "oblique": {
+          "file": "pilot/clay-work1-oblique.png",
+          "sha256": "96391a35ad1c05f0e604ff08cc513e3d128d81f17cbdcfc5d3a89e9c3b078e48"
+        },
+        "side": {
+          "file": "pilot/clay-work1-side.png",
+          "sha256": "6286643bb5990349351f2d167ae1ad63f965c3075a5e904d78dd427624a1b3fa"
+        },
+        "back": {
+          "file": "pilot/clay-work1-back.png",
+          "sha256": "f499d8a704673077ba784df06075080a993050263c9434e02ba643cf4ea85f80"
+        }
+      }
+    },
+    {
+      "event": "recover1",
+      "seconds": 2.52,
+      "views": {
+        "front": {
+          "file": "pilot/clay-recover1-front.png",
+          "sha256": "746c17bc5ab127d305c6ad9985c3e342cb5ad3113d2c2f0b3df05b43d465f14b"
+        },
+        "oblique": {
+          "file": "pilot/clay-recover1-oblique.png",
+          "sha256": "6efb948e9a5e03d2cd988bbaa9de5f96be53049438781ccbf1bef5e81ea03965"
+        },
+        "side": {
+          "file": "pilot/clay-recover1-side.png",
+          "sha256": "7f7e2989e874159504c128d4a41c9adb68838c0ef106143dfac1c0ff78cf2550"
+        },
+        "back": {
+          "file": "pilot/clay-recover1-back.png",
+          "sha256": "c2b263492e8b22e8a851fb371fc658bdfbaa3c4a287bef005527a2a40b27e54b"
+        }
+      }
+    },
+    {
+      "event": "work2",
+      "seconds": 3.03,
+      "views": {
+        "front": {
+          "file": "pilot/clay-work2-front.png",
+          "sha256": "4626da4595d17bd1972d00427420e6f839fe2c031f86c22a6c47351f01fa2fa9"
+        },
+        "oblique": {
+          "file": "pilot/clay-work2-oblique.png",
+          "sha256": "2761a64d05580430dc5506fac545a4cff48e150eae457d4154f28f72c208ab12"
+        },
+        "side": {
+          "file": "pilot/clay-work2-side.png",
+          "sha256": "45a2c900d66ff50800124013a30222ce7fc64bbc02dd98f08713d2d9c60ef900"
+        },
+        "back": {
+          "file": "pilot/clay-work2-back.png",
+          "sha256": "fc44c3aa3017687ee9007ccd7a8748b30dc07630dd25a4b4b3ff4132078210b4"
+        }
+      }
+    },
+    {
+      "event": "recover2",
+      "seconds": 3.57,
+      "views": {
+        "front": {
+          "file": "pilot/clay-recover2-front.png",
+          "sha256": "d6d07d9d11482f0156f7f7a92213fffebd0de57aba9738b4b04f3ccc023854f6"
+        },
+        "oblique": {
+          "file": "pilot/clay-recover2-oblique.png",
+          "sha256": "723a507dad2c77d88c89d3f92e77636826cd60970ceb8c2e2ff3a6c8b612f3db"
+        },
+        "side": {
+          "file": "pilot/clay-recover2-side.png",
+          "sha256": "bfe5141899ff8171e04ffc895b4fd4ff30babfb4f54a4bd5b07193358aefc92f"
+        },
+        "back": {
+          "file": "pilot/clay-recover2-back.png",
+          "sha256": "aa277af4b01512245160788ab183907977f07bbfa2aa063db2bf7e907b4ace23"
+        }
+      }
+    },
+    {
+      "event": "work3",
+      "seconds": 4.08,
+      "views": {
+        "front": {
+          "file": "pilot/clay-work3-front.png",
+          "sha256": "b1c464862297972baf5ca19e4374ab37659085922b8875c3ab4d3edfd795f5a5"
+        },
+        "oblique": {
+          "file": "pilot/clay-work3-oblique.png",
+          "sha256": "f59c4cf7e66e833bb0f063a4330b5fede03014de31e75453793c9148464f36e7"
+        },
+        "side": {
+          "file": "pilot/clay-work3-side.png",
+          "sha256": "7b2b783b2fa1e926c5ae506469bed8140d346a305f5fa6f762cb57b962d4d7f7"
+        },
+        "back": {
+          "file": "pilot/clay-work3-back.png",
+          "sha256": "4eb0b43375a6bd55cdb5872cb679f4936bf47164c24be0c352d6eb7403aef70b"
+        }
+      }
+    }
+  ],
+  "topology": [
+    {
+      "seconds": 0.0,
+      "parts": {
+        "A189 | E retained180 thigh L": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 5.587436139031116e-10,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "A189 | E retained180 thigh R": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 5.932365823197738e-10,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "C164 | Body-owned convex core": {
+          "vertices": 36866,
+          "faces": 73728,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 4.5058087523522597e-07,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "A189 | Parametric separate paw L": {
+          "vertices": 4994,
+          "faces": 9984,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 8.102625998566924e-06,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "A189 | Parametric separate paw R": {
+          "vertices": 4994,
+          "faces": 9984,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 8.102639766323834e-06,
+          "nonAdjacentTriangleIntersections": 0
+        }
+      }
+    },
+    {
+      "seconds": 1.98,
+      "parts": {
+        "A189 | E retained180 thigh L": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 5.758929174096753e-10,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "A189 | E retained180 thigh R": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 5.656352569535275e-10,
+          "nonAdjacentTriangleIntersections": 0
+        }
+      }
+    },
+    {
+      "seconds": 2.52,
+      "parts": {
+        "A189 | E retained180 thigh L": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 6.345812954089525e-10,
+          "nonAdjacentTriangleIntersections": 0
+        },
+        "A189 | E retained180 thigh R": {
+          "vertices": 111496,
+          "faces": 222988,
+          "boundaryEdges": 0,
+          "nonmanifoldEdges": 0,
+          "minimumTriangleArea": 5.93352256306098e-10,
+          "nonAdjacentTriangleIntersections": 0
+        }
+      }
+    }
+  ],
+  "edits": [
+    {
+      "seconds": 3.03,
+      "contribution": 0.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 0.0,
+        "derived lower": 0.0,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 0.0,
+        "C164 | Body-owned convex core": 1.3877787807814457e-17,
+        "TAIL101 | Parametric envelope surface": 5.551115123125783e-17,
+        "S126 | Body-bound shoulders": 0.0,
+        "thighL": 5.472636962489119e-07,
+        "pawL": 0.0,
+        "thighR": 2.797550995303766e-07,
+        "pawR": 0.0,
+        "neckPosition": 0.0,
+        "headRigidity": 1.3901514517300484e-07,
+        "worldAttention": 2.410026003762944e-08,
+        "armR": 9.895572937734798e-07,
+        "armL": 1.1284768619557184e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            -0.07982911257122072,
+            -0.13983285725865066,
+            0.0
+          ],
+          "accelerationGauge": 0.5667811913893802,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723811913893801,
+          "topCenter": [
+            -0.33660802058339556,
+            0.0012928750595432889,
+            0.18680394053977653
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            -3.1309940733951743e-09,
+            3.5697820357544666e-09,
+            -0.3318039405397765
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "R": {
+          "hip": [
+            0.335,
+            0.015,
+            0.32
+          ],
+          "segmentLengthRatio": 1.0,
+          "axisInclination": 0.0,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.0798291397817551,
+            -0.13983285800417206,
+            0.0
+          ],
+          "accelerationGauge": 0.5667812524581156,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2723812524581155,
+          "topCenter": [
+            0.33660800724136225,
+            0.0012928754255225872,
+            0.18680394095751612
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            2.8677601951201883e-09,
+            3.5765634348242332e-09,
+            -0.3318039409575161
+          ],
+          "ellipse": [
+            [
+              0.06499157712784182,
+              0.0
+            ],
+            [
+              0.0,
+              0.08760922126156684
+            ]
+          ],
+          "upperHeight": 0.42800661064782686
+        },
+        "armR": {
+          "jacobianMin": 0.8723990524589769,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472962952471818,
+            "forward": 29.980733643876786,
+            "swing": -40.01685806160781,
+            "elbow": 13.969655489105934,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.048365095929411926
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741766422986984
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.032741762697696686
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              0.0,
+              0.014999999664723873,
+              0.31999996304512024
+            ],
+            "ideal": [
+              0.0,
+              0.015,
+              0.32
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ideal": [
+              0.0,
+              0.0,
+              -0.0
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.2149137556552887,
+              -0.01012497954070568,
+              -0.26662448048591614
+            ],
+            "ideal": [
+              0.21491377410904514,
+              -0.010124980426568874,
+              -0.2666244845663137
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 3.695487982291468e-08,
+        "worldAttentionParity": 3.0801600714447375e-08
+      },
+      "broom": {
+        "tiltDegrees": -19.668310781627554,
+        "headingDegrees": -29.999999999999996,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 3.03,
+        "case": "edit",
+        "hand": [
+          0.33417113720789754,
+          -0.5318572141273678,
+          0.44205140376183955
+        ],
+        "nativeError": 2.701772430224736e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            -0.014600545167922974,
+            -0.8947372436523438,
+            -0.2863088846206665
+          ],
+          [
+            0.4369933605194092,
+            -0.4709099531173706,
+            0.5590554475784302
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.312218251033917
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 374,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12128862738609314,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 433,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502726078033447,
+          "currentMaximumDepth": 0.16502726078033447,
+          "maximumDepthIncrease": 0.0,
+          "coreDepthParityError": 0.0,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 3.03,
+      "contribution": 0.5,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 1.490116086078075e-10,
+        "derived lower": 5.2154064053566707e-11,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 1.1175870905794083e-10,
+        "C164 | Body-owned convex core": 3.163551169915735e-07,
+        "TAIL101 | Parametric envelope surface": 3.083892092803353e-07,
+        "S126 | Body-bound shoulders": 1.2559745243834186e-08,
+        "thighL": 4.5342131460568424e-07,
+        "pawL": 0.0,
+        "thighR": 6.014001219245557e-07,
+        "pawR": 0.0,
+        "neckPosition": 7.60586662540419e-08,
+        "headRigidity": 9.679328005773868e-08,
+        "worldAttention": 2.410026003762944e-08,
+        "armR": 9.283268943560685e-07,
+        "armL": 1.996364973333442e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.3387252238607348,
+            0.009197173820465483,
+            0.3140144497670924
+          ],
+          "segmentLengthRatio": 0.9837826486012431,
+          "axisInclination": 1.1003553332123446,
+          "sourceAffineSingular": [
+            0.9999999999999999,
+            0.9999999999999999,
+            0.9837826486012433
+          ],
+          "centerAcceleration": [
+            -0.07942069500807394,
+            -0.13785191938809432,
+            0.0
+          ],
+          "accelerationGauge": 0.5602657044161012,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.26586570441610113,
+          "topCenter": [
+            -0.3389661952342143,
+            -0.002377011360776808,
+            0.18276458959727832
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00215396273825126,
+            0.002679421054823965,
+            -0.3277645895972783
+          ],
+          "ellipse": [
+            [
+              0.06499600891064435,
+              7.409316559000304e-06
+            ],
+            [
+              7.409316559000304e-06,
+              0.08762079718740914
+            ]
+          ],
+          "upperHeight": 0.4210233092817418
+        },
+        "R": {
+          "hip": [
+            0.32872522386073477,
+            -0.04919717382046549,
+            0.3140144497670924
+          ],
+          "segmentLengthRatio": 0.9993506057459198,
+          "axisInclination": 10.185499831088922,
+          "sourceAffineSingular": [
+            1.0000000000000002,
+            1.0,
+            0.9993506057459198
+          ],
+          "centerAcceleration": [
+            0.08048709169940205,
+            -0.1187711359312315,
+            0.0
+          ],
+          "accelerationGauge": 0.5084646254543347,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.21406462545433458,
+          "topCenter": [
+            0.33265423497543894,
+            -0.03912057885330669,
+            0.18063078138001093
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0036247991748600238,
+            0.029882596818922434,
+            -0.3256307813800109
+          ],
+          "ellipse": [
+            [
+              0.06500423681823986,
+              0.0001393220208158638
+            ],
+            [
+              0.0001393220208158638,
+              0.08904684777316178
+            ]
+          ],
+          "upperHeight": 0.4242212565551564
+        },
+        "armR": {
+          "jacobianMin": 0.8723990524589769,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472962952471818,
+            "forward": 29.980733643876786,
+            "swing": -40.01685806160781,
+            "elbow": 13.969655489105934,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.048365095929411926
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274687007069588
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03135789558291435
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.004999999888241291,
+              -0.019999999552965164,
+              0.31401440501213074
+            ],
+            "ideal": [
+              -0.005,
+              -0.020000000000000004,
+              0.3140144497670924
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.07847361266613007,
+              0.0,
+              -0.0872664600610733
+            ],
+            "ideal": [
+              0.07847361488661873,
+              0.0,
+              -0.08726646259971647
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.2149137556552887,
+              -0.01012497954070568,
+              -0.26662448048591614
+            ],
+            "ideal": [
+              0.21491377410904514,
+              -0.010124980426568874,
+              -0.2666244845663137
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 1.2069280774795743e-07,
+        "worldAttentionParity": 3.0801600714447375e-08
+      },
+      "broom": {
+        "tiltDegrees": -31.644939861422987,
+        "headingDegrees": -35.00000008940697,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 3.03,
+        "case": "edit",
+        "hand": [
+          0.27955055623142805,
+          -0.6017562837047651,
+          0.39282041021257813
+        ],
+        "nativeError": 3.042514191697876e-07,
+        "actualFloorResidual": 0.0,
+        "bounds": [
+          [
+            -0.15581786632537842,
+            -1.076796531677246,
+            -0.2863088846206665
+          ],
+          [
+            0.34130221605300903,
+            -0.5281273722648621,
+            0.5028114914894104
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.3610688469849973
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 393,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128861248493195,
+          "currentMaximumDepth": 0.12126333266496658,
+          "maximumDepthIncrease": 0.00011038605589419603,
+          "coreDepthParityError": 1.0803341865539551e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 420,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502724587917328,
+          "currentMaximumDepth": 0.16502563655376434,
+          "maximumDepthIncrease": 2.8149690479040146e-05,
+          "coreDepthParityError": 8.940696716308594e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    }
+  ],
+  "patchedMathematicalModules": [
+    "C:\\mozu\\cd214\\repo\\scripts\\research\\chores214_20260925\\sweep32_support\\support_math.py",
+    "C:\\mozu\\cd214\\repo\\scripts\\research\\chores214_20260925\\sweep32_support\\support_math.py",
+    "C:\\mozu\\cd214\\repo\\scripts\\research\\chores214_20260925\\sweep32_support\\support_math.py"
+  ],
+  "reopen": [
+    {
+      "seconds": 2.52,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 2.0646842369131946e-07,
+        "TAIL101 | Parametric envelope surface": 3.182900629727925e-07,
+        "S126 | Body-bound shoulders": 3.780317692214652e-08,
+        "thighL": 9.192798582358108e-07,
+        "pawL": 0.0,
+        "thighR": 9.349516846279826e-07,
+        "pawR": 0.0,
+        "neckPosition": 5.8873897756939186e-08,
+        "headRigidity": 2.2856769010815015e-07,
+        "worldAttention": 2.539723242822589e-08,
+        "armR": 7.11655435969849e-07,
+        "armL": 1.4169236894900905e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33576734554311694,
+            0.014077330413613663,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.976259200856026,
+          "axisInclination": 0.19296011818050224,
+          "sourceAffineSingular": [
+            1.0,
+            0.9999999999999997,
+            0.9762592008560261
+          ],
+          "centerAcceleration": [
+            -0.07973932837394147,
+            -0.13950714223467045,
+            0.0
+          ],
+          "accelerationGauge": 0.5656677165616397,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2712677165616396,
+          "topCenter": [
+            -0.3370939648587351,
+            0.0007091275646811608,
+            0.18126049540208317
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00044104904570584547,
+            0.00042089355265405765,
+            -0.32626049540208313
+          ],
+          "ellipse": [
+            [
+              0.06499176632652669,
+              2.4360791718180764e-07
+            ],
+            [
+              2.4360791718180764e-07,
+              0.08760951390889042
+            ]
+          ],
+          "upperHeight": 0.41784408559870767
+        },
+        "R": {
+          "hip": [
+            0.3341673455431169,
+            0.004722669586386332,
+            0.3113325875398413
+          ],
+          "segmentLengthRatio": 0.9766622968480697,
+          "axisInclination": 1.657474814205136,
+          "sourceAffineSingular": [
+            1.0,
+            1.0,
+            0.9766622968480697
+          ],
+          "centerAcceleration": [
+            0.07992662373601628,
+            -0.13620873779396508,
+            0.0
+          ],
+          "accelerationGauge": 0.5567627764245278,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.26236277642452766,
+          "topCenter": [
+            0.336081114891076,
+            -0.005204240082715275,
+            0.18090837190640996
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.00047815324091585263,
+            0.004685058979697813,
+            -0.32590837190641
+          ],
+          "ellipse": [
+            [
+              0.06499179994473653,
+              2.945168788143781e-06
+            ],
+            [
+              2.945168788143781e-06,
+              0.08764554527359497
+            ]
+          ],
+          "upperHeight": 0.41793057221589286
+        },
+        "armR": {
+          "jacobianMin": 0.8927340794100721,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 49.8964262834483,
+            "forward": 7.538274973439151,
+            "swing": -12.504009398240743,
+            "elbow": 9.212783083166663,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.03189607202136781
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274331986904144
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03272474184632301
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.0007999999797903001,
+              0.009399999864399433,
+              0.3113325536251068
+            ],
+            "ideal": [
+              -0.0008,
+              0.009399999999999999,
+              0.3113325875398413
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.04787779971957207,
+              0.0,
+              -0.013962633907794952
+            ],
+            "ideal": [
+              0.04787779822709826,
+              0.0,
+              -0.013962634015954637
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.1558230072259903,
+              -0.002290731528773904,
+              -0.0603225976228714
+            ],
+            "ideal": [
+              0.15582299561805374,
+              -0.002290731750619651,
+              -0.06032260276631747
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 2.4920389751770244e-08,
+        "worldAttentionParity": 2.667306286951998e-08
+      },
+      "broom": {
+        "tiltDegrees": -35.71706538162696,
+        "headingDegrees": -3.199999931317109,
+        "support": 0.09369166609255399,
+        "floorResidual": 5.551115123125783e-17,
+        "shaftLength": 0.56,
+        "seconds": 2.52,
+        "case": "edit",
+        "hand": [
+          0.8155393201937685,
+          -0.23883466965738562,
+          0.37597072606663023
+        ],
+        "nativeError": 3.3841678148682774e-07,
+        "actualFloorResidual": 4.284083843231201e-08,
+        "bounds": [
+          [
+            0.5398502945899963,
+            -0.749545693397522,
+            -0.27953800559043884
+          ],
+          [
+            1.0428787469863892,
+            -0.15063399076461792,
+            0.48325270414352417
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.3935351497893299
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 378,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126108258962631,
+          "maximumDepthIncrease": 0.00010286737233400345,
+          "coreDepthParityError": 1.1920928955078125e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 135,
+          "verticesTested": 993,
+          "referenceContainedVertices": 27,
+          "currentContainedVertices": 27,
+          "referenceMaximumDepth": 0.033593110740184784,
+          "currentMaximumDepth": 0.033582381904125214,
+          "maximumDepthIncrease": 4.3528154492378235e-05,
+          "coreDepthParityError": 5.681067705154419e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    },
+    {
+      "seconds": 4.08,
+      "contribution": 1.0,
+      "errors": {
+        "derived turn": 0.0,
+        "derived forward": 2.98023217215615e-10,
+        "derived lower": 1.0430812810713341e-10,
+        "derived pitch": 0.0,
+        "derived roll": 0.0,
+        "derived lateral": 2.2351741811588166e-10,
+        "C164 | Body-owned convex core": 1.8523179301510595e-07,
+        "TAIL101 | Parametric envelope surface": 3.420522549646421e-07,
+        "S126 | Body-bound shoulders": 4.4078348193643535e-08,
+        "thighL": 5.020566246072278e-07,
+        "pawL": 0.0,
+        "thighR": 4.997642445436767e-07,
+        "pawR": 0.0,
+        "neckPosition": 1.0092998325994529e-08,
+        "headRigidity": 1.4846060647499826e-07,
+        "worldAttention": 7.497542597878493e-08,
+        "armR": 9.860556585694624e-07,
+        "armL": 1.9198337974923874e-07
+      },
+      "profiles": {
+        "L": {
+          "hip": [
+            -0.33991059725908973,
+            0.003172139518421657,
+            0.30803092839783786
+          ],
+          "segmentLengthRatio": 0.9678442291508274,
+          "axisInclination": 2.077579349255034,
+          "sourceAffineSingular": [
+            1.0000000000000002,
+            1.0000000000000002,
+            0.9678442291508276
+          ],
+          "centerAcceleration": [
+            -0.07920799130586216,
+            -0.13549227859801602,
+            0.0
+          ],
+          "accelerationGauge": 0.5530622674267036,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.2586622674267035,
+          "topCenter": [
+            -0.33971457119863224,
+            -0.006182375792289629,
+            0.17872187095046085
+          ],
+          "endpoint": [
+            -0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.0027959868515633284,
+            0.0053049650912976275,
+            -0.32372187095046084
+          ],
+          "ellipse": [
+            [
+              0.06499938546824037,
+              2.008303048001205e-05
+            ],
+            [
+              2.008303048001205e-05,
+              0.08765732221549262
+            ]
+          ],
+          "upperHeight": 0.41410519610353425
+        },
+        "R": {
+          "hip": [
+            0.3199105972590897,
+            -0.11317213951842167,
+            0.30803092839783786
+          ],
+          "segmentLengthRatio": 1.0298113148468024,
+          "axisInclination": 20.080865431723264,
+          "sourceAffineSingular": [
+            1.0298113148468024,
+            1.0,
+            1.0
+          ],
+          "centerAcceleration": [
+            0.08141022894692096,
+            -0.09940736735642304,
+            0.0
+          ],
+          "accelerationGauge": 0.45749697440743675,
+          "radiusConcavityMinimum": 0.2944000000000001,
+          "allDirectionConvexMargin": -0.16309697440743665,
+          "topCenter": [
+            0.3271449547602825,
+            -0.07901554716307067,
+            0.17464207249418717
+          ],
+          "endpoint": [
+            0.37652258,
+            -0.06862355,
+            -0.145
+          ],
+          "tangent": [
+            0.008672510766257023,
+            0.06009568084128219,
+            -0.3196420724941872
+          ],
+          "ellipse": [
+            [
+              0.06506731964768392,
+              0.0006929667827778698
+            ],
+            [
+              0.0006929667827778698,
+              0.09358925954200181
+            ]
+          ],
+          "upperHeight": 0.4262204114893968
+        },
+        "armR": {
+          "jacobianMin": 0.8724089704600924,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 14.472117592616396,
+            "forward": 29.979381068108108,
+            "swing": -40.018041565405404,
+            "elbow": 13.96752518227027,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.55
+          },
+          "foldFloor": 0.04835772047949146
+        },
+        "armL": {
+          "jacobianMin": 0.9090245877218854,
+          "channels": {
+            "bend": -27.47989845275879,
+            "stretch": 1.0711642503738403,
+            "raise": 39.48500442504883,
+            "forward": 0.0,
+            "swing": 0.0,
+            "elbow": 0.0,
+            "plane": 0.0,
+            "wrist": 0.0,
+            "softness": 0.5
+          }
+        }
+      },
+      "caps": {
+        "L": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.03274020180106163
+        },
+        "R": {
+          "capVertices": 11463,
+          "capFaces": 23966,
+          "intersectingSurfacePairs": 0,
+          "outsideVertices": 0,
+          "disputedVertices": 0,
+          "minimumUnsignedClearance": 0.02623732015490532
+        }
+      },
+      "objectDriverPrecision": {
+        "inputs": {
+          "carrierLocation": {
+            "actual": [
+              -0.009999999776482582,
+              -0.054999999701976776,
+              0.308030903339386
+            ],
+            "ideal": [
+              -0.01,
+              -0.05500000000000001,
+              0.30803092839783786
+            ]
+          },
+          "carrierEuler": {
+            "actual": [
+              0.15693794190883636,
+              0.0,
+              -0.1745329201221466
+            ],
+            "ideal": [
+              0.15693793455614746,
+              0.0,
+              -0.17453292519943295
+            ]
+          },
+          "attentionEuler": {
+            "actual": [
+              0.21513313055038452,
+              -0.01012497954070568,
+              -0.26662448048591614
+            ],
+            "ideal": [
+              0.21513314489767751,
+              -0.010124980426568881,
+              -0.2666244845663139
+            ]
+          }
+        },
+        "positiveTinyZeroSnaps": [],
+        "neckPositionParity": 1.6032517757835762e-08,
+        "worldAttentionParity": 7.606820906502776e-08
+      },
+      "broom": {
+        "tiltDegrees": -39.66906946534787,
+        "headingDegrees": -40.000000178813934,
+        "support": 0.09369166609255399,
+        "floorResidual": 0.0,
+        "shaftLength": 0.56,
+        "seconds": 4.08,
+        "case": "edit",
+        "hand": [
+          0.22198705581428943,
+          -0.663745122171982,
+          0.3431101762644264
+        ],
+        "nativeError": 2.194382273668083e-07,
+        "actualFloorResidual": 2.9802322387695312e-08,
+        "bounds": [
+          [
+            -0.28102296590805054,
+            -1.1956450939178467,
+            -0.2863088548183441
+          ],
+          [
+            0.29382118582725525,
+            -0.5842828750610352,
+            0.4472450315952301
+          ]
+        ]
+      },
+      "toolSurfaces": {
+        "proximalArmTrianglePairs": 0,
+        "bodyAndPawsTrianglePairs": 0,
+        "bodyAndPawsContainedVertices": 0,
+        "tailTrianglePairs": 0,
+        "tailContainedVertices": 0,
+        "freeArmTrianglePairs": 0,
+        "freeArmContainedVertices": 0,
+        "headVerticalGap": 0.4034700310839834
+      },
+      "distalArms": {
+        "L": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 394,
+          "verticesTested": 993,
+          "referenceContainedVertices": 214,
+          "currentContainedVertices": 214,
+          "referenceMaximumDepth": 0.12128862738609314,
+          "currentMaximumDepth": 0.12126133590936661,
+          "maximumDepthIncrease": 0.00021331943571567535,
+          "coreDepthParityError": 1.1548399925231934e-07,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        },
+        "R": {
+          "protectedMaterialStart": 0.5,
+          "trianglePairs": 403,
+          "verticesTested": 993,
+          "referenceContainedVertices": 245,
+          "currentContainedVertices": 245,
+          "referenceMaximumDepth": 0.16502641141414642,
+          "currentMaximumDepth": 0.16502077877521515,
+          "maximumDepthIncrease": 4.042685031890869e-05,
+          "coreDepthParityError": 9.685754776000977e-08,
+          "allowedRemeshDepthError": 0.0007,
+          "compositionVoxelSize": 0.007,
+          "comparison": "Same original local arm articulation against neutral Body/thigh composition; inherited medial overlap remains."
+        }
+      }
+    }
+  ],
+  "nativeSHA256": "9dfbaed464f1ea440d0443d96724ef9b9ec2d19a54ed6171d90e6ee18a4a558f",
+  "nativeBytes": 221235399,
+  "sourcePreserved": true,
+  "endpointExact": true,
+  "reopenRestExact": true,
+  "editResetExact": true
+}

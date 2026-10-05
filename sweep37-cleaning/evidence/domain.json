@@ -1,0 +1,62 @@
+{
+  "status": "PASS_SAMPLED_COUPLED_PROFILE_DOMAIN",
+  "score": {
+    "channels": 9,
+    "strokePeaks": [
+      1.98,
+      3.03,
+      4.08
+    ],
+    "interpolation": "C1 shape-preserving cubic Hermite; one shared tangent per knot",
+    "duration": 6.0,
+    "fps": 60
+  },
+  "times": 773,
+  "contributions": 17,
+  "partEvaluations": 26282,
+  "extrema": {
+    "segmentLengthRatio": {
+      "minimum": {
+        "value": 0.9677426401921316,
+        "seconds": 2.9916666666666667,
+        "contribution": 1.0,
+        "side": "L"
+      },
+      "maximum": {
+        "value": 1.0298512278943512,
+        "seconds": 4.1,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    },
+    "axisInclination": {
+      "minimum": {
+        "value": 0.0,
+        "seconds": 0.0,
+        "contribution": 0.0,
+        "side": "L"
+      },
+      "maximum": {
+        "value": 20.080971615760408,
+        "seconds": 1.98,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    },
+    "accelerationGauge": {
+      "minimum": {
+        "value": 0.4574949960297387,
+        "seconds": 1.98,
+        "contribution": 1.0,
+        "side": "R"
+      },
+      "maximum": {
+        "value": 0.5667812524673569,
+        "seconds": 1.3,
+        "contribution": 1.0,
+        "side": "R"
+      }
+    }
+  },
+  "limits": "Sampled time/contribution domain. Actual composition, caps, arms and tool require native probes; not arbitrary-control certification."
+}
