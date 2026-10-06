@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "view": "front",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "previousSHA256": "6c0b483bfee8494a323e83492314524124ddfe77d3514cb5ca689a3ff0fa679f",
+      "restoredSHA256": "1ec1533049e8b4947d1cb223c38f8531030b3e0d10b257c1f4f0acee0bb6f3ef"
+    },
+    {
+      "view": "side",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "previousSHA256": "f4f1c62883be1357a946d4bcc1cedc23b2b6f5442be6d0134f5a8646ab094fd9",
+      "restoredSHA256": "a83653b60d4164514aed71e828e4d87b0bed9578f3e8b43042ad2363eb748060"
+    },
+    {
+      "view": "oblique",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "previousSHA256": "94d6629f6851be8c2596bcbb1937da9a10c53a901df1f06bb55b73cafbd19684",
+      "restoredSHA256": "f6f980da6425d1c80eb29c84c0780961f4a92f233af8a5a2cfb1c825531471d9"
+    }
+  ],
+  "status": "PASS_DECODED_PIXEL_PARITY",
+  "nativeSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "sourceNativeSHA256": "1506208bafef6e9a4b97712071d4af8d7190e5c2fc9ae512e301639b80b73370",
+  "method": "Decode both actual native renders to RGB and compare every channel; PNG metadata bytes may differ."
+}

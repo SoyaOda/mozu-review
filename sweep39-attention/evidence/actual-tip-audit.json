@@ -1,0 +1,4825 @@
+{
+  "status": "PASS_REPORTED_POSE_HORIZONTAL_ALIGNMENT",
+  "nativeSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "sourceCaptureSHA256": "7ee4f4b3ff24e6c03aba75294619d2ee0c29d759fa83cf3d52cab8f2fed22c03",
+  "captureSHA256": "4ff192221a1f01be37f345d6c3fa88a850e2e8060e8f0160e0f332c31eb291a1",
+  "reportedPose": {
+    "seconds": 3.75,
+    "tipBearingDegrees": 25.764679125266852,
+    "previousYawDegrees": -15.186759987435979,
+    "correctedYawDegrees": 21.890377044677734,
+    "previousForwardBearing": -15.068360416625241,
+    "correctedForwardBearing": 22.008776596503477,
+    "previousError": 40.83303954189209,
+    "correctedError": 3.755902528763375
+  },
+  "loadedSamples": 227,
+  "improvedLoadedSamples": 175,
+  "meanPreviousError": 36.40315093246671,
+  "meanCorrectedError": 14.318243485768221,
+  "maximumPreviousError": 66.09320635160083,
+  "maximumCorrectedError": 25.536207298766254,
+  "rows": [
+    {
+      "seconds": 0.0,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 0.016666666666666666,
+      "tipBearingDegrees": 54.43003779029254,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.43003779029254,
+      "correctedError": 54.43003779029254
+    },
+    {
+      "seconds": 0.03333333333333333,
+      "tipBearingDegrees": 54.43159217956674,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.43159217956674,
+      "correctedError": 54.43159217956674
+    },
+    {
+      "seconds": 0.05,
+      "tipBearingDegrees": 54.434052679020525,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.434052679020525,
+      "correctedError": 54.434052679020525
+    },
+    {
+      "seconds": 0.06666666666666667,
+      "tipBearingDegrees": 54.43731285146918,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.43731285146918,
+      "correctedError": 54.43731285146918
+    },
+    {
+      "seconds": 0.08333333333333333,
+      "tipBearingDegrees": 54.44126627744202,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.44126627744202,
+      "correctedError": 54.44126627744202
+    },
+    {
+      "seconds": 0.1,
+      "tipBearingDegrees": 54.44580653533476,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.44580653533476,
+      "correctedError": 54.44580653533476
+    },
+    {
+      "seconds": 0.11666666666666667,
+      "tipBearingDegrees": 54.45082718439466,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.45082718439466,
+      "correctedError": 54.45082718439466
+    },
+    {
+      "seconds": 0.13333333333333333,
+      "tipBearingDegrees": 54.45622175053783,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.45622175053783,
+      "correctedError": 54.45622175053783
+    },
+    {
+      "seconds": 0.15,
+      "tipBearingDegrees": 54.42361022802827,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42361022802827,
+      "correctedError": 54.42361022802827
+    },
+    {
+      "seconds": 0.16666666666666666,
+      "tipBearingDegrees": 53.972967469258755,
+      "previousYawDegrees": -0.05174689052903184,
+      "correctedYawDegrees": 0.08890005946159363,
+      "previousForwardBearing": -0.051735774339851465,
+      "correctedForwardBearing": 0.08891117565066303,
+      "previousError": 54.02470324359861,
+      "correctedError": 53.88405629360809
+    },
+    {
+      "seconds": 0.18333333333333332,
+      "tipBearingDegrees": 52.95871495536804,
+      "previousYawDegrees": -0.2018954960073242,
+      "correctedYawDegrees": 0.3447234034538269,
+      "previousForwardBearing": -0.2018178103941602,
+      "correctedForwardBearing": 0.34480108905843077,
+      "previousError": 53.1605327657622,
+      "correctedError": 52.61391386630961
+    },
+    {
+      "seconds": 0.2,
+      "tipBearingDegrees": 51.50300352565317,
+      "previousYawDegrees": -0.4428076739159793,
+      "correctedYawDegrees": 0.7493236064910889,
+      "previousForwardBearing": -0.44254349489695877,
+      "correctedForwardBearing": 0.7495877854785645,
+      "previousError": 51.94554702055013,
+      "correctedError": 50.7534157401746
+    },
+    {
+      "seconds": 0.21666666666666667,
+      "tipBearingDegrees": 49.71505938923338,
+      "previousYawDegrees": -0.7668454017980184,
+      "correctedYawDegrees": 1.283094048500061,
+      "previousForwardBearing": -0.7661968193915036,
+      "correctedForwardBearing": 1.2837426308141464,
+      "previousError": 50.481256208624885,
+      "correctedError": 48.431316758419236
+    },
+    {
+      "seconds": 0.23333333333333334,
+      "tipBearingDegrees": 47.69062829908258,
+      "previousYawDegrees": -1.1663702736653327,
+      "correctedYawDegrees": 1.9259952306747437,
+      "previousForwardBearing": -1.1650547909102122,
+      "correctedForwardBearing": 1.9273107132906366,
+      "previousError": 48.855683089992795,
+      "correctedError": 45.763317585791945
+    },
+    {
+      "seconds": 0.25,
+      "tipBearingDegrees": 45.51088977713932,
+      "previousYawDegrees": -1.6337448573653786,
+      "correctedYawDegrees": 2.658379316329956,
+      "previousForwardBearing": -1.6313949954379625,
+      "correctedForwardBearing": 2.660729178051526,
+      "previousError": 47.142284772577284,
+      "correctedError": 42.85016059908779
+    },
+    {
+      "seconds": 0.26666666666666666,
+      "tipBearingDegrees": 43.24452352883538,
+      "previousYawDegrees": -2.1613303333634373,
+      "correctedYawDegrees": 3.46166729927063,
+      "previousForwardBearing": -2.157498746499941,
+      "correctedForwardBearing": 3.4654988858911273,
+      "previousError": 45.40202227533532,
+      "correctedError": 39.77902464294425
+    },
+    {
+      "seconds": 0.2833333333333333,
+      "tipBearingDegrees": 40.950613597986326,
+      "previousYawDegrees": -2.7414893762286705,
+      "correctedYawDegrees": 4.318924903869629,
+      "previousForwardBearing": -2.7356587831629158,
+      "correctedForwardBearing": 4.32475549625399,
+      "previousError": 43.686272381149244,
+      "correctedError": 36.625858101732334
+    },
+    {
+      "seconds": 0.3,
+      "tipBearingDegrees": 38.682118345411574,
+      "previousYawDegrees": -3.366582739539537,
+      "correctedYawDegrees": 5.215353965759277,
+      "previousForwardBearing": -3.3581800136769844,
+      "correctedForwardBearing": 5.22375669069627,
+      "previousError": 42.04029835908856,
+      "correctedError": 33.458361654715304
+    },
+    {
+      "seconds": 0.31666666666666665,
+      "tipBearingDegrees": 36.48820527643011,
+      "previousYawDegrees": -4.0289732045869044,
+      "correctedYawDegrees": 6.138711452484131,
+      "previousForwardBearing": -4.017386949433588,
+      "correctedForwardBearing": 6.150297706772169,
+      "previousError": 40.505592225863694,
+      "correctedError": 30.33790756965794
+    },
+    {
+      "seconds": 0.3333333333333333,
+      "tipBearingDegrees": 34.416807505826455,
+      "previousYawDegrees": -4.721023339218228,
+      "correctedYawDegrees": 7.079654216766357,
+      "previousForwardBearing": -4.7056243116742404,
+      "correctedForwardBearing": 7.095053242708998,
+      "previousError": 39.1224318175007,
+      "correctedError": 27.321754263117455
+    },
+    {
+      "seconds": 0.35,
+      "tipBearingDegrees": 32.51665778320894,
+      "previousYawDegrees": -5.435092723073205,
+      "correctedYawDegrees": 8.032022476196289,
+      "previousForwardBearing": -5.415256504443188,
+      "correctedForwardBearing": 8.051858692247603,
+      "previousError": 37.93191428765213,
+      "correctedError": 24.46479909096134
+    },
+    {
+      "seconds": 0.36666666666666664,
+      "tipBearingDegrees": 30.75249619082167,
+      "previousYawDegrees": -6.163546058433405,
+      "correctedYawDegrees": 8.985642433166504,
+      "previousForwardBearing": -6.13867726621189,
+      "correctedForwardBearing": 9.010511222212125,
+      "previousError": 36.89117345703356,
+      "correctedError": 21.741984968609543
+    },
+    {
+      "seconds": 0.38333333333333336,
+      "tipBearingDegrees": 28.773767864597357,
+      "previousYawDegrees": -6.898742924938523,
+      "correctedYawDegrees": 9.900781631469727,
+      "previousForwardBearing": -6.868300413388944,
+      "correctedForwardBearing": 9.931224141721767,
+      "previousError": 35.6420682779863,
+      "correctedError": 18.84254372287559
+    },
+    {
+      "seconds": 0.4,
+      "tipBearingDegrees": 26.551550658605297,
+      "previousYawDegrees": -7.633047171096485,
+      "correctedYawDegrees": 10.75758171081543,
+      "previousForwardBearing": -7.596569525316237,
+      "correctedForwardBearing": 10.794059351506148,
+      "previousError": 34.148120183921534,
+      "correctedError": 15.75749130709915
+    },
+    {
+      "seconds": 0.4166666666666667,
+      "tipBearingDegrees": 24.142926745266287,
+      "previousYawDegrees": -8.358819657207455,
+      "correctedYawDegrees": 11.545669555664062,
+      "previousForwardBearing": -8.315950280302342,
+      "correctedForwardBearing": 11.58853892597188,
+      "previousError": 32.458877025568626,
+      "correctedError": 12.554387819294407
+    },
+    {
+      "seconds": 0.43333333333333335,
+      "tipBearingDegrees": 21.604042289972735,
+      "previousYawDegrees": -9.068420816684773,
+      "correctedYawDegrees": 12.258013725280762,
+      "previousForwardBearing": -9.018931967195115,
+      "correctedForwardBearing": 12.307502567317082,
+      "previousError": 30.62297425716785,
+      "correctedError": 9.296539722655654
+    },
+    {
+      "seconds": 0.45,
+      "tipBearingDegrees": 18.990064178165866,
+      "previousYawDegrees": -9.754214498036365,
+      "correctedYawDegrees": 12.890788078308105,
+      "previousForwardBearing": -9.698029506670741,
+      "correctedForwardBearing": 12.946973061232546,
+      "previousError": 28.68809368483661,
+      "correctedError": 6.04309111693332
+    },
+    {
+      "seconds": 0.4666666666666667,
+      "tipBearingDegrees": 16.35517564889228,
+      "previousYawDegrees": -10.408563695996513,
+      "correctedYawDegrees": 13.443013191223145,
+      "previousForwardBearing": -10.345776522853315,
+      "correctedForwardBearing": 13.505800356212003,
+      "previousError": 26.700952171745598,
+      "correctedError": 2.8493752926802784
+    },
+    {
+      "seconds": 0.48333333333333334,
+      "tipBearingDegrees": 13.752636298783326,
+      "previousYawDegrees": -11.023828843978553,
+      "correctedYawDegrees": 13.916028022766113,
+      "previousForwardBearing": -10.954720338719804,
+      "correctedForwardBearing": 13.98513651844519,
+      "previousError": 24.707356637503132,
+      "correctedError": 0.23250021966186374
+    },
+    {
+      "seconds": 0.5,
+      "tipBearingDegrees": 11.234840606145388,
+      "previousYawDegrees": -11.592371229169476,
+      "correctedYawDegrees": 14.312804222106934,
+      "previousForwardBearing": -11.517421020300693,
+      "correctedForwardBearing": 14.387754419618872,
+      "previousError": 22.75226162644608,
+      "correctedError": 3.152913813473484
+    },
+    {
+      "seconds": 0.5166666666666667,
+      "tipBearingDegrees": 8.855449770795845,
+      "previousYawDegrees": -12.106552138756268,
+      "correctedYawDegrees": 14.64037799835205,
+      "previousForwardBearing": -12.026445467557712,
+      "correctedForwardBearing": 14.72048466329053,
+      "previousError": 20.881895238353557,
+      "correctedError": 5.865034892494686
+    },
+    {
+      "seconds": 0.5333333333333333,
+      "tipBearingDegrees": 6.66578870273753,
+      "previousYawDegrees": -12.558735421246853,
+      "correctedYawDegrees": 14.906569480895996,
+      "previousForwardBearing": -12.474157901306384,
+      "correctedForwardBearing": 14.991146991810748,
+      "previousError": 19.139946604043914,
+      "correctedError": 8.325358289073218
+    },
+    {
+      "seconds": 0.55,
+      "tipBearingDegrees": 4.713786110415068,
+      "previousYawDegrees": -12.941278948733634,
+      "correctedYawDegrees": 15.115646362304688,
+      "previousForwardBearing": -12.852629116466705,
+      "correctedForwardBearing": 15.204296188256864,
+      "previousError": 17.566415226881773,
+      "correctedError": 10.490510077841796
+    },
+    {
+      "seconds": 0.5666666666666667,
+      "tipBearingDegrees": 3.0503078934977035,
+      "previousYawDegrees": -13.246554253687354,
+      "correctedYawDegrees": 15.2715425491333,
+      "previousForwardBearing": -13.154302027807287,
+      "correctedForwardBearing": 15.36379476558197,
+      "previousError": 16.20460992130499,
+      "correctedError": 12.313486872084265
+    },
+    {
+      "seconds": 0.5833333333333334,
+      "tipBearingDegrees": 1.7502086577926736,
+      "previousYawDegrees": -13.46870615644202,
+      "correctedYawDegrees": 15.386072158813477,
+      "previousForwardBearing": -13.373395707173007,
+      "correctedForwardBearing": 15.48138259832436,
+      "previousError": 15.123604364965681,
+      "correctedError": 13.731173940531686
+    },
+    {
+      "seconds": 0.6,
+      "tipBearingDegrees": 0.8663214422251491,
+      "previousYawDegrees": -13.660923901385457,
+      "correctedYawDegrees": 15.529909133911133,
+      "previousForwardBearing": -13.562751423428468,
+      "correctedForwardBearing": 15.6280815946451,
+      "previousError": 14.429072865653616,
+      "correctedError": 14.76176015241995
+    },
+    {
+      "seconds": 0.6166666666666667,
+      "tipBearingDegrees": 0.22879777119925038,
+      "previousYawDegrees": -13.850321631975325,
+      "correctedYawDegrees": 15.710288047790527,
+      "previousForwardBearing": -13.74930188279843,
+      "correctedForwardBearing": 15.811307785000798,
+      "previousError": 13.978099653997681,
+      "correctedError": 15.582510013801548
+    },
+    {
+      "seconds": 0.6333333333333333,
+      "tipBearingDegrees": -0.36127970770761714,
+      "previousYawDegrees": -14.036031914187033,
+      "correctedYawDegrees": 15.8988676071167,
+      "previousForwardBearing": -13.932193720236782,
+      "correctedForwardBearing": 16.002705783843396,
+      "previousError": 13.570914012529165,
+      "correctedError": 16.363985491551013
+    },
+    {
+      "seconds": 0.65,
+      "tipBearingDegrees": -0.900901648290269,
+      "previousYawDegrees": -14.217190729090573,
+      "correctedYawDegrees": 16.094602584838867,
+      "previousForwardBearing": -14.110577551891588,
+      "correctedForwardBearing": 16.201215743994368,
+      "previousError": 13.209675903601319,
+      "correctedError": 17.102117392284637
+    },
+    {
+      "seconds": 0.6666666666666666,
+      "tipBearingDegrees": -1.3874799995584814,
+      "previousYawDegrees": -14.392933203982295,
+      "correctedYawDegrees": 16.296079635620117,
+      "previousForwardBearing": -14.28360372718025,
+      "correctedForwardBearing": 16.405409095896502,
+      "previousError": 12.896123727621768,
+      "correctedError": 17.792889095454985
+    },
+    {
+      "seconds": 0.6833333333333333,
+      "tipBearingDegrees": -1.819036064471674,
+      "previousYawDegrees": -14.562393612384897,
+      "correctedYawDegrees": 16.50145721435547,
+      "previousForwardBearing": -14.450422188337773,
+      "correctedForwardBearing": 16.61342863079938,
+      "previousError": 12.631386123866099,
+      "correctedError": 18.432464695271054
+    },
+    {
+      "seconds": 0.7,
+      "tipBearingDegrees": -2.1943793780770644,
+      "previousYawDegrees": -14.724704520273786,
+      "correctedYawDegrees": 16.70840072631836,
+      "previousForwardBearing": -14.610181721070195,
+      "correctedForwardBearing": 16.822923510708492,
+      "previousError": 12.41580234299313,
+      "correctedError": 19.017302888785558
+    },
+    {
+      "seconds": 0.7166666666666667,
+      "tipBearingDegrees": -2.5132845335604306,
+      "previousYawDegrees": -14.879005323813544,
+      "correctedYawDegrees": 16.91401481628418,
+      "previousForwardBearing": -14.762038222785161,
+      "correctedForwardBearing": 17.030981903831204,
+      "previousError": 12.248753689224731,
+      "correctedError": 19.544266437391634
+    },
+    {
+      "seconds": 0.7333333333333333,
+      "tipBearingDegrees": -2.7766267069691155,
+      "previousYawDegrees": -15.024425173884993,
+      "correctedYawDegrees": 17.11484146118164,
+      "previousForwardBearing": -14.905137750133955,
+      "correctedForwardBearing": 17.234128869273412,
+      "previousError": 12.128511043164838,
+      "correctedError": 20.010755576242527
+    },
+    {
+      "seconds": 0.75,
+      "tipBearingDegrees": -2.9863607598946276,
+      "previousYawDegrees": -15.160103466652712,
+      "correctedYawDegrees": 17.30687141418457,
+      "previousForwardBearing": -15.038636771553593,
+      "correctedForwardBearing": 17.428338091214115,
+      "previousError": 12.052276011658964,
+      "correctedError": 20.414698851108742
+    },
+    {
+      "seconds": 0.7666666666666667,
+      "tipBearingDegrees": -3.145505391682478,
+      "previousYawDegrees": -15.2851744756394,
+      "correctedYawDegrees": 17.485624313354492,
+      "previousForwardBearing": -15.161686843817156,
+      "correctedForwardBearing": 17.60911193599267,
+      "previousError": 12.016181452134678,
+      "correctedError": 20.754617327675145
+    },
+    {
+      "seconds": 0.7833333333333333,
+      "tipBearingDegrees": -3.257863854154917,
+      "previousYawDegrees": -15.398769059273175,
+      "correctedYawDegrees": 17.64627456665039,
+      "previousForwardBearing": -15.273436101327643,
+      "correctedForwardBearing": 17.771607504089715,
+      "previousError": 12.015572247172727,
+      "correctedError": 21.02947135824463
+    },
+    {
+      "seconds": 0.8,
+      "tipBearingDegrees": -3.327498375022191,
+      "previousYawDegrees": -15.500026613718614,
+      "correctedYawDegrees": 17.783918380737305,
+      "previousForwardBearing": -15.37304123458987,
+      "correctedForwardBearing": 17.910903752990766,
+      "previousError": 12.045542859567679,
+      "correctedError": 21.238402128012957
+    },
+    {
+      "seconds": 0.8166666666666667,
+      "tipBearingDegrees": -3.358239360241898,
+      "previousYawDegrees": -15.588081412498418,
+      "correctedYawDegrees": 17.893802642822266,
+      "previousForwardBearing": -15.459653604623881,
+      "correctedForwardBearing": 18.022230429566015,
+      "previousError": 12.101414244381983,
+      "correctedError": 21.38046978980791
+    },
+    {
+      "seconds": 0.8333333333333334,
+      "tipBearingDegrees": -3.3502344536231154,
+      "previousYawDegrees": -15.66206260649341,
+      "correctedYawDegrees": 17.978116989135742,
+      "previousForwardBearing": -15.5324192917694,
+      "correctedForwardBearing": 18.107760290858884,
+      "previousError": 12.182184838146284,
+      "correctedError": 21.457994744482
+    },
+    {
+      "seconds": 0.85,
+      "tipBearingDegrees": -3.301657836484524,
+      "previousYawDegrees": -15.721111299415464,
+      "correctedYawDegrees": 18.047651290893555,
+      "previousForwardBearing": -15.590495776861399,
+      "correctedForwardBearing": 18.178266797622317,
+      "previousError": 12.288837940376876,
+      "correctedError": 21.47992463410684
+    },
+    {
+      "seconds": 0.8666666666666667,
+      "tipBearingDegrees": -3.2169993742705554,
+      "previousYawDegrees": -15.764361764787278,
+      "correctedYawDegrees": 18.101564407348633,
+      "previousForwardBearing": -15.633033347397506,
+      "correctedForwardBearing": 18.23289281140606,
+      "previousError": 12.41603397312695,
+      "correctedError": 21.449892185676617
+    },
+    {
+      "seconds": 0.8833333333333333,
+      "tipBearingDegrees": -3.1009371198311335,
+      "previousYawDegrees": -15.790944861036968,
+      "correctedYawDegrees": 18.13861656188965,
+      "previousForwardBearing": -15.659178181128755,
+      "correctedForwardBearing": 18.270383224194997,
+      "previousError": 12.558241061297622,
+      "correctedError": 21.37132034402613
+    },
+    {
+      "seconds": 0.9,
+      "tipBearingDegrees": -2.958137067071002,
+      "previousYawDegrees": -15.799999984329112,
+      "correctedYawDegrees": 18.157567977905273,
+      "previousForwardBearing": -15.668084081945375,
+      "correctedForwardBearing": 18.28948386687522,
+      "previousError": 12.709947014874373,
+      "correctedError": 21.247620933946223
+    },
+    {
+      "seconds": 0.9166666666666666,
+      "tipBearingDegrees": -2.7932624852289045,
+      "previousYawDegrees": -15.799445031459047,
+      "correctedYawDegrees": 18.167268753051758,
+      "previousForwardBearing": -15.667541898163362,
+      "correctedForwardBearing": 18.299171868761185,
+      "previousError": 12.874279412934458,
+      "correctedError": 21.09243435399009
+    },
+    {
+      "seconds": 0.9333333333333333,
+      "tipBearingDegrees": -2.6110042724343274,
+      "previousYawDegrees": -15.797798955869075,
+      "correctedYawDegrees": 18.17723846435547,
+      "previousForwardBearing": -15.665933692525117,
+      "correctedForwardBearing": 18.30910370646482,
+      "previousError": 13.05492942009079,
+      "correctedError": 20.92010797889915
+    },
+    {
+      "seconds": 0.95,
+      "tipBearingDegrees": -2.4160308565808575,
+      "previousYawDegrees": -15.795085663221288,
+      "correctedYawDegrees": 18.18722915649414,
+      "previousForwardBearing": -15.66328275296834,
+      "correctedForwardBearing": 18.319032053180624,
+      "previousError": 13.247251896387484,
+      "correctedError": 20.73506290976148
+    },
+    {
+      "seconds": 0.9666666666666667,
+      "tipBearingDegrees": -2.2130636316881613,
+      "previousYawDegrees": -15.791334181819657,
+      "correctedYawDegrees": 18.196962356567383,
+      "previousForwardBearing": -15.659617486066391,
+      "correctedForwardBearing": 18.328679042118736,
+      "previousError": 13.44655385437823,
+      "correctedError": 20.541742673806898
+    },
+    {
+      "seconds": 0.9833333333333333,
+      "tipBearingDegrees": -2.005411224253547,
+      "previousYawDegrees": -15.786568417326281,
+      "correctedYawDegrees": 18.206315994262695,
+      "previousForwardBearing": -15.654961160575537,
+      "correctedForwardBearing": 18.337923230565668,
+      "previousError": 13.64954993632199,
+      "correctedError": 20.343334454819214
+    },
+    {
+      "seconds": 1.0,
+      "tipBearingDegrees": -1.7514693736608664,
+      "previousYawDegrees": -15.780815690497837,
+      "correctedYawDegrees": 18.220918655395508,
+      "previousForwardBearing": -15.649340419971287,
+      "correctedForwardBearing": 18.352393913056478,
+      "previousError": 13.89787104631042,
+      "correctedError": 20.103863286717345
+    },
+    {
+      "seconds": 1.0166666666666666,
+      "tipBearingDegrees": -1.432035201049025,
+      "previousYawDegrees": -15.774103322091008,
+      "correctedYawDegrees": 18.24368667602539,
+      "previousForwardBearing": -15.642781999019386,
+      "correctedForwardBearing": 18.375007987372783,
+      "previousError": 14.21074679797036,
+      "correctedError": 19.807043188421808
+    },
+    {
+      "seconds": 1.0333333333333334,
+      "tipBearingDegrees": -1.0499519445866865,
+      "previousYawDegrees": -15.766455217767886,
+      "correctedYawDegrees": 18.274765014648438,
+      "previousForwardBearing": -15.635309098509639,
+      "correctedForwardBearing": 18.405911124341777,
+      "previousError": 14.585357153922953,
+      "correctedError": 19.455863068928466
+    },
+    {
+      "seconds": 1.05,
+      "tipBearingDegrees": -0.6080265002645072,
+      "previousYawDegrees": -15.757900405832444,
+      "correctedYawDegrees": 18.314279556274414,
+      "previousForwardBearing": -15.626950113086398,
+      "correctedForwardBearing": 18.44522982307521,
+      "previousError": 15.01892361282189,
+      "correctedError": 19.053256323339717
+    },
+    {
+      "seconds": 1.0666666666666667,
+      "tipBearingDegrees": -0.10906282130581699,
+      "previousYawDegrees": -15.74846279194678,
+      "correctedYawDegrees": 18.36236572265625,
+      "previousForwardBearing": -15.617728264833714,
+      "correctedForwardBearing": 18.493100232213152,
+      "previousError": 15.508665443527896,
+      "correctedError": 18.602163053518968
+    },
+    {
+      "seconds": 1.0833333333333333,
+      "tipBearingDegrees": 0.44413434386654016,
+      "previousYawDegrees": -15.738171404414864,
+      "correctedYawDegrees": 18.419111251831055,
+      "previousForwardBearing": -15.607671963475717,
+      "correctedForwardBearing": 18.54961067070566,
+      "previousError": 16.051806307342257,
+      "correctedError": 18.10547632683912
+    },
+    {
+      "seconds": 1.1,
+      "tipBearingDegrees": 1.0487940514775913,
+      "previousYawDegrees": -15.727048441351497,
+      "correctedYawDegrees": 18.484586715698242,
+      "previousForwardBearing": -15.596802723252972,
+      "correctedForwardBearing": 18.614832413586115,
+      "previousError": 16.645596774730564,
+      "correctedError": 17.56603836210852
+    },
+    {
+      "seconds": 1.1166666666666667,
+      "tipBearingDegrees": 1.7021250147392706,
+      "previousYawDegrees": -15.715122931060655,
+      "correctedYawDegrees": 18.558805465698242,
+      "previousForwardBearing": -15.58514890089301,
+      "correctedForwardBearing": 18.688779478022152,
+      "previousError": 17.28727391563228,
+      "correctedError": 16.986654463282882
+    },
+    {
+      "seconds": 1.1333333333333333,
+      "tipBearingDegrees": 2.3986031643460173,
+      "previousYawDegrees": -15.702420486751723,
+      "correctedYawDegrees": 18.64080047607422,
+      "previousForwardBearing": -15.572735457555158,
+      "correctedForwardBearing": 18.770485482038204,
+      "previousError": 17.971338621901175,
+      "correctedError": 16.371882317692187
+    },
+    {
+      "seconds": 1.15,
+      "tipBearingDegrees": 3.1291983108479013,
+      "previousYawDegrees": -15.688970136728676,
+      "correctedYawDegrees": 18.728397369384766,
+      "previousForwardBearing": -15.559590717519765,
+      "correctedForwardBearing": 18.857776770715933,
+      "previousError": 18.688789028367665,
+      "correctedError": 15.728578459868032
+    },
+    {
+      "seconds": 1.1666666666666667,
+      "tipBearingDegrees": 3.8900079272381314,
+      "previousYawDegrees": -15.674794079106315,
+      "correctedYawDegrees": 18.821184158325195,
+      "previousForwardBearing": -15.54573625557196,
+      "correctedForwardBearing": 18.950241968274227,
+      "previousError": 19.43574418281009,
+      "correctedError": 15.060234041036097
+    },
+    {
+      "seconds": 1.1833333333333333,
+      "tipBearingDegrees": 4.677250268834813,
+      "previousYawDegrees": -15.65991963464132,
+      "correctedYawDegrees": 18.91875648498535,
+      "previousForwardBearing": -15.53119872953735,
+      "correctedForwardBearing": 19.04747737257456,
+      "previousError": 20.208448998372162,
+      "correctedError": 14.370227103739746
+    },
+    {
+      "seconds": 1.2,
+      "tipBearingDegrees": 5.4871199616244715,
+      "previousYawDegrees": -15.64437412409037,
+      "correctedYawDegrees": 19.02066993713379,
+      "previousForwardBearing": -15.516004741902904,
+      "correctedForwardBearing": 19.149039309731492,
+      "previousError": 21.003124703527376,
+      "correctedError": 13.66191934810702
+    },
+    {
+      "seconds": 1.2166666666666666,
+      "tipBearingDegrees": 6.315824566975014,
+      "previousYawDegrees": -15.628181453115563,
+      "correctedYawDegrees": 19.12644386291504,
+      "previousForwardBearing": -15.500177571002272,
+      "correctedForwardBearing": 19.2544477336478,
+      "previousError": 21.816002137977286,
+      "correctedError": 12.938623166672787
+    },
+    {
+      "seconds": 1.2333333333333334,
+      "tipBearingDegrees": 7.159523514429947,
+      "previousYawDegrees": -15.611372357568161,
+      "correctedYawDegrees": 19.235557556152344,
+      "previousForwardBearing": -15.483747263893711,
+      "correctedForwardBearing": 19.363182633406904,
+      "previousError": 22.643270778323657,
+      "correctedError": 12.203659118976958
+    },
+    {
+      "seconds": 1.25,
+      "tipBearingDegrees": 8.01434356461984,
+      "previousYawDegrees": -15.593969035562969,
+      "correctedYawDegrees": 19.347431182861328,
+      "previousForwardBearing": -15.466735372740654,
+      "correctedForwardBearing": 19.474664822566258,
+      "previousError": 23.481078937360493,
+      "correctedError": 11.460321257946417
+    },
+    {
+      "seconds": 1.2666666666666666,
+      "tipBearingDegrees": 8.876415485909028,
+      "previousYawDegrees": -15.575998807856665,
+      "correctedYawDegrees": 19.461469650268555,
+      "previousForwardBearing": -15.449168543967327,
+      "correctedForwardBearing": 19.588299900548275,
+      "previousError": 24.325584029876353,
+      "correctedError": 10.711884414639247
+    },
+    {
+      "seconds": 1.2833333333333334,
+      "tipBearingDegrees": 9.741769344809724,
+      "previousYawDegrees": -15.557488995205931,
+      "correctedYawDegrees": 19.577007293701172,
+      "previousForwardBearing": -15.431073446611714,
+      "correctedForwardBearing": 19.70342283392503,
+      "previousError": 25.172842791421438,
+      "correctedError": 9.961653489115305
+    },
+    {
+      "seconds": 1.3,
+      "tipBearingDegrees": 10.606440318616231,
+      "previousYawDegrees": -15.538465210820153,
+      "correctedYawDegrees": 19.693361282348633,
+      "previousForwardBearing": -15.412475012319518,
+      "correctedForwardBearing": 19.819351469595922,
+      "previousError": 26.018915330935748,
+      "correctedError": 9.212911150979691
+    },
+    {
+      "seconds": 1.3166666666666667,
+      "tipBearingDegrees": 11.46637827965708,
+      "previousYawDegrees": -15.518954775456011,
+      "correctedYawDegrees": 19.809791564941406,
+      "previousForwardBearing": -15.393399914858083,
+      "correctedForwardBearing": 19.935346418665127,
+      "previousError": 26.859778194515165,
+      "correctedError": 8.468968139008046
+    },
+    {
+      "seconds": 1.3333333333333333,
+      "tipBearingDegrees": 12.317553322690173,
+      "previousYawDegrees": -15.498983302322895,
+      "correctedYawDegrees": 19.925546646118164,
+      "previousForwardBearing": -15.37387312094043,
+      "correctedForwardBearing": 20.050656809774345,
+      "previousError": 27.691426443630604,
+      "correctedError": 7.733103487084172
+    },
+    {
+      "seconds": 1.35,
+      "tipBearingDegrees": 13.155820507710468,
+      "previousYawDegrees": -15.478574697082896,
+      "correctedYawDegrees": 20.039831161499023,
+      "previousForwardBearing": -15.353917897018023,
+      "correctedForwardBearing": 20.164487947946984,
+      "previousError": 28.50973840472849,
+      "correctedError": 7.0086674402365166
+    },
+    {
+      "seconds": 1.3666666666666667,
+      "tipBearingDegrees": 14.01353462238458,
+      "previousYawDegrees": -15.45775798803999,
+      "correctedYawDegrees": 20.158096313476562,
+      "previousForwardBearing": -15.333562599252158,
+      "correctedForwardBearing": 20.282291688985236,
+      "previousError": 29.347097221636737,
+      "correctedError": 6.2687570666006565
+    },
+    {
+      "seconds": 1.3833333333333333,
+      "tipBearingDegrees": 14.922573085000849,
+      "previousYawDegrees": -15.436558788403563,
+      "correctedYawDegrees": 20.285911560058594,
+      "previousForwardBearing": -15.312832208308702,
+      "correctedForwardBearing": 20.40963812585255,
+      "previousError": 30.23540529330955,
+      "correctedError": 5.4870650408517
+    },
+    {
+      "seconds": 1.4,
+      "tipBearingDegrees": 15.878136921407322,
+      "previousYawDegrees": -15.415004418930295,
+      "correctedYawDegrees": 20.422622680664062,
+      "previousForwardBearing": -15.29175340041795,
+      "correctedForwardBearing": 20.545873689087312,
+      "previousError": 31.16989032182527,
+      "correctedError": 4.66773676767999
+    },
+    {
+      "seconds": 1.4166666666666667,
+      "tipBearingDegrees": 16.875414062602776,
+      "previousYawDegrees": -15.393118785282281,
+      "correctedYawDegrees": 20.567537307739258,
+      "previousForwardBearing": -15.270349453935113,
+      "correctedForwardBearing": 20.690306618351997,
+      "previousError": 32.14576351653789,
+      "correctedError": 3.8148925557492213
+    },
+    {
+      "seconds": 1.4333333333333333,
+      "tipBearingDegrees": 17.909524936425516,
+      "previousYawDegrees": -15.370929208216202,
+      "correctedYawDegrees": 20.71990394592285,
+      "previousForwardBearing": -15.24864702780195,
+      "correctedForwardBearing": 20.84218611228574,
+      "previousError": 33.15817196422746,
+      "correctedError": 2.9326611758602255
+    },
+    {
+      "seconds": 1.45,
+      "tipBearingDegrees": 18.97556909911633,
+      "previousYawDegrees": -15.348463008488737,
+      "correctedYawDegrees": 20.878921508789062,
+      "previousForwardBearing": -15.226672848770415,
+      "correctedForwardBearing": 21.00071165078103,
+      "previousError": 34.20224194788675,
+      "correctedError": 2.0251425516647004
+    },
+    {
+      "seconds": 1.4666666666666666,
+      "tipBearingDegrees": 20.06860300284937,
+      "previousYawDegrees": -15.325745799309276,
+      "correctedYawDegrees": 21.04375648498535,
+      "previousForwardBearing": -15.204451887902334,
+      "correctedForwardBearing": 21.165050387584547,
+      "previousError": 35.2730548907517,
+      "correctedError": 1.0964473847351783
+    },
+    {
+      "seconds": 1.4833333333333334,
+      "tipBearingDegrees": 21.183619842699972,
+      "previousYawDegrees": -15.302803193887202,
+      "correctedYawDegrees": 21.213512420654297,
+      "previousForwardBearing": -15.182009145820327,
+      "correctedForwardBearing": 21.334306449305654,
+      "previousError": 36.3656289885203,
+      "correctedError": 0.15068660660568156
+    },
+    {
+      "seconds": 1.5,
+      "tipBearingDegrees": 22.31587671541068,
+      "previousYawDegrees": -15.279660805431908,
+      "correctedYawDegrees": 21.387331008911133,
+      "previousForwardBearing": -15.159369611658486,
+      "correctedForwardBearing": 21.50762219276905,
+      "previousError": 37.475246327069165,
+      "correctedError": 0.8082545226416329
+    },
+    {
+      "seconds": 1.5166666666666666,
+      "tipBearingDegrees": 23.460350049117395,
+      "previousYawDegrees": -15.25634766224736,
+      "correctedYawDegrees": 21.56424903869629,
+      "previousForwardBearing": -15.136561699258415,
+      "correctedForwardBearing": 21.684034978345736,
+      "previousError": 38.59691174837581,
+      "correctedError": 1.776315070771659
+    },
+    {
+      "seconds": 1.5333333333333334,
+      "tipBearingDegrees": 24.611754655853073,
+      "previousYawDegrees": -15.23288766999566,
+      "correctedYawDegrees": 21.74321174621582,
+      "previousForwardBearing": -15.11360874661955,
+      "correctedForwardBearing": 21.862490646171153,
+      "previousError": 39.725363402472624,
+      "correctedError": 2.7492640096819194
+    },
+    {
+      "seconds": 1.55,
+      "tipBearingDegrees": 25.764770507173587,
+      "previousYawDegrees": -15.209309856980775,
+      "correctedYawDegrees": 21.923139572143555,
+      "previousForwardBearing": -15.090539119124017,
+      "correctedForwardBearing": 22.04191029836562,
+      "previousError": 40.855309626297604,
+      "correctedError": 3.7228602088079654
+    },
+    {
+      "seconds": 1.5666666666666667,
+      "tipBearingDegrees": 26.913991648642288,
+      "previousYawDegrees": -15.185638128864804,
+      "correctedYawDegrees": 22.102922439575195,
+      "previousForwardBearing": -15.067376168401404,
+      "correctedForwardBearing": 22.221184390736482,
+      "previousError": 41.98136781704369,
+      "correctedError": 4.692807257905805
+    },
+    {
+      "seconds": 1.5833333333333333,
+      "tipBearingDegrees": 28.05384909826708,
+      "previousYawDegrees": -15.16189639130984,
+      "correctedYawDegrees": 22.28139877319336,
+      "previousForwardBearing": -15.04414319595892,
+      "correctedForwardBearing": 22.39915195732469,
+      "previousError": 43.097992294226,
+      "correctedError": 5.654697140942389
+    },
+    {
+      "seconds": 1.6,
+      "tipBearingDegrees": 29.178779193671694,
+      "previousYawDegrees": -15.138115380167148,
+      "correctedYawDegrees": 22.457408905029297,
+      "previousForwardBearing": -15.020870358366562,
+      "correctedForwardBearing": 22.574653922254015,
+      "previousError": 44.19964955203825,
+      "correctedError": 6.604125271417679
+    },
+    {
+      "seconds": 1.6166666666666667,
+      "tipBearingDegrees": 30.283036526765812,
+      "previousYawDegrees": -15.114320708646117,
+      "correctedYawDegrees": 22.62975311279297,
+      "previousForwardBearing": -14.997582667732605,
+      "correctedForwardBearing": 22.746491138214097,
+      "previousError": 45.28061919449841,
+      "correctedError": 7.5365453885517155
+    },
+    {
+      "seconds": 1.6333333333333333,
+      "tipBearingDegrees": 31.360867396871097,
+      "previousYawDegrees": -15.09053628240884,
+      "correctedYawDegrees": 22.79723358154297,
+      "previousForwardBearing": -14.974303480093193,
+      "correctedForwardBearing": 22.91346636470356,
+      "previousError": 46.33517087696429,
+      "correctedError": 8.447401032167537
+    },
+    {
+      "seconds": 1.65,
+      "tipBearingDegrees": 32.40635778632608,
+      "previousYawDegrees": -15.06679112975929,
+      "correctedYawDegrees": 22.95863914489746,
+      "previousForwardBearing": -14.951061232537944,
+      "correctedForwardBearing": 23.07436903240827,
+      "previousError": 47.35741901886403,
+      "correctedError": 9.331988753917813
+    },
+    {
+      "seconds": 1.6666666666666667,
+      "tipBearingDegrees": 33.41351244173471,
+      "previousYawDegrees": -15.043109156359563,
+      "correctedYawDegrees": 23.112749099731445,
+      "previousForwardBearing": -14.927879271139435,
+      "correctedForwardBearing": 23.227978966554744,
+      "previousError": 48.34139171287414,
+      "correctedError": 10.185533475179966
+    },
+    {
+      "seconds": 1.6833333333333333,
+      "tipBearingDegrees": 34.376216570563955,
+      "previousYawDegrees": -15.01951768296634,
+      "correctedYawDegrees": 23.258344650268555,
+      "previousForwardBearing": -14.904784354929436,
+      "correctedForwardBearing": 23.37307797069637,
+      "previousError": 49.28100092549339,
+      "correctedError": 11.003138599867583
+    },
+    {
+      "seconds": 1.7,
+      "tipBearingDegrees": 35.28824789062106,
+      "previousYawDegrees": -14.996042322789005,
+      "correctedYawDegrees": 23.394203186035156,
+      "previousForwardBearing": -14.88180153828498,
+      "correctedForwardBearing": 23.508443955351673,
+      "previousError": 50.17004942890604,
+      "correctedError": 11.779803935269385
+    },
+    {
+      "seconds": 1.7166666666666666,
+      "tipBearingDegrees": 36.14331393784538,
+      "previousYawDegrees": -14.972712104131535,
+      "correctedYawDegrees": 23.519113540649414,
+      "previousForwardBearing": -14.858959286621605,
+      "correctedForwardBearing": 23.63286634166941,
+      "previousError": 51.00227322446698,
+      "correctedError": 12.510447596175968
+    },
+    {
+      "seconds": 1.7333333333333334,
+      "tipBearingDegrees": 36.96584265359213,
+      "previousYawDegrees": -14.94954922510873,
+      "correctedYawDegrees": 23.637720108032227,
+      "previousForwardBearing": -14.836279276934029,
+      "correctedForwardBearing": 23.75099004724202,
+      "previousError": 51.802121930526155,
+      "correctedError": 13.214852606350107
+    },
+    {
+      "seconds": 1.75,
+      "tipBearingDegrees": 37.81350245685872,
+      "previousYawDegrees": -14.92658271402456,
+      "correctedYawDegrees": 23.76097297668457,
+      "previousForwardBearing": -14.81378995560415,
+      "correctedForwardBearing": 23.873765719080254,
+      "previousError": 52.62729241246287,
+      "correctedError": 13.939736737778468
+    },
+    {
+      "seconds": 1.7666666666666666,
+      "tipBearingDegrees": 38.682563837742066,
+      "previousYawDegrees": -14.903838184088418,
+      "correctedYawDegrees": 23.888147354125977,
+      "previousForwardBearing": -14.791516434277336,
+      "correctedForwardBearing": 24.000469097034692,
+      "previousError": 53.4740802720194,
+      "correctedError": 14.682094740707374
+    },
+    {
+      "seconds": 1.7833333333333334,
+      "tipBearingDegrees": 39.56736630788873,
+      "previousYawDegrees": -14.881342956056981,
+      "correctedYawDegrees": 24.01815414428711,
+      "previousForwardBearing": -14.769485476392568,
+      "correctedForwardBearing": 24.13001161717295,
+      "previousError": 54.3368517842813,
+      "correctedError": 15.437354690715782
+    },
+    {
+      "seconds": 1.8,
+      "tipBearingDegrees": 40.46210019763011,
+      "previousYawDegrees": -14.859119228045053,
+      "correctedYawDegrees": 24.14987564086914,
+      "previousForwardBearing": -14.747718762371704,
+      "correctedForwardBearing": 24.261276093078923,
+      "previousError": 55.20981896000181,
+      "correctedError": 16.200824104551184
+    },
+    {
+      "seconds": 1.8166666666666667,
+      "tipBearingDegrees": 41.3609593764886,
+      "previousYawDegrees": -14.837197735903896,
+      "correctedYawDegrees": 24.282207489013672,
+      "previousForwardBearing": -14.72624648962753,
+      "correctedForwardBearing": 24.393158727129094,
+      "previousError": 56.08720586611613,
+      "correctedError": 16.967800649359507
+    },
+    {
+      "seconds": 1.8333333333333333,
+      "tipBearingDegrees": 42.257932878328795,
+      "previousYawDegrees": -14.815602385295609,
+      "correctedYawDegrees": 24.41400909423828,
+      "previousForwardBearing": -14.70509203985906,
+      "correctedForwardBearing": 24.52451941735211,
+      "previousError": 56.963024918187855,
+      "correctedError": 17.733413460976685
+    },
+    {
+      "seconds": 1.85,
+      "tipBearingDegrees": 43.146939597647695,
+      "previousYawDegrees": -14.79436220452416,
+      "correctedYawDegrees": 24.54414176940918,
+      "previousForwardBearing": -14.68428393849962,
+      "correctedForwardBearing": 24.654220026106074,
+      "previousError": 57.83122353614731,
+      "correctedError": 18.49271957154162
+    },
+    {
+      "seconds": 1.8666666666666667,
+      "tipBearingDegrees": 44.02274521531897,
+      "previousYawDegrees": -14.773499391704357,
+      "correctedYawDegrees": 24.671634674072266,
+      "previousForwardBearing": -14.66384387033945,
+      "correctedForwardBearing": 24.78129017705754,
+      "previousError": 58.68658908565842,
+      "correctedError": 19.24145503826143
+    },
+    {
+      "seconds": 1.8833333333333333,
+      "tipBearingDegrees": 44.88731048193451,
+      "previousYawDegrees": -14.753044682687461,
+      "correctedYawDegrees": 24.796775817871094,
+      "previousForwardBearing": -14.643802028172912,
+      "correctedForwardBearing": 24.906018461220775,
+      "previousError": 59.53111251010743,
+      "correctedError": 19.981292020713738
+    },
+    {
+      "seconds": 1.9,
+      "tipBearingDegrees": 45.73450322975594,
+      "previousYawDegrees": -14.733020275588277,
+      "correctedYawDegrees": 24.91840362548828,
+      "previousForwardBearing": -14.62418013960635,
+      "correctedForwardBearing": 25.02724375346522,
+      "previousError": 60.35868336936229,
+      "correctedError": 20.707259476290716
+    },
+    {
+      "seconds": 1.9166666666666667,
+      "tipBearingDegrees": 46.55561273483954,
+      "previousYawDegrees": -14.713455198710776,
+      "correctedYawDegrees": 25.03494644165039,
+      "previousForwardBearing": -14.605006695890978,
+      "correctedForwardBearing": 25.14339494276683,
+      "previousError": 61.16061943073052,
+      "correctedError": 21.412217792072713
+    },
+    {
+      "seconds": 1.9333333333333333,
+      "tipBearingDegrees": 47.34175040362257,
+      "previousYawDegrees": -14.694373357717053,
+      "correctedYawDegrees": 25.144847869873047,
+      "previousForwardBearing": -14.586305116744931,
+      "correctedForwardBearing": 25.2529160989067,
+      "previousError": 61.9280555203675,
+      "correctedError": 22.08883430471587
+    },
+    {
+      "seconds": 1.95,
+      "tipBearingDegrees": 48.083820700783974,
+      "previousYawDegrees": -14.67580378091108,
+      "correctedYawDegrees": 25.24657440185547,
+      "previousForwardBearing": -14.568103927814366,
+      "correctedForwardBearing": 25.354274241209776,
+      "previousError": 62.65192462859834,
+      "correctedError": 22.7295464595742
+    },
+    {
+      "seconds": 1.9666666666666666,
+      "tipBearingDegrees": 48.77244759150374,
+      "previousYawDegrees": -14.657772081502246,
+      "correctedYawDegrees": 25.338586807250977,
+      "previousForwardBearing": -14.550428226215999,
+      "correctedForwardBearing": 25.445930653202844,
+      "previousError": 63.32287581771974,
+      "correctedError": 23.326516938300898
+    },
+    {
+      "seconds": 1.9833333333333334,
+      "tipBearingDegrees": 49.39812740087007,
+      "previousYawDegrees": -14.640302165152645,
+      "correctedYawDegrees": 25.41938018798828,
+      "previousForwardBearing": -14.533301463508922,
+      "correctedForwardBearing": 25.526380876024096,
+      "previousError": 63.93142886437899,
+      "correctedError": 23.87174652484597
+    },
+    {
+      "seconds": 2.0,
+      "tipBearingDegrees": 49.951137137989626,
+      "previousYawDegrees": -14.623423060166253,
+      "correctedYawDegrees": 25.487443923950195,
+      "previousForwardBearing": -14.516752115741204,
+      "correctedForwardBearing": 25.594114853870156,
+      "previousError": 64.46788925373083,
+      "correctedError": 24.35702228411947
+    },
+    {
+      "seconds": 2.0166666666666666,
+      "tipBearingDegrees": 50.42166555804299,
+      "previousYawDegrees": -14.60715867220516,
+      "correctedYawDegrees": 25.541284561157227,
+      "previousForwardBearing": -14.500803621606366,
+      "correctedForwardBearing": 25.647639601887903,
+      "previousError": 64.92246917964935,
+      "correctedError": 24.774025956155086
+    },
+    {
+      "seconds": 2.033333333333333,
+      "tipBearingDegrees": 50.79985249459861,
+      "previousYawDegrees": -14.591538029573341,
+      "correctedYawDegrees": 25.579421997070312,
+      "previousForwardBearing": -14.485484531235311,
+      "correctedForwardBearing": 25.685475484126457,
+      "previousError": 65.28533702583393,
+      "correctedError": 25.114377010472154
+    },
+    {
+      "seconds": 2.05,
+      "tipBearingDegrees": 51.07588554369124,
+      "previousYawDegrees": -14.57658503793289,
+      "correctedYawDegrees": 25.60038948059082,
+      "previousForwardBearing": -14.470818212712654,
+      "correctedForwardBearing": 25.70615629949299,
+      "previousError": 65.5467037564039,
+      "correctedError": 25.369729244198254
+    },
+    {
+      "seconds": 2.066666666666667,
+      "tipBearingDegrees": 51.24016413370663,
+      "previousYawDegrees": -14.562325310493195,
+      "correctedYawDegrees": 25.602739334106445,
+      "previousForwardBearing": -14.456829839247048,
+      "correctedForwardBearing": 25.70823479629199,
+      "previousError": 65.69699397295368,
+      "correctedError": 25.53192933741464
+    },
+    {
+      "seconds": 2.0833333333333335,
+      "tipBearingDegrees": 51.282224896659436,
+      "previousYawDegrees": -14.548789583105522,
+      "correctedYawDegrees": 25.584911346435547,
+      "previousForwardBearing": -14.443549911332203,
+      "correctedForwardBearing": 25.690151010174027,
+      "previousError": 65.72577480799164,
+      "correctedError": 25.59207388648541
+    },
+    {
+      "seconds": 2.1,
+      "tipBearingDegrees": 51.166992829423606,
+      "previousYawDegrees": -14.536000053884674,
+      "correctedYawDegrees": 25.542856216430664,
+      "previousForwardBearing": -14.431009817738003,
+      "correctedForwardBearing": 25.64784644474751,
+      "previousError": 65.59800264716161,
+      "correctedError": 25.519146384676095
+    },
+    {
+      "seconds": 2.1166666666666667,
+      "tipBearingDegrees": 50.90814094382118,
+      "previousYawDegrees": -14.523423968075388,
+      "correctedYawDegrees": 25.47842025756836,
+      "previousForwardBearing": -14.418684783150832,
+      "correctedForwardBearing": 25.5831594281325,
+      "previousError": 65.32682572697202,
+      "correctedError": 25.32498151568868
+    },
+    {
+      "seconds": 2.1333333333333333,
+      "tipBearingDegrees": 50.5451724357833,
+      "previousYawDegrees": -14.510537108658866,
+      "correctedYawDegrees": 25.396738052368164,
+      "previousForwardBearing": -14.406053749038096,
+      "correctedForwardBearing": 25.501221401831135,
+      "previousError": 64.9512261848214,
+      "correctedError": 25.043951033952165
+    },
+    {
+      "seconds": 2.15,
+      "tipBearingDegrees": 50.116617785883086,
+      "previousYawDegrees": -14.497390702053885,
+      "correctedYawDegrees": 25.303791046142578,
+      "previousForwardBearing": -14.393166930502112,
+      "correctedForwardBearing": 25.408014806201418,
+      "previousError": 64.5097847163852,
+      "correctedError": 24.708602979681668
+    },
+    {
+      "seconds": 2.1666666666666665,
+      "tipBearingDegrees": 49.65680222522051,
+      "previousYawDegrees": -14.484030852037339,
+      "correctedYawDegrees": 25.204984664916992,
+      "previousForwardBearing": -14.38006945323793,
+      "correctedForwardBearing": 25.30894605783649,
+      "previousError": 64.03687167845844,
+      "correctedError": 24.34785616738402
+    },
+    {
+      "seconds": 2.183333333333333,
+      "tipBearingDegrees": 49.19441755637516,
+      "previousYawDegrees": -14.470510492575299,
+      "correctedYawDegrees": 25.10492706298828,
+      "previousForwardBearing": -14.366813257573567,
+      "correctedForwardBearing": 25.208624289256083,
+      "previousError": 63.561230813948725,
+      "correctedError": 23.985793267119075
+    },
+    {
+      "seconds": 2.2,
+      "tipBearingDegrees": 48.7525340678418,
+      "previousYawDegrees": -14.456872312350077,
+      "correctedYawDegrees": 25.00743865966797,
+      "previousForwardBearing": -14.35344010212629,
+      "correctedForwardBearing": 25.1108708560054,
+      "previousError": 63.10597416996809,
+      "correctedError": 23.641663211836402
+    },
+    {
+      "seconds": 2.216666666666667,
+      "tipBearingDegrees": 48.34950595616362,
+      "previousYawDegrees": -14.443169245327738,
+      "correctedYawDegrees": 24.9156551361084,
+      "previousForwardBearing": -14.340001908173074,
+      "correctedForwardBearing": 25.01882246235492,
+      "previousError": 62.68950786433669,
+      "correctedError": 23.3306834938087
+    },
+    {
+      "seconds": 2.2333333333333334,
+      "tipBearingDegrees": 47.90504634058384,
+      "previousYawDegrees": -14.429445687737891,
+      "correctedYawDegrees": 24.814485549926758,
+      "previousForwardBearing": -14.326542131383542,
+      "correctedForwardBearing": 24.917389094281333,
+      "previousError": 62.23158847196738,
+      "correctedError": 22.987657246302504
+    },
+    {
+      "seconds": 2.25,
+      "tipBearingDegrees": 47.25229050959458,
+      "previousYawDegrees": -14.415752865999307,
+      "correctedYawDegrees": 24.672412872314453,
+      "previousForwardBearing": -14.313111028558065,
+      "correctedForwardBearing": 24.77505469735421,
+      "previousError": 61.56540153815264,
+      "correctedError": 22.47723581224037
+    },
+    {
+      "seconds": 2.2666666666666666,
+      "tipBearingDegrees": 46.42550193898923,
+      "previousYawDegrees": -14.402138591436179,
+      "correctedYawDegrees": 24.49534797668457,
+      "previousForwardBearing": -14.299755466858324,
+      "correctedForwardBearing": 24.59773108972667,
+      "previousError": 60.72525740584755,
+      "correctedError": 21.82777084926256
+    },
+    {
+      "seconds": 2.283333333333333,
+      "tipBearingDegrees": 45.460430927504646,
+      "previousYawDegrees": -14.38865238291999,
+      "correctedYawDegrees": 24.289941787719727,
+      "previousForwardBearing": -14.286524001954898,
+      "correctedForwardBearing": 24.39207015322727,
+      "previousError": 59.74695492945955,
+      "correctedError": 21.068360774277377
+    },
+    {
+      "seconds": 2.3,
+      "tipBearingDegrees": 44.3299897724491,
+      "previousYawDegrees": -14.375340344227634,
+      "correctedYawDegrees": 24.05240821838379,
+      "previousForwardBearing": -14.273461798972164,
+      "correctedForwardBearing": 24.154286742242608,
+      "previousError": 58.60345157142127,
+      "correctedError": 20.175703030206495
+    },
+    {
+      "seconds": 2.316666666666667,
+      "tipBearingDegrees": 43.03238083294378,
+      "previousYawDegrees": -14.362251994230597,
+      "correctedYawDegrees": 23.78301239013672,
+      "previousForwardBearing": -14.260617437854853,
+      "correctedForwardBearing": 23.884646929839366,
+      "previousError": 57.292998270798634,
+      "correctedError": 19.147733903104413
+    },
+    {
+      "seconds": 2.3333333333333335,
+      "tipBearingDegrees": 41.593873102286786,
+      "previousYawDegrees": -14.349433436705775,
+      "correctedYawDegrees": 23.48681640625,
+      "previousForwardBearing": -14.248036076943238,
+      "correctedForwardBearing": 23.588213758115614,
+      "previousError": 55.84190917923002,
+      "correctedError": 18.00565934417117
+    },
+    {
+      "seconds": 2.35,
+      "tipBearingDegrees": 40.03994589810142,
+      "previousYawDegrees": -14.336937605619237,
+      "correctedYawDegrees": 23.168869018554688,
+      "previousForwardBearing": -14.235769726213011,
+      "correctedForwardBearing": 23.2700368831924,
+      "previousError": 54.27571562431443,
+      "correctedError": 16.76990901490902
+    },
+    {
+      "seconds": 2.3666666666666667,
+      "tipBearingDegrees": 38.39536053103561,
+      "previousYawDegrees": -14.324808897200587,
+      "correctedYawDegrees": 22.83420181274414,
+      "previousForwardBearing": -14.223861867556753,
+      "correctedForwardBearing": 22.935148827332156,
+      "previousError": 52.619222398592356,
+      "correctedError": 15.46021170370345
+    },
+    {
+      "seconds": 2.3833333333333333,
+      "tipBearingDegrees": 36.684273968393775,
+      "previousYawDegrees": -14.313097684094954,
+      "correctedYawDegrees": 22.487817764282227,
+      "previousForwardBearing": -14.212361919027481,
+      "correctedForwardBearing": 22.58855352738787,
+      "previousError": 50.896635887421255,
+      "correctedError": 14.095720441005906
+    },
+    {
+      "seconds": 2.4,
+      "tipBearingDegrees": 34.93034231024763,
+      "previousYawDegrees": -14.301851777626528,
+      "correctedYawDegrees": 22.134675979614258,
+      "previousForwardBearing": -14.201316779111444,
+      "correctedForwardBearing": 22.235210971766453,
+      "previousError": 49.131659089359076,
+      "correctedError": 12.695131338481179
+    },
+    {
+      "seconds": 2.4166666666666665,
+      "tipBearingDegrees": 33.156802404844456,
+      "previousYawDegrees": -14.291120696666791,
+      "correctedYawDegrees": 21.779666900634766,
+      "previousForwardBearing": -14.190775050846636,
+      "correctedForwardBearing": 21.880012532166464,
+      "previousError": 47.347577455691095,
+      "correctedError": 11.276789872677991
+    },
+    {
+      "seconds": 2.433333333333333,
+      "tipBearingDegrees": 31.386579195287048,
+      "previousYawDegrees": -14.280949691218996,
+      "correctedYawDegrees": 21.427593231201172,
+      "previousForwardBearing": -14.180781071771415,
+      "correctedForwardBearing": 21.5277618352868,
+      "previousError": 45.56736026705846,
+      "correctedError": 9.858817360000248
+    },
+    {
+      "seconds": 2.45,
+      "tipBearingDegrees": 29.642320534743384,
+      "previousYawDegrees": -14.271390841475563,
+      "correctedYawDegrees": 21.0831356048584,
+      "previousForwardBearing": -14.17138598140489,
+      "correctedForwardBearing": 21.18314045216891,
+      "previousError": 43.81370651614827,
+      "correctedError": 8.459180082574473
+    },
+    {
+      "seconds": 2.466666666666667,
+      "tipBearingDegrees": 27.946401177700537,
+      "previousYawDegrees": -14.262490251213391,
+      "correctedYawDegrees": 20.750831604003906,
+      "previousForwardBearing": -14.162634996775068,
+      "correctedForwardBearing": 20.850686848564397,
+      "previousError": 42.109036174475605,
+      "correctedError": 7.09571432913614
+    },
+    {
+      "seconds": 2.4833333333333334,
+      "tipBearingDegrees": 26.321012865201897,
+      "previousYawDegrees": -14.254298293077607,
+      "correctedYawDegrees": 20.435047149658203,
+      "previousForwardBearing": -14.154577535660541,
+      "correctedForwardBearing": 20.534767900646077,
+      "previousError": 40.47559040086244,
+      "correctedError": 5.78624496455582
+    },
+    {
+      "seconds": 2.5,
+      "tipBearingDegrees": 24.78813122209591,
+      "previousYawDegrees": -14.246860217071463,
+      "correctedYawDegrees": 20.13998031616211,
+      "previousForwardBearing": -14.147257954127276,
+      "correctedForwardBearing": 20.239582564803847,
+      "previousError": 38.93538917622318,
+      "correctedError": 4.548548657292063
+    },
+    {
+      "seconds": 2.5166666666666666,
+      "tipBearingDegrees": 23.34683400095608,
+      "previousYawDegrees": -14.240227249613735,
+      "correctedYawDegrees": 19.865478515625,
+      "previousForwardBearing": -14.140726580432784,
+      "correctedForwardBearing": 19.964979172698882,
+      "previousError": 37.48756058138886,
+      "correctedError": 3.3818548282571967
+    },
+    {
+      "seconds": 2.533333333333333,
+      "tipBearingDegrees": 21.809966481892168,
+      "previousYawDegrees": -14.234446348254965,
+      "correctedYawDegrees": 19.577606201171875,
+      "previousForwardBearing": -14.13502941370726,
+      "correctedForwardBearing": 19.677023121855694,
+      "previousError": 35.944995895599426,
+      "correctedError": 2.1329433600364744
+    },
+    {
+      "seconds": 2.55,
+      "tipBearingDegrees": 20.151847635990723,
+      "previousYawDegrees": -14.229567031866637,
+      "correctedYawDegrees": 19.27264976501465,
+      "previousForwardBearing": -14.130215070006983,
+      "correctedForwardBearing": 19.372001717702563,
+      "previousError": 34.2820627059977,
+      "correctedError": 0.7798459182881601
+    },
+    {
+      "seconds": 2.566666666666667,
+      "tipBearingDegrees": 18.397674705674937,
+      "previousYawDegrees": -14.225636257999295,
+      "correctedYawDegrees": 18.956478118896484,
+      "previousForwardBearing": -14.126329588289444,
+      "correctedForwardBearing": 19.055784782138137,
+      "previousError": 32.52400429396438,
+      "correctedError": 0.6581100764631991
+    },
+    {
+      "seconds": 2.5833333333333335,
+      "tipBearingDegrees": 16.572150936948788,
+      "previousYawDegrees": -14.222701837977128,
+      "correctedYawDegrees": 18.63446044921875,
+      "previousForwardBearing": -14.123417554587093,
+      "correctedForwardBearing": 18.73374471830242,
+      "previousError": 30.69556849153588,
+      "correctedError": 2.161593781353634
+    },
+    {
+      "seconds": 2.6,
+      "tipBearingDegrees": 14.699574244050346,
+      "previousYawDegrees": -14.220814998218913,
+      "correctedYawDegrees": 18.311779022216797,
+      "previousForwardBearing": -14.121456137967618,
+      "correctedForwardBearing": 18.411137871055764,
+      "previousError": 28.821030382017966,
+      "correctedError": 3.711563627005418
+    },
+    {
+      "seconds": 2.6166666666666667,
+      "tipBearingDegrees": 12.803911388228114,
+      "previousYawDegrees": -14.220023550048836,
+      "correctedYawDegrees": 17.993385314941406,
+      "previousForwardBearing": -14.120463886162185,
+      "correctedForwardBearing": 18.09294496757144,
+      "previousError": 26.9243752743903,
+      "correctedError": 5.289033579343327
+    },
+    {
+      "seconds": 2.6333333333333333,
+      "tipBearingDegrees": 10.908710226027305,
+      "previousYawDegrees": -14.223904805044697,
+      "correctedYawDegrees": 17.6883602142334,
+      "previousForwardBearing": -14.124001514146366,
+      "correctedForwardBearing": 17.78826349590481,
+      "previousError": 25.03271174017367,
+      "correctedError": 6.879553269877507
+    },
+    {
+      "seconds": 2.65,
+      "tipBearingDegrees": 9.03708307914682,
+      "previousYawDegrees": -14.239283829734626,
+      "correctedYawDegrees": 17.409086227416992,
+      "previousForwardBearing": -14.138854078975978,
+      "correctedForwardBearing": 17.509515967977283,
+      "previousError": 23.1759371581228,
+      "correctedError": 8.472432888830463
+    },
+    {
+      "seconds": 2.6666666666666665,
+      "tipBearingDegrees": 7.211781494174894,
+      "previousYawDegrees": -14.265484435390796,
+      "correctedYawDegrees": 17.158042907714844,
+      "previousForwardBearing": -14.16435739446339,
+      "correctedForwardBearing": 17.259169939875513,
+      "previousError": 21.376138888638284,
+      "correctedError": 10.04738844570062
+    },
+    {
+      "seconds": 2.683333333333333,
+      "tipBearingDegrees": 5.455157669945533,
+      "previousYawDegrees": -14.301604183269115,
+      "correctedYawDegrees": 16.937137603759766,
+      "previousForwardBearing": -14.199622324561915,
+      "correctedForwardBearing": 17.03911945198498,
+      "previousError": 19.654779994507447,
+      "correctedError": 11.583961782039449
+    },
+    {
+      "seconds": 2.7,
+      "tipBearingDegrees": 3.789269694211737,
+      "previousYawDegrees": -14.34674234217279,
+      "correctedYawDegrees": 16.747983932495117,
+      "previousForwardBearing": -14.243761305001428,
+      "correctedForwardBearing": 16.850964951496668,
+      "previousError": 18.033030999213164,
+      "correctedError": 13.061695257284931
+    },
+    {
+      "seconds": 2.716666666666667,
+      "tipBearingDegrees": 2.2359321395932223,
+      "previousYawDegrees": -14.39999732713138,
+      "correctedYawDegrees": 16.591901779174805,
+      "previousForwardBearing": -14.29588588042281,
+      "correctedForwardBearing": 16.69601320901817,
+      "previousError": 16.531818020016033,
+      "correctedError": 14.460081069424946
+    },
+    {
+      "seconds": 2.7333333333333334,
+      "tipBearingDegrees": 0.8168138606143353,
+      "previousYawDegrees": -14.460466699400795,
+      "correctedYawDegrees": 16.469934463500977,
+      "previousForwardBearing": -14.355106828955625,
+      "correctedForwardBearing": 16.57529432163682,
+      "previousError": 15.17192068956996,
+      "correctedError": 15.758480461022486
+    },
+    {
+      "seconds": 2.75,
+      "tipBearingDegrees": -0.4465430149326197,
+      "previousYawDegrees": -14.527247166463303,
+      "correctedYawDegrees": 16.38285255432129,
+      "previousForwardBearing": -14.420534190993793,
+      "correctedForwardBearing": 16.489565517096352,
+      "previousError": 13.973991176061173,
+      "correctedError": 16.93610853202897
+    },
+    {
+      "seconds": 2.7666666666666666,
+      "tipBearingDegrees": -1.532480710592856,
+      "previousYawDegrees": -14.599438850895753,
+      "correctedYawDegrees": 16.331279754638672,
+      "previousForwardBearing": -14.491281723961851,
+      "correctedForwardBearing": 16.439436872485626,
+      "previousError": 12.958801013368996,
+      "correctedError": 17.971917583078483
+    },
+    {
+      "seconds": 2.783333333333333,
+      "tipBearingDegrees": -2.419380682526373,
+      "previousYawDegrees": -14.676140167727704,
+      "correctedYawDegrees": 16.315692901611328,
+      "previousForwardBearing": -14.566461747149454,
+      "correctedForwardBearing": 16.42537130941155,
+      "previousError": 12.14708106462308,
+      "correctedError": 18.844751991937922
+    },
+    {
+      "seconds": 2.8,
+      "tipBearingDegrees": -3.0854075271856822,
+      "previousYawDegrees": -14.756449531988713,
+      "correctedYawDegrees": 16.336624145507812,
+      "previousForwardBearing": -14.645186936409672,
+      "correctedForwardBearing": 16.447886723911648,
+      "previousError": 11.55977940922399,
+      "correctedError": 19.53329425109733
+    },
+    {
+      "seconds": 2.816666666666667,
+      "tipBearingDegrees": -3.4849774588991815,
+      "previousYawDegrees": -14.839463651161049,
+      "correctedYawDegrees": 16.403419494628906,
+      "previousForwardBearing": -14.72656870385471,
+      "correctedForwardBearing": 16.516314434228807,
+      "previousError": 11.24159124495553,
+      "correctedError": 20.001291893127988
+    },
+    {
+      "seconds": 2.8333333333333335,
+      "tipBearingDegrees": -3.6600093250837444,
+      "previousYawDegrees": -14.924280940274267,
+      "correctedYawDegrees": 16.51337432861328,
+      "previousForwardBearing": -14.809720576154364,
+      "correctedForwardBearing": 16.627934684015464,
+      "previousError": 11.14971125107062,
+      "correctedError": 20.28794400909921
+    },
+    {
+      "seconds": 2.85,
+      "tipBearingDegrees": -3.7777465139077675,
+      "previousYawDegrees": -15.010001521905219,
+      "correctedYawDegrees": 16.641658782958984,
+      "previousForwardBearing": -14.893758244939473,
+      "correctedForwardBearing": 16.75790204755561,
+      "previousError": 11.116011731031705,
+      "correctedError": 20.53564856146338
+    },
+    {
+      "seconds": 2.8666666666666667,
+      "tipBearingDegrees": -3.846685362992633,
+      "previousYawDegrees": -15.095718688441586,
+      "correctedYawDegrees": 16.784767150878906,
+      "previousForwardBearing": -14.977791137860114,
+      "correctedForwardBearing": 16.902694685115875,
+      "previousError": 11.131105774867482,
+      "correctedError": 20.74938004810851
+    },
+    {
+      "seconds": 2.8833333333333333,
+      "tipBearingDegrees": -3.8707496695251558,
+      "previousYawDegrees": -15.180537685102097,
+      "correctedYawDegrees": 16.939550399780273,
+      "previousForwardBearing": -15.060941004860792,
+      "correctedForwardBearing": 17.059147067856326,
+      "previousError": 11.190191335335637,
+      "correctedError": 20.929896737381483
+    },
+    {
+      "seconds": 2.9,
+      "tipBearingDegrees": -3.8548148419048016,
+      "previousYawDegrees": -15.26355009672714,
+      "correctedYawDegrees": 17.10243797302246,
+      "previousForwardBearing": -15.142316464130829,
+      "correctedForwardBearing": 17.223671601764323,
+      "previousError": 11.287501622226028,
+      "correctedError": 21.078486443669124
+    },
+    {
+      "seconds": 2.9166666666666665,
+      "tipBearingDegrees": -3.8050370224448846,
+      "previousYawDegrees": -15.34385946098815,
+      "correctedYawDegrees": 17.269306182861328,
+      "previousForwardBearing": -15.221038497742736,
+      "correctedForwardBearing": 17.392127139576427,
+      "previousError": 11.41600147529785,
+      "correctedError": 21.197164162021313
+    },
+    {
+      "seconds": 2.933333333333333,
+      "tipBearingDegrees": -3.729300634287446,
+      "previousYawDegrees": -15.4205607778201,
+      "correctedYawDegrees": 17.435380935668945,
+      "previousForwardBearing": -15.296219985954323,
+      "correctedForwardBearing": 17.559721713921235,
+      "previousError": 11.566919351666877,
+      "correctedError": 21.289022348208682
+    },
+    {
+      "seconds": 2.95,
+      "tipBearingDegrees": -3.637361297156079,
+      "previousYawDegrees": -15.49275246225255,
+      "correctedYawDegrees": 17.595203399658203,
+      "previousForwardBearing": -15.366977589495137,
+      "correctedForwardBearing": 17.72097826155351,
+      "previousError": 11.729616292339058,
+      "correctedError": 21.358339558709588
+    },
+    {
+      "seconds": 2.966666666666667,
+      "tipBearingDegrees": -3.5408321113452255,
+      "previousYawDegrees": -15.55953463686235,
+      "correctedYawDegrees": 17.74266242980957,
+      "previousForwardBearing": -15.432429952867144,
+      "correctedForwardBearing": 17.869767092124004,
+      "previousError": 11.891597841521918,
+      "correctedError": 21.41059920346923
+    },
+    {
+      "seconds": 2.9833333333333334,
+      "tipBearingDegrees": -3.4529752762745876,
+      "previousYawDegrees": -15.620002301584472,
+      "correctedYawDegrees": 17.871110916137695,
+      "previousForwardBearing": -15.491690871911848,
+      "correctedForwardBearing": 17.999422325257008,
+      "previousError": 12.03871559563726,
+      "correctedError": 21.452397601531594
+    },
+    {
+      "seconds": 3.0,
+      "tipBearingDegrees": -3.388047347892348,
+      "previousYawDegrees": -15.673257286543063,
+      "correctedYawDegrees": 17.973556518554688,
+      "previousForwardBearing": -15.543881083349818,
+      "correctedForwardBearing": 18.102932713753287,
+      "previousError": 12.15583373545747,
+      "correctedError": 21.490980061645637
+    },
+    {
+      "seconds": 3.0166666666666666,
+      "tipBearingDegrees": -3.3600325745882715,
+      "previousYawDegrees": -15.718394591673091,
+      "correctedYawDegrees": 18.043107986450195,
+      "previousForwardBearing": -15.588114543295628,
+      "correctedForwardBearing": 18.173388022214628,
+      "previousError": 12.228081968707357,
+      "correctedError": 21.533420596802898
+    },
+    {
+      "seconds": 3.033333333333333,
+      "tipBearingDegrees": -3.3500601269033146,
+      "previousYawDegrees": -15.754516047098704,
+      "correctedYawDegrees": 18.084304809570312,
+      "previousForwardBearing": -15.623512038706455,
+      "correctedForwardBearing": 18.21530880825396,
+      "previousError": 12.27345191180314,
+      "correctedError": 21.565368935157274
+    },
+    {
+      "seconds": 3.05,
+      "tipBearingDegrees": -3.301303483832318,
+      "previousYawDegrees": -15.78071494520758,
+      "correctedYawDegrees": 18.1162052154541,
+      "previousForwardBearing": -15.649185567473975,
+      "correctedForwardBearing": 18.247734586384954,
+      "previousError": 12.347882083641657,
+      "correctedError": 21.54903807021727
+    },
+    {
+      "seconds": 3.066666666666667,
+      "tipBearingDegrees": -3.2165157668655104,
+      "previousYawDegrees": -15.796094823671156,
+      "correctedYawDegrees": 18.13817596435547,
+      "previousForwardBearing": -15.664257155856365,
+      "correctedForwardBearing": 18.27001361575961,
+      "previousError": 12.447741388990854,
+      "correctedError": 21.48652938262512
+    },
+    {
+      "seconds": 3.0833333333333335,
+      "tipBearingDegrees": -3.100364627928278,
+      "previousYawDegrees": -15.799977786214308,
+      "correctedYawDegrees": 18.149194717407227,
+      "previousForwardBearing": -15.668062390203925,
+      "correctedForwardBearing": 18.281110098369087,
+      "previousError": 12.567697762275646,
+      "correctedError": 21.381474726297366
+    },
+    {
+      "seconds": 3.1,
+      "tipBearingDegrees": -2.957516636641811,
+      "previousYawDegrees": -15.799209389932683,
+      "correctedYawDegrees": 18.156879425048828,
+      "previousForwardBearing": -15.667311451412678,
+      "correctedForwardBearing": 18.288777350874444,
+      "previousError": 12.709794814770866,
+      "correctedError": 21.246293987516253
+    },
+    {
+      "seconds": 3.1166666666666667,
+      "tipBearingDegrees": -2.792617207994167,
+      "previousYawDegrees": -15.797363531309486,
+      "correctedYawDegrees": 18.16510009765625,
+      "previousForwardBearing": -15.665507486507783,
+      "correctedForwardBearing": 18.296956121230437,
+      "previousError": 12.872890278513616,
+      "correctedError": 21.089573329224603
+    },
+    {
+      "seconds": 3.1333333333333333,
+      "tipBearingDegrees": -2.6103650547015405,
+      "previousYawDegrees": -15.794465823554109,
+      "correctedYawDegrees": 18.173620223999023,
+      "previousForwardBearing": -15.662675544036894,
+      "correctedForwardBearing": 18.30541049618484,
+      "previousError": 13.052310489335353,
+      "correctedError": 20.91577555088638
+    },
+    {
+      "seconds": 3.15,
+      "tipBearingDegrees": -2.4154213647326888,
+      "previousYawDegrees": -15.790543587423228,
+      "correctedYawDegrees": 18.18219757080078,
+      "previousForwardBearing": -15.658842284979185,
+      "correctedForwardBearing": 18.313898859552438,
+      "previousError": 13.243420920246496,
+      "correctedError": 20.729320224285125
+    },
+    {
+      "seconds": 3.1666666666666665,
+      "tipBearingDegrees": -2.2125009432586538,
+      "previousYawDegrees": -15.785622436126234,
+      "correctedYawDegrees": 18.1905574798584,
+      "previousForwardBearing": -15.654032734661497,
+      "correctedForwardBearing": 18.322147165231325,
+      "previousError": 13.441531791402843,
+      "correctedError": 20.53464810848998
+    },
+    {
+      "seconds": 3.183333333333333,
+      "tipBearingDegrees": -2.0049114761028095,
+      "previousYawDegrees": -15.77972627532522,
+      "correctedYawDegrees": 18.198575973510742,
+      "previousForwardBearing": -15.648270166073067,
+      "correctedForwardBearing": 18.330032068285757,
+      "previousError": 13.643358689970256,
+      "correctedError": 20.334943544388565
+    },
+    {
+      "seconds": 3.2,
+      "tipBearingDegrees": -1.7510307432272687,
+      "previousYawDegrees": -15.772885840871453,
+      "correctedYawDegrees": 18.21187973022461,
+      "previousForwardBearing": -15.641584675613617,
+      "correctedForwardBearing": 18.34318088175697,
+      "previousError": 13.890553932386348,
+      "correctedError": 20.09421162498424
+    },
+    {
+      "seconds": 3.216666666666667,
+      "tipBearingDegrees": -1.4316748154195669,
+      "previousYawDegrees": -15.765123330879733,
+      "correctedYawDegrees": 18.23338508605957,
+      "previousForwardBearing": -15.633997846075264,
+      "correctedForwardBearing": 18.364510556695937,
+      "previousError": 14.202323030655696,
+      "correctedError": 19.796185372115502
+    },
+    {
+      "seconds": 3.2333333333333334,
+      "tipBearingDegrees": -1.0496638026247254,
+      "previousYawDegrees": -15.756466066106743,
+      "correctedYawDegrees": 18.26323699951172,
+      "previousForwardBearing": -15.625536356033349,
+      "correctedForwardBearing": 18.394166693576587,
+      "previousError": 14.575872553408624,
+      "correctedError": 19.44383049620131
+    },
+    {
+      "seconds": 3.25,
+      "tipBearingDegrees": -0.6078122932694593,
+      "previousYawDegrees": -15.74694136730916,
+      "correctedYawDegrees": 18.301563262939453,
+      "previousForwardBearing": -15.616226860086538,
+      "correctedForwardBearing": 18.43227774795881,
+      "previousError": 15.008414566817079,
+      "correctedError": 19.040090041228268
+    },
+    {
+      "seconds": 3.2666666666666666,
+      "tipBearingDegrees": -0.10890942085498742,
+      "previousYawDegrees": -15.736571432601789,
+      "correctedYawDegrees": 18.348491668701172,
+      "previousForwardBearing": -15.60609095068954,
+      "correctedForwardBearing": 18.478972125779844,
+      "previousError": 15.497181529834553,
+      "correctedError": 18.587881546634833
+    },
+    {
+      "seconds": 3.283333333333333,
+      "tipBearingDegrees": 0.44424165433428675,
+      "previousYawDegrees": -15.725388705383185,
+      "correctedYawDegrees": 18.40411376953125,
+      "previousForwardBearing": -15.595160412141215,
+      "correctedForwardBearing": 18.53434204235171,
+      "previousError": 16.039402066475503,
+      "correctedError": 18.090100388017422
+    },
+    {
+      "seconds": 3.3,
+      "tipBearingDegrees": 1.0488601532854112,
+      "previousYawDegrees": -15.71341367622086,
+      "correctedYawDegrees": 18.4685001373291,
+      "previousForwardBearing": -15.583455083572018,
+      "correctedForwardBearing": 18.598458712987558,
+      "previousError": 16.63231523685743,
+      "correctedError": 17.549598559702147
+    },
+    {
+      "seconds": 3.316666666666667,
+      "tipBearingDegrees": 1.7021758693667448,
+      "previousYawDegrees": -15.700675373418786,
+      "correctedYawDegrees": 18.541669845581055,
+      "previousForwardBearing": -15.571003352300451,
+      "correctedForwardBearing": 18.671341850621978,
+      "previousError": 17.273179221667196,
+      "correctedError": 16.969165981255234
+    },
+    {
+      "seconds": 3.3333333333333335,
+      "tipBearingDegrees": 2.3986495975653903,
+      "previousYawDegrees": -15.687197702639057,
+      "correctedYawDegrees": 18.622648239135742,
+      "previousForwardBearing": -15.557828491337057,
+      "correctedForwardBearing": 18.75201742747316,
+      "previousError": 17.956478088902447,
+      "correctedError": 16.353367829907768
+    },
+    {
+      "seconds": 3.35,
+      "tipBearingDegrees": 3.1292496915993007,
+      "previousYawDegrees": -15.67300969218565,
+      "correctedYawDegrees": 18.709259033203125,
+      "previousForwardBearing": -15.543958844907236,
+      "correctedForwardBearing": 18.83830986693988,
+      "previousError": 18.673208536506536,
+      "correctedError": 15.70906017534058
+    },
+    {
+      "seconds": 3.3666666666666667,
+      "tipBearingDegrees": 3.890057478318067,
+      "previousYawDegrees": -15.658133540173361,
+      "correctedYawDegrees": 18.80108642578125,
+      "previousForwardBearing": -15.529415996502557,
+      "correctedForwardBearing": 18.92980395865741,
+      "previousError": 19.419473474820624,
+      "correctedError": 15.039746480339343
+    },
+    {
+      "seconds": 3.3833333333333333,
+      "tipBearingDegrees": 4.677299511232281,
+      "previousYawDegrees": -15.64259998245346,
+      "correctedYawDegrees": 18.89773178100586,
+      "previousForwardBearing": -15.514230021291057,
+      "correctedForwardBearing": 19.026101730663,
+      "previousError": 20.19152953252334,
+      "correctedError": 14.34880221943072
+    },
+    {
+      "seconds": 3.4,
+      "tipBearingDegrees": 5.487166239420527,
+      "previousYawDegrees": -15.626431217140746,
+      "correctedYawDegrees": 18.99874496459961,
+      "previousForwardBearing": -15.498422464189902,
+      "correctedForwardBearing": 19.126753693950754,
+      "previousError": 20.98558870361043,
+      "correctedError": 13.639587454530226
+    },
+    {
+      "seconds": 3.4166666666666665,
+      "tipBearingDegrees": 6.315865794780926,
+      "previousYawDegrees": -15.609656272539196,
+      "correctedYawDegrees": 19.103652954101562,
+      "previousForwardBearing": -15.48202171998378,
+      "correctedForwardBearing": 19.23128749331218,
+      "previousError": 21.797887514764707,
+      "correctedError": 12.915421698531254
+    },
+    {
+      "seconds": 3.433333333333333,
+      "tipBearingDegrees": 7.159564982213876,
+      "previousYawDegrees": -15.592299054310901,
+      "correctedYawDegrees": 19.211929321289062,
+      "previousForwardBearing": -15.46505103411618,
+      "correctedForwardBearing": 19.33917733068159,
+      "previousError": 22.62461601633006,
+      "correctedError": 12.179612348467714
+    },
+    {
+      "seconds": 3.45,
+      "tipBearingDegrees": 8.014383673245554,
+      "previousYawDegrees": -15.574386883212542,
+      "correctedYawDegrees": 19.322999954223633,
+      "previousForwardBearing": -15.447537073498719,
+      "correctedForwardBearing": 19.4498497509164,
+      "previousError": 23.461920746744273,
+      "correctedError": 11.435466077670846
+    },
+    {
+      "seconds": 3.466666666666667,
+      "tipBearingDegrees": 8.876449098697288,
+      "previousYawDegrees": -15.555945372453508,
+      "correctedYawDegrees": 19.436267852783203,
+      "previousForwardBearing": -15.429504847675233,
+      "correctedForwardBearing": 19.562708367610067,
+      "previousError": 24.30595394637252,
+      "correctedError": 10.68625926891278
+    },
+    {
+      "seconds": 3.4833333333333334,
+      "tipBearingDegrees": 9.741803786723313,
+      "previousYawDegrees": -15.537000135243185,
+      "correctedYawDegrees": 19.551074981689453,
+      "previousForwardBearing": -15.410979322139303,
+      "correctedForwardBearing": 19.677095772812656,
+      "previousError": 25.152783108862614,
+      "correctedError": 9.935291986089343
+    },
+    {
+      "seconds": 3.5,
+      "tipBearingDegrees": 10.60645889368653,
+      "previousYawDegrees": -15.517578492338254,
+      "correctedYawDegrees": 19.666725158691406,
+      "previousForwardBearing": -15.391987147419668,
+      "correctedForwardBearing": 19.79231649335478,
+      "previousError": 25.9984460411062,
+      "correctedError": 9.18585759966825
+    },
+    {
+      "seconds": 3.5166666666666666,
+      "tipBearingDegrees": 11.46640358827101,
+      "previousYawDegrees": -15.497706056948102,
+      "correctedYawDegrees": 19.782499313354492,
+      "previousForwardBearing": -15.37255333532234,
+      "correctedForwardBearing": 19.90765202721022,
+      "previousError": 26.83895692359335,
+      "correctedError": 8.441248438939208
+    },
+    {
+      "seconds": 3.533333333333333,
+      "tipBearingDegrees": 12.317569705511435,
+      "previousYawDegrees": -15.477408442282117,
+      "correctedYawDegrees": 19.89763832092285,
+      "previousForwardBearing": -15.352702845817728,
+      "correctedForwardBearing": 20.022343904688626,
+      "previousError": 27.670272551329163,
+      "correctedError": 7.704774199177191
+    },
+    {
+      "seconds": 3.55,
+      "tipBearingDegrees": 13.155823235552912,
+      "previousYawDegrees": -15.456711261549685,
+      "correctedYawDegrees": 20.01133918762207,
+      "previousForwardBearing": -15.332460664749753,
+      "correctedForwardBearing": 20.135589773616477,
+      "previousError": 28.488283900302665,
+      "correctedError": 6.979766538063565
+    },
+    {
+      "seconds": 3.566666666666667,
+      "tipBearingDegrees": 14.013528813141214,
+      "previousYawDegrees": -15.43564354305478,
+      "correctedYawDegrees": 20.129064559936523,
+      "previousForwardBearing": -15.311855201175595,
+      "correctedForwardBearing": 20.25285288809813,
+      "previousError": 29.32538401431681,
+      "correctedError": 6.239324074956915
+    },
+    {
+      "seconds": 3.5833333333333335,
+      "tipBearingDegrees": 14.92256517922257,
+      "previousYawDegrees": -15.414229192459498,
+      "correctedYawDegrees": 20.25636863708496,
+      "previousForwardBearing": -15.290909751423886,
+      "correctedForwardBearing": 20.379688071915183,
+      "previousError": 30.213474930646456,
+      "correctedError": 5.457122892692613
+    },
+    {
+      "seconds": 3.6,
+      "tipBearingDegrees": 15.878116628544191,
+      "previousYawDegrees": -15.392492115425933,
+      "correctedYawDegrees": 20.392593383789062,
+      "previousForwardBearing": -15.269647595057354,
+      "correctedForwardBearing": 20.51543789337778,
+      "previousError": 31.147764223601545,
+      "correctedError": 4.637321264833588
+    },
+    {
+      "seconds": 3.6166666666666667,
+      "tipBearingDegrees": 16.875392545272984,
+      "previousYawDegrees": -15.37046304780535,
+      "correctedYawDegrees": 20.537052154541016,
+      "previousForwardBearing": -15.248098841488293,
+      "correctedForwardBearing": 20.659416338976108,
+      "previousError": 32.12349138676127,
+      "correctedError": 3.784023793703124
+    },
+    {
+      "seconds": 3.6333333333333333,
+      "tipBearingDegrees": 17.909492353233603,
+      "previousYawDegrees": -15.34816418771255,
+      "correctedYawDegrees": 20.688993453979492,
+      "previousForwardBearing": -15.226285086744403,
+      "correctedForwardBearing": 20.810872548923538,
+      "previousError": 33.13577743997801,
+      "correctedError": 2.901380195689935
+    },
+    {
+      "seconds": 3.65,
+      "tipBearingDegrees": 18.975530482260435,
+      "previousYawDegrees": -15.325624563451509,
+      "correctedYawDegrees": 20.847625732421875,
+      "previousForwardBearing": -15.20423475832846,
+      "correctedForwardBearing": 20.96901552005097,
+      "previousError": 34.17976524058889,
+      "correctedError": 1.9934850377905349
+    },
+    {
+      "seconds": 3.6666666666666665,
+      "tipBearingDegrees": 20.06854861761021,
+      "previousYawDegrees": -15.302868080684318,
+      "correctedYawDegrees": 21.01211166381836,
+      "previousForwardBearing": -15.181971143784667,
+      "correctedForwardBearing": 21.13300858076778,
+      "previousError": 35.25051976139488,
+      "correctedError": 1.0644599631575673
+    },
+    {
+      "seconds": 3.683333333333333,
+      "tipBearingDegrees": 21.183560792654394,
+      "previousYawDegrees": -15.27992206016766,
+      "correctedYawDegrees": 21.181556701660156,
+      "previousForwardBearing": -15.159520978664718,
+      "correctedForwardBearing": 21.301957772275507,
+      "previousError": 36.34308177131911,
+      "correctedError": 0.11839697962111373
+    },
+    {
+      "seconds": 3.7,
+      "tipBearingDegrees": 22.315810461811143,
+      "previousYawDegrees": -15.256812115110922,
+      "correctedYawDegrees": 21.3551025390625,
+      "previousForwardBearing": -15.136909277280843,
+      "correctedForwardBearing": 21.475005366475806,
+      "previousError": 37.45271973909199,
+      "correctedError": 0.8408050953353374
+    },
+    {
+      "seconds": 3.716666666666667,
+      "tipBearingDegrees": 23.460269001428824,
+      "previousYawDegrees": -15.23356385872349,
+      "correctedYawDegrees": 21.53179359436035,
+      "previousForwardBearing": -15.114161068333187,
+      "correctedForwardBearing": 21.651196367481482,
+      "previousError": 38.57443006976201,
+      "correctedError": 1.8090726339473413
+    },
+    {
+      "seconds": 3.7333333333333334,
+      "tipBearingDegrees": 24.611657609103926,
+      "previousYawDegrees": -15.210204611762048,
+      "correctedYawDegrees": 21.710575103759766,
+      "previousForwardBearing": -15.09130310977034,
+      "correctedForwardBearing": 21.829476583587887,
+      "previousError": 39.702960718874266,
+      "correctedError": 2.7821810255160386
+    },
+    {
+      "seconds": 3.75,
+      "tipBearingDegrees": 25.764679125266852,
+      "previousYawDegrees": -15.186759987435979,
+      "correctedYawDegrees": 21.890377044677734,
+      "previousForwardBearing": -15.068360416625241,
+      "correctedForwardBearing": 22.008776596503477,
+      "previousError": 40.83303954189209,
+      "correctedError": 3.755902528763375
+    },
+    {
+      "seconds": 3.7666666666666666,
+      "tipBearingDegrees": 26.913880022611743,
+      "previousYawDegrees": -15.163255598954672,
+      "correctedYawDegrees": 22.070079803466797,
+      "previousForwardBearing": -15.045357999846246,
+      "correctedForwardBearing": 22.187977387493685,
+      "previousError": 41.95923802245799,
+      "correctedError": 4.725902635118057
+    },
+    {
+      "seconds": 3.783333333333333,
+      "tipBearingDegrees": 28.053740402455077,
+      "previousYawDegrees": -15.1397204746221,
+      "correctedYawDegrees": 22.248538970947266,
+      "previousForwardBearing": -15.022324352892142,
+      "correctedForwardBearing": 22.36593508203645,
+      "previousError": 43.07606475534722,
+      "correctedError": 5.687805320418626
+    },
+    {
+      "seconds": 3.8,
+      "tipBearingDegrees": 29.178661430977012,
+      "previousYawDegrees": -15.116175105005775,
+      "correctedYawDegrees": 22.42458724975586,
+      "previousForwardBearing": -14.999279384512123,
+      "correctedForwardBearing": 22.54148295605627,
+      "previousError": 44.17794081548914,
+      "correctedError": 6.637178474920741
+    },
+    {
+      "seconds": 3.816666666666667,
+      "tipBearingDegrees": 30.282913855953158,
+      "previousYawDegrees": -15.092650225956959,
+      "correctedYawDegrees": 22.597030639648438,
+      "previousForwardBearing": -14.976253289153513,
+      "correctedForwardBearing": 22.713427562340705,
+      "previousError": 45.25916714510667,
+      "correctedError": 7.569486293612453
+    },
+    {
+      "seconds": 3.8333333333333335,
+      "tipBearingDegrees": 31.360733950553836,
+      "previousYawDegrees": -15.069169743137747,
+      "correctedYawDegrees": 22.764677047729492,
+      "previousForwardBearing": -14.953269407093712,
+      "correctedForwardBearing": 22.88057736408265,
+      "previousError": 46.31400335764755,
+      "correctedError": 8.480156586471185
+    },
+    {
+      "seconds": 3.85,
+      "tipBearingDegrees": 32.406230873611214,
+      "previousYawDegrees": -15.045759269757529,
+      "correctedYawDegrees": 22.92631721496582,
+      "previousForwardBearing": -14.930352801733704,
+      "correctedForwardBearing": 23.041723677728346,
+      "previousError": 47.33658367534492,
+      "correctedError": 9.364507195882869
+    },
+    {
+      "seconds": 3.8666666666666667,
+      "tipBearingDegrees": 33.41337662763255,
+      "previousYawDegrees": -15.022449541667568,
+      "correctedYawDegrees": 23.08072853088379,
+      "previousForwardBearing": -14.907533631513033,
+      "correctedForwardBearing": 23.195644419600715,
+      "previousError": 48.320910259145585,
+      "correctedError": 10.217732208031837
+    },
+    {
+      "seconds": 3.8833333333333333,
+      "tipBearingDegrees": 34.37607520496797,
+      "previousYawDegrees": -14.99925934188808,
+      "correctedYawDegrees": 23.22669792175293,
+      "previousForwardBearing": -14.884830206616963,
+      "correctedForwardBearing": 23.341127048172414,
+      "previousError": 49.26090541158493,
+      "correctedError": 11.034948156795554
+    },
+    {
+      "seconds": 3.9,
+      "tipBearingDegrees": 35.288103550353895,
+      "previousYawDegrees": -14.976221113817628,
+      "correctedYawDegrees": 23.36300277709961,
+      "previousForwardBearing": -14.862274356188303,
+      "correctedForwardBearing": 23.47694951443935,
+      "previousError": 50.1503779065422,
+      "correctedError": 11.811154035914544
+    },
+    {
+      "seconds": 3.9166666666666665,
+      "tipBearingDegrees": 36.14316811269523,
+      "previousYawDegrees": -14.953358763118302,
+      "correctedYawDegrees": 23.48843765258789,
+      "previousForwardBearing": -14.839889521817804,
+      "correctedForwardBearing": 23.601906885266008,
+      "previousError": 50.98305763451303,
+      "correctedError": 12.54126122742922
+    },
+    {
+      "seconds": 3.933333333333333,
+      "tipBearingDegrees": 36.96570150015329,
+      "previousYawDegrees": -14.930696195452201,
+      "correctedYawDegrees": 23.60763931274414,
+      "previousForwardBearing": -14.817699030509305,
+      "correctedForwardBearing": 23.720636458034292,
+      "previousError": 51.78340053066259,
+      "correctedError": 13.245065042118995
+    },
+    {
+      "seconds": 3.95,
+      "tipBearingDegrees": 37.813361163630645,
+      "previousYawDegrees": -14.908262439123295,
+      "correctedYawDegrees": 23.73154067993164,
+      "previousForwardBearing": -14.795731398474446,
+      "correctedForwardBearing": 23.844071710919767,
+      "previousError": 52.60909256210509,
+      "correctedError": 13.969289452710878
+    },
+    {
+      "seconds": 3.966666666666667,
+      "tipBearingDegrees": 38.682429606047826,
+      "previousYawDegrees": -14.886083107340971,
+      "correctedYawDegrees": 23.859424591064453,
+      "previousForwardBearing": -14.774011735960858,
+      "correctedForwardBearing": 23.971495949944334,
+      "previousError": 53.45644134200869,
+      "correctedError": 14.710933656103492
+    },
+    {
+      "seconds": 3.9833333333333334,
+      "tipBearingDegrees": 39.56721786805333,
+      "previousYawDegrees": -14.864182105767325,
+      "correctedYawDegrees": 23.990198135375977,
+      "previousForwardBearing": -14.75256341827394,
+      "correctedForwardBearing": 24.10181681196921,
+      "previousError": 54.31978128632727,
+      "correctedError": 15.465401056084122
+    },
+    {
+      "seconds": 4.0,
+      "tipBearingDegrees": 40.461967762178745,
+      "previousYawDegrees": -14.84258846270633,
+      "correctedYawDegrees": 24.122758865356445,
+      "previousForwardBearing": -14.731414985523969,
+      "correctedForwardBearing": 24.23393233450992,
+      "previousError": 55.193382747702714,
+      "correctedError": 16.228035427668825
+    },
+    {
+      "seconds": 4.016666666666667,
+      "tipBearingDegrees": 41.36082937983414,
+      "previousYawDegrees": -14.821327791367372,
+      "correctedYawDegrees": 24.2559871673584,
+      "previousForwardBearing": -14.710591496675509,
+      "correctedForwardBearing": 24.366723455474556,
+      "previousError": 56.07142087650965,
+      "correctedError": 16.994105924359587
+    },
+    {
+      "seconds": 4.033333333333333,
+      "tipBearingDegrees": 42.257795047582235,
+      "previousYawDegrees": -14.800422289865255,
+      "correctedYawDegrees": 24.388755798339844,
+      "previousForwardBearing": -14.690114686670517,
+      "correctedForwardBearing": 24.499063391835538,
+      "previousError": 56.947909734252754,
+      "correctedError": 17.758731655746697
+    },
+    {
+      "seconds": 4.05,
+      "tipBearingDegrees": 43.146810033479255,
+      "previousYawDegrees": -14.779904401598538,
+      "correctedYawDegrees": 24.519926071166992,
+      "previousForwardBearing": -14.67001648297092,
+      "correctedForwardBearing": 24.62981397776802,
+      "previousError": 57.81682651645018,
+      "correctedError": 18.516996055711235
+    },
+    {
+      "seconds": 4.066666666666666,
+      "tipBearingDegrees": 44.022626480350766,
+      "previousYawDegrees": -14.75979632468202,
+      "correctedYawDegrees": 24.648527145385742,
+      "previousForwardBearing": -14.650318590346936,
+      "correctedForwardBearing": 24.75800486529186,
+      "previousError": 58.6729450706977,
+      "correctedError": 19.264621615058907
+    },
+    {
+      "seconds": 4.083333333333333,
+      "tipBearingDegrees": 44.88722890049509,
+      "previousYawDegrees": -14.74012367232509,
+      "correctedYawDegrees": 24.77485466003418,
+      "previousForwardBearing": -14.631046114175641,
+      "correctedForwardBearing": 24.883932204439215,
+      "previousError": 59.51827501467073,
+      "correctedError": 20.003296696055873
+    },
+    {
+      "seconds": 4.1,
+      "tipBearingDegrees": 45.7344993480191,
+      "previousYawDegrees": -14.720913765284429,
+      "correctedYawDegrees": 24.897748947143555,
+      "previousForwardBearing": -14.612225904892448,
+      "correctedForwardBearing": 25.0064367889267,
+      "previousError": 60.34672525291155,
+      "correctedError": 20.7280625590924
+    },
+    {
+      "seconds": 4.116666666666666,
+      "tipBearingDegrees": 46.55571021703433,
+      "previousYawDegrees": -14.702193924316717,
+      "correctedYawDegrees": 25.015634536743164,
+      "previousForwardBearing": -14.593884763501668,
+      "correctedForwardBearing": 25.123943683346205,
+      "previousError": 61.149594980536,
+      "correctedError": 21.431766533688126
+    },
+    {
+      "seconds": 4.133333333333334,
+      "tipBearingDegrees": 47.341962941284415,
+      "previousYawDegrees": -14.68398976263134,
+      "correctedYawDegrees": 25.1269588470459,
+      "previousForwardBearing": -14.576047835938834,
+      "correctedForwardBearing": 25.234900760894604,
+      "previousError": 61.918010777223245,
+      "correctedError": 22.10706218038981
+    },
+    {
+      "seconds": 4.15,
+      "tipBearingDegrees": 48.084134792164775,
+      "previousYawDegrees": -14.666325185890395,
+      "correctedYawDegrees": 25.23017692565918,
+      "previousForwardBearing": -14.558738550459303,
+      "correctedForwardBearing": 25.33776354922311,
+      "previousError": 62.64287334262408,
+      "correctedError": 22.746371242941667
+    },
+    {
+      "seconds": 4.166666666666667,
+      "tipBearingDegrees": 48.77286767433096,
+      "previousYawDegrees": -14.64922751485056,
+      "correctedYawDegrees": 25.323759078979492,
+      "previousForwardBearing": -14.541983728047413,
+      "correctedForwardBearing": 25.431002858022946,
+      "previousError": 63.31485140237837,
+      "correctedError": 23.341864816308014
+    },
+    {
+      "seconds": 4.183333333333334,
+      "tipBearingDegrees": 49.39862702160639,
+      "previousYawDegrees": -14.632724070268518,
+      "correctedYawDegrees": 25.406190872192383,
+      "previousForwardBearing": -14.525810203371632,
+      "correctedForwardBearing": 25.51310472918907,
+      "previousError": 63.92443722497802,
+      "correctedError": 23.885522292417317
+    },
+    {
+      "seconds": 4.2,
+      "tipBearingDegrees": 49.95168758661125,
+      "previousYawDegrees": -14.61683875780636,
+      "correctedYawDegrees": 25.475961685180664,
+      "previousForwardBearing": -14.51024142445618,
+      "correctedForwardBearing": 25.582559010646822,
+      "previousError": 64.46192901106743,
+      "correctedError": 24.369128575964428
+    },
+    {
+      "seconds": 4.216666666666667,
+      "tipBearingDegrees": 50.42222607524127,
+      "previousYawDegrees": -14.601600605768061,
+      "correctedYawDegrees": 25.53157615661621,
+      "previousForwardBearing": -14.495305916734742,
+      "correctedForwardBearing": 25.63787083865211,
+      "previousError": 64.917531991976,
+      "correctedError": 24.78435523658916
+    },
+    {
+      "seconds": 4.233333333333333,
+      "tipBearingDegrees": 50.800362216245624,
+      "previousYawDegrees": -14.587033519815717,
+      "correctedYawDegrees": 25.57154655456543,
+      "previousForwardBearing": -14.481027138115245,
+      "correctedForwardBearing": 25.67755292695206,
+      "previousError": 65.28138935436087,
+      "correctedError": 25.122809289293563
+    },
+    {
+      "seconds": 4.25,
+      "tipBearingDegrees": 51.07629630704357,
+      "previousYawDegrees": -14.573163113158714,
+      "correctedYawDegrees": 25.594406127929688,
+      "previousForwardBearing": -14.467430184337113,
+      "correctedForwardBearing": 25.70013904802214,
+      "previousError": 65.54372649138068,
+      "correctedError": 25.37615725902143
+    },
+    {
+      "seconds": 4.266666666666667,
+      "tipBearingDegrees": 51.24037594550342,
+      "previousYawDegrees": -14.560018414101023,
+      "correctedYawDegrees": 25.59869384765625,
+      "previousForwardBearing": -14.454543602123826,
+      "correctedForwardBearing": 25.70416864673717,
+      "previousError": 65.69491954762725,
+      "correctedError": 25.536207298766254
+    },
+    {
+      "seconds": 4.283333333333333,
+      "tipBearingDegrees": 51.282127507918716,
+      "previousYawDegrees": -14.54761991321016,
+      "correctedYawDegrees": 25.582843780517578,
+      "previousForwardBearing": -14.442387725442492,
+      "correctedForwardBearing": 25.68807595793853,
+      "previousError": 65.7245152333612,
+      "correctedError": 25.594051549980186
+    },
+    {
+      "seconds": 4.3,
+      "tipBearingDegrees": 51.16539228429441,
+      "previousYawDegrees": -14.536000053884674,
+      "correctedYawDegrees": 25.542654037475586,
+      "previousForwardBearing": -14.43100372388565,
+      "correctedForwardBearing": 25.64765035868048,
+      "previousError": 65.59639600818006,
+      "correctedError": 25.517741925613933
+    },
+    {
+      "seconds": 4.316666666666666,
+      "tipBearingDegrees": 50.90384215387533,
+      "previousYawDegrees": -14.524672185146208,
+      "correctedYawDegrees": 25.480058670043945,
+      "previousForwardBearing": -14.419912419301834,
+      "correctedForwardBearing": 25.58481842637428,
+      "previousError": 65.32375457317717,
+      "correctedError": 25.31902372750105
+    },
+    {
+      "seconds": 4.333333333333333,
+      "tipBearingDegrees": 50.53762878199148,
+      "previousYawDegrees": -14.513161608847444,
+      "correctedYawDegrees": 25.400348663330078,
+      "previousForwardBearing": -14.408642019380729,
+      "correctedForwardBearing": 25.504868242651195,
+      "previousError": 64.94627080137221,
+      "correctedError": 25.032760539340284
+    },
+    {
+      "seconds": 4.35,
+      "tipBearingDegrees": 50.105882147637665,
+      "previousYawDegrees": -14.501490523103184,
+      "correctedYawDegrees": 25.3095645904541,
+      "previousForwardBearing": -14.397213976708215,
+      "correctedForwardBearing": 25.413841122861434,
+      "previousError": 64.50309612434589,
+      "correctedError": 24.69204102477623
+    },
+    {
+      "seconds": 4.366666666666666,
+      "tipBearingDegrees": 49.64334615022471,
+      "previousYawDegrees": -14.489691371311988,
+      "correctedYawDegrees": 25.213130950927734,
+      "previousForwardBearing": -14.385659957035019,
+      "correctedForwardBearing": 25.317162354471304,
+      "previousError": 64.02900610725973,
+      "correctedError": 24.326183795753405
+    },
+    {
+      "seconds": 4.383333333333334,
+      "tipBearingDegrees": 49.17905478321432,
+      "previousYawDegrees": -14.477793181777825,
+      "correctedYawDegrees": 25.115680694580078,
+      "previousForwardBearing": -14.37400821749872,
+      "correctedForwardBearing": 25.219465647633367,
+      "previousError": 63.55306300071304,
+      "correctedError": 23.959589135580952
+    },
+    {
+      "seconds": 4.4,
+      "tipBearingDegrees": 48.73628723979769,
+      "previousYawDegrees": -14.465828397899255,
+      "correctedYawDegrees": 25.021026611328125,
+      "previousForwardBearing": -14.362290449015717,
+      "correctedForwardBearing": 25.124564552869735,
+      "previousError": 63.09857768881341,
+      "correctedError": 23.611722686927955
+    },
+    {
+      "seconds": 4.416666666666667,
+      "tipBearingDegrees": 48.333560452343654,
+      "previousYawDegrees": -14.45381921779108,
+      "correctedYawDegrees": 24.932308197021484,
+      "previousForwardBearing": -14.35052811687576,
+      "correctedForwardBearing": 25.03559928610939,
+      "previousError": 62.68408856921941,
+      "correctedError": 23.297961166234263
+    },
+    {
+      "seconds": 4.433333333333334,
+      "tipBearingDegrees": 47.90164121896615,
+      "previousYawDegrees": -14.441803207493736,
+      "correctedYawDegrees": 24.836450576782227,
+      "previousForwardBearing": -14.33875800262761,
+      "correctedForwardBearing": 24.93949576959024,
+      "previousError": 62.24039922159376,
+      "correctedError": 22.962145449375907
+    },
+    {
+      "seconds": 4.45,
+      "tipBearingDegrees": 47.29351482936478,
+      "previousYawDegrees": -14.429805980216608,
+      "correctedYawDegrees": 24.705604553222656,
+      "previousForwardBearing": -14.32700496324124,
+      "correctedForwardBearing": 24.8084055606528,
+      "previousError": 61.62051979260602,
+      "correctedError": 22.48510926871198
+    },
+    {
+      "seconds": 4.466666666666667,
+      "tipBearingDegrees": 46.53924274933141,
+      "previousYawDegrees": -14.417854856716378,
+      "correctedYawDegrees": 24.54492950439453,
+      "previousForwardBearing": -14.31529559188191,
+      "correctedForwardBearing": 24.647488754525476,
+      "previousError": 60.85453834121331,
+      "correctedError": 21.89175399480593
+    },
+    {
+      "seconds": 4.483333333333333,
+      "tipBearingDegrees": 45.67001075114432,
+      "previousYawDegrees": -14.405982280391603,
+      "correctedYawDegrees": 24.360206604003906,
+      "previousForwardBearing": -14.303661607525404,
+      "correctedForwardBearing": 24.462527263756897,
+      "previousError": 59.973672358669724,
+      "correctedError": 21.20748348738742
+    },
+    {
+      "seconds": 4.5,
+      "tipBearingDegrees": 44.6526287765957,
+      "previousYawDegrees": -14.394213864451672,
+      "correctedYawDegrees": 24.146516799926758,
+      "previousForwardBearing": -14.29212785837229,
+      "correctedForwardBearing": 24.248602794202522,
+      "previousError": 58.94475663496799,
+      "correctedError": 20.404025982393176
+    },
+    {
+      "seconds": 4.516666666666667,
+      "tipBearingDegrees": 43.479732788532885,
+      "previousYawDegrees": -14.382583759842433,
+      "correctedYawDegrees": 23.90305519104004,
+      "previousForwardBearing": -14.280727755745978,
+      "correctedForwardBearing": 24.004911174754664,
+      "previousError": 57.760460544278864,
+      "correctedError": 19.47482161377822
+    },
+    {
+      "seconds": 4.533333333333333,
+      "tipBearingDegrees": 42.17296666641176,
+      "previousYawDegrees": -14.371117579773275,
+      "correctedYawDegrees": 23.633956909179688,
+      "previousForwardBearing": -14.269486189232484,
+      "correctedForwardBearing": 23.735588287365243,
+      "previousError": 56.44245285564425,
+      "correctedError": 18.437378379046518
+    },
+    {
+      "seconds": 4.55,
+      "tipBearingDegrees": 40.753369150703065,
+      "previousYawDegrees": -14.359847767642753,
+      "correctedYawDegrees": 23.34334373474121,
+      "previousForwardBearing": -14.258434864553001,
+      "correctedForwardBearing": 23.44475662043565,
+      "previousError": 55.01180401525607,
+      "correctedError": 17.308612530267414
+    },
+    {
+      "seconds": 4.566666666666666,
+      "tipBearingDegrees": 39.24143938504616,
+      "previousYawDegrees": -14.348799936660257,
+      "correctedYawDegrees": 23.03533363342285,
+      "previousForwardBearing": -14.24759868357761,
+      "correctedForwardBearing": 23.13653487835173,
+      "previousError": 53.48903806862377,
+      "correctedError": 16.104904506694428
+    },
+    {
+      "seconds": 4.583333333333333,
+      "tipBearingDegrees": 37.65716973230028,
+      "previousYawDegrees": -14.338004822677052,
+      "correctedYawDegrees": 22.714035034179688,
+      "previousForwardBearing": -14.237007648036485,
+      "correctedForwardBearing": 22.815032204132024,
+      "previousError": 51.89417738033677,
+      "correctedError": 14.842137528168259
+    },
+    {
+      "seconds": 4.6,
+      "tipBearingDegrees": 36.020141980075124,
+      "previousYawDegrees": -14.327493161544403,
+      "correctedYawDegrees": 22.383533477783203,
+      "previousForwardBearing": -14.226691745151827,
+      "correctedForwardBearing": 22.48433487853125,
+      "previousError": 50.24683372522695,
+      "correctedError": 13.535807101543874
+    },
+    {
+      "seconds": 4.616666666666666,
+      "tipBearingDegrees": 34.34959399533724,
+      "previousYawDegrees": -14.317293127792635,
+      "correctedYawDegrees": 22.047874450683594,
+      "previousForwardBearing": -14.216678469929187,
+      "correctedForwardBearing": 22.14848910288234,
+      "previousError": 48.56627246526642,
+      "correctedError": 12.201104892454897
+    },
+    {
+      "seconds": 4.633333333333334,
+      "tipBearingDegrees": 32.66446142376239,
+      "previousYawDegrees": -14.307433749725721,
+      "correctedYawDegrees": 21.71105194091797,
+      "previousForwardBearing": -14.206996107254167,
+      "correctedForwardBearing": 21.811489570037452,
+      "previousError": 46.87145753101656,
+      "correctedError": 10.852971853724938
+    },
+    {
+      "seconds": 4.65,
+      "tipBearingDegrees": 30.983462825427672,
+      "previousYawDegrees": -14.297945763194928,
+      "correctedYawDegrees": 21.376983642578125,
+      "previousForwardBearing": -14.197674671696504,
+      "correctedForwardBearing": 21.477254723235866,
+      "previousError": 45.181137497124176,
+      "correctedError": 9.506208102191806
+    },
+    {
+      "seconds": 4.666666666666667,
+      "tipBearingDegrees": 29.325100229653952,
+      "previousYawDegrees": -14.288858196504226,
+      "correctedYawDegrees": 21.049489974975586,
+      "previousForwardBearing": -14.18874247736913,
+      "correctedForwardBearing": 21.149605687366602,
+      "previousError": 43.51384270702308,
+      "correctedError": 8.17549454228735
+    },
+    {
+      "seconds": 4.683333333333334,
+      "tipBearingDegrees": 27.707665956996667,
+      "previousYawDegrees": -14.280198370410295,
+      "correctedYawDegrees": 20.732267379760742,
+      "previousForwardBearing": -14.180226135511054,
+      "correctedForwardBearing": 20.832239599577985,
+      "previousError": 41.88789209250772,
+      "correctedError": 6.875426357418682
+    },
+    {
+      "seconds": 4.7,
+      "tipBearingDegrees": 26.149317444438772,
+      "previousYawDegrees": -14.27199531321711,
+      "correctedYawDegrees": 20.428897857666016,
+      "previousForwardBearing": -14.172153971245802,
+      "correctedForwardBearing": 20.528739193036454,
+      "previousError": 40.32147141568457,
+      "correctedError": 5.620578251402318
+    },
+    {
+      "seconds": 4.716666666666667,
+      "tipBearingDegrees": 24.668011144403557,
+      "previousYawDegrees": -14.264281468323226,
+      "correctedYawDegrees": 20.14280128479004,
+      "previousForwardBearing": -14.164557681072116,
+      "correctedForwardBearing": 20.242525062496867,
+      "previousError": 38.832568825475676,
+      "correctedError": 4.425486081906691
+    },
+    {
+      "seconds": 4.733333333333333,
+      "tipBearingDegrees": 23.281583408432265,
+      "previousYawDegrees": -14.257085010258972,
+      "correctedYawDegrees": 19.877256393432617,
+      "previousForwardBearing": -14.15746474438468,
+      "correctedForwardBearing": 19.976876641696816,
+      "previousError": 37.439048152816945,
+      "correctedError": 3.3047067667354497
+    },
+    {
+      "seconds": 4.75,
+      "tipBearingDegrees": 21.966285596650167,
+      "previousYawDegrees": -14.250434967328319,
+      "correctedYawDegrees": 19.62786293029785,
+      "previousForwardBearing": -14.150903452783115,
+      "correctedForwardBearing": 19.727394436057924,
+      "previousError": 36.11718904943328,
+      "correctedError": 2.2388911605922424
+    },
+    {
+      "seconds": 4.766666666666667,
+      "tipBearingDegrees": 20.56971239252155,
+      "previousYawDegrees": -14.244360367835238,
+      "correctedYawDegrees": 19.367198944091797,
+      "previousForwardBearing": -14.144902145706734,
+      "correctedForwardBearing": 19.466657158855796,
+      "previousError": 34.71461453822828,
+      "correctedError": 1.1030552336657529
+    },
+    {
+      "seconds": 4.783333333333333,
+      "tipBearingDegrees": 19.091019749102042,
+      "previousYawDegrees": -14.238889386310058,
+      "correctedYawDegrees": 19.09605598449707,
+      "previousForwardBearing": -14.139488258020991,
+      "correctedForwardBearing": 19.19545710117991,
+      "previousError": 33.230508007123035,
+      "correctedError": 0.10443735207786986
+    },
+    {
+      "seconds": 4.8,
+      "tipBearingDegrees": 17.546865127630184,
+      "previousYawDegrees": -14.234054466151335,
+      "correctedYawDegrees": 18.818119049072266,
+      "previousForwardBearing": -14.134693502541392,
+      "correctedForwardBearing": 18.917479999237635,
+      "previousError": 31.681558630171576,
+      "correctedError": 1.3706148716074509
+    },
+    {
+      "seconds": 4.816666666666666,
+      "tipBearingDegrees": 15.95368401587392,
+      "previousYawDegrees": -14.229882074342104,
+      "correctedYawDegrees": 18.53693199157715,
+      "previousForwardBearing": -14.130496099138663,
+      "correctedForwardBearing": 18.63631795515958,
+      "previousError": 30.084180115012582,
+      "correctedError": 2.68263393928566
+    },
+    {
+      "seconds": 4.833333333333333,
+      "tipBearingDegrees": 14.327704172097093,
+      "previousYawDegrees": -14.226401239186336,
+      "correctedYawDegrees": 18.25593376159668,
+      "previousForwardBearing": -14.126881713242415,
+      "correctedForwardBearing": 18.355453280366174,
+      "previousError": 28.454585885339508,
+      "correctedError": 4.027749108269081
+    },
+    {
+      "seconds": 4.85,
+      "tipBearingDegrees": 12.684956683579125,
+      "previousYawDegrees": -14.223645257856235,
+      "correctedYawDegrees": 17.978425979614258,
+      "previousForwardBearing": -14.123890277647178,
+      "correctedForwardBearing": 18.078180950554437,
+      "previousError": 26.8088469612263,
+      "correctedError": 5.393224266975311
+    },
+    {
+      "seconds": 4.866666666666666,
+      "tipBearingDegrees": 11.041229490931416,
+      "previousYawDegrees": -14.221638889787545,
+      "correctedYawDegrees": 17.70754623413086,
+      "previousForwardBearing": -14.121553147967877,
+      "correctedForwardBearing": 17.807631972736914,
+      "previousError": 25.162782638899294,
+      "correctedError": 6.766402481805498
+    },
+    {
+      "seconds": 4.883333333333334,
+      "tipBearingDegrees": 9.412071687377468,
+      "previousYawDegrees": -14.220413724605173,
+      "correctedYawDegrees": 17.44622230529785,
+      "previousForwardBearing": -14.119908463489578,
+      "correctedForwardBearing": 17.54672755735635,
+      "previousError": 23.531980150867046,
+      "correctedError": 8.13465586997888
+    },
+    {
+      "seconds": 4.9,
+      "tipBearingDegrees": 7.812820475734807,
+      "previousYawDegrees": -14.219999644386741,
+      "correctedYawDegrees": 17.197174072265625,
+      "previousForwardBearing": -14.118992586783007,
+      "correctedForwardBearing": 17.298181119406777,
+      "previousError": 21.931813062517815,
+      "correctedError": 9.48536064367197
+    },
+    {
+      "seconds": 4.916666666666667,
+      "tipBearingDegrees": 6.258569806446455,
+      "previousYawDegrees": -14.226629196749885,
+      "correctedYawDegrees": 16.970245361328125,
+      "previousForwardBearing": -14.125000220882326,
+      "correctedForwardBearing": 17.071874326295383,
+      "previousError": 20.38357002732878,
+      "correctedError": 10.813304519848927
+    },
+    {
+      "seconds": 4.933333333333334,
+      "tipBearingDegrees": 4.764261461667261,
+      "previousYawDegrees": -14.24582885850679,
+      "correctedYawDegrees": 16.77382469177246,
+      "previousForwardBearing": -14.143423919299892,
+      "correctedForwardBearing": 16.876229620549374,
+      "previousError": 18.907685380967152,
+      "correctedError": 12.111968158882114
+    },
+    {
+      "seconds": 4.95,
+      "tipBearingDegrees": 3.3446453172461412,
+      "previousYawDegrees": -14.276571539961019,
+      "correctedYawDegrees": 16.60811424255371,
+      "previousForwardBearing": -14.173248863431409,
+      "correctedForwardBearing": 16.711436910151953,
+      "previousError": 17.51789418067755,
+      "correctedError": 13.366791592905813
+    },
+    {
+      "seconds": 4.966666666666667,
+      "tipBearingDegrees": 2.0143516579094283,
+      "previousYawDegrees": -14.317824175000602,
+      "correctedYawDegrees": 16.473203659057617,
+      "previousForwardBearing": -14.213454273501618,
+      "correctedForwardBearing": 16.577573548449045,
+      "previousError": 16.227805931411048,
+      "correctedError": 14.563221890539618
+    },
+    {
+      "seconds": 4.983333333333333,
+      "tipBearingDegrees": 0.7879708806641146,
+      "previousYawDegrees": -14.368556258834518,
+      "correctedYawDegrees": 16.36907196044922,
+      "previousForwardBearing": -14.263021979868812,
+      "correctedForwardBearing": 16.474606225454817,
+      "previousError": 15.050992860532926,
+      "correctedError": 15.686635344790702
+    },
+    {
+      "seconds": 5.0,
+      "tipBearingDegrees": -0.3199985277334043,
+      "previousYawDegrees": -14.427738140445387,
+      "correctedYawDegrees": 16.29559898376465,
+      "previousForwardBearing": -14.320934761850046,
+      "correctedForwardBearing": 16.402402344451346,
+      "previousError": 14.000936234116642,
+      "correctedError": 16.72240087218475
+    },
+    {
+      "seconds": 5.016666666666667,
+      "tipBearingDegrees": -1.2950049147007905,
+      "previousYawDegrees": -14.49433931504218,
+      "correctedYawDegrees": 16.252614974975586,
+      "previousForwardBearing": -14.386174833451944,
+      "correctedForwardBearing": 16.360779442151753,
+      "previousError": 13.091169918751154,
+      "correctedError": 17.655784356852543
+    },
+    {
+      "seconds": 5.033333333333333,
+      "tipBearingDegrees": -2.1225021805726176,
+      "previousYawDegrees": -14.567330131607523,
+      "correctedYawDegrees": 16.239910125732422,
+      "previousForwardBearing": -14.457725519294224,
+      "correctedForwardBearing": 16.349514728422317,
+      "previousError": 12.335223338721606,
+      "correctedError": 18.472016908994934
+    },
+    {
+      "seconds": 5.05,
+      "tipBearingDegrees": -2.7878316036556585,
+      "previousYawDegrees": -14.64567923157674,
+      "correctedYawDegrees": 16.257301330566406,
+      "previousForwardBearing": -14.534568771861563,
+      "correctedForwardBearing": 16.368411778434176,
+      "previousError": 11.746737168205904,
+      "correctedError": 19.156243382089833
+    },
+    {
+      "seconds": 5.066666666666666,
+      "tipBearingDegrees": -3.2545602226257944,
+      "previousYawDegrees": -14.728353548837866,
+      "correctedYawDegrees": 16.312589645385742,
+      "previousForwardBearing": -14.61568523431865,
+      "correctedForwardBearing": 16.42525795220326,
+      "previousError": 11.361125011692856,
+      "correctedError": 19.679818174829055
+    },
+    {
+      "seconds": 5.083333333333333,
+      "tipBearingDegrees": -3.4933375526095762,
+      "previousYawDegrees": -14.8143285550154,
+      "correctedYawDegrees": 16.4122371673584,
+      "previousForwardBearing": -14.7000644413232,
+      "correctedForwardBearing": 16.526501258784233,
+      "previousError": 11.206726888713623,
+      "correctedError": 20.01983881139381
+    },
+    {
+      "seconds": 5.1,
+      "tipBearingDegrees": -3.625453445649068,
+      "previousYawDegrees": -14.902569476450088,
+      "correctedYawDegrees": 16.53755760192871,
+      "previousForwardBearing": -14.786686217704696,
+      "correctedForwardBearing": 16.653440845950808,
+      "previousError": 11.161232772055628,
+      "correctedError": 20.278894291599876
+    },
+    {
+      "seconds": 5.116666666666666,
+      "tipBearingDegrees": -3.714191174603924,
+      "previousYawDegrees": -14.992046662124547,
+      "correctedYawDegrees": 16.677810668945312,
+      "previousForwardBearing": -14.874535870646444,
+      "correctedForwardBearing": 16.795321451841357,
+      "previousError": 11.16034469604252,
+      "correctedError": 20.50951262644528
+    },
+    {
+      "seconds": 5.133333333333334,
+      "tipBearingDegrees": -3.762264044119171,
+      "previousYawDegrees": -15.081730461021401,
+      "correctedYawDegrees": 16.830184936523438,
+      "previousForwardBearing": -14.962599255811371,
+      "correctedForwardBearing": 16.949316132346762,
+      "previousError": 11.2003352116922,
+      "correctedError": 20.711580176465933
+    },
+    {
+      "seconds": 5.15,
+      "tipBearingDegrees": -3.773158968022443,
+      "previousYawDegrees": -15.170587807028681,
+      "correctedYawDegrees": 16.991485595703125,
+      "previousForwardBearing": -15.049859143099562,
+      "correctedForwardBearing": 17.11221424559701,
+      "previousError": 11.276700175077119,
+      "correctedError": 20.885373213619452
+    },
+    {
+      "seconds": 5.166666666666667,
+      "tipBearingDegrees": -3.7513603997211495,
+      "previousYawDegrees": -15.257594171770888,
+      "correctedYawDegrees": 17.15809440612793,
+      "previousForwardBearing": -15.135307348356106,
+      "correctedForwardBearing": 17.280381215888493,
+      "previousError": 11.383946948634957,
+      "correctedError": 21.031741615609644
+    },
+    {
+      "seconds": 5.183333333333334,
+      "tipBearingDegrees": -3.7027499518693703,
+      "previousYawDegrees": -15.34171136649418,
+      "correctedYawDegrees": 17.32582664489746,
+      "previousForwardBearing": -15.217922423008442,
+      "correctedForwardBearing": 17.4496155821443,
+      "previousError": 11.515172471139072,
+      "correctedError": 21.152365534013672
+    },
+    {
+      "seconds": 5.2,
+      "tipBearingDegrees": -3.6347418475431437,
+      "previousYawDegrees": -15.421914862823055,
+      "correctedYawDegrees": 17.489912033081055,
+      "previousForwardBearing": -15.29669693354408,
+      "correctedForwardBearing": 17.61512995302555,
+      "previousError": 11.661955086000937,
+      "correctedError": 21.249871800568695
+    },
+    {
+      "seconds": 5.216666666666667,
+      "tipBearingDegrees": -3.5563589280288777,
+      "previousYawDegrees": -15.497173302192842,
+      "correctedYawDegrees": 17.645004272460938,
+      "previousForwardBearing": -15.370616888812968,
+      "correctedForwardBearing": 17.771560667455113,
+      "previousError": 11.81425796078409,
+      "correctedError": 21.32791959548399
+    },
+    {
+      "seconds": 5.233333333333333,
+      "tipBearingDegrees": -3.4781514321396503,
+      "previousYawDegrees": -15.566453618491574,
+      "correctedYawDegrees": 17.785213470458984,
+      "previousForwardBearing": -15.438666884268473,
+      "correctedForwardBearing": 17.913000199179134,
+      "previousError": 11.960515452128822,
+      "correctedError": 21.391151631318785
+    },
+    {
+      "seconds": 5.25,
+      "tipBearingDegrees": -3.4117717552822198,
+      "previousYawDegrees": -15.628727868249165,
+      "correctedYawDegrees": 17.904273986816406,
+      "previousForwardBearing": -15.499836850532725,
+      "correctedForwardBearing": 18.033164983420455,
+      "previousError": 12.088065095250506,
+      "correctedError": 21.444936738702676
+    },
+    {
+      "seconds": 5.266666666666667,
+      "tipBearingDegrees": -3.369230125185033,
+      "previousYawDegrees": -15.682962985353651,
+      "correctedYawDegrees": 17.995798110961914,
+      "previousForwardBearing": -15.553111598936322,
+      "correctedForwardBearing": 18.125649488141114,
+      "previousError": 12.183881473751288,
+      "correctedError": 21.494879613326148
+    },
+    {
+      "seconds": 5.283333333333333,
+      "tipBearingDegrees": -3.3600346472880807,
+      "previousYawDegrees": -15.728132733882237,
+      "correctedYawDegrees": 18.054237365722656,
+      "previousForwardBearing": -15.59748281751264,
+      "correctedForwardBearing": 18.184887272914988,
+      "previousError": 12.23744817022456,
+      "correctedError": 21.54492192020307
+    },
+    {
+      "seconds": 5.3,
+      "tipBearingDegrees": -3.3349683473216647,
+      "previousYawDegrees": -15.763200632628376,
+      "correctedYawDegrees": 18.094783782958984,
+      "previousForwardBearing": -15.631931939795173,
+      "correctedForwardBearing": 18.226052456874477,
+      "previousError": 12.296963592473508,
+      "correctedError": 21.56102080419614
+    },
+    {
+      "seconds": 5.316666666666666,
+      "tipBearingDegrees": -3.2711265374453946,
+      "previousYawDegrees": -15.787142153216562,
+      "correctedYawDegrees": 18.125192642211914,
+      "previousForwardBearing": -15.655451972128567,
+      "correctedForwardBearing": 18.256882801460613,
+      "previousError": 12.384325434683173,
+      "correctedError": 21.528009338906006
+    },
+    {
+      "seconds": 5.333333333333333,
+      "tipBearingDegrees": -3.1731791225264723,
+      "previousYawDegrees": -15.798922521987542,
+      "correctedYawDegrees": 18.14403533935547,
+      "previousForwardBearing": -15.667025486332802,
+      "correctedForwardBearing": 18.275932353868264,
+      "previousError": 12.49384636380633,
+      "correctedError": 21.449111476394737
+    },
+    {
+      "seconds": 5.35,
+      "tipBearingDegrees": -3.045781525585176,
+      "previousYawDegrees": -15.79992485224824,
+      "correctedYawDegrees": 18.15265655517578,
+      "previousForwardBearing": -15.668011577371567,
+      "correctedForwardBearing": 18.284569818142067,
+      "previousError": 12.622230051786392,
+      "correctedError": 21.330351343727244
+    },
+    {
+      "seconds": 5.366666666666666,
+      "tipBearingDegrees": -2.893588596258043,
+      "previousYawDegrees": -15.799472352215728,
+      "correctedYawDegrees": 18.161521911621094,
+      "previousForwardBearing": -15.667575013043482,
+      "correctedForwardBearing": 18.293419230445583,
+      "previousError": 12.773986416785439,
+      "correctedError": 21.187007826703628
+    },
+    {
+      "seconds": 5.383333333333334,
+      "tipBearingDegrees": -2.721259493546165,
+      "previousYawDegrees": -15.798610040833013,
+      "correctedYawDegrees": 18.171588897705078,
+      "previousForwardBearing": -15.666742880989855,
+      "correctedForwardBearing": 18.30345604791855,
+      "previousError": 12.945483387443689,
+      "correctedError": 21.024715541464715
+    },
+    {
+      "seconds": 5.4,
+      "tipBearingDegrees": -2.5334688807176207,
+      "previousYawDegrees": -15.797343040741977,
+      "correctedYawDegrees": 18.182601928710938,
+      "previousForwardBearing": -15.665520100640101,
+      "correctedForwardBearing": 18.314424852119135,
+      "previousError": 13.13205121992248,
+      "correctedError": 20.847893732836756
+    },
+    {
+      "seconds": 5.416666666666667,
+      "tipBearingDegrees": -2.3349075770488943,
+      "previousYawDegrees": -15.795671351942616,
+      "correctedYawDegrees": 18.19427490234375,
+      "previousForwardBearing": -15.663906427147126,
+      "correctedForwardBearing": 18.32603981882659,
+      "previousError": 13.32899885009823,
+      "correctedError": 20.660947395875485
+    },
+    {
+      "seconds": 5.433333333333334,
+      "tipBearingDegrees": -2.130261887510257,
+      "previousYawDegrees": -15.793603512171394,
+      "correctedYawDegrees": 18.2063045501709,
+      "previousForwardBearing": -15.661910175111249,
+      "correctedForwardBearing": 18.33799787037695,
+      "previousError": 13.531648287600992,
+      "correctedError": 20.468259757887207
+    },
+    {
+      "seconds": 5.45,
+      "tipBearingDegrees": -1.911680778516717,
+      "previousYawDegrees": -15.79113781388102,
+      "correctedYawDegrees": 18.219961166381836,
+      "previousForwardBearing": -15.659529393532988,
+      "correctedForwardBearing": 18.35156957444462,
+      "previousError": 13.747848615016272,
+      "correctedError": 20.26325035296134
+    },
+    {
+      "seconds": 5.466666666666667,
+      "tipBearingDegrees": -1.6314498411404847,
+      "previousYawDegrees": -15.788281087260662,
+      "correctedYawDegrees": 18.24169158935547,
+      "previousForwardBearing": -15.656770665260314,
+      "correctedForwardBearing": 18.37320199995038,
+      "previousError": 14.025320824119829,
+      "correctedError": 20.004651841090862
+    },
+    {
+      "seconds": 5.483333333333333,
+      "tipBearingDegrees": -1.28687058239944,
+      "previousYawDegrees": -15.78503333231032,
+      "correctedYawDegrees": 18.27231788635254,
+      "previousForwardBearing": -15.653633790688703,
+      "correctedForwardBearing": 18.403717414757583,
+      "previousError": 14.366763208289264,
+      "correctedError": 19.690587997157024
+    },
+    {
+      "seconds": 5.5,
+      "tipBearingDegrees": -0.8807613849605679,
+      "previousYawDegrees": -15.781401379219167,
+      "correctedYawDegrees": 18.31196403503418,
+      "previousForwardBearing": -15.650125333492753,
+      "correctedForwardBearing": 18.44324005864471,
+      "previousError": 14.769363948532185,
+      "correctedError": 19.32400144360528
+    },
+    {
+      "seconds": 5.516666666666667,
+      "tipBearingDegrees": -0.4159036232921167,
+      "previousYawDegrees": -15.7773852279872,
+      "correctedYawDegrees": 18.360763549804688,
+      "previousForwardBearing": -15.64624506098595,
+      "correctedForwardBearing": 18.49190369891316,
+      "previousError": 15.230341437693832,
+      "correctedError": 18.907807322205276
+    },
+    {
+      "seconds": 5.533333333333333,
+      "tipBearingDegrees": 0.10488829386959389,
+      "previousYawDegrees": -15.772990001256296,
+      "correctedYawDegrees": 18.418804168701172,
+      "previousForwardBearing": -15.641997845589236,
+      "correctedForwardBearing": 18.54979630157905,
+      "previousError": 15.74688613945883,
+      "correctedError": 18.444908007709458
+    },
+    {
+      "seconds": 5.55,
+      "tipBearingDegrees": 0.6788563879249255,
+      "previousYawDegrees": -15.768219114121042,
+      "correctedYawDegrees": 18.486173629760742,
+      "previousForwardBearing": -15.637386888403151,
+      "correctedForwardBearing": 18.61700583639699,
+      "previousError": 16.316243276328077,
+      "correctedError": 17.938149448472068
+    },
+    {
+      "seconds": 5.566666666666666,
+      "tipBearingDegrees": 1.3032011450807244,
+      "previousYawDegrees": -15.763075981676023,
+      "correctedYawDegrees": 18.562902450561523,
+      "previousForwardBearing": -15.632415331155409,
+      "correctedForwardBearing": 18.69356309017422,
+      "previousError": 16.935616476236135,
+      "correctedError": 17.390361945093495
+    },
+    {
+      "seconds": 5.583333333333333,
+      "tipBearingDegrees": 1.9750180006489393,
+      "previousYawDegrees": -15.75756231146853,
+      "correctedYawDegrees": 18.648944854736328,
+      "previousForwardBearing": -15.627084646687017,
+      "correctedForwardBearing": 18.7794225125095,
+      "previousError": 17.602102647335958,
+      "correctedError": 16.804404511860557
+    },
+    {
+      "seconds": 5.6,
+      "tipBearingDegrees": 2.6856812942413413,
+      "previousYawDegrees": -15.751681518593148,
+      "correctedYawDegrees": 18.742231369018555,
+      "previousForwardBearing": -15.621398035577034,
+      "correctedForwardBearing": 18.87251483603806,
+      "previousError": 18.307079329818375,
+      "correctedError": 16.18683354179672
+    },
+    {
+      "seconds": 5.616666666666666,
+      "tipBearingDegrees": 3.4287962247965273,
+      "previousYawDegrees": -15.745437018144465,
+      "correctedYawDegrees": 18.84148597717285,
+      "previousForwardBearing": -15.615358643849563,
+      "correctedForwardBearing": 18.97156434508763,
+      "previousError": 19.04415486864609,
+      "correctedError": 15.5427681202911
+    },
+    {
+      "seconds": 5.633333333333334,
+      "tipBearingDegrees": 4.200637489333455,
+      "previousYawDegrees": -15.738835640311647,
+      "correctedYawDegrees": 18.94633674621582,
+      "previousForwardBearing": -15.608973025127423,
+      "correctedForwardBearing": 19.076199355735195,
+      "previousError": 19.80961051446088,
+      "correctedError": 14.875561866401739
+    },
+    {
+      "seconds": 5.65,
+      "tipBearingDegrees": 4.997425895327765,
+      "previousYawDegrees": -15.731875677547404,
+      "correctedYawDegrees": 19.05634880065918,
+      "previousForwardBearing": -15.60223927359376,
+      "correctedForwardBearing": 19.18598519294973,
+      "previousError": 20.599665168921526,
+      "correctedError": 14.188559297621964
+    },
+    {
+      "seconds": 5.666666666666667,
+      "tipBearingDegrees": 5.815352212335445,
+      "previousYawDegrees": -15.724563960040905,
+      "correctedYawDegrees": 19.171052932739258,
+      "previousForwardBearing": -15.59516394391671,
+      "correctedForwardBearing": 19.30045294096863,
+      "previousError": 21.410516156252154,
+      "correctedError": 13.485100728633185
+    },
+    {
+      "seconds": 5.683333333333334,
+      "tipBearingDegrees": 6.65059237244666,
+      "previousYawDegrees": -15.71690048779215,
+      "correctedYawDegrees": 19.2899227142334,
+      "previousForwardBearing": -15.587746811212739,
+      "correctedForwardBearing": 19.419076378247023,
+      "previousError": 22.2383391836594,
+      "correctedError": 12.768484005800364
+    },
+    {
+      "seconds": 5.7,
+      "tipBearingDegrees": 7.499300159187277,
+      "previousYawDegrees": -15.708890383443018,
+      "correctedYawDegrees": 19.412403106689453,
+      "previousForwardBearing": -15.579992737740108,
+      "correctedForwardBearing": 19.541300733426905,
+      "previousError": 23.079292896927385,
+      "correctedError": 12.042000574239626
+    },
+    {
+      "seconds": 5.716666666666667,
+      "tipBearingDegrees": 8.357605724600841,
+      "previousYawDegrees": -15.700537062088094,
+      "correctedYawDegrees": 19.53788948059082,
+      "previousForwardBearing": -15.571904878256873,
+      "correctedForwardBearing": 19.66652165435174,
+      "previousError": 23.929510602857714,
+      "correctedError": 11.3089159297509
+    },
+    {
+      "seconds": 5.733333333333333,
+      "tipBearingDegrees": 9.221560645748829,
+      "previousYawDegrees": -15.69184393882196,
+      "correctedYawDegrees": 19.665725708007812,
+      "previousForwardBearing": -15.563486407659637,
+      "correctedForwardBearing": 19.794083223892727,
+      "previousError": 24.785047053408466,
+      "correctedError": 10.572522578143898
+    },
+    {
+      "seconds": 5.75,
+      "tipBearingDegrees": 10.087271968999719,
+      "previousYawDegrees": -15.682814428739203,
+      "correctedYawDegrees": 19.795230865478516,
+      "previousForwardBearing": -15.554740501012374,
+      "correctedForwardBearing": 19.92330478358989,
+      "previousError": 25.64201247001209,
+      "correctedError": 9.836032814590173
+    },
+    {
+      "seconds": 5.766666666666667,
+      "tipBearingDegrees": 10.950685835569384,
+      "previousYawDegrees": -15.673450239387115,
+      "correctedYawDegrees": 19.925661087036133,
+      "previousForwardBearing": -15.545668613681746,
+      "correctedForwardBearing": 20.05344269412718,
+      "previousError": 26.49635444925113,
+      "correctedError": 9.102756858557797
+    },
+    {
+      "seconds": 5.783333333333333,
+      "tipBearingDegrees": 11.807778944900562,
+      "previousYawDegrees": -15.663754785860283,
+      "correctedYawDegrees": 20.056245803833008,
+      "previousForwardBearing": -15.536273904094003,
+      "correctedForwardBearing": 20.183726670150364,
+      "previousError": 27.344052848994565,
+      "correctedError": 8.375947725249802
+    },
+    {
+      "seconds": 5.8,
+      "tipBearingDegrees": 12.65444441207431,
+      "previousYawDegrees": -15.653733190800581,
+      "correctedYawDegrees": 20.18617820739746,
+      "previousForwardBearing": -15.526561270323514,
+      "correctedForwardBearing": 20.313350117280912,
+      "previousError": 28.181005682397824,
+      "correctedError": 7.658905705206601
+    },
+    {
+      "seconds": 5.816666666666666,
+      "tipBearingDegrees": 13.492505427148314,
+      "previousYawDegrees": -15.643387161755303,
+      "correctedYawDegrees": 20.315643310546875,
+      "previousForwardBearing": -15.516532133275156,
+      "correctedForwardBearing": 20.442498323881583,
+      "previousError": 29.009037560423472,
+      "correctedError": 6.949992896733269
+    },
+    {
+      "seconds": 5.833333333333333,
+      "tipBearingDegrees": 14.372386492395181,
+      "previousYawDegrees": -15.63272182136633,
+      "correctedYawDegrees": 20.453325271606445,
+      "previousForwardBearing": -15.506191386837038,
+      "correctedForwardBearing": 20.579855690198613,
+      "previousError": 29.878577879232218,
+      "correctedError": 6.207469197803432
+    },
+    {
+      "seconds": 5.85,
+      "tipBearingDegrees": 15.302580138149123,
+      "previousYawDegrees": -15.621738877180949,
+      "correctedYawDegrees": 20.600854873657227,
+      "previousForwardBearing": -15.49554047716736,
+      "correctedForwardBearing": 20.727053256997152,
+      "previousError": 30.798120615316485,
+      "correctedError": 5.424473118848029
+    },
+    {
+      "seconds": 5.866666666666666,
+      "tipBearingDegrees": 16.278134850550508,
+      "previousYawDegrees": -15.610440036746455,
+      "correctedYawDegrees": 20.757530212402344,
+      "previousForwardBearing": -15.484580887524691,
+      "correctedForwardBearing": 20.883389344218877,
+      "previousError": 31.7627157380752,
+      "correctedError": 4.605254493668369
+    },
+    {
+      "seconds": 5.883333333333334,
+      "tipBearingDegrees": 17.29406247542306,
+      "previousYawDegrees": -15.598832130252019,
+      "correctedYawDegrees": 20.92258071899414,
+      "previousForwardBearing": -15.47331916945916,
+      "correctedForwardBearing": 21.048093672678597,
+      "previousError": 32.76738164488222,
+      "correctedError": 3.754031197255536
+    },
+    {
+      "seconds": 5.9,
+      "tipBearingDegrees": 18.345342923110024,
+      "previousYawDegrees": -15.58691686524493,
+      "correctedYawDegrees": 21.095199584960938,
+      "previousForwardBearing": -15.46175680677457,
+      "correctedForwardBearing": 21.220359624377366,
+      "previousError": 33.8070997298846,
+      "correctedError": 2.8750167012673415
+    },
+    {
+      "seconds": 5.916666666666667,
+      "tipBearingDegrees": 19.42690349228333,
+      "previousYawDegrees": -15.574694241725194,
+      "correctedYawDegrees": 21.274518966674805,
+      "previousForwardBearing": -15.449893537054729,
+      "correctedForwardBearing": 21.399319658192272,
+      "previousError": 34.87679702933806,
+      "correctedError": 1.9724161659089425
+    },
+    {
+      "seconds": 5.933333333333334,
+      "tipBearingDegrees": 20.533639155181017,
+      "previousYawDegrees": -15.562174504976559,
+      "correctedYawDegrees": 21.459611892700195,
+      "previousForwardBearing": -15.437739348739072,
+      "correctedForwardBearing": 21.584047032609185,
+      "previousError": 35.97137850392009,
+      "correctedError": 1.0504078774281673
+    },
+    {
+      "seconds": 5.95,
+      "tipBearingDegrees": 21.660427232694232,
+      "previousYawDegrees": -15.549355947451739,
+      "correctedYawDegrees": 21.649517059326172,
+      "previousForwardBearing": -15.425292313684391,
+      "correctedForwardBearing": 21.773580679127086,
+      "previousError": 37.08571954637863,
+      "correctedError": 0.11315344643285385
+    },
+    {
+      "seconds": 5.966666666666667,
+      "tipBearingDegrees": 22.802427143673114,
+      "previousYawDegrees": -15.536241984245313,
+      "correctedYawDegrees": 21.843313217163086,
+      "previousForwardBearing": -15.412555593119967,
+      "correctedForwardBearing": 21.96699959565469,
+      "previousError": 38.21498273679308,
+      "correctedError": 0.8354275480184228
+    },
+    {
+      "seconds": 5.983333333333333,
+      "tipBearingDegrees": 23.954299489231808,
+      "previousYawDegrees": -15.522837737999163,
+      "correctedYawDegrees": 22.039897918701172,
+      "previousForwardBearing": -15.399534045292206,
+      "correctedForwardBearing": 22.1632015938835,
+      "previousError": 39.353833534524014,
+      "correctedError": 1.791097895348308
+    },
+    {
+      "seconds": 6.0,
+      "tipBearingDegrees": 25.110573034814944,
+      "previousYawDegrees": -15.509144916260581,
+      "correctedYawDegrees": 22.238122940063477,
+      "previousForwardBearing": -15.386229158680258,
+      "correctedForwardBearing": 22.361038683533618,
+      "previousError": 40.4968021934952,
+      "correctedError": 2.7495343512813264
+    },
+    {
+      "seconds": 6.016666666666667,
+      "tipBearingDegrees": 26.265727916853873,
+      "previousYawDegrees": -15.49516693412415,
+      "correctedYawDegrees": 22.436805725097656,
+      "previousForwardBearing": -15.372644076146399,
+      "correctedForwardBearing": 22.55932856632264,
+      "previousError": 41.63837199300027,
+      "correctedError": 3.706399350531232
+    },
+    {
+      "seconds": 6.033333333333333,
+      "tipBearingDegrees": 27.414113471518757,
+      "previousYawDegrees": -15.480907206684456,
+      "correctedYawDegrees": 22.63471031188965,
+      "previousForwardBearing": -15.358782002140588,
+      "correctedForwardBearing": 22.75683550241372,
+      "previousError": 42.77289547365935,
+      "correctedError": 4.6572779691050386
+    },
+    {
+      "seconds": 6.05,
+      "tipBearingDegrees": 28.550061286646027,
+      "previousYawDegrees": -15.466370856583376,
+      "correctedYawDegrees": 22.83059310913086,
+      "previousForwardBearing": -15.344647779507284,
+      "correctedForwardBearing": 22.952316179433648,
+      "previousError": 43.89470906615331,
+      "correctedError": 5.597745107212379
+    },
+    {
+      "seconds": 6.066666666666666,
+      "tipBearingDegrees": 29.667714559854332,
+      "previousYawDegrees": -15.451559591368204,
+      "correctedYawDegrees": 23.023147583007812,
+      "previousForwardBearing": -15.330242888381958,
+      "correctedForwardBearing": 23.14446427176733,
+      "previousError": 44.99795744823629,
+      "correctedError": 6.523250288087002
+    },
+    {
+      "seconds": 6.083333333333333,
+      "tipBearingDegrees": 30.761185621970572,
+      "previousYawDegrees": -15.43647511858623,
+      "correctedYawDegrees": 23.211084365844727,
+      "previousForwardBearing": -15.315568796695496,
+      "correctedForwardBearing": 23.331990676605134,
+      "previousError": 46.07675441866607,
+      "correctedError": 7.429194945365438
+    },
+    {
+      "seconds": 6.1,
+      "tipBearingDegrees": 31.824451399348682,
+      "previousYawDegrees": -15.421122560879335,
+      "correctedYawDegrees": 23.393064498901367,
+      "previousForwardBearing": -15.300630401244838,
+      "correctedForwardBearing": 23.51355664612324,
+      "previousError": 47.12508180059352,
+      "correctedError": 8.31089475322544
+    },
+    {
+      "seconds": 6.116666666666666,
+      "tipBearingDegrees": 32.85137312642024,
+      "previousYawDegrees": -15.405507040889391,
+      "correctedYawDegrees": 23.567758560180664,
+      "previousForwardBearing": -15.285432555797188,
+      "correctedForwardBearing": 23.687833031437872,
+      "previousError": 48.13680568221743,
+      "correctedError": 9.16354009498237
+    },
+    {
+      "seconds": 6.133333333333334,
+      "tipBearingDegrees": 33.835786189654165,
+      "previousYawDegrees": -15.389628558616405,
+      "correctedYawDegrees": 23.733827590942383,
+      "previousForwardBearing": -15.269975038276552,
+      "correctedForwardBearing": 23.853481101067167,
+      "previousError": 49.105761227930714,
+      "correctedError": 9.982305088586997
+    },
+    {
+      "seconds": 6.15,
+      "tipBearingDegrees": 34.77132952959167,
+      "previousYawDegrees": -15.373490529154958,
+      "correctedYawDegrees": 23.889921188354492,
+      "previousForwardBearing": -15.254261027923492,
+      "correctedForwardBearing": 24.009150680610652,
+      "previousError": 50.02559055751516,
+      "correctedError": 10.762178848981016
+    },
+    {
+      "seconds": 6.166666666666667,
+      "tipBearingDegrees": 35.651569682317245,
+      "previousYawDegrees": -15.357099782694219,
+      "correctedYawDegrees": 24.034692764282227,
+      "previousForwardBearing": -15.238297112904306,
+      "correctedForwardBearing": 24.15349542960072,
+      "previousError": 50.88986679522155,
+      "correctedError": 11.498074252716524
+    },
+    {
+      "seconds": 6.183333333333334,
+      "tipBearingDegrees": 36.471892521864596,
+      "previousYawDegrees": -15.340454611686898,
+      "correctedYawDegrees": 24.167179107666016,
+      "previousForwardBearing": -15.22208135196426,
+      "correctedForwardBearing": 24.285552353233783,
+      "previousError": 51.69397387382885,
+      "correctedError": 12.186340168630814
+    },
+    {
+      "seconds": 6.2,
+      "tipBearingDegrees": 37.28910086081211,
+      "previousYawDegrees": -15.323560138774871,
+      "correctedYawDegrees": 24.298383712768555,
+      "previousForwardBearing": -15.205618629718085,
+      "correctedForwardBearing": 24.41632521344227,
+      "previousError": 52.4947194905302,
+      "correctedError": 12.872775647369842
+    },
+    {
+      "seconds": 6.216666666666667,
+      "tipBearingDegrees": 38.12856188924198,
+      "previousYawDegrees": -15.30642319414731,
+      "correctedYawDegrees": 24.433185577392578,
+      "previousForwardBearing": -15.188915541341172,
+      "correctedForwardBearing": 24.550693211931623,
+      "previousError": 53.31747743058315,
+      "correctedError": 13.577868677310356
+    },
+    {
+      "seconds": 6.233333333333333,
+      "tipBearingDegrees": 38.98515596089272,
+      "previousYawDegrees": -15.28904207025692,
+      "correctedYawDegrees": 24.570537567138672,
+      "previousForwardBearing": -15.171970165135905,
+      "correctedForwardBearing": 24.687609455459636,
+      "previousError": 54.15712612602862,
+      "correctedError": 14.297546505433083
+    },
+    {
+      "seconds": 6.25,
+      "tipBearingDegrees": 39.85372879590411,
+      "previousYawDegrees": -15.271421889745579,
+      "correctedYawDegrees": 24.709362030029297,
+      "previousForwardBearing": -15.154787355123407,
+      "correctedForwardBearing": 24.82599655793962,
+      "previousError": 55.00851615102752,
+      "correctedError": 15.02773223796449
+    },
+    {
+      "seconds": 6.266666666666667,
+      "tipBearingDegrees": 40.72901888092953,
+      "previousYawDegrees": -15.253566067707874,
+      "correctedYawDegrees": 24.84858512878418,
+      "previousForwardBearing": -15.137370338084905,
+      "correctedForwardBearing": 24.96478084847551,
+      "previousError": 55.86638921901444,
+      "correctedError": 15.76423803245402
+    },
+    {
+      "seconds": 6.283333333333333,
+      "tipBearingDegrees": 41.60568806485242,
+      "previousYawDegrees": -15.235478019238387,
+      "correctedYawDegrees": 24.987102508544922,
+      "previousForwardBearing": -15.119722284549303,
+      "correctedForwardBearing": 25.102858223653662,
+      "previousError": 56.72541034940173,
+      "correctedError": 16.50282984119876
+    },
+    {
+      "seconds": 6.3,
+      "tipBearingDegrees": 42.47829600360542,
+      "previousYawDegrees": -15.217161159431706,
+      "correctedYawDegrees": 25.123809814453125,
+      "previousForwardBearing": -15.101846369846086,
+      "correctedForwardBearing": 25.23912459670272,
+      "previousError": 57.58014237345151,
+      "correctedError": 17.239171406902702
+    },
+    {
+      "seconds": 6.316666666666666,
+      "tipBearingDegrees": 43.341305637469056,
+      "previousYawDegrees": -15.198618903382414,
+      "correctedYawDegrees": 25.25758934020996,
+      "previousForwardBearing": -15.083745783467856,
+      "correctedForwardBearing": 25.3724624479723,
+      "previousError": 58.42505142093691,
+      "correctedError": 17.968843189496756
+    },
+    {
+      "seconds": 6.333333333333333,
+      "tipBearingDegrees": 44.19272880592556,
+      "previousYawDegrees": -15.179852958637804,
+      "correctedYawDegrees": 25.387985229492188,
+      "previousForwardBearing": -15.065422021042105,
+      "correctedForwardBearing": 25.502416158395306,
+      "previousError": 59.258150826967665,
+      "correctedError": 18.690312647530256
+    },
+    {
+      "seconds": 6.35,
+      "tipBearingDegrees": 45.033452516050225,
+      "previousYawDegrees": -15.160868447839754,
+      "correctedYawDegrees": 25.515031814575195,
+      "previousForwardBearing": -15.046879987302058,
+      "correctedForwardBearing": 25.62902026061144,
+      "previousError": 60.08033250335228,
+      "correctedError": 19.404432255438785
+    },
+    {
+      "seconds": 6.366666666666666,
+      "tipBearingDegrees": 45.85588105219497,
+      "previousYawDegrees": -15.141667078535555,
+      "correctedYawDegrees": 25.637226104736328,
+      "previousForwardBearing": -15.028121161007977,
+      "correctedForwardBearing": 25.750772010199444,
+      "previousError": 60.88400221320295,
+      "correctedError": 20.105109041995522
+    },
+    {
+      "seconds": 6.383333333333334,
+      "tipBearingDegrees": 46.652032991078286,
+      "previousYawDegrees": -15.122253973367085,
+      "correctedYawDegrees": 25.753036499023438,
+      "previousForwardBearing": -15.009150426991393,
+      "correctedForwardBearing": 25.86614003730007,
+      "previousError": 61.66118341806968,
+      "correctedError": 20.785892953778216
+    },
+    {
+      "seconds": 6.4,
+      "tipBearingDegrees": 47.413737290665615,
+      "previousYawDegrees": -15.10263083988164,
+      "correctedYawDegrees": 25.860944747924805,
+      "previousForwardBearing": -14.98996929853321,
+      "correctedForwardBearing": 25.973606280550435,
+      "previousError": 62.403706589198826,
+      "correctedError": 21.44013101011518
+    },
+    {
+      "seconds": 6.416666666666667,
+      "tipBearingDegrees": 48.13258811240629,
+      "previousYawDegrees": -15.0828010931738,
+      "correctedYawDegrees": 25.959449768066406,
+      "previousForwardBearing": -14.970580975158187,
+      "correctedForwardBearing": 26.071669874988164,
+      "previousError": 63.103169087564474,
+      "correctedError": 22.060918237418125
+    },
+    {
+      "seconds": 6.433333333333334,
+      "tipBearingDegrees": 48.79999605458248,
+      "previousYawDegrees": -15.062769855885445,
+      "correctedYawDegrees": 26.04705810546875,
+      "previousForwardBearing": -14.950990338884496,
+      "correctedForwardBearing": 26.158837616749988,
+      "previousError": 63.750986393466974,
+      "correctedError": 22.64115843783249
+    },
+    {
+      "seconds": 6.45,
+      "tipBearingDegrees": 49.40720486913585,
+      "previousYawDegrees": -15.042537128016574,
+      "correctedYawDegrees": 26.122299194335938,
+      "previousForwardBearing": -14.931197189231417,
+      "correctedForwardBearing": 26.23363912040576,
+      "previousError": 64.33840205836727,
+      "correctedError": 23.173565748730095
+    },
+    {
+      "seconds": 6.466666666666667,
+      "tipBearingDegrees": 49.94531330230668,
+      "previousYawDegrees": -15.022108032209067,
+      "correctedYawDegrees": 26.1837100982666,
+      "previousForwardBearing": -14.911206436249211,
+      "correctedForwardBearing": 26.294611688439524,
+      "previousError": 64.85651973855589,
+      "correctedError": 23.650701613867156
+    },
+    {
+      "seconds": 6.483333333333333,
+      "tipBearingDegrees": 50.405311925290256,
+      "previousYawDegrees": -15.001487691104797,
+      "correctedYawDegrees": 26.22984504699707,
+      "previousForwardBearing": -14.89102298585276,
+      "correctedForwardBearing": 26.340309741417624,
+      "previousError": 65.29633491114302,
+      "correctedError": 24.065002183872632
+    },
+    {
+      "seconds": 6.5,
+      "tipBearingDegrees": 50.77818118471267,
+      "previousYawDegrees": -14.98067610470377,
+      "correctedYawDegrees": 26.25927734375,
+      "previousForwardBearing": -14.87064663319486,
+      "correctedForwardBearing": 26.36930681302842,
+      "previousError": 65.64882781790753,
+      "correctedError": 24.408874371684252
+    },
+    {
+      "seconds": 6.516666666666667,
+      "tipBearingDegrees": 51.05491009320233,
+      "previousYawDegrees": -14.959676688100565,
+      "correctedYawDegrees": 26.270597457885742,
+      "previousForwardBearing": -14.850080567891444,
+      "correctedForwardBearing": 26.380193571994337,
+      "previousError": 65.90499066109378,
+      "correctedError": 24.674716521207994
+    },
+    {
+      "seconds": 6.533333333333333,
+      "tipBearingDegrees": 51.226663560151344,
+      "previousYawDegrees": -14.938494563937063,
+      "correctedYawDegrees": 26.262414932250977,
+      "previousForwardBearing": -14.829329747453876,
+      "correctedForwardBearing": 26.3715797377536,
+      "previousError": 66.05599330760522,
+      "correctedError": 24.855083822397745
+    },
+    {
+      "seconds": 6.55,
+      "tipBearingDegrees": 51.284809005994546,
+      "previousYawDegrees": -14.917133147307847,
+      "correctedYawDegrees": 26.23336410522461,
+      "previousForwardBearing": -14.808397345606274,
+      "correctedForwardBearing": 26.34209988758398,
+      "previousError": 66.09320635160083,
+      "correctedError": 24.942709118410566
+    },
+    {
+      "seconds": 6.566666666666666,
+      "tipBearingDegrees": 51.261091148895304,
+      "previousYawDegrees": -14.895594145760214,
+      "correctedYawDegrees": 26.188854217529297,
+      "previousForwardBearing": -14.787284871316032,
+      "correctedForwardBearing": 26.297163476394612,
+      "previousError": 66.04837602021134,
+      "correctedError": 24.96392767250069
+    },
+    {
+      "seconds": 6.583333333333333,
+      "tipBearingDegrees": 51.19616070898415,
+      "previousYawDegrees": -14.873882681936035,
+      "correctedYawDegrees": 26.13582992553711,
+      "previousForwardBearing": -14.765997248701256,
+      "correctedForwardBearing": 26.24371535194694,
+      "previousError": 65.9621579576854,
+      "correctedError": 24.952445357037213
+    },
+    {
+      "seconds": 6.6,
+      "tipBearingDegrees": 51.09551250418526,
+      "previousYawDegrees": -14.852000463382607,
+      "correctedYawDegrees": 26.075321197509766,
+      "previousForwardBearing": -14.744535986908366,
+      "correctedForwardBearing": 26.18278566428778,
+      "previousError": 65.84004849109363,
+      "correctedError": 24.912726839897477
+    },
+    {
+      "seconds": 6.616666666666666,
+      "tipBearingDegrees": 50.96479090729096,
+      "previousYawDegrees": -14.829153480608914,
+      "correctedYawDegrees": 26.006980895996094,
+      "previousForwardBearing": -14.722109109279842,
+      "correctedForwardBearing": 26.114025248960335,
+      "previousError": 65.6869000165708,
+      "correctedError": 24.850765658330626
+    },
+    {
+      "seconds": 6.633333333333334,
+      "tipBearingDegrees": 50.80976679454792,
+      "previousYawDegrees": -14.80450503544163,
+      "correctedYawDegrees": 25.930389404296875,
+      "previousForwardBearing": -14.697883822007475,
+      "correctedForwardBearing": 26.03701060595084,
+      "previousError": 65.5076506165554,
+      "correctedError": 24.77275618859708
+    },
+    {
+      "seconds": 6.65,
+      "tipBearingDegrees": 50.63603109831294,
+      "previousYawDegrees": -14.777985118441764,
+      "correctedYawDegrees": 25.846471786499023,
+      "previousForwardBearing": -14.67179273349196,
+      "correctedForwardBearing": 25.952664157476356,
+      "previousError": 65.3078238318049,
+      "correctedError": 24.683366940836585
+    },
+    {
+      "seconds": 6.666666666666667,
+      "tipBearingDegrees": 50.44893987461604,
+      "previousYawDegrees": -14.749525427717613,
+      "correctedYawDegrees": 25.756107330322266,
+      "previousForwardBearing": -14.643770112284269,
+      "correctedForwardBearing": 25.8618626312565,
+      "previousError": 65.0927099869003,
+      "correctedError": 24.587077243359538
+    },
+    {
+      "seconds": 6.683333333333334,
+      "tipBearingDegrees": 50.253456851953224,
+      "previousYawDegrees": -14.719062784019355,
+      "correctedYawDegrees": 25.66011619567871,
+      "previousForwardBearing": -14.613755346120538,
+      "correctedForwardBearing": 25.765423620847574,
+      "previousError": 64.86721219807376,
+      "correctedError": 24.48803323110565
+    },
+    {
+      "seconds": 6.7,
+      "tipBearingDegrees": 50.054221617282344,
+      "previousYawDegrees": -14.686525470360708,
+      "correctedYawDegrees": 25.55927085876465,
+      "previousForwardBearing": -14.581679265827209,
+      "correctedForwardBearing": 25.664117053498583,
+      "previousError": 64.63590088310956,
+      "correctedError": 24.390104563783762
+    },
+    {
+      "seconds": 6.716666666666667,
+      "tipBearingDegrees": 49.855431345133134,
+      "previousYawDegrees": -14.651848599944552,
+      "correctedYawDegrees": 25.45427131652832,
+      "previousForwardBearing": -14.547479508943994,
+      "correctedForwardBearing": 25.55864039910672,
+      "previousError": 64.40291085407713,
+      "correctedError": 24.296790946026412
+    },
+    {
+      "seconds": 6.733333333333333,
+      "tipBearingDegrees": 49.660925657830916,
+      "previousYawDegrees": -14.614965578426483,
+      "correctedYawDegrees": 25.345762252807617,
+      "previousForwardBearing": -14.511091960355065,
+      "correctedForwardBearing": 25.44963586493694,
+      "previousError": 64.17201761818598,
+      "correctedError": 24.211289792893975
+    },
+    {
+      "seconds": 6.75,
+      "tipBearingDegrees": 49.47418540567332,
+      "previousYawDegrees": -14.575806396367508,
+      "correctedYawDegrees": 25.234325408935547,
+      "previousForwardBearing": -14.472449107129748,
+      "correctedForwardBearing": 25.33768268977674,
+      "previousError": 63.946634512803065,
+      "correctedError": 24.136502715896576
+    },
+    {
+      "seconds": 6.766666666666667,
+      "tipBearingDegrees": 49.298375079177,
+      "previousYawDegrees": -14.534306166970511,
+      "correctedYawDegrees": 25.12049674987793,
+      "previousForwardBearing": -14.431488460008282,
+      "correctedForwardBearing": 25.223314445892406,
+      "previousError": 63.72986353918528,
+      "correctedError": 24.075060633284593
+    },
+    {
+      "seconds": 6.783333333333333,
+      "tipBearingDegrees": 49.136456072292646,
+      "previousYawDegrees": -14.490398295891083,
+      "correctedYawDegrees": 25.004772186279297,
+      "previousForwardBearing": -14.388145847683102,
+      "correctedForwardBearing": 25.107024624697587,
+      "previousError": 63.52460191997575,
+      "correctedError": 24.02943144759506
+    },
+    {
+      "seconds": 6.8,
+      "tipBearingDegrees": 48.991151599322386,
+      "previousYawDegrees": -14.444011066142942,
+      "correctedYawDegrees": 24.887598037719727,
+      "previousForwardBearing": -14.342351903817061,
+      "correctedForwardBearing": 24.989257186786713,
+      "previousError": 63.33350350313945,
+      "correctedError": 24.001894412535673
+    },
+    {
+      "seconds": 6.816666666666666,
+      "tipBearingDegrees": 48.86511264733979,
+      "previousYawDegrees": -14.395083006023556,
+      "correctedYawDegrees": 24.7694091796875,
+      "previousForwardBearing": -14.294047445135012,
+      "correctedForwardBearing": 24.870444730232016,
+      "previousError": 63.159160092474806,
+      "correctedError": 23.994667917107776
+    },
+    {
+      "seconds": 6.833333333333333,
+      "tipBearingDegrees": 48.76090632329441,
+      "previousYawDegrees": -14.34354239854664,
+      "correctedYawDegrees": 24.65061378479004,
+      "previousForwardBearing": -14.243163045631968,
+      "correctedForwardBearing": 24.750993130451707,
+      "previousError": 63.00406936892637,
+      "correctedError": 24.0099131928427
+    },
+    {
+      "seconds": 6.85,
+      "tipBearingDegrees": 48.68112845610777,
+      "previousYawDegrees": -14.289322649367787,
+      "correctedYawDegrees": 24.531614303588867,
+      "previousForwardBearing": -14.189634274635848,
+      "correctedForwardBearing": 24.63130267055706,
+      "previousError": 62.87076273074362,
+      "correctedError": 24.049825785550713
+    },
+    {
+      "seconds": 6.866666666666666,
+      "tipBearingDegrees": 48.63938096560176,
+      "previousYawDegrees": -14.232359725463526,
+      "correctedYawDegrees": 24.413917541503906,
+      "previousForwardBearing": -14.133399289018481,
+      "correctedForwardBearing": 24.51287795855547,
+      "previousError": 62.772780254620244,
+      "correctedError": 24.12650300704629
+    },
+    {
+      "seconds": 6.883333333333334,
+      "tipBearingDegrees": 48.64802862422565,
+      "previousYawDegrees": -14.17258276362122,
+      "correctedYawDegrees": 24.29875373840332,
+      "previousForwardBearing": -14.074389276017017,
+      "correctedForwardBearing": 24.396947217797482,
+      "previousError": 62.72241790024267,
+      "correctedError": 24.25108140642817
+    },
+    {
+      "seconds": 6.9,
+      "tipBearingDegrees": 48.69666948435583,
+      "previousYawDegrees": -14.109924315722816,
+      "correctedYawDegrees": 24.184314727783203,
+      "previousForwardBearing": -14.012538818654482,
+      "correctedForwardBearing": 24.281700216479265,
+      "previousError": 62.709208303010314,
+      "correctedError": 24.414969267876565
+    },
+    {
+      "seconds": 6.916666666666667,
+      "tipBearingDegrees": 48.77795405447349,
+      "previousYawDegrees": -14.044319494971198,
+      "correctedYawDegrees": 24.069290161132812,
+      "previousForwardBearing": -13.947784960071067,
+      "correctedForwardBearing": 24.165824687139164,
+      "previousError": 62.72573901454456,
+      "correctedError": 24.612129367334326
+    },
+    {
+      "seconds": 6.933333333333334,
+      "tipBearingDegrees": 48.88951344772179,
+      "previousYawDegrees": -13.975700853248311,
+      "correctedYawDegrees": 23.95313835144043,
+      "previousForwardBearing": -13.880062103247111,
+      "correctedForwardBearing": 24.048777089951177,
+      "previousError": 62.7695755509689,
+      "correctedError": 24.840736357770613
+    },
+    {
+      "seconds": 6.95,
+      "tipBearingDegrees": 49.02901285315169,
+      "previousYawDegrees": -13.904000088662455,
+      "correctedYawDegrees": 23.83531951904297,
+      "previousForwardBearing": -13.809303728990878,
+      "correctedForwardBearing": 23.930015862010293,
+      "previousError": 62.83831658214257,
+      "correctedError": 25.098996991141398
+    },
+    {
+      "seconds": 6.966666666666667,
+      "tipBearingDegrees": 49.19422151739727,
+      "previousYawDegrees": -13.810911440464352,
+      "correctedYawDegrees": 23.68404769897461,
+      "previousForwardBearing": -13.717475834615366,
+      "correctedForwardBearing": 23.77748329941693,
+      "previousError": 62.91169735201263,
+      "correctedError": 25.41673821798034
+    },
+    {
+      "seconds": 6.983333333333333,
+      "tipBearingDegrees": 49.3829312873904,
+      "previousYawDegrees": -13.679511407438,
+      "correctedYawDegrees": 23.469833374023438,
+      "previousForwardBearing": -13.587895767506472,
+      "correctedForwardBearing": 23.561449006243066,
+      "previousError": 62.97082705489687,
+      "correctedError": 25.821482281147333
+    },
+    {
+      "seconds": 7.0,
+      "tipBearingDegrees": 49.59294332612289,
+      "previousYawDegrees": -13.511801235010214,
+      "correctedYawDegrees": 23.195615768432617,
+      "previousForwardBearing": -13.422517051937383,
+      "correctedForwardBearing": 23.284899941565406,
+      "previousError": 63.015460378060276,
+      "correctedError": 26.308043384557486
+    },
+    {
+      "seconds": 7.016666666666667,
+      "tipBearingDegrees": 49.822072422793596,
+      "previousYawDegrees": -13.309785583702393,
+      "correctedYawDegrees": 22.86430549621582,
+      "previousForwardBearing": -13.22329324130631,
+      "correctedForwardBearing": 22.950797830060633,
+      "previousError": 63.045365664099904,
+      "correctedError": 26.871274592732963
+    },
+    {
+      "seconds": 7.033333333333333,
+      "tipBearingDegrees": 50.06812519219544,
+      "previousYawDegrees": -13.075464845167705,
+      "correctedYawDegrees": 22.478811264038086,
+      "previousForwardBearing": -12.992171244536662,
+      "correctedForwardBearing": 22.562104853093572,
+      "previousError": 63.0602964367321,
+      "correctedError": 27.506020339101866
+    },
+    {
+      "seconds": 7.05,
+      "tipBearingDegrees": 50.328870940877,
+      "previousYawDegrees": -12.810844533701193,
+      "correctedYawDegrees": 22.042043685913086,
+      "previousForwardBearing": -12.731101512008934,
+      "correctedForwardBearing": 22.121786696724623,
+      "previousError": 63.05997245288594,
+      "correctedError": 28.20708424415238
+    },
+    {
+      "seconds": 7.066666666666666,
+      "tipBearingDegrees": 50.60207332658681,
+      "previousYawDegrees": -12.517926748503319,
+      "correctedYawDegrees": 21.556941986083984,
+      "previousForwardBearing": -12.442030350533868,
+      "correctedForwardBearing": 21.63283837764172,
+      "previousError": 63.04410367712068,
+      "correctedError": 28.969234948945093
+    },
+    {
+      "seconds": 7.083333333333333,
+      "tipBearingDegrees": 50.885405352242536,
+      "previousYawDegrees": -12.198712735000896,
+      "correctedYawDegrees": 21.026445388793945,
+      "previousForwardBearing": -12.126903240969762,
+      "correctedForwardBearing": 21.098254875316464,
+      "previousError": 63.012308593212296,
+      "correctedError": 29.787150476926072
+    },
+    {
+      "seconds": 7.1,
+      "tipBearingDegrees": 51.17653893707744,
+      "previousYawDegrees": -11.855207153715321,
+      "correctedYawDegrees": 20.45354461669922,
+      "previousForwardBearing": -11.787669772044147,
+      "correctedForwardBearing": 20.521081987935204,
+      "previousError": 62.964208709121586,
+      "correctedError": 30.655456949142234
+    },
+    {
+      "seconds": 7.116666666666666,
+      "tipBearingDegrees": 51.473030474865766,
+      "previousYawDegrees": -11.489411250073411,
+      "correctedYawDegrees": 19.84125518798828,
+      "previousForwardBearing": -11.426277452120143,
+      "correctedForwardBearing": 19.90438898109414,
+      "previousError": 62.89930792698591,
+      "correctedError": 31.568641493771626
+    },
+    {
+      "seconds": 7.133333333333334,
+      "tipBearingDegrees": 51.77235999889836,
+      "previousYawDegrees": -11.103328830822917,
+      "correctedYawDegrees": 19.19263458251953,
+      "previousForwardBearing": -11.044678245405247,
+      "correctedForwardBearing": 19.251285161678812,
+      "previousError": 62.8170382443036,
+      "correctedError": 32.521074837219544
+    },
+    {
+      "seconds": 7.15,
+      "tipBearingDegrees": 52.07195631598876,
+      "previousYawDegrees": -10.698962848937944,
+      "correctedYawDegrees": 18.51079559326172,
+      "previousForwardBearing": -10.644825669269308,
+      "correctedForwardBearing": 18.56493276727721,
+      "previousError": 62.716781985258066,
+      "correctedError": 33.507023548711544
+    },
+    {
+      "seconds": 7.166666666666667,
+      "tipBearingDegrees": 52.3691852165919,
+      "previousYawDegrees": -10.278315403618954,
+      "correctedYawDegrees": 17.798912048339844,
+      "previousForwardBearing": -10.228675192289087,
+      "correctedForwardBearing": 17.84855225173799,
+      "previousError": 62.59786040888099,
+      "correctedError": 34.52063296485392
+    },
+    {
+      "seconds": 7.183333333333334,
+      "tipBearingDegrees": 52.661262576714016,
+      "previousYawDegrees": -9.843390301613699,
+      "correctedYawDegrees": 17.06019401550293,
+      "previousForwardBearing": -9.798187260090184,
+      "correctedForwardBearing": 17.105397054739505,
+      "previousError": 62.4594498368042,
+      "correctedError": 35.55586552197451
+    },
+    {
+      "seconds": 7.2,
+      "tipBearingDegrees": 52.94534155845934,
+      "previousYawDegrees": -9.396189642122637,
+      "correctedYawDegrees": 16.297935485839844,
+      "previousForwardBearing": -9.355324129502305,
+      "correctedForwardBearing": 16.338800992929514,
+      "previousError": 62.30066568796165,
+      "correctedError": 36.606540565529826
+    },
+    {
+      "seconds": 7.216666666666667,
+      "tipBearingDegrees": 53.218589431717966,
+      "previousYawDegrees": -8.938716378119878,
+      "correctedYawDegrees": 15.515475273132324,
+      "previousForwardBearing": -8.90205274914385,
+      "correctedForwardBearing": 15.552138899057477,
+      "previousError": 62.120642180861815,
+      "correctedError": 37.66645053266049
+    },
+    {
+      "seconds": 7.233333333333333,
+      "tipBearingDegrees": 53.47794173900929,
+      "previousYawDegrees": -8.472973462579525,
+      "correctedYawDegrees": 14.716222763061523,
+      "previousForwardBearing": -8.440344084471011,
+      "correctedForwardBearing": 14.74885213787642,
+      "previousError": 61.9182858234803,
+      "correctedError": 38.72908960113287
+    },
+    {
+      "seconds": 7.25,
+      "tipBearingDegrees": 53.72046007847175,
+      "previousYawDegrees": -8.000963848475685,
+      "correctedYawDegrees": 13.90365219116211,
+      "previousForwardBearing": -7.972173315740303,
+      "correctedForwardBearing": 13.932442722816818,
+      "previousError": 61.69263339421205,
+      "correctedError": 39.78801735565494
+    },
+    {
+      "seconds": 7.266666666666667,
+      "tipBearingDegrees": 53.943008051154756,
+      "previousYawDegrees": -7.5246896350088175,
+      "correctedYawDegrees": 13.081296920776367,
+      "previousForwardBearing": -7.4995190917977474,
+      "correctedForwardBearing": 13.106467460963547,
+      "previousError": 61.4425271429525,
+      "correctedError": 40.836540590191206
+    },
+    {
+      "seconds": 7.283333333333333,
+      "tipBearingDegrees": 54.14264066511581,
+      "previousYawDegrees": -7.046154202039854,
+      "correctedYawDegrees": 12.252758026123047,
+      "previousForwardBearing": -7.024365725400298,
+      "correctedForwardBearing": 12.274546500335779,
+      "previousError": 61.16700639051611,
+      "correctedError": 41.86809416478003
+    },
+    {
+      "seconds": 7.3,
+      "tipBearingDegrees": 54.31624378129092,
+      "previousYawDegrees": -6.567360502542899,
+      "correctedYawDegrees": 11.421687126159668,
+      "previousForwardBearing": -6.548701485114449,
+      "correctedForwardBearing": 11.440346141141182,
+      "previousError": 60.86494526640537,
+      "correctedError": 42.87589764014974
+    },
+    {
+      "seconds": 7.316666666666666,
+      "tipBearingDegrees": 54.460856240304615,
+      "previousYawDegrees": -6.0903110626052355,
+      "correctedYawDegrees": 10.591789245605469,
+      "previousForwardBearing": -6.07451862013247,
+      "correctedForwardBearing": 10.607581686031232,
+      "previousError": 60.53537486043709,
+      "correctedError": 43.85327455427338
+    },
+    {
+      "seconds": 7.333333333333333,
+      "tipBearingDegrees": 54.57370332063916,
+      "previousYawDegrees": -5.61701011586144,
+      "correctedYawDegrees": 9.766815185546875,
+      "previousForwardBearing": -5.603815368345141,
+      "correctedForwardBearing": 9.780009931330092,
+      "previousError": 60.1775186889843,
+      "correctedError": 44.79369338930907
+    },
+    {
+      "seconds": 7.35,
+      "tipBearingDegrees": 54.65199880973662,
+      "previousYawDegrees": -5.1494572001910335,
+      "correctedYawDegrees": 8.950556755065918,
+      "previousForwardBearing": -5.138589469810158,
+      "correctedForwardBearing": 8.96142448389218,
+      "previousError": 59.790588279546775,
+      "correctedError": 45.69057432584444
+    },
+    {
+      "seconds": 7.366666666666666,
+      "tipBearingDegrees": 54.70408173269486,
+      "previousYawDegrees": -4.6896586836627066,
+      "correctedYawDegrees": 8.147308349609375,
+      "previousForwardBearing": -4.680849504458968,
+      "correctedForwardBearing": 8.156117527795447,
+      "previousError": 59.38493123715383,
+      "correctedError": 46.547964204899415
+    },
+    {
+      "seconds": 7.383333333333334,
+      "tipBearingDegrees": 54.73925014372232,
+      "previousYawDegrees": -4.239614531042805,
+      "correctedYawDegrees": 7.361223220825195,
+      "previousForwardBearing": -4.232601478757175,
+      "correctedForwardBearing": 7.368236271855416,
+      "previousError": 58.9718516224795,
+      "correctedError": 47.37101387186691
+    },
+    {
+      "seconds": 7.4,
+      "tipBearingDegrees": 54.756529503066766,
+      "previousYawDegrees": -3.8013302566263723,
+      "correctedYawDegrees": 6.595909118652344,
+      "previousForwardBearing": -3.795860497750682,
+      "correctedForwardBearing": 6.601378876864304,
+      "previousError": 58.55239000081745,
+      "correctedError": 48.15515062620246
+    },
+    {
+      "seconds": 7.416666666666667,
+      "tipBearingDegrees": 54.75493221035993,
+      "previousYawDegrees": -3.376805184849519,
+      "correctedYawDegrees": 5.854961395263672,
+      "previousForwardBearing": -3.372638746038343,
+      "correctedForwardBearing": 5.859127833823073,
+      "previousError": 58.12757095639827,
+      "correctedError": 48.89580437653686
+    },
+    {
+      "seconds": 7.433333333333334,
+      "tipBearingDegrees": 54.73341278821769,
+      "previousYawDegrees": -2.968046964441405,
+      "correctedYawDegrees": 5.141966342926025,
+      "previousForwardBearing": -2.9649596423009195,
+      "correctedForwardBearing": 5.145053664566943,
+      "previousError": 57.69837243051861,
+      "correctedError": 49.58835912365075
+    },
+    {
+      "seconds": 7.45,
+      "tipBearingDegrees": 54.69097277978864,
+      "previousYawDegrees": -2.5770544929513175,
+      "correctedYawDegrees": 4.4604926109313965,
+      "previousForwardBearing": -2.5748403984527592,
+      "correctedForwardBearing": 4.462706705266359,
+      "previousError": 57.265813178241395,
+      "correctedError": 50.22826607452228
+    },
+    {
+      "seconds": 7.466666666666667,
+      "tipBearingDegrees": 54.63991194199075,
+      "previousYawDegrees": -2.2058313636835973,
+      "correctedYawDegrees": 3.814432382583618,
+      "previousForwardBearing": -2.20430498825477,
+      "correctedForwardBearing": 3.8159587579380436,
+      "previousError": 56.84421693024552,
+      "correctedError": 50.82395318405271
+    },
+    {
+      "seconds": 7.483333333333333,
+      "tipBearingDegrees": 54.59347169356324,
+      "previousYawDegrees": -1.8563824506030546,
+      "correctedYawDegrees": 3.207458257675171,
+      "previousForwardBearing": -1.8553802745315504,
+      "correctedForwardBearing": 3.2084604336365423,
+      "previousError": 56.448851968094786,
+      "correctedError": 51.3850112599267
+    },
+    {
+      "seconds": 7.5,
+      "tipBearingDegrees": 54.55202962714272,
+      "previousYawDegrees": -1.5307089991365033,
+      "correctedYawDegrees": 2.6427881717681885,
+      "previousForwardBearing": -1.530090554370634,
+      "correctedForwardBearing": 2.6434066164975953,
+      "previousError": 56.08212018151335,
+      "correctedError": 51.90862301064513
+    },
+    {
+      "seconds": 7.516666666666667,
+      "tipBearingDegrees": 54.51599195340604,
+      "previousYawDegrees": -1.2308114009371105,
+      "correctedYawDegrees": 2.123640775680542,
+      "previousForwardBearing": -1.2304597425038188,
+      "correctedForwardBearing": 2.1239924340674747,
+      "previousError": 55.74645169590986,
+      "correctedError": 52.39199951933857
+    },
+    {
+      "seconds": 7.533333333333333,
+      "tipBearingDegrees": 54.48572752129584,
+      "previousYawDegrees": -0.958696450960391,
+      "correctedYawDegrees": 1.6532392501831055,
+      "previousForwardBearing": -0.9585179916418815,
+      "correctedForwardBearing": 1.6534177094746998,
+      "previousError": 55.44424551293773,
+      "correctedError": 52.83230981182114
+    },
+    {
+      "seconds": 7.55,
+      "tipBearingDegrees": 54.461597615301585,
+      "previousYawDegrees": -0.7163644874986591,
+      "correctedYawDegrees": 1.2348159551620483,
+      "previousForwardBearing": -0.7162881518045089,
+      "correctedForwardBearing": 1.2348922908490387,
+      "previousError": 55.17788576710609,
+      "correctedError": 53.226705324452546
+    },
+    {
+      "seconds": 7.566666666666666,
+      "tipBearingDegrees": 54.44397107533844,
+      "previousYawDegrees": -0.5058213983729303,
+      "correctedYawDegrees": 0.8716219067573547,
+      "previousForwardBearing": -0.5057970269760858,
+      "correctedForwardBearing": 0.8716462781526706,
+      "previousError": 54.94976810231452,
+      "correctedError": 53.57232479718577
+    },
+    {
+      "seconds": 7.583333333333333,
+      "tipBearingDegrees": 54.4311884014093,
+      "previousYawDegrees": -0.32906746851466595,
+      "correctedYawDegrees": 0.5669083595275879,
+      "previousForwardBearing": -0.32906343696525725,
+      "correctedForwardBearing": 0.5669123910765786,
+      "previousError": 54.76025183837456,
+      "correctedError": 53.86427601033272
+    },
+    {
+      "seconds": 7.6,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": -0.18810582432074446,
+      "correctedYawDegrees": 0.324054092168808,
+      "previousForwardBearing": -0.18810582432074446,
+      "correctedForwardBearing": 0.324054092168808,
+      "previousError": 54.61760181309887,
+      "correctedError": 54.10544189660932
+    },
+    {
+      "seconds": 7.616666666666666,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": -0.08493673738241422,
+      "correctedYawDegrees": 0.1463242769241333,
+      "previousForwardBearing": -0.08493673738241422,
+      "correctedForwardBearing": 0.1463242769241333,
+      "previousError": 54.51443272616054,
+      "correctedError": 54.283171711853996
+    },
+    {
+      "seconds": 7.633333333333334,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": -0.021566152216596673,
+      "correctedYawDegrees": 0.037156131118535995,
+      "previousForwardBearing": -0.021566152216596673,
+      "correctedForwardBearing": 0.037156131118535995,
+      "previousError": 54.45106214099473,
+      "correctedError": 54.39233985765959
+    },
+    {
+      "seconds": 7.65,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.666666666666667,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.683333333333334,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.7,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.716666666666667,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.733333333333333,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.75,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.766666666666667,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.783333333333333,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.8,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.816666666666666,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.833333333333333,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.85,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.866666666666666,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.883333333333334,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.9,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.916666666666667,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.933333333333334,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.95,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.966666666666667,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    },
+    {
+      "seconds": 7.983333333333333,
+      "tipBearingDegrees": 54.42949598877813,
+      "previousYawDegrees": 0.0,
+      "correctedYawDegrees": 0.0,
+      "previousForwardBearing": 0.0,
+      "correctedForwardBearing": 0.0,
+      "previousError": 54.42949598877813,
+      "correctedError": 54.42949598877813
+    }
+  ],
+  "interpretation": "Horizontal projection of the native head forward axis, including unchanged pitch/roll. Calm work-region attention improves the reported pose and average tip bearing, but intentionally does not chase the extreme reach/gather tip. Eye-ray/floor intersection is not certified."
+}

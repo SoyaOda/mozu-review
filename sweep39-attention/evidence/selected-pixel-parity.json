@@ -1,0 +1,30 @@
+{
+  "status": "PASS_SELECTED_PILOT_CAPTURE_PARITY",
+  "nativeSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "rows": [
+    {
+      "view": "front",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "pilotSHA256": "09d6601343b994942219ab74c20bc627b40b6dcdb7042caa36cb64e89d52fb8f",
+      "captureSHA256": "9b90308cea6761d8186b4c74294bf292c13442efc35496f080cc168fd95d5b1b"
+    },
+    {
+      "view": "side",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "pilotSHA256": "26c570bce6c4affab886dd190b1795b4ba11c2220029ef362bacdd258609ee29",
+      "captureSHA256": "0cbb73a20f6efd64e431109b524e01b85f34ed4268cc52e9b19bd74cc16e3346"
+    },
+    {
+      "view": "oblique",
+      "seconds": 3.75,
+      "maximumChannelDifference": 0,
+      "changedPixels": 0,
+      "pilotSHA256": "a868e3a741879537447286370e6ab2620c8987df882278e66d8b53820df51f33",
+      "captureSHA256": "524be951c4196a2d36ce1a794e36b420305d3815c6ccc94e028039090aeaef59"
+    }
+  ]
+}

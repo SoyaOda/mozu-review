@@ -1,0 +1,24 @@
+{
+  "status": "PASS_KEY_POSE_REVIEW",
+  "alignment": 1.0,
+  "nativeSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "nativeEvidenceSHA256": "aec57bbd95783ea5203e512fc3d3997df89056266acaa7d9f48b4a5444042df3",
+  "pilotBuilderSHA256": "017b3e35e6d38fd52d36e809cf0253d6ba16af8643034a350e487bd6aa981e0c",
+  "imagesReviewed": 42,
+  "views": [
+    "front",
+    "side",
+    "oblique"
+  ],
+  "reviewer": "Main Codex agent; scoped visual inspection, no independent critic or full release certification",
+  "findings": [
+    "At the reported3.75s pose, the nose points toward the broom work region instead of image-left.",
+    "Alignment0.5 remains close to forward;1 provides clearer task attention without extreme neck turn.",
+    "Reach, pull, recovery, gather and endpoint images preserve face identity and head/body seating.",
+    "Side and oblique views show rigid head rotation without mesh distortion; original body and broom pixels retain their form."
+  ],
+  "limitations": [
+    "Horizontal work-area attention; fixed pitch and eye shape do not prove eye-ray contact with the floor.",
+    "Full sequence review remains pending."
+  ]
+}
