@@ -1,0 +1,191 @@
+{
+  "status": "PASS_KEY_POSE_REVIEW",
+  "nativeSHA256": "5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b",
+  "nativeEvidenceSHA256": "19236d1b1b208c15969c300ea40551c9c8384eaa657e7bec8c9a384817ebb31c",
+  "calmness": 1.0,
+  "reviewer": "Main agent; visual self-review, not independent grading",
+  "pilotImagesReviewed": 42,
+  "sourceParityPoses": 13,
+  "views": [
+    "front",
+    "side",
+    "oblique"
+  ],
+  "findings": [
+    "Selected40 keeps modest floor-work attention while reducing the conspicuous counterturn visible in39 at3.75 and6.55seconds.",
+    "The .5 intermediate still carries more lateral facing than the restrained1.0 choice.",
+    "Selected0.82reach,3.75pull and6.55gather show intact neck overlap, face construction and protected action.",
+    "All14pilot/control poses perview inspected through42images; full-resolution selected3.75front,6.55front and0.82side/oblique checked.",
+    "Static poses support the selected correction; continuous motion remains pending."
+  ],
+  "evidence": [
+    {
+      "file": "pilot/t0.00-g1.0-front.png",
+      "sha256": "f356533be04f6152dea7f3df039eb90a9b2eb4c60f0bece57052bdcd75e439ad"
+    },
+    {
+      "file": "pilot/t0.00-g1.0-side.png",
+      "sha256": "f1b91fb73d4f57901e284da1e63cf8c1836769670d2eff4da903f1543b163353"
+    },
+    {
+      "file": "pilot/t0.00-g1.0-oblique.png",
+      "sha256": "9598a3edb96a971b4ce81f35949a01a74dc9d30f78a5a728bb022affac11582c"
+    },
+    {
+      "file": "pilot/t0.50-g1.0-front.png",
+      "sha256": "3bc6d2891f4285a0198a7b905c29b56c2a2855932188c9508e08d48bc3e148c8"
+    },
+    {
+      "file": "pilot/t0.50-g1.0-side.png",
+      "sha256": "eb08d97375996ee306006b4ebc6eb1c1e1a0ebc55950066409113bb93affb2b6"
+    },
+    {
+      "file": "pilot/t0.50-g1.0-oblique.png",
+      "sha256": "3af8f50707e37950d12e67f96c6bab130418e0fb6f7a1dfa8fea92e3ae35aac9"
+    },
+    {
+      "file": "pilot/t0.82-g1.0-front.png",
+      "sha256": "56e12dbe9fcb7686cd873740e22028ba0c9bf389ce302ccd323dce4eefea1d48"
+    },
+    {
+      "file": "pilot/t0.82-g1.0-side.png",
+      "sha256": "57fa8d01e029cade547242f1c5e69aaa250f8294dd2325f91a7dae79b6b531b4"
+    },
+    {
+      "file": "pilot/t0.82-g1.0-oblique.png",
+      "sha256": "6af410172768b6afba78602be83d6e2ca37b13625d98729cc40cfb91734bc28d"
+    },
+    {
+      "file": "pilot/t1.48-g1.0-front.png",
+      "sha256": "1e55c0bad081d650e443cf7838e3ffb369e2a37336c85049f121a2b2f56d0724"
+    },
+    {
+      "file": "pilot/t1.48-g1.0-side.png",
+      "sha256": "fa5bb7f7c0ae62913fc557d0cec2cf42553715c5aa5b96813c94624c073eac94"
+    },
+    {
+      "file": "pilot/t1.48-g1.0-oblique.png",
+      "sha256": "8a2c381fbed5f00b03fb634d98df90be630604f75844799932f7bf6090588713"
+    },
+    {
+      "file": "pilot/t2.52-g1.0-front.png",
+      "sha256": "5b2c6176102155dcd6c3a9dd6378714009a04d5e3af836befa473d836bc2d65c"
+    },
+    {
+      "file": "pilot/t2.52-g1.0-side.png",
+      "sha256": "a85d93296a4ba81252f03b266105eaf2ed2698d1df8aad50ebdbb9dcedded77b"
+    },
+    {
+      "file": "pilot/t2.52-g1.0-oblique.png",
+      "sha256": "dbb860229dcd2129dbab50633edc99249267044bdab8769e3f676b2205857a96"
+    },
+    {
+      "file": "pilot/t3.75-g0.0-front.png",
+      "sha256": "dcebc2c4e2116a17100d80db154febc8eade5db4e0b0198dfe7e564d7a8b214f"
+    },
+    {
+      "file": "pilot/t3.75-g0.0-side.png",
+      "sha256": "ef763bf76cafe5bcf4236c5b58c73d069e0cd4a14d476eccf0b02da8cc6d8e6e"
+    },
+    {
+      "file": "pilot/t3.75-g0.0-oblique.png",
+      "sha256": "589455f02e3a01e94f1d289c8e7eb55a7e652ecb06acb18c6a00cc47edc60069"
+    },
+    {
+      "file": "pilot/t3.75-g0.5-front.png",
+      "sha256": "9c4fd205e4f9154ab665020d7dd7e8db65052b334331e483be0b7309dcab8ae0"
+    },
+    {
+      "file": "pilot/t3.75-g0.5-side.png",
+      "sha256": "6795927812c3d6f1b2d3a36719aab4dae8eac080d031b4b9869939be02330e9b"
+    },
+    {
+      "file": "pilot/t3.75-g0.5-oblique.png",
+      "sha256": "4df39f2c154b1f36cee7a05abe93eb0a76b743e9208f312c555cb4c3821ddf6c"
+    },
+    {
+      "file": "pilot/t3.75-g1.0-front.png",
+      "sha256": "977255d1b21ec55afde109c975389baedce1676097f9e726f6b9fa7b53598c71"
+    },
+    {
+      "file": "pilot/t3.75-g1.0-side.png",
+      "sha256": "65b0f3ecdb35b572db94c51a5fef08f4836389f659f10604ec9b0acd7aef139e"
+    },
+    {
+      "file": "pilot/t3.75-g1.0-oblique.png",
+      "sha256": "66491bc27ddd8891435879ea30c8e374d2cf7b38318d06657b34313956446ad1"
+    },
+    {
+      "file": "pilot/t5.94-g1.0-front.png",
+      "sha256": "9a7b53d711a25e2caffacda5de8cb9dca3be1bc7e71a66648ba2f5863d564381"
+    },
+    {
+      "file": "pilot/t5.94-g1.0-side.png",
+      "sha256": "e8571eae3e2f6abbbb75d6537e29a745c3db6f0fdf22826bdd9697c407496e12"
+    },
+    {
+      "file": "pilot/t5.94-g1.0-oblique.png",
+      "sha256": "6dc6bab004c782c83bf4a8b0e50db200b65fce31bb5be393bd9df5b7dc33184a"
+    },
+    {
+      "file": "pilot/t6.55-g0.0-front.png",
+      "sha256": "3d4489b95e0b59db03ded35e89919fce488d645778364aac2de889a196e12b37"
+    },
+    {
+      "file": "pilot/t6.55-g0.0-side.png",
+      "sha256": "96640d3c8f147a2159f8461d5fc44ed910ebd6cf51b8cd6bc6ac4f677ae3b370"
+    },
+    {
+      "file": "pilot/t6.55-g0.0-oblique.png",
+      "sha256": "aa188300ae4428c99d56a16de2318db7d95793a8044e9cfa75c9446d8300f736"
+    },
+    {
+      "file": "pilot/t6.55-g0.5-front.png",
+      "sha256": "ebe4a28f7e71a3c50ed8f4aab28c7b75ab0762e9147210c0ad7a12ef26b3ddce"
+    },
+    {
+      "file": "pilot/t6.55-g0.5-side.png",
+      "sha256": "e6d90feb4975fefec4b5faa7554b61c22f30dc51e822afae13064b7369f5f814"
+    },
+    {
+      "file": "pilot/t6.55-g0.5-oblique.png",
+      "sha256": "9aee64c37e3e3c9defd0105258bcd6e4f02670e9af7735a895b29d5e0770ef56"
+    },
+    {
+      "file": "pilot/t6.55-g1.0-front.png",
+      "sha256": "05184461145aed636bc9333ff96cd088a1f22a1ce57036ba9c0bf74a6c9611b3"
+    },
+    {
+      "file": "pilot/t6.55-g1.0-side.png",
+      "sha256": "c97fe155ef3742464650fb826679f40b9dcd1fd58cd24c74d4bf080459e13e42"
+    },
+    {
+      "file": "pilot/t6.55-g1.0-oblique.png",
+      "sha256": "1d790667223ee490d91b24795f44491588e3522642968aa1e2844bc50b01df98"
+    },
+    {
+      "file": "pilot/t7.50-g1.0-front.png",
+      "sha256": "0cce3632a20a48ab0840002919e2dfd71fc65d7bf281544ffc01b8c236357c8c"
+    },
+    {
+      "file": "pilot/t7.50-g1.0-side.png",
+      "sha256": "68a5d5862bd2eafa966138dbd4f1107039dbc32ee0b607022a63cc50eb8c259e"
+    },
+    {
+      "file": "pilot/t7.50-g1.0-oblique.png",
+      "sha256": "36882c0c796f2a63aa8875e5a083def35e379dc9b0648a6167957a77fdce3287"
+    },
+    {
+      "file": "pilot/t8.00-g1.0-front.png",
+      "sha256": "ee55ec70f85d0a68b96e4976ad22a516d63755cd2371d73ebf7ef9052e071d6a"
+    },
+    {
+      "file": "pilot/t8.00-g1.0-side.png",
+      "sha256": "f6ab8c23c3a1d3c9b0f5e3be1905b85c476ab940fa3e40b26edd5948d35c8897"
+    },
+    {
+      "file": "pilot/t8.00-g1.0-oblique.png",
+      "sha256": "5b08a0beff64235d9ff1e7eeacd147c086d09584f04bb4f613ba95ac72053cbb"
+    }
+  ]
+}

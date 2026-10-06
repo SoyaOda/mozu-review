@@ -1,0 +1,682 @@
+{
+  "nativeSHA256": "5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b",
+  "pilotSheets": [
+    {
+      "file": "media/pilot-front.jpg",
+      "sha256": "bcd216860c249a8a8fa59f52bd4bc32c7d8c43f8a3db9a06def1c517d16bd7a0",
+      "count": 14
+    },
+    {
+      "file": "media/pilot-side.jpg",
+      "sha256": "bb4932e0a70ceb481a80384544516bca584feaab09202c9e66a66406fe3dc6d7",
+      "count": 14
+    },
+    {
+      "file": "media/pilot-oblique.jpg",
+      "sha256": "feb7e1fd47cdf6a03a080a5f86f3287e5dc6c49738622fb89befa03ced343c2b",
+      "count": 14
+    }
+  ],
+  "sheets": [
+    {
+      "file": "media/sheet-front-0.jpg",
+      "sha256": "4d2470c080462b7373aaf5d2bf562f1b12c5e5913f14fa4ed005b09e44128d0f",
+      "count": 60,
+      "view": "front",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-front-1.jpg",
+      "sha256": "1bd44b07d1c1313623cdfc362cd09ab6abc6a63c0eb23521eccb371e289ba9e4",
+      "count": 60,
+      "view": "front",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-front-2.jpg",
+      "sha256": "aa2069061d1b2fd03a9ef94c15290931de56439bb2d25dc3d4de014d87b511f6",
+      "count": 60,
+      "view": "front",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-front-3.jpg",
+      "sha256": "5ce2caf78e1603b61bb2e7f1a596b7e5c1c4011db1c5379880e106a8d4626a55",
+      "count": 60,
+      "view": "front",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-front-4.jpg",
+      "sha256": "1d384d1802134aebb77185ac03bd63e25d227db60ea63da2994993494efe23cc",
+      "count": 60,
+      "view": "front",
+      "first": 240,
+      "last": 299
+    },
+    {
+      "file": "media/sheet-front-5.jpg",
+      "sha256": "f2ea4d4a99b1e8868f206bc389e9e1a037998ec1fa58f67e2aedec6b28a5bbf9",
+      "count": 60,
+      "view": "front",
+      "first": 300,
+      "last": 359
+    },
+    {
+      "file": "media/sheet-front-6.jpg",
+      "sha256": "b3f580b30ddb68b6ae89c91aee99179c523955ae7f9f13d60321f48be83842e1",
+      "count": 60,
+      "view": "front",
+      "first": 360,
+      "last": 419
+    },
+    {
+      "file": "media/sheet-front-7.jpg",
+      "sha256": "2eb994a6e6675c734dd78baefaee51a588ba771afaae19c42bad651740e78c4c",
+      "count": 60,
+      "view": "front",
+      "first": 420,
+      "last": 479
+    },
+    {
+      "file": "media/sheet-side-0.jpg",
+      "sha256": "a9d9799e3163b7ace2e96798786de4904a9c990c8103233d4e5e491ebf5cccf3",
+      "count": 60,
+      "view": "side",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-side-1.jpg",
+      "sha256": "85db376b493b053874750bb920c96229ea55574b7c153192e45ca5ffa5aa9c61",
+      "count": 60,
+      "view": "side",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-side-2.jpg",
+      "sha256": "56c2d747b8c482d3519587ca2ca2566424abd918ad402bf042df23966337ad29",
+      "count": 60,
+      "view": "side",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-side-3.jpg",
+      "sha256": "e96f09295636242a90ae1a7aa99f4305a8136d1fc7c169ceeb229bb8443878c1",
+      "count": 60,
+      "view": "side",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-side-4.jpg",
+      "sha256": "bc85fcd05144aa5522074773b74336778541166c52bfd9037aacf75cffc475f1",
+      "count": 60,
+      "view": "side",
+      "first": 240,
+      "last": 299
+    },
+    {
+      "file": "media/sheet-side-5.jpg",
+      "sha256": "d225b99447bdca56848a97436a31e8ecba4e37a32394f05b1a4e98ec5d7ee0f5",
+      "count": 60,
+      "view": "side",
+      "first": 300,
+      "last": 359
+    },
+    {
+      "file": "media/sheet-side-6.jpg",
+      "sha256": "c0ee102527cf666ce3766bfbf502bd4bfc4f184bcafb75cd64999fadb14aee4f",
+      "count": 60,
+      "view": "side",
+      "first": 360,
+      "last": 419
+    },
+    {
+      "file": "media/sheet-side-7.jpg",
+      "sha256": "5b70d972d5f7c259e17d16914e2f895593ee0174dbbd9cbd0c82bedbe099f082",
+      "count": 60,
+      "view": "side",
+      "first": 420,
+      "last": 479
+    },
+    {
+      "file": "media/sheet-oblique-0.jpg",
+      "sha256": "9d1ae14acc7502b633b126e3ddc98bed09d327131428f9a3c9e78be2bd9d169b",
+      "count": 60,
+      "view": "oblique",
+      "first": 0,
+      "last": 59
+    },
+    {
+      "file": "media/sheet-oblique-1.jpg",
+      "sha256": "360e79325e64ef8cbfe84fbf8378831332c469bde3ce11f1f4a7a5b3a797ee1a",
+      "count": 60,
+      "view": "oblique",
+      "first": 60,
+      "last": 119
+    },
+    {
+      "file": "media/sheet-oblique-2.jpg",
+      "sha256": "a80667c4edb710fb5cbd7e50bc9ec36ec9631587fa1611326af686513450ab91",
+      "count": 60,
+      "view": "oblique",
+      "first": 120,
+      "last": 179
+    },
+    {
+      "file": "media/sheet-oblique-3.jpg",
+      "sha256": "b3e277376171d9a97e4084aca163097540f595bd1bcf71902df598360ede5bea",
+      "count": 60,
+      "view": "oblique",
+      "first": 180,
+      "last": 239
+    },
+    {
+      "file": "media/sheet-oblique-4.jpg",
+      "sha256": "82f42eb4228ca958d4bcaac3824f4bf03265ebc7b683fa14eb60b36ea73ec4d0",
+      "count": 60,
+      "view": "oblique",
+      "first": 240,
+      "last": 299
+    },
+    {
+      "file": "media/sheet-oblique-5.jpg",
+      "sha256": "8170274caa06fca13ea38f04bdca26cba56b6c1dbbe5d0aa1960b81bf3a8f34b",
+      "count": 60,
+      "view": "oblique",
+      "first": 300,
+      "last": 359
+    },
+    {
+      "file": "media/sheet-oblique-6.jpg",
+      "sha256": "92623d57ae666067b82e50a60931c77dc5a6d19c2bbb4753cd1c491f75af2c3d",
+      "count": 60,
+      "view": "oblique",
+      "first": 360,
+      "last": 419
+    },
+    {
+      "file": "media/sheet-oblique-7.jpg",
+      "sha256": "5121245bfa38b557b3742b77d4baaf9ff6ac8488fae0a6817e9693ddce9e62c1",
+      "count": 60,
+      "view": "oblique",
+      "first": 420,
+      "last": 479
+    }
+  ],
+  "media": [
+    {
+      "view": "front",
+      "file": "media/front.mp4",
+      "sha256": "395c158bbbc7383b9dd245a83eb6b1da426679bbcfd8aa7552294895a95bddfd",
+      "frames": 480,
+      "fps": 60.0,
+      "minimumMargin": 55
+    },
+    {
+      "view": "side",
+      "file": "media/side.mp4",
+      "sha256": "537e7c64850792611f5bb274bc2f57b08a8503cf71dfc35f9105f182aa8d8636",
+      "frames": 480,
+      "fps": 60.0,
+      "minimumMargin": 56
+    },
+    {
+      "view": "oblique",
+      "file": "media/oblique.mp4",
+      "sha256": "8041de259e2e0dc0b41586781b5e309e1d6e90814162aaf62c16778cc7806c79",
+      "frames": 480,
+      "fps": 60.0,
+      "minimumMargin": 55
+    }
+  ],
+  "orbit": [
+    {
+      "angle": 0,
+      "seconds": 3.75,
+      "file": "orbit/work-000.jpg",
+      "sha256": "01896710d6adffe4c19de4b9eedd6ff6bbe2c16a04244e9bc7ac431566d236c0"
+    },
+    {
+      "angle": 5,
+      "seconds": 3.75,
+      "file": "orbit/work-001.jpg",
+      "sha256": "fba010dc19fccdb9d28beadb707f27fb4ec659e3c9fcfc0d1047f490567bef3c"
+    },
+    {
+      "angle": 10,
+      "seconds": 3.75,
+      "file": "orbit/work-002.jpg",
+      "sha256": "4d0a17642914cd07a4ec98846f00072262cf76321ac65c720811e80b1b133ee2"
+    },
+    {
+      "angle": 15,
+      "seconds": 3.75,
+      "file": "orbit/work-003.jpg",
+      "sha256": "99338b3833035f506c6bf8ccaf8c2f958b4ba6a5f5ef9431a2f87ae421812c84"
+    },
+    {
+      "angle": 20,
+      "seconds": 3.75,
+      "file": "orbit/work-004.jpg",
+      "sha256": "e56b04b6d1f206784b011c7db13f2ab2e7e07be13e178ab0843381aaef94a86d"
+    },
+    {
+      "angle": 25,
+      "seconds": 3.75,
+      "file": "orbit/work-005.jpg",
+      "sha256": "cec433c69ad5d3d9ce0ca3122e4def6bdc4be69f11f04c8c30fde9f11c3cfbbc"
+    },
+    {
+      "angle": 30,
+      "seconds": 3.75,
+      "file": "orbit/work-006.jpg",
+      "sha256": "5f41aac06f71fb662fe625d3145d35376961a5ab57c1daf8f5f8713a5d8db45f"
+    },
+    {
+      "angle": 35,
+      "seconds": 3.75,
+      "file": "orbit/work-007.jpg",
+      "sha256": "8ad9398688c8c85ad90b075aa5ee042faacec04791d5670705c54862b4fa538e"
+    },
+    {
+      "angle": 40,
+      "seconds": 3.75,
+      "file": "orbit/work-008.jpg",
+      "sha256": "c1c8db1f699c91ef8bfb94a02edb35b35fbeee2ea0d31c06c8da1cea6054bf02"
+    },
+    {
+      "angle": 45,
+      "seconds": 3.75,
+      "file": "orbit/work-009.jpg",
+      "sha256": "13b12eb2b38590606613dcd36fe7bf30bd3b89112fc5e77f7577b159669e0230"
+    },
+    {
+      "angle": 50,
+      "seconds": 3.75,
+      "file": "orbit/work-010.jpg",
+      "sha256": "972b2e6406d7a8e25cc3e557ab33daa6030f247d61eaa383a3a9b3352514eff8"
+    },
+    {
+      "angle": 55,
+      "seconds": 3.75,
+      "file": "orbit/work-011.jpg",
+      "sha256": "457744fe3e145327cd798a15cc567db25673a35ef83e0ab004d82b07bea90893"
+    },
+    {
+      "angle": 60,
+      "seconds": 3.75,
+      "file": "orbit/work-012.jpg",
+      "sha256": "7b0efc21344af56ff1d8af6c88e051fac5bc87d2db1c92f5f6519316d384ec50"
+    },
+    {
+      "angle": 65,
+      "seconds": 3.75,
+      "file": "orbit/work-013.jpg",
+      "sha256": "7aad914d75cb6aa66313e6184824701330a40661356a79be5317aa670a97969b"
+    },
+    {
+      "angle": 70,
+      "seconds": 3.75,
+      "file": "orbit/work-014.jpg",
+      "sha256": "98ca0d0bc2065faf9157273a9eeb65e71b1df376d85a84f2db26edd36da1c2b5"
+    },
+    {
+      "angle": 75,
+      "seconds": 3.75,
+      "file": "orbit/work-015.jpg",
+      "sha256": "0ea993a05885af1b504d00b09e2e400fd4bf0e95b638f47c00a7513f5896ca7f"
+    },
+    {
+      "angle": 80,
+      "seconds": 3.75,
+      "file": "orbit/work-016.jpg",
+      "sha256": "8fdb161aaf42be045cd2062fac14c1b28d3c03e9e6981f34819750af5b96f529"
+    },
+    {
+      "angle": 85,
+      "seconds": 3.75,
+      "file": "orbit/work-017.jpg",
+      "sha256": "3a4431d68cc9d792660ae18ea06aa82718f51ce92b50fee10295fb27b8f44395"
+    },
+    {
+      "angle": 90,
+      "seconds": 3.75,
+      "file": "orbit/work-018.jpg",
+      "sha256": "e2d426c217c92f618e2e7545324a1d7ed5f823de309c0390e9587cd3d257b5bb"
+    },
+    {
+      "angle": 95,
+      "seconds": 3.75,
+      "file": "orbit/work-019.jpg",
+      "sha256": "cc851a50545421efa96d7a908c71ebfcdb4e653321d4eb67a63035e06cd6b4cc"
+    },
+    {
+      "angle": 100,
+      "seconds": 3.75,
+      "file": "orbit/work-020.jpg",
+      "sha256": "b983022ef100220e3febb1086481ff1d5e4d41e2feb3d5fc458f499212988ab1"
+    },
+    {
+      "angle": 105,
+      "seconds": 3.75,
+      "file": "orbit/work-021.jpg",
+      "sha256": "eb1f0649c47aea8e0c29000265e65301c36520b5b86534d27e340df0981027c1"
+    },
+    {
+      "angle": 110,
+      "seconds": 3.75,
+      "file": "orbit/work-022.jpg",
+      "sha256": "4e5cffffb8d7d2cbfe22425ed4e83fddaa4faa77b1077d4bd0f6a0d5d6d0ac47"
+    },
+    {
+      "angle": 115,
+      "seconds": 3.75,
+      "file": "orbit/work-023.jpg",
+      "sha256": "9dcb9f018418804528b1ec0ed3fe994b4af5b90bfb6f1b855af9858cfac45bb4"
+    },
+    {
+      "angle": 120,
+      "seconds": 3.75,
+      "file": "orbit/work-024.jpg",
+      "sha256": "4ffa6fb70e40b64a93c4416a773eeb154e8672fd53098fbd8f767a6b75bbe486"
+    },
+    {
+      "angle": 125,
+      "seconds": 3.75,
+      "file": "orbit/work-025.jpg",
+      "sha256": "ab53746bf930cf96d1d434af55271f70dbe92ba0b1a47127c30990ac1c914b60"
+    },
+    {
+      "angle": 130,
+      "seconds": 3.75,
+      "file": "orbit/work-026.jpg",
+      "sha256": "97683579b9adc2239d6b4e574d51698aeeda3e68cef4e42c5f5b5660788f96c5"
+    },
+    {
+      "angle": 135,
+      "seconds": 3.75,
+      "file": "orbit/work-027.jpg",
+      "sha256": "df428ec7ac2c801830d324f30ec415432d4092f21d099c06d4105f2cbeebb7c3"
+    },
+    {
+      "angle": 140,
+      "seconds": 3.75,
+      "file": "orbit/work-028.jpg",
+      "sha256": "c29b6fe29873092aadf80c730b81bdbed6be4842bbe2ffe9df91e9a0c3644c95"
+    },
+    {
+      "angle": 145,
+      "seconds": 3.75,
+      "file": "orbit/work-029.jpg",
+      "sha256": "abd81716f16aa4cbd365bf762c6263454e809151d1bab8f85941305d08a1c901"
+    },
+    {
+      "angle": 150,
+      "seconds": 3.75,
+      "file": "orbit/work-030.jpg",
+      "sha256": "da359b2e5256807ca0cfbf91679d289930c64653426bf3e323b5b2e4faa8ba78"
+    },
+    {
+      "angle": 155,
+      "seconds": 3.75,
+      "file": "orbit/work-031.jpg",
+      "sha256": "905480266e29abf3581d10e4df341b90f4f07db66a0107600f18f36a29e93487"
+    },
+    {
+      "angle": 160,
+      "seconds": 3.75,
+      "file": "orbit/work-032.jpg",
+      "sha256": "a1ce92ee7bc9fe943d22294153cbbf4e118144b179d204a678c15e8a38a29573"
+    },
+    {
+      "angle": 165,
+      "seconds": 3.75,
+      "file": "orbit/work-033.jpg",
+      "sha256": "1a2c84d00a456c8de3fb1afc031e7a839d2e82b5c4b575baf7af71fbdb56e82c"
+    },
+    {
+      "angle": 170,
+      "seconds": 3.75,
+      "file": "orbit/work-034.jpg",
+      "sha256": "4801a9d4935c4fc4263c12eb5215390e9b8a41af02dd43162945a4b29dd64c98"
+    },
+    {
+      "angle": 175,
+      "seconds": 3.75,
+      "file": "orbit/work-035.jpg",
+      "sha256": "6f82fa72280ae2db509e8b97d28e96770b26da54d198fd84bb22497874ab5647"
+    },
+    {
+      "angle": 180,
+      "seconds": 3.75,
+      "file": "orbit/work-036.jpg",
+      "sha256": "3879b915ebdca135d2952433d88a5f0faade7b84d5175fbfb44be08b168ee9a8"
+    },
+    {
+      "angle": 185,
+      "seconds": 3.75,
+      "file": "orbit/work-037.jpg",
+      "sha256": "1f4ada389cc1bc0703979df65f6a7efe6448a3ab6ae03cfbe8720daee3da45cd"
+    },
+    {
+      "angle": 190,
+      "seconds": 3.75,
+      "file": "orbit/work-038.jpg",
+      "sha256": "e777c0a4ab40db9a913f9767ec13e0c803fb4e1190aaf360e69523ae12791bcd"
+    },
+    {
+      "angle": 195,
+      "seconds": 3.75,
+      "file": "orbit/work-039.jpg",
+      "sha256": "5a66328933551f27ae4df945851d81fa78fff327f460b13822bfd8af699846cd"
+    },
+    {
+      "angle": 200,
+      "seconds": 3.75,
+      "file": "orbit/work-040.jpg",
+      "sha256": "547d8bd3c31ca5e98c68e0b351e50662e61605c2dc6f832b4ded592443e67174"
+    },
+    {
+      "angle": 205,
+      "seconds": 3.75,
+      "file": "orbit/work-041.jpg",
+      "sha256": "14c858c5e798ee023d2efdf5d693f285c1804415d9304ea94313ba823f0c0411"
+    },
+    {
+      "angle": 210,
+      "seconds": 3.75,
+      "file": "orbit/work-042.jpg",
+      "sha256": "7a304c3435873869b1c2e83271085d83e20ea6528307b55decc9c1365d9be520"
+    },
+    {
+      "angle": 215,
+      "seconds": 3.75,
+      "file": "orbit/work-043.jpg",
+      "sha256": "908a8a65799a07635b0871e4bf98ab757e37a9f9f6189480468faba4799058d4"
+    },
+    {
+      "angle": 220,
+      "seconds": 3.75,
+      "file": "orbit/work-044.jpg",
+      "sha256": "839b5bdf54a91fb0fb99b1240002a3afa7de41d7f69193544239019544fb2acd"
+    },
+    {
+      "angle": 225,
+      "seconds": 3.75,
+      "file": "orbit/work-045.jpg",
+      "sha256": "25c85405397485d80c15673784315c76313191fd8b4520f1137c0cbdcd8d2fa7"
+    },
+    {
+      "angle": 230,
+      "seconds": 3.75,
+      "file": "orbit/work-046.jpg",
+      "sha256": "49410427ff89e9258e748f2b160cc43b740e8de913e82669d0d3ff60db6bc723"
+    },
+    {
+      "angle": 235,
+      "seconds": 3.75,
+      "file": "orbit/work-047.jpg",
+      "sha256": "89e49bfba3c93f3006956b9526695a133081098d5d5c648ee874acc93ee808b0"
+    },
+    {
+      "angle": 240,
+      "seconds": 3.75,
+      "file": "orbit/work-048.jpg",
+      "sha256": "ee1770dd2136bab8d95437e2d9cb804ad068b007cbff3ee412f8ec81e64f9f51"
+    },
+    {
+      "angle": 245,
+      "seconds": 3.75,
+      "file": "orbit/work-049.jpg",
+      "sha256": "97469316c0f8d8e59eae8025c815ca1cb6a10ff2e23fdd42b22b198f10a1c0bc"
+    },
+    {
+      "angle": 250,
+      "seconds": 3.75,
+      "file": "orbit/work-050.jpg",
+      "sha256": "388726296d642eac2ec0f728626ab702d6df6614f9d7c54370449e875041eab4"
+    },
+    {
+      "angle": 255,
+      "seconds": 3.75,
+      "file": "orbit/work-051.jpg",
+      "sha256": "a81db89135b5fe9dd92b131b61a8e3294bac371ac3ce8d4ac16bb9bb2f4667f2"
+    },
+    {
+      "angle": 260,
+      "seconds": 3.75,
+      "file": "orbit/work-052.jpg",
+      "sha256": "06370e44ccbf07f28f690db31f76872717973942bee877e4c434ef653a9d856e"
+    },
+    {
+      "angle": 265,
+      "seconds": 3.75,
+      "file": "orbit/work-053.jpg",
+      "sha256": "ebdab80c0d10447c7aa4331ed707468a40b30cb2225f46fd9bbb56d6e9870278"
+    },
+    {
+      "angle": 270,
+      "seconds": 3.75,
+      "file": "orbit/work-054.jpg",
+      "sha256": "3de4c50b3df81dec5d2e9a5269a85eec6f294f7f39d5466193641aa204bca2f6"
+    },
+    {
+      "angle": 275,
+      "seconds": 3.75,
+      "file": "orbit/work-055.jpg",
+      "sha256": "1d48b30f1041daaba688cb78d86d9b95d70bf3a567b9f0437fa021b673f3436d"
+    },
+    {
+      "angle": 280,
+      "seconds": 3.75,
+      "file": "orbit/work-056.jpg",
+      "sha256": "a8edfd6b53d40700c7d49f255e707ef8b0b2fc41cda3f3bc72c232ee2ef0d47b"
+    },
+    {
+      "angle": 285,
+      "seconds": 3.75,
+      "file": "orbit/work-057.jpg",
+      "sha256": "4e9833cf57010dd1cc1e12ade3f7046d51f227a36bb20947de5076bbfa54ac34"
+    },
+    {
+      "angle": 290,
+      "seconds": 3.75,
+      "file": "orbit/work-058.jpg",
+      "sha256": "d1d4a7b51a733bb311cc4966497ee0cd762937636417dfe2378c477d5e2b5970"
+    },
+    {
+      "angle": 295,
+      "seconds": 3.75,
+      "file": "orbit/work-059.jpg",
+      "sha256": "d2802f23ece34bccd228a6d245deb88eb3cb19db140406adcefe28c5acbf338c"
+    },
+    {
+      "angle": 300,
+      "seconds": 3.75,
+      "file": "orbit/work-060.jpg",
+      "sha256": "efb77859226a623bd09e2357bc2a6f46cf531be874da35eaa84869396d8287d3"
+    },
+    {
+      "angle": 305,
+      "seconds": 3.75,
+      "file": "orbit/work-061.jpg",
+      "sha256": "11df1ccbc9e4da47fc9db43a4483ee062a5a388a0970b5ddff848367eab2dfc9"
+    },
+    {
+      "angle": 310,
+      "seconds": 3.75,
+      "file": "orbit/work-062.jpg",
+      "sha256": "fbc659a879a583c46ba7415100fb6b15c0248a4d2a8702e6ab2527ccb380fcaa"
+    },
+    {
+      "angle": 315,
+      "seconds": 3.75,
+      "file": "orbit/work-063.jpg",
+      "sha256": "d236b7b0f21a8fb95785a0dd8ad84c79ae327a39cc40cbd68c93afd3154a9972"
+    },
+    {
+      "angle": 320,
+      "seconds": 3.75,
+      "file": "orbit/work-064.jpg",
+      "sha256": "c4a4dc2de36b627cad7651b4123bf8e38b05ef62eb33d64e555e4a1959a81a65"
+    },
+    {
+      "angle": 325,
+      "seconds": 3.75,
+      "file": "orbit/work-065.jpg",
+      "sha256": "0ffe7852644b41a038a193dcc6f31c54363c5e92a6e2c7778ef11e47d5d8cee9"
+    },
+    {
+      "angle": 330,
+      "seconds": 3.75,
+      "file": "orbit/work-066.jpg",
+      "sha256": "64b582ec5b51037d839349b5ebfbaf1fd7c277b56de51ebb037ffb21362ada91"
+    },
+    {
+      "angle": 335,
+      "seconds": 3.75,
+      "file": "orbit/work-067.jpg",
+      "sha256": "de22bc9857d8533a5145b88181df64ab1957f79f348236666bbd8c902f80cfc8"
+    },
+    {
+      "angle": 340,
+      "seconds": 3.75,
+      "file": "orbit/work-068.jpg",
+      "sha256": "ba0a69d98c68784912390732d523d7b5b87e9fb8bc63b20e9393a1488e920401"
+    },
+    {
+      "angle": 345,
+      "seconds": 3.75,
+      "file": "orbit/work-069.jpg",
+      "sha256": "3cb38c7952c5a3a6e0f1c48ed2b13b022c2ae55e67188636c623d1d10d7a677c"
+    },
+    {
+      "angle": 350,
+      "seconds": 3.75,
+      "file": "orbit/work-070.jpg",
+      "sha256": "d22276d0da0a937e5132b42c8eb4350c224905338159f92f251e5d9f2ed06514"
+    },
+    {
+      "angle": 355,
+      "seconds": 3.75,
+      "file": "orbit/work-071.jpg",
+      "sha256": "aa9f033805cbb9e60c548c005d2cd2fe357ab660b0fc1cf1de8086b8bbd2383a"
+    }
+  ],
+  "orbitSheets": [
+    {
+      "file": "media/orbit-work.jpg",
+      "sha256": "b3b4451e16611c764adcbb4fd5972e8e2e25dae69d9533bbddf259d89f5df3dd",
+      "count": 72
+    }
+  ],
+  "captureSHA256": "d9fee40c7d71d1acd9a2566fff643ba7946a23f96e35b6f460508584315bb685"
+}

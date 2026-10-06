@@ -1,0 +1,307 @@
+{
+  "nativeSHA256": "5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b",
+  "scope": "Head yaw amplitude and timing only. Other geometry, pitch, roll and animation are exact; full-release qualification remains open.",
+  "wholeMotionReleaseQualified": false,
+  "issues": [
+    {
+      "id": "I01",
+      "originalSymptom": "Missing anticipation flexion / flight extension / landing flexion",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "No jump anticipation, flight or landing requalification.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I02",
+      "originalSymptom": "Airborne thigh/crotch/cuff crumpling",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Early narrow support transfer rejected; selected broader transition reviewed in four shaded views. Airborne deformation untested.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I03",
+      "originalSymptom": "Crotch remains about14px high during crouch/impact",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Both paw contacts and gray ankle boundaries fixed in184native time/case probes and240selected capture times. No impact or crouch study.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I04",
+      "originalSymptom": "Landing poyon excludes thighs or introduces a second bounce",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Gradual supported recovery only; no landing bounce.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I05",
+      "originalSymptom": "Paws remain block-like through launch",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Original paw geometry and orientation retained; no launch deformation.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I06",
+      "originalSymptom": "Apex soles too horizontal; descent flattens too early",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "No airborne sole or landing-flattening experiment.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I07",
+      "originalSymptom": "Arms small in crouch/impact but not apex",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Original arm material length, girth and holding paw retained; no jump scaling.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I08",
+      "originalSymptom": "Club-arm shape, stable shoulder attachment and side coherence",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Native FK and shoulder transport checked. Arm-only lowering rejected for distal occlusion; common forward reach preserves readable arms in reviewed views. Original shoulder embedding retained.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I09",
+      "originalSymptom": "Tail launch arc too high despite close apex",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Tail shares common trunk transport; no new spring or launch-arc qualification.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I10",
+      "originalSymptom": "Charcoal tail merges with charcoal limbs",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Original pigment retained. Four-view complete sequence inspected; no new diagnostic-pigment identity pass.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I11",
+      "originalSymptom": "Event order and timing remain coarse",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "One world-facing curve corrects early head overturn; body reach follows Stroke. Four-second action reviewed at60fps without source retiming.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I12",
+      "originalSymptom": "AI pads, proportion drift, hidden depth and source ambiguity",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Source hidden depth, physical pivot and support force remain unknown. Generated anatomy is not rig authority; original rigid face/rest preserved.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I13",
+      "originalSymptom": "Native parity mistaken for quality; export and ranges uncertain",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "Nine controls edited/reset before and after reopening with scripts disabled. Full native/capture correspondence checked at nine times. Arbitrary ranges and runtime export unqualified.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I14",
+      "originalSymptom": "Quality claims passed despite visible failures",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "A geometry-passing hidden-arm round was rejected visually. Round03and the full sequence receive main-agent review only; no independent sign-off.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "I15",
+      "originalSymptom": "One jump mistaken for a general rig",
+      "status": "OPEN_AT_FULL_RELEASE_SCOPE",
+      "sweep33EvidenceOrExclusion": "One planted sweep and declared causal alternatives, not a general stepping or motion-family certificate.",
+      "sweep34EvidenceOrExclusion": "Character geometry and action retained from Sweep33. Broom-only shape/grip/contact review does not qualify this issue at full release scope.",
+      "sweep36EvidenceOrExclusion": "Original Body rigid placement, independently constructed180/198 thighs, fixed paws and bounded composition are verified for the documented supported sweep. This scoped extension does not close the complete architecture issue.",
+      "sweep38EvidenceOrExclusion": "The source-fitted eight-second score reuses Sweep36 original-profile construction. Source/contact/actual visual checks cover this documented path; the inherited architecture issue remains open at full-release scope.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    }
+  ],
+  "gates": [
+    {
+      "id": "authority",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Unchanged Source29 front video and frozen Sweep32 baseline. Candidate only; owner adoption pending.",
+      "sweep34EvidenceOrExclusion": "Frozen Sweep33 native; owner asked for natural broom shape, length and grip across views. New candidate, no adoption.",
+      "sweep36EvidenceOrExclusion": "Owner requested original mathematical shape constraints after rejecting the Sweep34 lower-body wedge. Sweep36 is a separate candidate; prior/adopted originals remain preserved.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "identity",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Original rest, endpoint, rigid head and material attributes retained in native checks; source ambiguity remains.",
+      "sweep34EvidenceOrExclusion": "Fourteen native times preserve12character geometry fields exactly; original broom switch is exact. No character redesign.",
+      "sweep36EvidenceOrExclusion": "Body source distances and profile preserved by rigid placement; original180 transverse scales and198 taper retained. Whole-action turn/travel deliberately revised. Original local arm shape and broom dimensions retained.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "geometry",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Actual native field/FK correspondence, shaded views and sampled actual-surface Jacobians. Compression and longitudinal strain remain; no volume or all-control collision certificate.",
+      "sweep34EvidenceOrExclusion": "Rounded closed shaft/collar/fan scaffold; native-versus-independent-math checks and shaded views. Broom surfaces/contained vertices checked against torso, paws, tail, free arm and proximal holding arm in the recorded domain.",
+      "sweep36EvidenceOrExclusion": "Independent source-model/native parity, positive profile domain, source manifold/self-intersection tests, hidden-cap containment, bounded hip composition and actual six-view/body-clay review. No global lower-body convexity or arbitrary-control certificate.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "attachment",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Common shoulders, body-bound neck location, world-owned head orientation and fixed gray ankle boundary checked.",
+      "sweep34EvidenceOrExclusion": "Fixed distal material q>0.84 holds the shaft. Original arm/shoulder performance preserved. Distal-hand overlap is intentional; fingers are not authored.",
+      "sweep36EvidenceOrExclusion": "Independent hip-to-fixed-ankle tasks and actual concealed cap surfaces checked. Original medial arm embedding remains and is tested against the same local arm articulation/neutral composition for increased depth.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "contact",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Both paws and gray ankle fixed; hand-derived broom floor/return lift checked at240times. No physical force reconstruction.",
+      "sweep34EvidenceOrExclusion": "Analytic actual-fan floor/lift support;240frames plus116between-frame samples. Planted paws and ankle fields preserved; no physical force reconstruction.",
+      "sweep36EvidenceOrExclusion": "Both originalG paws fixed; actual fan floor/lift support checked for240native times and116between-frame samples. No force, mass distribution or dynamic balance recovery.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "performance",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Lower working hand, calmer head attention and source/before/after curves. Quantified source residuals retained; owner acceptance remains open.",
+      "sweep34EvidenceOrExclusion": "Shorter lower shaft, rounded fan and stroke-responsive heading reviewed from six views and two360degree orbits. Owner acceptance remains open.",
+      "sweep36EvidenceOrExclusion": "Three coordinated hypotheses compared; supported10degree choice removes the sampled side wedge. Full six-view action and two72angle orbits reviewed. Owner acceptance remains open.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "temporal",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Native C1 attention/action curves, full60fpscapture and complete sequence review. No imported sparse-linear bake.",
+      "sweep34EvidenceOrExclusion": "Inherited native continuous curves;240native time samples at60fps. No optical-flow interpolation or new temporal retiming.",
+      "sweep36EvidenceOrExclusion": "Original smooth native score with revised coupled amplitudes,240actual native times at60fps and exact endpoint. No optical flow or mesh interpolation; changing composed topology is observed in actual renders.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "readability",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Round03:44color/16shaded images. Final:960viewframes across front, oblique, side and top. Top naturally occludes torso and limbs.",
+      "sweep34EvidenceOrExclusion": "1440new candidate viewframes,480new baseline viewframes,288paired orbit views and12shaded close views; three pilot rounds retained.",
+      "sweep36EvidenceOrExclusion": "All1440candidate viewframes,144new orbit views,28body-clay views and9public-control appearance probes reviewed, with75pilot images retained. Prior comparison media reused exactly.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "native_delivery",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Complete saved native, scripts-disabled reopen,18edit/reset probes and no external playback libraries/images. Skeletal transport remains open.",
+      "sweep34EvidenceOrExclusion": "Complete native, scripts-disabled reopen, twelve individual control edit/reset probes before and after reopen, exact endpoint and no external playback assets. Runtime transport remains open.",
+      "sweep36EvidenceOrExclusion": "Self-contained native, scripts-disabled reopen, effective public-control edits and exact resets, bound source/evidence and complete rendered preview. Node-graph runtime export remains unqualified.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "governance",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Bound native/pilot/capture/media/visual receipts and preserved originals. Main-agent implementation/review, no independent judge or adoption.",
+      "sweep34EvidenceOrExclusion": "Native/pilot/capture/media/transfer/visual receipts and preserved previous originals. Main-agent implementation and review; no independent sign-off.",
+      "sweep36EvidenceOrExclusion": "Inventory/model/domain/native/capture/media/transfer/visual receipts remain bound to their versions. Main-agent implementation/review only; no independent sign-off or registry adoption.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    },
+    {
+      "id": "domain",
+      "status": "NOT_FULLY_QUALIFIED",
+      "evidenceScope": "See bound pilot and sequence/capture receipts; broader release requirements remain open",
+      "sweep33EvidenceOrExclusion": "Only the authored sweep and limited control probes; arbitrary parameter combinations, stepping and pickup/release excluded.",
+      "sweep34EvidenceOrExclusion": "The authored four-second held-broom sweep and documented individual edits only. Combined control-domain collision certification, pickup/release and stepping are excluded.",
+      "sweep36EvidenceOrExclusion": "Body contribution0..1 is one coupled family with16626offline part evaluations and scoped native probes. Arbitrary independent helpers, other inherited controls, stepping and pickup/release are outside the domain.",
+      "sweep38EvidenceOrExclusion": "See REPORT.md and candidate-bound native/capture/domain/visual receipts. C1 score, full480-time checks, exact closure, source preservation and editable native delivery do not close this complete release gate.",
+      "sweep39EvidenceOrExclusion": "Horizontal attention correction only. All eleven non-head geometry fields stay exact at480output times and recorded interstitial probes. Rigid head movement and actual complete three-view media are checked; this does not close the full-release requirement.",
+      "sweep40EvidenceOrExclusion": "Calmer head yaw only. Eleven non-head geometry fields remain exact at480output times and recorded interstitial probes. Rigid head movement and the complete three-view performance are checked; full-release qualification is not established."
+    }
+  ],
+  "evidence": {
+    "pilot01\\native.json": "19236d1b1b208c15969c300ea40551c9c8384eaa657e7bec8c9a384817ebb31c",
+    "pilot01\\capture.json": "d9fee40c7d71d1acd9a2566fff643ba7946a23f96e35b6f460508584315bb685",
+    "pilot01\\media.json": "3d82946ef87a4d7d49816e3850e27aa180887c71dd536c10ebbc0600c7bccd0a",
+    "pilot01\\summary.json": "a771025b88aad38d24919ef7a6e9d4830052189538d7c8381008b7668e953974",
+    "attention.json": "7ff11eede58dd0e55d45b59c5f471a563368887a192dfb8b72b7c541e71cce43",
+    "attention-analysis.json": "f1f17142dd65bf54fbcd65d4fc08f8728d66b746538051c161583278c08c080a",
+    "pixel-parity.json": "9b99e82f9e147566180bfdf03851c65f20eb8db0f0533d625d2026b1bf3fb798",
+    "pilot-review.json": "2eff3477f78e216496c83d5043e102f4d6be56fe1211b6e64fdf68ecbe3a0463",
+    "sequence-review.json": "084f792f6285f465eef76e070e5836e02f28381edb04ff6d115e876ee7c40f5d"
+  },
+  "inheritedLedgerSHA256": "b2695b87716bb08447d6996d9db317aba3abc0676676b20611598fe04e2618e0"
+}

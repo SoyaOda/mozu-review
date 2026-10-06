@@ -1,0 +1,1021 @@
+{
+  "status": "PASS_NATIVE_PENDING_VISUAL_REVIEW",
+  "sourceSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "attentionSHA256": "7ff11eede58dd0e55d45b59c5f471a563368887a192dfb8b72b7c541e71cce43",
+  "curveMaximumError": 1.5800642465535475e-06,
+  "sourceParity": [
+    {
+      "seconds": 0.0,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 0.5,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 0.82,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 1.48,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 2.08,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 2.52,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 3.75,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 5.28,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 5.94,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 6.55,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 6.95,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 7.5,
+      "headAndProtectedExact": true
+    },
+    {
+      "seconds": 8.0,
+      "headAndProtectedExact": true
+    }
+  ],
+  "rows": [
+    {
+      "seconds": 0.0,
+      "calmness": 1.0,
+      "headRigidityError": 0.0,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "idealDegrees": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "e2d681a3d7104506214badb8b1b677488ec4e640453a2826bbb97eb6314f534d",
+        "C164 | Body-owned convex core": "79f92fe0bb1fb31c9aa09c938fd86186fca4cd297e4a34860fe3e751b711e327",
+        "TAIL101 | Parametric envelope surface": "6c04e9c1154d56cb4e88c8bc64d33eb84296debf568f84508f643350223d3db3",
+        "S126 | Body-bound shoulders": "f259f8b8b5e99140a4c1d3eb8876833670e6272bea2210f2edfe54f6e321e164",
+        "A189 | E retained180 thigh L": "910ae15235c2023bba08f5ce275c879ccea3daa2942f25ad30995267e68f8c4c",
+        "A189 | E retained180 thigh R": "c0778286da61ba4871bafd1f64d3a0f76894886871e7e76fcff7f294a787ae05",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "1f8c86e83ba75f5eb876aa909a0f691b591f822208ae47fd0178ac28f8715ef8",
+        "tool/R": "ae53441daab98248a3d5030c0998ca1f574d6e7849a62fcd660f079b049f9fc8",
+        "arm/L": "ab0fe4b4c9218d4453910027856632b7cac754455f12bc49a4a834cc9770ad3b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 0.5,
+      "calmness": 1.0,
+      "headRigidityError": 1.3055112457749374e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        9.662485122680664,
+        -0.440216600894928,
+        7.892022132873535
+      ],
+      "idealDegrees": [
+        9.662488646350106,
+        -0.4402165605544812,
+        7.892021982495418
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "c5374d0a9508601369d63db9b77cf25e7f98626b5cc2dccd83b0befb0bc15111",
+        "C164 | Body-owned convex core": "5871af7233d455ff4040e4fa252e2ffb7f745424e73ff38abc36e49257c7c5bf",
+        "TAIL101 | Parametric envelope surface": "dec1f546d227f83e3ccaa2733de696284d3b08d7102f7e24e3bd4e5e21032f73",
+        "S126 | Body-bound shoulders": "4b71a76dc86be2c71d4133c55ea4bf8f893ee7c134ac5d8daa48e6992ce0067e",
+        "A189 | E retained180 thigh L": "505bef878aa9a44e21b07aaba842cc21cb45338e77fc861c02e224fe8a23eb12",
+        "A189 | E retained180 thigh R": "9816261b40469e1755b08301412b1f68a0bb6aa6906ccab5c94b34f4d806a572",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "ae060f00959d6fd4408736776fb494c2dd1f4b8c5fe7dc514e04162e67e0ef50",
+        "tool/R": "24e086ccf46d69f94841e3dd8239f4f58930bfc5be00c1f8eb6aac51bf42f9fa",
+        "arm/L": "c1f8fa94eb46c7b77eb0ddfdf82d7fd773036cffbe63dff6d8f9123a219a7d35"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 0.82,
+      "calmness": 1.0,
+      "headRigidityError": 2.1575311492938454e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        12.253241539001465,
+        -0.5925580859184265,
+        9.116929054260254
+      ],
+      "idealDegrees": [
+        12.253244603328625,
+        -0.5925581167061991,
+        9.116930392200226
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "3cc38ebfe2c4e2fae28783f6597f11737d2f4bf0e52afde690db6e63f8dc0db4",
+        "C164 | Body-owned convex core": "4661cca4db627c45abb99cf53b08832fe003dcbb00db4d6d659505bd5f5938f2",
+        "TAIL101 | Parametric envelope surface": "8a14ed73033cb5fb10e830f5f24c06dcca976aba4d0ce39af4ef394587551446",
+        "S126 | Body-bound shoulders": "f99812fc479d47d47c1aae8442467bca79bf69dcadb4928822dc5ab1d10a4c17",
+        "A189 | E retained180 thigh L": "06727ed71af6572c8fd588fd82490069ccead4119f9cd4412715fd41915d5920",
+        "A189 | E retained180 thigh R": "1781e56b61a6a39f50b46b6f77940054349c9669f224033dca4bb4ea5084c138",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "10df3bc45173c02357de41e38ea40f0d89ed33d0193ea4cc56544577fc8c53fe",
+        "tool/R": "6b72c424c64c59487e7d5f233a307cb664684c3e96c04efe8cd9d2ba8683ee18",
+        "arm/L": "10bd780c3207db2b065abd0972ff6846aa8cfbebe541924905bb7ab3cb76fd56"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 1.48,
+      "calmness": 1.0,
+      "headRigidityError": 1.0244563863892608e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.748791694641113,
+        -0.5812939405441284,
+        9.903349876403809
+      ],
+      "idealDegrees": [
+        11.748792473874103,
+        -0.5812939784920055,
+        9.903350398155712
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "11efab1e2ba3a01ca787e3ad01ff4c0fcdb4239524e39804620fd803eda7d18d",
+        "C164 | Body-owned convex core": "2aa3fa96b95699f5616390a9e76e753bbab208f34fe01d8399c4b32c34d8e69d",
+        "TAIL101 | Parametric envelope surface": "84e927e64b2ab8cf92deff0fbfca0faaf70e5bd5c7cbff0935c5da94efb27739",
+        "S126 | Body-bound shoulders": "dc2741441fa072b843b1d8e7fc405ba50e9e04606dd694a1457a73f9af1345a4",
+        "A189 | E retained180 thigh L": "b52b7d9632abf62d4f045a7f63c349fd0cdb0bc784b400a08c130e19da81e13f",
+        "A189 | E retained180 thigh R": "9d59367ca2a55e10698282516b7bd2cd6c26a18466ca15ad8fb58b11b7c38bdc",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "3ea26f630a6fb3ba63bc43a908879f608de33855b8fb7b19edeae06358ab86a5",
+        "tool/R": "0f6d2acd2436ce2e73d5fe22d84d7826b581c89ae6902cef4cf3741ced231908",
+        "arm/L": "340814ec769455cd48fb0a8adc06be1874e69db1a1b8be5dbbcab51531b5379c"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 2.08,
+      "calmness": 1.0,
+      "headRigidityError": 9.677036150179674e-08,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.788000106811523,
+        -0.5525861978530884,
+        11.615330696105957
+      ],
+      "idealDegrees": [
+        10.788,
+        -0.5525862429185943,
+        11.615329502683704
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "cf56aaf0772a78e0cf6d7ba6eaca71846f49bbc293a1f4eb7a47ea81d2d122a8",
+        "C164 | Body-owned convex core": "a470070826fb01a7c5c3eee3fd1bac5553b8daf836efa5bdac31d83e04712e0c",
+        "TAIL101 | Parametric envelope surface": "b3f9648d987bdc8f7d5c2b7f43ab4e9e960c325ad865cc7ffbf8ef57c4bcc1ef",
+        "S126 | Body-bound shoulders": "20bd608736fd3bf0ec224969e69e8ec35d84c78bcce094e4ffaeed0f475674f6",
+        "A189 | E retained180 thigh L": "6ae78aca37bff9bdb57905ea1f446f7aa1190d398ed795d30fdc87c701a03c86",
+        "A189 | E retained180 thigh R": "0e7b9d6d2ec3787fff752960e30b30b7ad477ff889e2c0727daf2169eac70c9e",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "5cf79c73f10973194cf8e0da21905f1cc779bf3a24c474dd2bc22a1bedd5587f",
+        "tool/R": "ce016f335d58a6d4348a0f91f9e7e9101f8a6646036a7aa2a9fc8476eee83873",
+        "arm/L": "8334f2972a4c8332bc61e130aca1c3db0e4a5fed5f7dfac08252566a98833415"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 2.52,
+      "calmness": 1.0,
+      "headRigidityError": 1.3006886634414627e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.42491340637207,
+        -0.5407214760780334,
+        11.273351669311523
+      ],
+      "idealDegrees": [
+        10.424914507545068,
+        -0.5407215871101206,
+        11.273351659752652
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "fdd699a565e71eb6deafd1f17ab4f88180064a5338048f1a59aea36f3ccde2a2",
+        "C164 | Body-owned convex core": "1891f32de6b935a618e73373a6933dd85e8b002d5b1bc30e77a5f5e3c5cd4597",
+        "TAIL101 | Parametric envelope surface": "117fc38aed98d2ed2c5f908784a5d48ebc10a3e45e25b02feba8276f91792d4d",
+        "S126 | Body-bound shoulders": "9a395560b1994537ecc5d9ab04c958a14b4510f82da2cac61d7a9dd3f1b3b0d0",
+        "A189 | E retained180 thigh L": "e48160dfb659338429f08cb2703c552daa645352a3eee019904d79b8e9d7ad1c",
+        "A189 | E retained180 thigh R": "a939d403954647879d4e4d06303a19ed7846a521d510b65efdd0e6679b7c8704",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "0d98e2775a2aedb871e26b800af53fb8335236f5b29c6e823567a8333eb5fb33",
+        "tool/R": "9e615a581c653e5690a86811716380e8b4f1d576b9bf4c3a78be429119f0d3ef",
+        "arm/L": "037ea5becfcc4656f58fa22209a0d33182c1848fe3a675b73efc0526bd9884b1"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.0,
+      "headRigidityError": 9.838318248966971e-08,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        21.890377044677734
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        21.89037873096295
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.5,
+      "headRigidityError": 9.368617082117225e-08,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        15.997560501098633
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        15.99756111948548
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 1.0,
+      "headRigidityError": 1.3759308692407046e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        10.104743957519531
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        10.10474350800801
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 5.28,
+      "calmness": 1.0,
+      "headRigidityError": 1.0719309129214594e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        12.33195972442627,
+        -0.5969571471214294,
+        9.065057754516602
+      ],
+      "idealDegrees": [
+        12.331961591220852,
+        -0.5969571750563486,
+        9.065058601893563
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "3cc38ebfe2c4e2fae28783f6597f11737d2f4bf0e52afde690db6e63f8dc0db4",
+        "C164 | Body-owned convex core": "4661cca4db627c45abb99cf53b08832fe003dcbb00db4d6d659505bd5f5938f2",
+        "TAIL101 | Parametric envelope surface": "8a14ed73033cb5fb10e830f5f24c06dcca976aba4d0ce39af4ef394587551446",
+        "S126 | Body-bound shoulders": "f99812fc479d47d47c1aae8442467bca79bf69dcadb4928822dc5ab1d10a4c17",
+        "A189 | E retained180 thigh L": "06727ed71af6572c8fd588fd82490069ccead4119f9cd4412715fd41915d5920",
+        "A189 | E retained180 thigh R": "1781e56b61a6a39f50b46b6f77940054349c9669f224033dca4bb4ea5084c138",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "10df3bc45173c02357de41e38ea40f0d89ed33d0193ea4cc56544577fc8c53fe",
+        "tool/R": "6b72c424c64c59487e7d5f233a307cb664684c3e96c04efe8cd9d2ba8683ee18",
+        "arm/L": "60160b3ebf04375416798c9d31297af03c9f03299e024db9288acb4f15d7b6d2"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 5.94,
+      "calmness": 1.0,
+      "headRigidityError": 1.8512079691390682e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.880846977233887,
+        -0.5907752513885498,
+        9.903295516967773
+      ],
+      "idealDegrees": [
+        11.880848306015094,
+        -0.5907752744458654,
+        9.903296046179683
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "03539518b3d33775d5b41df1e1f2553c02fd7b5cbedba4c20cbe3df91058f548",
+        "C164 | Body-owned convex core": "87514342ff1813bf8d6e587f5632bb24fd543897d6df362847f3b74860584e50",
+        "TAIL101 | Parametric envelope surface": "d364419ffd6031730b31b20ee81e0cdac954449e0f447788bede476181cd65f0",
+        "S126 | Body-bound shoulders": "6dfecdf1d68230256ee230e81eeef318bfce100994c0bc0e841f533b8455a73e",
+        "A189 | E retained180 thigh L": "b03ed93bc3eef521609e2313472d30ac80d751677812fc68e022e93d8ed6c87b",
+        "A189 | E retained180 thigh R": "c37cd56c89ff7e978f0558988790932bcf19a9ff594d67d0a9d44d4b4220aa58",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "ba067293f58a33cd338908eb442470787623e0c395708717b7e3582a1880373c",
+        "tool/R": "f6c6197d8ffac10612346ce28c56d47c8ccc1faa84e17a85b8f947398f82a1d2",
+        "arm/L": "55b0fcb20964cb1b78c5ebada2da6e754835288dcc848633eea9b217a0915ec6"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 0.0,
+      "headRigidityError": 2.1118270465692035e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.866066932678223,
+        -0.5664733648300171,
+        26.23336410522461
+      ],
+      "idealDegrees": [
+        10.866067844036065,
+        -0.5664734156466595,
+        26.233364894320676
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "cf56aaf0772a78e0cf6d7ba6eaca71846f49bbc293a1f4eb7a47ea81d2d122a8",
+        "C164 | Body-owned convex core": "a470070826fb01a7c5c3eee3fd1bac5553b8daf836efa5bdac31d83e04712e0c",
+        "TAIL101 | Parametric envelope surface": "b3f9648d987bdc8f7d5c2b7f43ab4e9e960c325ad865cc7ffbf8ef57c4bcc1ef",
+        "S126 | Body-bound shoulders": "20bd608736fd3bf0ec224969e69e8ec35d84c78bcce094e4ffaeed0f475674f6",
+        "A189 | E retained180 thigh L": "6ae78aca37bff9bdb57905ea1f446f7aa1190d398ed795d30fdc87c701a03c86",
+        "A189 | E retained180 thigh R": "0e7b9d6d2ec3787fff752960e30b30b7ad477ff889e2c0727daf2169eac70c9e",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "5cf79c73f10973194cf8e0da21905f1cc779bf3a24c474dd2bc22a1bedd5587f",
+        "tool/R": "ce016f335d58a6d4348a0f91f9e7e9101f8a6646036a7aa2a9fc8476eee83873",
+        "arm/L": "8334f2972a4c8332bc61e130aca1c3db0e4a5fed5f7dfac08252566a98833415"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 0.5,
+      "headRigidityError": 2.0718949267362063e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.866066932678223,
+        -0.5664733648300171,
+        18.928251266479492
+      ],
+      "idealDegrees": [
+        10.866067844036065,
+        -0.5664734156466595,
+        18.928251913859672
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "cf56aaf0772a78e0cf6d7ba6eaca71846f49bbc293a1f4eb7a47ea81d2d122a8",
+        "C164 | Body-owned convex core": "a470070826fb01a7c5c3eee3fd1bac5553b8daf836efa5bdac31d83e04712e0c",
+        "TAIL101 | Parametric envelope surface": "b3f9648d987bdc8f7d5c2b7f43ab4e9e960c325ad865cc7ffbf8ef57c4bcc1ef",
+        "S126 | Body-bound shoulders": "20bd608736fd3bf0ec224969e69e8ec35d84c78bcce094e4ffaeed0f475674f6",
+        "A189 | E retained180 thigh L": "6ae78aca37bff9bdb57905ea1f446f7aa1190d398ed795d30fdc87c701a03c86",
+        "A189 | E retained180 thigh R": "0e7b9d6d2ec3787fff752960e30b30b7ad477ff889e2c0727daf2169eac70c9e",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "5cf79c73f10973194cf8e0da21905f1cc779bf3a24c474dd2bc22a1bedd5587f",
+        "tool/R": "ce016f335d58a6d4348a0f91f9e7e9101f8a6646036a7aa2a9fc8476eee83873",
+        "arm/L": "8334f2972a4c8332bc61e130aca1c3db0e4a5fed5f7dfac08252566a98833415"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 1.0,
+      "headRigidityError": 2.0918479881615326e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.866066932678223,
+        -0.5664733648300171,
+        11.623138427734375
+      ],
+      "idealDegrees": [
+        10.866067844036065,
+        -0.5664734156466595,
+        11.623138933398666
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "cf56aaf0772a78e0cf6d7ba6eaca71846f49bbc293a1f4eb7a47ea81d2d122a8",
+        "C164 | Body-owned convex core": "a470070826fb01a7c5c3eee3fd1bac5553b8daf836efa5bdac31d83e04712e0c",
+        "TAIL101 | Parametric envelope surface": "b3f9648d987bdc8f7d5c2b7f43ab4e9e960c325ad865cc7ffbf8ef57c4bcc1ef",
+        "S126 | Body-bound shoulders": "20bd608736fd3bf0ec224969e69e8ec35d84c78bcce094e4ffaeed0f475674f6",
+        "A189 | E retained180 thigh L": "6ae78aca37bff9bdb57905ea1f446f7aa1190d398ed795d30fdc87c701a03c86",
+        "A189 | E retained180 thigh R": "0e7b9d6d2ec3787fff752960e30b30b7ad477ff889e2c0727daf2169eac70c9e",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "5cf79c73f10973194cf8e0da21905f1cc779bf3a24c474dd2bc22a1bedd5587f",
+        "tool/R": "ce016f335d58a6d4348a0f91f9e7e9101f8a6646036a7aa2a9fc8476eee83873",
+        "arm/L": "8334f2972a4c8332bc61e130aca1c3db0e4a5fed5f7dfac08252566a98833415"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 6.95,
+      "calmness": 1.0,
+      "headRigidityError": 2.2490475259928644e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        10.167999267578125,
+        -0.5279999375343323,
+        11.067445755004883
+      ],
+      "idealDegrees": [
+        10.168,
+        -0.528,
+        11.067446519216825
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "36f160675e106037e5ab7e0c4e0ff8f69f2401b60c39f318ccd343c1f6f8f88d",
+        "C164 | Body-owned convex core": "fe0aa5fc68bd4c4d90faddd322ded7849df8cfd86357076129f23a181b97e09c",
+        "TAIL101 | Parametric envelope surface": "011876c44c0b06ea7805ea8d86fe42d09a33d692e1c8bc50c40c8cfabb1469cf",
+        "S126 | Body-bound shoulders": "60583e9e06cf348830a70966dbf7750f0262f6c8f97666ce192943a5171df7cc",
+        "A189 | E retained180 thigh L": "2161b96e4d2b05477857cae9183f6e18af6402d3b50a9eb21d6ac49ec7d2cf30",
+        "A189 | E retained180 thigh R": "d3a857de9d2988ac5f2b67c2d26ac4082892511d3d52d3adee87c701e3b098a8",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "ff7a3d2b82aead38ea961a45c8d2ed51254ba3756d7538fcdfed5a4f04b636ef",
+        "tool/R": "52c2d18fc44e99cccfb3a22e191fb408c674751708089b19bbc98602dd03b6c0",
+        "arm/L": "c65c727d126ad5eea528cdf3a99d95023c87f01a4c41345c7f5106fb698fa51a"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 7.5,
+      "calmness": 1.0,
+      "headRigidityError": 2.0728861160890233e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        0.6095655560493469,
+        -0.05812818929553032,
+        3.074730396270752
+      ],
+      "idealDegrees": [
+        0.6095660153526653,
+        -0.05812813650050206,
+        3.0747307479874273
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "7a7ef80e0e2200f527899185ae7e121535b70add69eea54389f3e51c1f1bef35",
+        "C164 | Body-owned convex core": "37c01e411c90a7056561b8de937b2f95d74fce5fe8ca1c9e00bfd8d18d467647",
+        "TAIL101 | Parametric envelope surface": "1f3f42d7d58bd54691bd6c596dfba7bc9de780b56a50a5f8c91374fa2e858f09",
+        "S126 | Body-bound shoulders": "948b8171846b98ea0d9d92b4b184892ad3f858d1337cf163f54d99442e222d3c",
+        "A189 | E retained180 thigh L": "700177fb30e0d9f028398db9d4936ad6a9e1c21c0e53ce153a37c4e2f60d26cc",
+        "A189 | E retained180 thigh R": "81cd47dcc414d5705e43d70f63c62db476f95df849ab3d849c22946363901171",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "feb09459700865a09ec338a86eb500bbfd6798a91a52cfb4a14bf6dd8c83311e",
+        "tool/R": "36f4c9905aba188e1ed6ea08d43ecbcef061050e41ac99f699a5ba8982cf214c",
+        "arm/L": "63c90bd8760ffa064b60b56a5858d69b016d58feffd6c7954da5a89a7765a45f"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 8.0,
+      "calmness": 1.0,
+      "headRigidityError": 0.0,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "idealDegrees": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "e2d681a3d7104506214badb8b1b677488ec4e640453a2826bbb97eb6314f534d",
+        "C164 | Body-owned convex core": "79f92fe0bb1fb31c9aa09c938fd86186fca4cd297e4a34860fe3e751b711e327",
+        "TAIL101 | Parametric envelope surface": "6c04e9c1154d56cb4e88c8bc64d33eb84296debf568f84508f643350223d3db3",
+        "S126 | Body-bound shoulders": "f259f8b8b5e99140a4c1d3eb8876833670e6272bea2210f2edfe54f6e321e164",
+        "A189 | E retained180 thigh L": "910ae15235c2023bba08f5ce275c879ccea3daa2942f25ad30995267e68f8c4c",
+        "A189 | E retained180 thigh R": "c0778286da61ba4871bafd1f64d3a0f76894886871e7e76fcff7f294a787ae05",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "1f8c86e83ba75f5eb876aa909a0f691b591f822208ae47fd0178ac28f8715ef8",
+        "tool/R": "ae53441daab98248a3d5030c0998ca1f574d6e7849a62fcd660f079b049f9fc8",
+        "arm/L": "ab0fe4b4c9218d4453910027856632b7cac754455f12bc49a4a834cc9770ad3b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    }
+  ],
+  "images": [
+    {
+      "seconds": 0.0,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t0.00-g1.0-front.png",
+          "sha256": "f356533be04f6152dea7f3df039eb90a9b2eb4c60f0bece57052bdcd75e439ad"
+        },
+        "side": {
+          "file": "pilot/t0.00-g1.0-side.png",
+          "sha256": "f1b91fb73d4f57901e284da1e63cf8c1836769670d2eff4da903f1543b163353"
+        },
+        "oblique": {
+          "file": "pilot/t0.00-g1.0-oblique.png",
+          "sha256": "9598a3edb96a971b4ce81f35949a01a74dc9d30f78a5a728bb022affac11582c"
+        }
+      }
+    },
+    {
+      "seconds": 0.5,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t0.50-g1.0-front.png",
+          "sha256": "3bc6d2891f4285a0198a7b905c29b56c2a2855932188c9508e08d48bc3e148c8"
+        },
+        "side": {
+          "file": "pilot/t0.50-g1.0-side.png",
+          "sha256": "eb08d97375996ee306006b4ebc6eb1c1e1a0ebc55950066409113bb93affb2b6"
+        },
+        "oblique": {
+          "file": "pilot/t0.50-g1.0-oblique.png",
+          "sha256": "3af8f50707e37950d12e67f96c6bab130418e0fb6f7a1dfa8fea92e3ae35aac9"
+        }
+      }
+    },
+    {
+      "seconds": 0.82,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t0.82-g1.0-front.png",
+          "sha256": "56e12dbe9fcb7686cd873740e22028ba0c9bf389ce302ccd323dce4eefea1d48"
+        },
+        "side": {
+          "file": "pilot/t0.82-g1.0-side.png",
+          "sha256": "57fa8d01e029cade547242f1c5e69aaa250f8294dd2325f91a7dae79b6b531b4"
+        },
+        "oblique": {
+          "file": "pilot/t0.82-g1.0-oblique.png",
+          "sha256": "6af410172768b6afba78602be83d6e2ca37b13625d98729cc40cfb91734bc28d"
+        }
+      }
+    },
+    {
+      "seconds": 1.48,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t1.48-g1.0-front.png",
+          "sha256": "1e55c0bad081d650e443cf7838e3ffb369e2a37336c85049f121a2b2f56d0724"
+        },
+        "side": {
+          "file": "pilot/t1.48-g1.0-side.png",
+          "sha256": "fa5bb7f7c0ae62913fc557d0cec2cf42553715c5aa5b96813c94624c073eac94"
+        },
+        "oblique": {
+          "file": "pilot/t1.48-g1.0-oblique.png",
+          "sha256": "8a2c381fbed5f00b03fb634d98df90be630604f75844799932f7bf6090588713"
+        }
+      }
+    },
+    {
+      "seconds": 2.52,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t2.52-g1.0-front.png",
+          "sha256": "5b2c6176102155dcd6c3a9dd6378714009a04d5e3af836befa473d836bc2d65c"
+        },
+        "side": {
+          "file": "pilot/t2.52-g1.0-side.png",
+          "sha256": "a85d93296a4ba81252f03b266105eaf2ed2698d1df8aad50ebdbb9dcedded77b"
+        },
+        "oblique": {
+          "file": "pilot/t2.52-g1.0-oblique.png",
+          "sha256": "dbb860229dcd2129dbab50633edc99249267044bdab8769e3f676b2205857a96"
+        }
+      }
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.0,
+      "views": {
+        "front": {
+          "file": "pilot/t3.75-g0.0-front.png",
+          "sha256": "dcebc2c4e2116a17100d80db154febc8eade5db4e0b0198dfe7e564d7a8b214f"
+        },
+        "side": {
+          "file": "pilot/t3.75-g0.0-side.png",
+          "sha256": "ef763bf76cafe5bcf4236c5b58c73d069e0cd4a14d476eccf0b02da8cc6d8e6e"
+        },
+        "oblique": {
+          "file": "pilot/t3.75-g0.0-oblique.png",
+          "sha256": "589455f02e3a01e94f1d289c8e7eb55a7e652ecb06acb18c6a00cc47edc60069"
+        }
+      }
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.5,
+      "views": {
+        "front": {
+          "file": "pilot/t3.75-g0.5-front.png",
+          "sha256": "9c4fd205e4f9154ab665020d7dd7e8db65052b334331e483be0b7309dcab8ae0"
+        },
+        "side": {
+          "file": "pilot/t3.75-g0.5-side.png",
+          "sha256": "6795927812c3d6f1b2d3a36719aab4dae8eac080d031b4b9869939be02330e9b"
+        },
+        "oblique": {
+          "file": "pilot/t3.75-g0.5-oblique.png",
+          "sha256": "4df39f2c154b1f36cee7a05abe93eb0a76b743e9208f312c555cb4c3821ddf6c"
+        }
+      }
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t3.75-g1.0-front.png",
+          "sha256": "977255d1b21ec55afde109c975389baedce1676097f9e726f6b9fa7b53598c71"
+        },
+        "side": {
+          "file": "pilot/t3.75-g1.0-side.png",
+          "sha256": "65b0f3ecdb35b572db94c51a5fef08f4836389f659f10604ec9b0acd7aef139e"
+        },
+        "oblique": {
+          "file": "pilot/t3.75-g1.0-oblique.png",
+          "sha256": "66491bc27ddd8891435879ea30c8e374d2cf7b38318d06657b34313956446ad1"
+        }
+      }
+    },
+    {
+      "seconds": 5.94,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t5.94-g1.0-front.png",
+          "sha256": "9a7b53d711a25e2caffacda5de8cb9dca3be1bc7e71a66648ba2f5863d564381"
+        },
+        "side": {
+          "file": "pilot/t5.94-g1.0-side.png",
+          "sha256": "e8571eae3e2f6abbbb75d6537e29a745c3db6f0fdf22826bdd9697c407496e12"
+        },
+        "oblique": {
+          "file": "pilot/t5.94-g1.0-oblique.png",
+          "sha256": "6dc6bab004c782c83bf4a8b0e50db200b65fce31bb5be393bd9df5b7dc33184a"
+        }
+      }
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 0.0,
+      "views": {
+        "front": {
+          "file": "pilot/t6.55-g0.0-front.png",
+          "sha256": "3d4489b95e0b59db03ded35e89919fce488d645778364aac2de889a196e12b37"
+        },
+        "side": {
+          "file": "pilot/t6.55-g0.0-side.png",
+          "sha256": "96640d3c8f147a2159f8461d5fc44ed910ebd6cf51b8cd6bc6ac4f677ae3b370"
+        },
+        "oblique": {
+          "file": "pilot/t6.55-g0.0-oblique.png",
+          "sha256": "aa188300ae4428c99d56a16de2318db7d95793a8044e9cfa75c9446d8300f736"
+        }
+      }
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 0.5,
+      "views": {
+        "front": {
+          "file": "pilot/t6.55-g0.5-front.png",
+          "sha256": "ebe4a28f7e71a3c50ed8f4aab28c7b75ab0762e9147210c0ad7a12ef26b3ddce"
+        },
+        "side": {
+          "file": "pilot/t6.55-g0.5-side.png",
+          "sha256": "e6d90feb4975fefec4b5faa7554b61c22f30dc51e822afae13064b7369f5f814"
+        },
+        "oblique": {
+          "file": "pilot/t6.55-g0.5-oblique.png",
+          "sha256": "9aee64c37e3e3c9defd0105258bcd6e4f02670e9af7735a895b29d5e0770ef56"
+        }
+      }
+    },
+    {
+      "seconds": 6.55,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t6.55-g1.0-front.png",
+          "sha256": "05184461145aed636bc9333ff96cd088a1f22a1ce57036ba9c0bf74a6c9611b3"
+        },
+        "side": {
+          "file": "pilot/t6.55-g1.0-side.png",
+          "sha256": "c97fe155ef3742464650fb826679f40b9dcd1fd58cd24c74d4bf080459e13e42"
+        },
+        "oblique": {
+          "file": "pilot/t6.55-g1.0-oblique.png",
+          "sha256": "1d790667223ee490d91b24795f44491588e3522642968aa1e2844bc50b01df98"
+        }
+      }
+    },
+    {
+      "seconds": 7.5,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t7.50-g1.0-front.png",
+          "sha256": "0cce3632a20a48ab0840002919e2dfd71fc65d7bf281544ffc01b8c236357c8c"
+        },
+        "side": {
+          "file": "pilot/t7.50-g1.0-side.png",
+          "sha256": "68a5d5862bd2eafa966138dbd4f1107039dbc32ee0b607022a63cc50eb8c259e"
+        },
+        "oblique": {
+          "file": "pilot/t7.50-g1.0-oblique.png",
+          "sha256": "36882c0c796f2a63aa8875e5a083def35e379dc9b0648a6167957a77fdce3287"
+        }
+      }
+    },
+    {
+      "seconds": 8.0,
+      "calmness": 1.0,
+      "views": {
+        "front": {
+          "file": "pilot/t8.00-g1.0-front.png",
+          "sha256": "ee55ec70f85d0a68b96e4976ad22a516d63755cd2371d73ebf7ef9052e071d6a"
+        },
+        "side": {
+          "file": "pilot/t8.00-g1.0-side.png",
+          "sha256": "f6ab8c23c3a1d3c9b0f5e3be1905b85c476ab940fa3e40b26edd5948d35c8897"
+        },
+        "oblique": {
+          "file": "pilot/t8.00-g1.0-oblique.png",
+          "sha256": "5b08a0beff64235d9ff1e7eeacd147c086d09584f04bb4f613ba95ac72053cbb"
+        }
+      }
+    }
+  ],
+  "reopen": [
+    {
+      "seconds": 3.75,
+      "calmness": 1.0,
+      "headRigidityError": 1.3759308692407046e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        10.104743957519531
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        10.10474350800801
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.0,
+      "headRigidityError": 9.838318248966971e-08,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        21.890377044677734
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        21.89037873096295
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 0.5,
+      "headRigidityError": 9.368617082117225e-08,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        15.997560501098633
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        15.99756111948548
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    },
+    {
+      "seconds": 3.75,
+      "calmness": 1.0,
+      "headRigidityError": 1.3759308692407046e-07,
+      "headInstances": 7,
+      "worldEulerDegrees": [
+        11.601875305175781,
+        -0.5767123699188232,
+        10.104743957519531
+      ],
+      "idealDegrees": [
+        11.60187732941159,
+        -0.5767124337187646,
+        10.10474350800801
+      ],
+      "positiveTinyZeroSnaps": [],
+      "nonHeadExact": true,
+      "protectedFields": 11,
+      "protectedDigest": {
+        "A189 | E final character": "0aa2ebba3d131b6f382b6a819d9f526e951c4248ca97caba1ab0ef59fc45fa32",
+        "C164 | Body-owned convex core": "787e364fa8b1b262f994be933c1138ee19c3fbf31d12b6c93c2908556965b292",
+        "TAIL101 | Parametric envelope surface": "31b65482068a855f2069d116b493dc090017806b337d17ba8149ca9bac4baaa7",
+        "S126 | Body-bound shoulders": "e4d289ae496d9f95692273f9f119316a5ceb43d2686bb805232933050b5e6e70",
+        "A189 | E retained180 thigh L": "3f4eb1cd130fb3852b70f9bed2949961ea8959d958df3030859ae8c836b600c7",
+        "A189 | E retained180 thigh R": "e07831aab2c8d9b30807bab381843e04f0df06c7b13cfbbeb07fed7ec3dff9e9",
+        "A189 | Parametric separate paw L": "decb41b21b1e609a0f79a0fdad1db340eb851490afc093e7a15c017f0f202ee2",
+        "A189 | Parametric separate paw R": "fbda7b558f1e2e412b5b87e994ef51c0b372ca6ab32fd25b48e4e77a5b7e947b",
+        "arm/R": "eb569f82db4a3097fdaaa3ed81a071b8dcf5ffedd3a9505ab2263a67c3c7c3cb",
+        "tool/R": "a1b0722bd148c646130adb45e588fcd5ad9b3d743fc7ff348c32c973b2ef76c8",
+        "arm/L": "3f4c6f9a52b8dff9ada54599f07597d4a2523fe47a075501dfd89582b53dfd1b"
+      },
+      "referenceMethod": "Same native with Calmness0 restoring39"
+    }
+  ],
+  "scope": "World head yaw only; original pitch, roll, face and all non-head motion retained.",
+  "nativeSHA256": "5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b",
+  "nativeBytes": 221278304,
+  "endpointExact": true,
+  "editResetExact": true,
+  "sourcePreserved": true,
+  "externalPlaybackDependencies": {
+    "libraries": [],
+    "unpackedImages": []
+  }
+}

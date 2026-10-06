@@ -1,0 +1,45 @@
+{
+  "status": "PASS_SCOPED_CALM_HEAD_PREVIEW",
+  "nativeSHA256": "5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b",
+  "sourceSHA256": "b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40",
+  "nativeBytes": 221278304,
+  "outputTimes": 480,
+  "interstitialTimes": 132,
+  "viewFrames": 1440,
+  "orbitFrames": 72,
+  "pilotImages": 42,
+  "maximumHeadRigidityError": 4.01904879154813e-07,
+  "maximumNativeCurveErrorDegrees": 1.5800642465535475e-06,
+  "protectedFieldsExact": 11,
+  "nativeEvidenceSHA256": "19236d1b1b208c15969c300ea40551c9c8384eaa657e7bec8c9a384817ebb31c",
+  "captureSHA256": "d9fee40c7d71d1acd9a2566fff643ba7946a23f96e35b6f460508584315bb685",
+  "mediaSHA256": "3d82946ef87a4d7d49816e3850e27aa180887c71dd536c10ebbc0600c7bccd0a",
+  "visualReviewSHA256": "084f792f6285f465eef76e070e5836e02f28381edb04ff6d115e876ee7c40f5d",
+  "pixelParitySHA256": "9b99e82f9e147566180bfdf03851c65f20eb8db0f0533d625d2026b1bf3fb798",
+  "endpointExact": true,
+  "editResetExact": true,
+  "externalPlaybackDependencies": {
+    "libraries": [],
+    "unpackedImages": []
+  },
+  "previous": {
+    "maximumYaw": 26.27059672147597,
+    "minimumYaw": 0.0,
+    "activeMinimum": 16.239909398576355,
+    "activeMaximum": 26.27059672147597,
+    "activeSpan": 10.030687322899617,
+    "activePeakSpeed": 21.336677131980878,
+    "maximumYawRelativeToBody": 28.104721873347884
+  },
+  "revised": {
+    "maximumYaw": 11.76,
+    "minimumYaw": 0.0,
+    "activeMinimum": 9.000044971136308,
+    "activeMaximum": 11.76,
+    "activeSpan": 2.7599550288636916,
+    "activePeakSpeed": 6.134795719044966,
+    "maximumYawRelativeToBody": 19.27147355398717
+  },
+  "correctedAnalysisSHA256": "f1f17142dd65bf54fbcd65d4fc08f8728d66b746538051c161583278c08c080a",
+  "scope": "Head yaw amplitude and timing only. Other geometry, pitch, roll and animation are exact; full-release qualification remains open."
+}

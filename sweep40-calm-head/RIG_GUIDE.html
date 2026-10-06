@@ -1,0 +1,28 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep40 / RIG_GUIDE</title><style>body{max-width:1000px;margin:32px auto;padding:0 20px;background:#f5f3ed;color:#263b34;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#345f4e}</style><a href="./">Back to comparison</a><pre># Sweep40 editing guide
+
+Open `sweep40-calm-head.blend` in Blender5.2. Frames1-480 play the eight-second
+action at60fps. Frame481 is the exact closed endpoint. The complete native is
+self-contained; playback needs no custom Python handler or external cache.
+
+Select `Sweep40 | Calm floor attention`:
+
+- `Calmness`:0 restores Sweep39,0.5 is an intermediate study,1 is the revised
+  attention. The old39controller remains available when Calmness is0.
+- `Work yaw`: authored world yaw in degrees, stored in a C1 Bezier action.
+  Edit this action to change the timing or direction for another broom path.
+
+The head enters a modest floor-work direction, holds it through the three pulls
+and lifted returns, then relaxes after the final pull. The authored10.5degree
+anchor receives a1.5degree response to the stroke delayed by0.14seconds. During
+the work, yaw stays around9..11.76degrees. Existing pitch, roll, face shape,
+body construction and all arm/paw/broom motion remain unchanged.
+
+This is an authored cleaning performance, not a live general-purpose look-at
+solver. It intentionally does not aim the nose exactly at every broom position.
+The complete head moves rigidly; there is no independent eye deformation.
+
+Keep the Sweep38 guide for other inherited motion controls and tested ranges.
+Source rebuild scripts require the Mozu repository and preserved ancestor files.
+The delivered native itself does not need those inputs to open or edit.
+Earlier releases are preserved; Sweep40 remains a separate review candidate.
+</pre></html>

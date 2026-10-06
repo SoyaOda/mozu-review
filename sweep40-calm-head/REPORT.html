@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sweep40 / REPORT</title><style>body{max-width:1000px;margin:32px auto;padding:0 20px;background:#f5f3ed;color:#263b34;font:16px/1.7 system-ui}pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit}a{color:#345f4e}</style><a href="./">Back to comparison</a><pre># Sweep40 calm cleaning head
+
+The owner agreed with Sweep39&#x27;s attention direction but found the turn excessive.
+Sweep40 reduces the head turn and holds a quiet work-area direction through the
+three strokes. It preserves the complete existing face, downward pitch, roll,
+body, arms, paws and broom action.
+
+## Performance choice
+
+The prior target minimized floor-region bearing error, but produced a pronounced
+counterrotation against the body. This version uses a modest10.5degree anchor,
+a1.5degree response delayed0.14seconds, sustained attention during lifted returns,
+and a gradual release after the third pull. The head supports the cleaning action.
+
+World yaw maximum changes26.27 to11.76degrees.
+During0.9..6.7seconds, yaw span changes10.03 to2.76degrees;
+maximum yaw speed changes21.34 to6.13degrees/second.
+Maximum head/Body yaw difference changes28.10 to19.27degrees.
+These are score measurements, not proof of naturalness or anatomical limits.
+The visual comparison supplies that judgment. The nose intentionally does not
+track every broom position; no exact eye-ray or floor-intersection claim is made.
+
+The frozen authoring input originally mislabeled a diagnostic that used the raw
+Common yaw command without the Body carrier&#x27;s10/26gain. The values above use the
+corrected attention-analysis.json, checked against the actual Body carrier values
+at all480prior source times. Every authored yaw knot is unchanged. The original
+input and helper snapshot are retained for provenance; no native rebuild or
+recapture is needed for this analysis correction.
+
+## Native and visual verification
+
+- Source39 SHA256: `b55a9deb9540033de7503a641cb788532186123d42ae11c5134678bdf60dac40`; original bytes preserved.
+- New native: 221278304bytes, SHA256 `5ffb0b4506cd747a25321fe3fe218a50e9b6ba050c045d9713c88587720bbb2b`.
+- Thirteen source poses restore exactly with Calmness0. Seventeen pilot/control
+  rows and four reopened control rows pass. Calmness0/0.5/1 edits reset exactly.
+- Every480output time plus132interstitial samples preserves all
+  eleven protected non-head geometry fields against the SHA-bound39capture.
+- Maximum rigid-head residual: 4.01904879e-07.
+- Maximum native curve parity error: 1.58006425e-06degrees.
+- Endpoint equals neutral exactly; no external native playback dependencies.
+- All1440three-view sequence images,72work-pose angles and42pilot images reviewed.
+- Three complete8second/60fps movies decode with recorded safe margins.
+- Restored39 and selected40pilot renders match the corresponding sequence pixels
+  exactly in21comparisons, including the reported work pose.
+
+The capture uses actual evaluated native geometry, topology, material attributes
+and driver values at every output time. Geometry hashes from the prior capture
+avoid reevaluating the unchanged baseline; no temporal mesh or image interpolation
+substitutes for evaluation of the new native.
+
+## Delivery and limits
+
+The comparison synchronizes40with39in front, side and oblique views. It includes
+speed, seek, frame-step, loop and work-pose rotation controls. The editable native
+has a Calmness control and an ordinary C1 Work yaw action. See RIG_GUIDE.md.
+
+Main-agent visual review only. Owner adoption and the inherited15architecture
+issues/11full-release gates remain open. Arbitrary control combinations, runtime
+transport, stepping and tool pickup are outside this correction. Earlier originals
+and releases are preserved. Publication/browser receipts are recorded separately.
+</pre></html>
